@@ -1,0 +1,54 @@
+---
+title: "Lecture 1 Introduction"
+description-meta: "Introduction to Program Evaluation"
+author: "Gang He"
+date: Mar 2, 2024
+date-format: long
+image: "/lectures/images/economy-environment-energy.jpeg"
+format:
+  revealjs:
+    theme: white
+ #   embed-resources: true
+    slide-number: true
+    preview-links: auto
+    link-external-newwindow: true
+    citations-hover: true
+    auto-stretch: true
+    r-fit-text: true
+    center: true
+    scrollable: true
+    css: /custom.css
+    footer: <https://drganghe.github.io/program-evaluation/>
+---
+
+## A five points "climate haiku"
+
+::: columns
+::: {.column width="50%"}
+1.  It's warming
+2.  It's us
+3.  We're sure
+4.  It's bad
+5.  **We can fix it**
+:::
+
+::: {.column width="50%"}
+![](/lectures/images/climate-curriculum.png){fig-align="center"}
+:::
+:::
+
+::: footer
+Source: [Kimberly A Nicholas](https://www.kimnicholas.com/climate-change-curriculum.html)
+:::
+
+
+------------------------------------------------------------------------
+
+### References
+
+::: {#refs}
+:::
+
+::: footer
+Back to Title [Slide](https://drganghe.github.io/program-evaluation/lectures/lecture1/#/title-slide), All [Lectures](https://drganghe.github.io/program-evaluation/lectures.html), Course [Home](https://drganghe.github.io/program-evaluation/), or Learn More About [Gang He](https://drganghe.github.io)
+:::

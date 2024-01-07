@@ -1,0 +1,9 @@
+---
+title: Course Schedule
+repo-actions: false
+---
+
+
+| Week | Date  | Assignment     |
+|-----------------|-----------------|---------------------|
+| 1    |  |  |

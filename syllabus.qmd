@@ -1,0 +1,70 @@
+---
+title: Syllabus
+---
+
+## Course Information
+
+**Marxe School of Public and International Affairs**
+
+**Course Name**: PAF 9174 (43225), Program Evaluation
+
+**Instructor**: Gang He
+
+**Email**: <gang.he@baruch.cuny.edu>	
+
+**Office Hours**: Thu 1-3pm
+
+**Location**: Online 
+
+
+{{< include /files/includes/_coursedescription.qmd >}}
+
+
+{{< include /files/includes/_courseobjectives.qmd >}}
+
+
+
+## Class Readings
+
+This is a restricted list of various interesting and useful books that will be discussed during the course. You need to consult them occasionally, but they are optional.
+
+- Koomey, Jonathan, and Ian Monroe. 2022. Solving Climate Change: A Guide for Learners and Leaders. IOP Publishing. <https://iopscience.iop.org/book/mono/978-0-7503-4032-8>.
+- MacKay, David JC. 2008. [Sustainable Energy without the Hot Air](https://www.withouthotair.com/). UIT Cambridge Ltd.
+- Readings and materials will be posted online.
+
+## Grading
+
+Final grades will be calculated as follows:
+
+<div style="width:550px">
+Item                           | Weight | Notes
+-------------------------------|--------|-------------------------------------
+Weekly policy response         | 20 %   | 6 responses
+Assignments                    | 30 %   | 4 assignments
+Project: Proposal              | 10 %   | 
+Project: Presentation          | 20 %   |
+Project: Final report          | 20 %   |
+
+</div>
+
+
+## Grading Scale
+
+<div style="width:400px">
+Grade  | Range       | Grade | Range
+-------|-------------|-------|------------
+A      | 93 - 100%   | C     | 73 - 76.99%
+A-     | 90 - 92.99% | C-    | 70 - 72.99%
+B+     | 87 - 89.99% | D+    | 67 - 69.99%
+B      | 83 - 86.99% | D     | 63 - 66.99%
+B-     | 80 - 82.99% | D-    | 60 - 62.99%
+C+     | 77 - 79.99% | F     | < 60%
+</div>
+
+
+
+
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

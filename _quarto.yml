@@ -1,0 +1,70 @@
+project:
+  type: website
+  output-dir: docs
+
+# meta
+meta-description: "Program Evaluation open course developed by Dr. Gang He."
+meta-author: "Gang He"
+
+
+website:
+  title: "Program Evaluation"
+  description: "Program Evaluation open course developed by Dr. Gang He."
+  navbar:
+    background: light
+    left:
+      - text: Syllabus
+        href: syllabus.qmd
+      - text: Schedule
+        href: schedule.qmd
+      - text: Lectures
+        href: lectures.qmd
+#      - text: Assignments
+#        href: assignments.qmd             
+      - text: Project
+        href: project.qmd        
+      - text: Resources
+        href: resources.qmd
+      - text: Dr. Gang He
+        href: http://drganghe.github.io        
+    right: 
+      - icon: github
+        href: https://github.com/drganghe/program-evaluation
+  page-navigation: true
+  page-footer: 
+    left: "[Gang He](http://drganghe.github.io) &copy; <script>document.write(new Date().getFullYear())</script>" 
+    right: 
+      - icon: github
+        href: https://github.com/drganghe/program-evaluation
+      - icon: twitter 
+        href: https://twitter.com/DrGangHe
+  search:
+    location: navbar
+    type: textbox
+  reader-mode: true
+  repo-url: https://github.com/drganghe/program-evaluation
+  repo-actions: [edit, issue, source]
+  open-graph: true
+  twitter-card: true
+  #  creator: "@DrGangHe"
+  #  image: "/files/images/hex-Program-Evaluation.png"
+  site-url: "https://drganghe.github.io/program-evaluation"
+  google-analytics:
+    tracking-id: "G-8H8JSB1VP7"
+    anonymize-ip: true
+
+bibliography: readings.bib
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    link-external-icon: false
+    link-external-newwindow: true
+    #link-external-filter: '^(?:http:|https:)\/\/drganghe\.github\.io\/custom'
+
+comments:
+  hypothesis: false
+  
+
