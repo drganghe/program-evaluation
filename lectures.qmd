@@ -4,6 +4,7 @@ image: "/files/images/hex-Program-Evaluation.png"
 listing:
   contents: lectures
   page-size: 36
+  grid-columns: 2
   sort: "date asc"
   type: grid
   categories: false
