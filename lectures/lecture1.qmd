@@ -2,7 +2,7 @@
 title: "Lecture 1 Introduction"
 description-meta: "Introduction to Program Evaluation"
 author: "Gang He"
-date: Mar 2, 2024
+date: Mar 9, 2024
 date-format: long
 image: "/lectures/images/economy-environment-energy.jpeg"
 format:
@@ -21,25 +21,62 @@ format:
     footer: <https://drganghe.github.io/program-evaluation/>
 ---
 
-## A five points "climate haiku"
+## About us
 
 ::: columns
+
 ::: {.column width="50%"}
-1.  It's warming
-2.  It's us
-3.  We're sure
-4.  It's bad
-5.  **We can fix it**
+Gang He
 :::
 
 ::: {.column width="50%"}
-![](/lectures/images/climate-curriculum.png){fig-align="center"}
+Samantha 
 :::
+
+:::
+
+
+## Why PAF 9174?
+
+Goal: sensable program evaluation at reasonable cost
+
+1.  Funder
+1.  Government/NGO/Public Institutions/Citizens
+1.  Program manager/staff
+1.  Executives
+1.  **Evidence-based policy and management decisions**
+
+
+## Organization
+
+- Syllabus
+- Case studies
+- Evaluation report
+- Blackboard
+- Office hour
+
+
+## Program & Program Evluation
+
+::: columns
+
+::: {.column width="50%"}
+Program:  
+>A program is a set of resources and activities directed toward one or more common goals, typically under the direction of a single manager or management team.
+:::
+
+::: {.column width="50%"}
+Program Evaluation: 
+> Program evaluation is the application of systematic methods to address questions about program operations and results. It may include ongoing monitoring of a program as well as one-shot studies of program processes or program impact. The approaches used are based on social science research methodologies and professional standards.
+:::
+
 :::
 
 ::: footer
-Source: [Kimberly A Nicholas](https://www.kimnicholas.com/climate-change-curriculum.html)
+Source: @newcomer_handbook_2015
 :::
+
+
 
 
 ------------------------------------------------------------------------
