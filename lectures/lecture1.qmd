@@ -1,10 +1,10 @@
 ---
 title: "Lecture 1 Introduction"
-description-meta: "Introduction to Program Evaluation"
+description-meta: "Introduction to Program Evaluation and organization of the class"
 author: "Gang He"
 date: Mar 9, 2024
 date-format: long
-image: "/lectures/images/economy-environment-energy.jpeg"
+image: "/lectures/images/datagov.png"
 format:
   revealjs:
     theme: white
@@ -30,7 +30,7 @@ Gang He
 :::
 
 ::: {.column width="50%"}
-Samantha 
+Samantha Macbride
 :::
 
 :::
@@ -56,17 +56,29 @@ Goal: sensable program evaluation at reasonable cost
 - Office hour
 
 
-## Program & Program Evluation
+## Big data and AI
+
+
+## Open government and open source movement
+
+
+## Data science
+
+
+
+## Program & Program Evaluation{.smaller}
 
 ::: columns
 
 ::: {.column width="50%"}
 Program:  
+
 >A program is a set of resources and activities directed toward one or more common goals, typically under the direction of a single manager or management team.
 :::
 
 ::: {.column width="50%"}
 Program Evaluation: 
+
 > Program evaluation is the application of systematic methods to address questions about program operations and results. It may include ongoing monitoring of a program as well as one-shot studies of program processes or program impact. The approaches used are based on social science research methodologies and professional standards.
 :::
 

@@ -1,0 +1,10 @@
+---
+title: Case Studies
+repo-actions: false
+---
+
+
+| # | Case | pdf | Due date |
+|-----------------|-----------------|---------------------|---------------------|
+| 1    | [](casestudies/case1.qmd) | [case1](casestudies/case1.pdf) |    |
+

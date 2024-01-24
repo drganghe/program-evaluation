@@ -17,7 +17,7 @@ repo-actions: false
 
 This class benefits from similar classes such as follows:  
 
-- PAF7174 taught by Prof. [George Mitchell](https://www.baruch.cuny.edu/profiles/faculty/George-Ellis-Mitchell) 
+- PAF9174 taught by Prof. [George Mitchell](https://www.baruch.cuny.edu/profiles/faculty/George-Ellis-Mitchell) 
 - Dr. Andrew Heiss, [Program Evaluation](https://evalsp24.classes.andrewheiss.com/)
 
 
