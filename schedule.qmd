@@ -3,7 +3,6 @@ title: Course Schedule
 repo-actions: false
 ---
 
-
-| Week | Date  | Assignment     |
-|-----------------|-----------------|---------------------|
-| 1    |  |  |
+| Week | Date  | Guiding question                                                | Topic                     | Assignment |
+|---------------|---------------|---------------|---------------|---------------|
+| 1    | Mar 9 | What is program evaluation? Where are we headed in this course? | Introduction and overview |            |

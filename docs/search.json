@@ -102,7 +102,7 @@
     "href": "lectures/lecture1.html#references",
     "title": "Lecture 1 Introduction",
     "section": "",
-    "text": "References\n\n\nNewcomer, Kathryn E., Harry P. Hatry, and Joseph S. Wholey. 2015. Handbook of Practical Program Evaluation. 4th edition. San Francisco: Jossey-Bass.\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He"
+    "text": "References\n\n\nNewcomer, Kathryn E., Harry P. Hatry, and Joseph S. Wholey. 2015. Handbook of Practical Program Evaluation. 4th edition. San Francisco: Jossey-Bass.\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He\n\n\n\n\nhttps://drganghe.github.io/program-evaluation/"
   },
   {
     "objectID": "project.html",
@@ -144,7 +144,7 @@
     "href": "schedule.html",
     "title": "Course Schedule",
     "section": "",
-    "text": "Week\nDate\nAssignment\n\n\n\n\n1"
+    "text": "Week\nDate\nGuiding question\nTopic\nAssignment\n\n\n\n\n1\nMar 9\nWhat is program evaluation? Where are we headed in this course?\nIntroduction and overview"
   },
   {
     "objectID": "index.html",
@@ -172,7 +172,7 @@
     "href": "index.html#acknowledgment",
     "title": "Program Evaluation (Spring 2024)",
     "section": "Acknowledgment",
-    "text": "Acknowledgment\nThis class benefits from similar classes such as follows:\n\nPAF9174 taught by Prof. George Mitchell\nDr. Andrew Heiss, Program Evaluation"
+    "text": "Acknowledgment\nThis class benefits from similar classes and I cannot credit them encough below:\n\nPAF9174 taught by Prof. George Mitchell\nDr. Andrew Heiss, Program Evaluation"
   },
   {
     "objectID": "index.html#reuse-of-material",
@@ -278,5 +278,12 @@
     "title": "Lecture 1 Introduction",
     "section": "Program & Program Evaluation",
     "text": "Program & Program Evaluation\n\n\nProgram:\n\nA program is a set of resources and activities directed toward one or more common goals, typically under the direction of a single manager or management team.\n\n\nProgram Evaluation:\n\nProgram evaluation is the application of systematic methods to address questions about program operations and results. It may include ongoing monitoring of a program as well as one-shot studies of program processes or program impact. The approaches used are based on social science research methodologies and professional standards.\n\n\n\n\nSource: Newcomer, Hatry, and Wholey (2015)"
+  },
+  {
+    "objectID": "resources.html#organizations",
+    "href": "resources.html#organizations",
+    "title": "Resources",
+    "section": "Organizations",
+    "text": "Organizations"
   }
 ]

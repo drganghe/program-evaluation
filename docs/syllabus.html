@@ -2,12 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.531">
+<meta name="generator" content="quarto-1.5.6">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Program Evaluation - Syllabus</title>
+<title>Program Evaluation – Syllabus</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -193,7 +193,7 @@ gtag('config', 'G-8H8JSB1VP7', { 'anonymize_ip': true});
 <h2 class="anchored" data-anchor-id="course-information">Course Information</h2>
 <p><strong>Marxe School of Public and International Affairs</strong></p>
 <p><strong>Course Name</strong>: PAF 9174 (43225), Program Evaluation</p>
-<p><strong>Instructor</strong>: Gang He and Samantha Macbride</p>
+<p><strong>Instructor</strong>: Gang He and <a href="https://www.baruch.cuny.edu/profiles/faculty/Samantha-Macbride">Samantha Macbride</a></p>
 <p><strong>Email</strong>: <a href="mailto:gang.he@baruch.cuny.edu" class="email">gang.he@baruch.cuny.edu</a></p>
 <p><strong>Time</strong>: Saturday 12:30-3:30pm</p>
 <p><strong>Location</strong>: Newman Vertical Campus, 14th Floor, Room 14-285</p>
@@ -524,7 +524,12 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      return note.innerHTML;
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
     }
   }
   for (var i=0; i<xrefs.length; i++) {
