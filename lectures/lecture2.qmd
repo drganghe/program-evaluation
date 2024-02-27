@@ -1,0 +1,79 @@
+---
+title: "Lecture 2 Goals and Types of Evaluation"
+description-meta: "Why do evaluation? Major forms evaluation."
+author: "Gang He"
+date: Mar 15, 2024
+date-format: long
+image: "/lectures/images/datagov.png"
+format:
+  revealjs:
+    theme: white
+ #   embed-resources: true
+    slide-number: true
+    preview-links: auto
+    link-external-newwindow: true
+    citations-hover: true
+    auto-stretch: true
+    r-fit-text: true
+    center: true
+    scrollable: true
+    css: /custom.css
+    footer: <https://drganghe.github.io/program-evaluation/>
+draft: true
+---
+
+## Program & Program Evaluation{.smaller}
+
+::: columns
+
+::: {.column width="50%"}
+Program:  
+
+>A program is a set of resources and activities directed toward one or more common goals, typically under the direction of a single manager or management team.
+:::
+
+::: {.column width="50%"}
+Program Evaluation: 
+
+> Program evaluation is the application of systematic methods to address questions about program operations and results. It may include ongoing monitoring of a program as well as one-shot studies of program processes or program impact. The approaches used are based on social science research methodologies and professional standards.
+:::
+
+:::
+
+::: footer
+Source: @newcomer_handbook_2015
+:::
+
+
+## Five questions to ask
+
+- Can the results of the evaluation influence decisions about the program?
+- Can the evaluation be done in time to be useful?
+- Is the program significant enough to merit evaluation?
+- Is program performance viewed as problematic?
+- Where is the program in its development?
+
+
+## Type of evaluation
+
+Formative Summative
+Ongoing One-Shot
+Objective Observers Participatory
+Goal-Oriented “Goal-Free”
+Quantitative Qualitative
+Ex Ante Post Program
+Problem Orientation Non-Problem
+
+
+
+
+------------------------------------------------------------------------
+
+### References
+
+::: {#refs}
+:::
+
+::: footer
+Back to Title [Slide](https://drganghe.github.io/program-evaluation/lectures/lecture2/#/title-slide), All [Lectures](https://drganghe.github.io/program-evaluation/lectures.html), Course [Home](https://drganghe.github.io/program-evaluation/), or Learn More About [Gang He](https://drganghe.github.io)
+:::

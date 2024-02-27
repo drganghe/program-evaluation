@@ -19,6 +19,7 @@ format:
     scrollable: true
     css: /custom.css
     footer: <https://drganghe.github.io/program-evaluation/>
+draft: true
 ---
 
 ## About us
@@ -56,14 +57,32 @@ Goal: sensable program evaluation at reasonable cost
 - Office hour
 
 
-## Big data and AI
+## John Snow, Cholera, the Broad Street Pump
+
+::: columns
+
+::: {.column width="50%"}
+![](/lectures/images/John_Snow.jpg){width=60% fig-align="center"}
+:::
+
+::: {.column width="50%"}
+![](/lectures/images/Snow-cholera-map.jpg)
+:::
+
+:::
+
+::: footer
+Source: [Wikipedia](https://en.wikipedia.org/wiki/John_Snow)
+:::
 
 
-## Open government and open source movement
+## Cost saving of global supply chain
 
+![](/lectures/images/savings-historical.png){fig-align="center"}
 
-## Data science
-
+:::footer
+Source: @helveston_he_davidson_2022
+:::
 
 
 ## Program & Program Evaluation{.smaller}
@@ -89,7 +108,75 @@ Source: @newcomer_handbook_2015
 :::
 
 
-## 
+## Capturing the wedege
+
+![](/lectures/images/program-effect.png){fig-align="center"}
+
+:::footer
+Source: [Andrew Wheiss](https://evalsp24.classes.andrewheiss.com/)
+:::
+
+
+## Theory of change
+<center>
+```{mermaid}
+flowchart LR
+  A(IRA) --> B(Subside)
+  B --> C(Investment)
+  B --> D(Jobs)
+  C --> E(Domestic Manufacturing)
+  D --> E(Domestic Manufacturing)
+```
+</center>
+
+## Big data and AI
+
+- Sora
+- ChaGPT
+- Alpha Go
+
+## NYC Open Data
+
+![](/lectures/images/NYC-Open-Data.png){fig-align="center"}
+
+:::footer
+Learn more: <https://opendata.cityofnewyork.us/>
+:::
+
+
+## Open NY
+
+![](/lectures/images/Open-NY.png){fig-align="center"}
+
+:::footer
+Learn more: <https://data.ny.gov/>
+:::
+
+
+## Federal Data
+
+![](/lectures/images/federal-data.png){fig-align="center"}
+
+:::footer
+Learn more: <https://data.gov/>
+:::
+
+## Data for Social Good
+
+- Collect
+- Analyze
+- Communicate
+
+
+## Causal Revolution
+
+
+## Program Evaluation
+
+::: {.r-fit-text}
+Data Science + Caural Inference
+:::
+
 
 ------------------------------------------------------------------------
 
