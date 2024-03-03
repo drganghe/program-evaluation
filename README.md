@@ -1,6 +1,6 @@
 # PAF9174 Program Evaluation
 
-This is the website for the Program Evaluation class. I will share the slides, homework, and source files here.  
+This is the website for the Program Evaluation class. I share the slides, homework, and source files here.  
 
 ## Acknowledgment
 

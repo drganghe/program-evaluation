@@ -67,7 +67,7 @@
     "href": "lectures.html",
     "title": "Lectures",
     "section": "",
-    "text": "No matching items"
+    "text": "Lecture 1 Introduction\n\n\n\nGang He\n\n\nMar 9, 2024\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "assignments/hw1.html",
@@ -215,5 +215,138 @@
     "title": "Resources",
     "section": "Organizations",
     "text": "Organizations"
+  },
+  {
+    "objectID": "lectures/lecture1.html#about-us",
+    "href": "lectures/lecture1.html#about-us",
+    "title": "Lecture 1 Introduction",
+    "section": "About us",
+    "text": "About us\n\n\nProfessor Gang He\n\nProfessor Samantha Macbride"
+  },
+  {
+    "objectID": "lectures/lecture1.html#why-paf-9174",
+    "href": "lectures/lecture1.html#why-paf-9174",
+    "title": "Lecture 1 Introduction",
+    "section": "Why PAF 9174?",
+    "text": "Why PAF 9174?\nGoal: sensible program evaluation at reasonable cost\n\nFunder\nGovernment/NGO/Public Institutions/Citizens\nProgram manager/staff\nExecutives\nEvidence-based policy and management decisions"
+  },
+  {
+    "objectID": "lectures/lecture1.html#organization",
+    "href": "lectures/lecture1.html#organization",
+    "title": "Lecture 1 Introduction",
+    "section": "Organization",
+    "text": "Organization\n\nSyllabus\nBlackboard\nOffice hour\nCase studies\nEvaluation report"
+  },
+  {
+    "objectID": "lectures/lecture1.html#john-snow-cholera-the-broad-street-pump",
+    "href": "lectures/lecture1.html#john-snow-cholera-the-broad-street-pump",
+    "title": "Lecture 1 Introduction",
+    "section": "John Snow, Cholera, the Broad Street Pump",
+    "text": "John Snow, Cholera, the Broad Street Pump\n\n\n\n\n\n\n\n\n\n\n\n\nSource: Wikipedia"
+  },
+  {
+    "objectID": "lectures/lecture1.html#cost-saving-of-global-supply-chain",
+    "href": "lectures/lecture1.html#cost-saving-of-global-supply-chain",
+    "title": "Lecture 1 Introduction",
+    "section": "Cost saving of global supply chain",
+    "text": "Cost saving of global supply chain\n\n\nSource: Helveston, He, and Davidson (2022)"
+  },
+  {
+    "objectID": "lectures/lecture1.html#program-program-evaluation",
+    "href": "lectures/lecture1.html#program-program-evaluation",
+    "title": "Lecture 1 Introduction",
+    "section": "Program & Program Evaluation",
+    "text": "Program & Program Evaluation\n\n\nProgram:\n\nA program is a set of resources and activities directed toward one or more common goals, typically under the direction of a single manager or management team.\n\n\nProgram Evaluation:\n\nProgram evaluation is the application of systematic methods to address questions about program operations and results. It may include ongoing monitoring of a program as well as one-shot studies of program processes or program impact. The approaches used are based on social science research methodologies and professional standards.\n\n\n\n\nSource: Newcomer, Hatry, and Wholey (2015)"
+  },
+  {
+    "objectID": "lectures/lecture1.html#capturing-the-wedege",
+    "href": "lectures/lecture1.html#capturing-the-wedege",
+    "title": "Lecture 1 Introduction",
+    "section": "Capturing the wedege",
+    "text": "Capturing the wedege\n\n\nSource: Andrew Wheiss"
+  },
+  {
+    "objectID": "lectures/lecture1.html#theory-of-change",
+    "href": "lectures/lecture1.html#theory-of-change",
+    "title": "Lecture 1 Introduction",
+    "section": "Theory of change",
+    "text": "Theory of change\n\n\n\n\n\n\nflowchart LR\n  A(IRA) --&gt; B(Subsidies)\n  B --&gt; C(Investment)\n  B --&gt; D(Jobs)\n  C --&gt; E(Domestic Manufacturing)\n  D --&gt; E(Domestic Manufacturing)"
+  },
+  {
+    "objectID": "lectures/lecture1.html#big-data-and-ai",
+    "href": "lectures/lecture1.html#big-data-and-ai",
+    "title": "Lecture 1 Introduction",
+    "section": "Big data and AI",
+    "text": "Big data and AI\n\n\n\n\n\n\n\n\nPerspective:\n\nUniverse created:\n\n13.8 billion years ago\n\nEarth created:\n\n4.54 billion years ago\n\nModern human:\n\n300,000 years ago\n\nCivilization:\n\n12,000 years ago\n\nWritten record:\n\n5,000 years ago\n\n\n\n\n\n1943: Neural networks\n1957: Perceptron\n1974-86: Backpropagation, RBM, RNN\n1989-98: CNN, MNIST, LSTM, Bidirectional RNN\n2006: “Deep Learning”, DBN\n2009: ImageNet\n2012: AlexNet, Dropout\n2014: GANs\n2014: DeepFace\n2016: AlphaGo\n2017: AlphaZero, Capsule Networks\n2018: AlphaFold 1, BERT\n2021: AlphaFold 2\n2023: ChatGPT\n2024: Sora, Gemini\n\n\n\n\n\nPhoto: NASA; Read more: Wikipedia"
+  },
+  {
+    "objectID": "lectures/lecture1.html#nyc-open-data",
+    "href": "lectures/lecture1.html#nyc-open-data",
+    "title": "Lecture 1 Introduction",
+    "section": "NYC Open Data",
+    "text": "NYC Open Data\n\n\nLearn more: https://opendata.cityofnewyork.us/"
+  },
+  {
+    "objectID": "lectures/lecture1.html#open-ny",
+    "href": "lectures/lecture1.html#open-ny",
+    "title": "Lecture 1 Introduction",
+    "section": "Open NY",
+    "text": "Open NY\n\n\nLearn more: https://data.ny.gov/"
+  },
+  {
+    "objectID": "lectures/lecture1.html#federal-data",
+    "href": "lectures/lecture1.html#federal-data",
+    "title": "Lecture 1 Introduction",
+    "section": "Federal Data",
+    "text": "Federal Data\n\n\nLearn more: https://data.gov/"
+  },
+  {
+    "objectID": "lectures/lecture1.html#data-for-social-good",
+    "href": "lectures/lecture1.html#data-for-social-good",
+    "title": "Lecture 1 Introduction",
+    "section": "Data for Social Good",
+    "text": "Data for Social Good\n\n\n\n\n\n\n\n\nData science\n\nCollect\nAnalyze\nCommunicate"
+  },
+  {
+    "objectID": "lectures/lecture1.html#causal-revolution",
+    "href": "lectures/lecture1.html#causal-revolution",
+    "title": "Lecture 1 Introduction",
+    "section": "Causal Revolution",
+    "text": "Causal Revolution\nEvidence based medecine"
+  },
+  {
+    "objectID": "lectures/lecture1.html#evidence-based-policy",
+    "href": "lectures/lecture1.html#evidence-based-policy",
+    "title": "Lecture 1 Introduction",
+    "section": "Evidence based policy",
+    "text": "Evidence based policy\n\nRAND’s Health Insurance Experiment (HIE)"
+  },
+  {
+    "objectID": "lectures/lecture1.html#not-all-policy-have-to-be-based-on-evidence",
+    "href": "lectures/lecture1.html#not-all-policy-have-to-be-based-on-evidence",
+    "title": "Lecture 1 Introduction",
+    "section": "Not all policy have to be based on evidence",
+    "text": "Not all policy have to be based on evidence\n\nValue\nFeasibility"
+  },
+  {
+    "objectID": "lectures/lecture1.html#program-evaluation",
+    "href": "lectures/lecture1.html#program-evaluation",
+    "title": "Lecture 1 Introduction",
+    "section": "Program Evaluation",
+    "text": "Program Evaluation\n\nData Science + Causal Inference"
+  },
+  {
+    "objectID": "lectures/lecture1.html#case-studies",
+    "href": "lectures/lecture1.html#case-studies",
+    "title": "Lecture 1 Introduction",
+    "section": "Case studies",
+    "text": "Case studies\n\nFood service resuse system for Governor’s Island\nNorthwest Housing Associates\nJobs Plus in New York City\nAdvanced Research Projects Agency-Energy\nBenefits and Costs of the Clean Air Act 1990-2020"
+  },
+  {
+    "objectID": "lectures/lecture1.html#references",
+    "href": "lectures/lecture1.html#references",
+    "title": "Lecture 1 Introduction",
+    "section": "",
+    "text": "References\n\n\nHelveston, John Paul, Gang He, and Michael R. Davidson. 2022. “Quantifying the Cost Savings of Global Solar Photovoltaic Supply Chains.” Nature 612 (7938): 83–87. https://doi.org/10.1038/s41586-022-05316-6.\n\n\nNewcomer, Kathryn E., Harry P. Hatry, and Joseph S. Wholey. 2015. Handbook of Practical Program Evaluation. 4th edition. San Francisco: Jossey-Bass.\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He\n\n\n\n\nhttps://drganghe.github.io/program-evaluation/"
   }
 ]

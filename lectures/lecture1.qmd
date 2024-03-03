@@ -4,7 +4,7 @@ description-meta: "Introduction to Program Evaluation and organization of the cl
 author: "Gang He"
 date: Mar 9, 2024
 date-format: long
-image: "/lectures/images/datagov.png"
+image: "/lectures/images/Open-NY.png"
 format:
   revealjs:
     theme: white
@@ -19,163 +19,234 @@ format:
     scrollable: true
     css: /custom.css
     footer: <https://drganghe.github.io/program-evaluation/>
-draft: true
+#draft: true
 ---
 
 ## About us
 
 ::: columns
+::: {.column width="50%"}
+Professor Gang He
+:::
 
 ::: {.column width="50%"}
-Gang He
+Professor Samantha Macbride
 :::
-
-::: {.column width="50%"}
-Samantha Macbride
 :::
-
-:::
-
 
 ## Why PAF 9174?
 
-Goal: sensable program evaluation at reasonable cost
+Goal: sensible program evaluation at reasonable cost
 
 1.  Funder
-1.  Government/NGO/Public Institutions/Citizens
-1.  Program manager/staff
-1.  Executives
-1.  **Evidence-based policy and management decisions**
-
+2.  Government/NGO/Public Institutions/Citizens
+3.  Program manager/staff
+4.  Executives
+5.  **Evidence-based policy and management decisions**
 
 ## Organization
 
-- Syllabus
-- Case studies
-- Evaluation report
-- Blackboard
-- Office hour
-
+-   Syllabus
+-   Blackboard
+-   Office hour
+-   Case studies
+-   Evaluation report
 
 ## John Snow, Cholera, the Broad Street Pump
 
 ::: columns
-
 ::: {.column width="50%"}
-![](/lectures/images/John_Snow.jpg){width=60% fig-align="center"}
+![](/lectures/images/John_Snow.jpg){width="60%" fig-align="center"}
 :::
 
 ::: {.column width="50%"}
 ![](/lectures/images/Snow-cholera-map.jpg)
 :::
-
 :::
 
 ::: footer
 Source: [Wikipedia](https://en.wikipedia.org/wiki/John_Snow)
 :::
 
-
 ## Cost saving of global supply chain
 
 ![](/lectures/images/savings-historical.png){fig-align="center"}
 
-:::footer
+::: footer
 Source: @helveston_he_davidson_2022
 :::
 
-
-## Program & Program Evaluation{.smaller}
+## Program & Program Evaluation {.smaller}
 
 ::: columns
-
 ::: {.column width="50%"}
-Program:  
+Program:
 
->A program is a set of resources and activities directed toward one or more common goals, typically under the direction of a single manager or management team.
+> A program is a set of resources and activities directed toward one or more common goals, typically under the direction of a single manager or management team.
 :::
 
 ::: {.column width="50%"}
-Program Evaluation: 
+Program Evaluation:
 
 > Program evaluation is the application of systematic methods to address questions about program operations and results. It may include ongoing monitoring of a program as well as one-shot studies of program processes or program impact. The approaches used are based on social science research methodologies and professional standards.
 :::
-
 :::
 
 ::: footer
 Source: @newcomer_handbook_2015
 :::
 
-
 ## Capturing the wedege
 
 ![](/lectures/images/program-effect.png){fig-align="center"}
 
-:::footer
+::: footer
 Source: [Andrew Wheiss](https://evalsp24.classes.andrewheiss.com/)
 :::
 
-
 ## Theory of change
+
 <center>
+
 ```{mermaid}
 flowchart LR
-  A(IRA) --> B(Subside)
+  A(IRA) --> B(Subsidies)
   B --> C(Investment)
   B --> D(Jobs)
   C --> E(Domestic Manufacturing)
   D --> E(Domestic Manufacturing)
 ```
+
 </center>
 
-## Big data and AI
+## Big data and AI {.smaller}
 
-- Sora
-- ChaGPT
-- Alpha Go
+::: columns
+::: {.column width="30%"}
+![](/lectures/images/pale-blut-dot.png){fig-align="center"}
+:::
+
+::: {.column width="30%"}
+
+Perspective:
+
+-   Universe created:
+
+    -   13.8 billion years ago
+
+-   Earth created:
+
+    -   4.54 billion years ago
+
+-   Modern human:
+
+    -   300,000 years ago
+
+-   Civilization:
+
+    -   12,000 years ago
+
+-   Written record:
+
+    -   5,000 years ago
+
+:::
+
+::: {.column width="40%"}
+::: {style="font-size: 20px;"}
+-   1943: Neural networks
+-   1957: Perceptron
+-   1974-86: Backpropagation, RBM, RNN
+-   1989-98: CNN, MNIST, LSTM, Bidirectional RNN
+-   2006: "Deep Learning", DBN
+-   2009: ImageNet
+-   2012: AlexNet, Dropout
+-   2014: GANs
+-   2014: DeepFace
+-   2016: AlphaGo
+-   2017: AlphaZero, Capsule Networks
+-   2018: AlphaFold 1, BERT
+-   2021: AlphaFold 2
+-   2023: ChatGPT
+-   2024: Sora, Gemini
+:::
+:::
+:::
+
+::: footer
+Photo: [NASA](https://www.planetary.org/worlds/pale-blue-dot); Read more: [Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_machine_learning)
+:::
 
 ## NYC Open Data
 
 ![](/lectures/images/NYC-Open-Data.png){fig-align="center"}
 
-:::footer
+::: footer
 Learn more: <https://opendata.cityofnewyork.us/>
 :::
-
 
 ## Open NY
 
 ![](/lectures/images/Open-NY.png){fig-align="center"}
 
-:::footer
+::: footer
 Learn more: <https://data.ny.gov/>
 :::
-
 
 ## Federal Data
 
 ![](/lectures/images/federal-data.png){fig-align="center"}
 
-:::footer
+::: footer
 Learn more: <https://data.gov/>
 :::
 
 ## Data for Social Good
 
-- Collect
-- Analyze
-- Communicate
+::: columns
+::: {.column width="50%"}
+![](/lectures/images/Data-Science-Venn-Diagram-by-Shelly-Palmer-2015.png){fig-align="center"}
+:::
 
+::: {.column width="50%"}
+Data science
+
+-   Collect
+-   Analyze
+-   Communicate
+:::
+:::
 
 ## Causal Revolution
+
+Evidence based medecine
+
+
+## Evidence based policy
+
+- RAND's Health Insurance Experiment (HIE)
+
+
+## Not all policy have to be based on evidence
+
+- Value 
+- Feasibility 
 
 
 ## Program Evaluation
 
-::: {.r-fit-text}
-Data Science + Caural Inference
+::: r-fit-text
+Data Science + Causal Inference
 :::
+
+
+## Case studies
+
+- Food service resuse system for Governor's Island
+- Northwest Housing Associates
+- Jobs Plus in New York City
+- Advanced Research Projects Agency-Energy
+- Benefits and Costs of the Clean Air Act 1990-2020
 
 
 ------------------------------------------------------------------------
