@@ -17,5 +17,5 @@ page-navigation: true
 title-block-banner: false
 repo-actions: false
 ---
-
+{{< include /files/includes/_msclarity.qmd >}}
 

@@ -2,12 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.531">
+<meta name="generator" content="quarto-1.5.6">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Program Evaluation - Assignment 1 Deep dive in carbon emissions</title>
+<title>Program Evaluation – Assignment 1 Deep dive in carbon emissions</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -79,10 +79,8 @@ gtag('config', 'G-8H8JSB1VP7', { 'anonymize_ip': true});
 <link rel="stylesheet" href="../styles.css">
 <link rel="stylesheet" href="../styles.css">
 <meta property="og:title" content="Program Evaluation - Assignment 1 Deep dive in carbon emissions">
-<meta property="og:description" content="Program Evaluation open course developed by Dr.&nbsp;Gang He.">
 <meta property="og:site_name" content="Program Evaluation">
 <meta name="twitter:title" content="Program Evaluation - Assignment 1 Deep dive in carbon emissions">
-<meta name="twitter:description" content="Program Evaluation open course developed by Dr.&nbsp;Gang He.">
 <meta name="twitter:card" content="summary">
 </head>
 
@@ -159,7 +157,8 @@ gtag('config', 'G-8H8JSB1VP7', { 'anonymize_ip': true});
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#questions" id="toc-questions" class="nav-link active" data-scroll-target="#questions">Questions</a></li>
+  <li><a href="#background" id="toc-background" class="nav-link active" data-scroll-target="#background">Background</a></li>
+  <li><a href="#questions" id="toc-questions" class="nav-link" data-scroll-target="#questions">Questions</a></li>
   <li><a href="#further-readings" id="toc-further-readings" class="nav-link" data-scroll-target="#further-readings">Further readings</a></li>
   </ul>
 <div class="toc-actions"><ul><li><a href="https://github.com/drganghe/program-evaluation/edit/main/casestudies/case1.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/drganghe/program-evaluation/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li><li><a href="https://github.com/drganghe/program-evaluation/blob/main/casestudies/case1.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li></ul></div><div class="quarto-alternate-formats"><h2>Other Formats</h2><ul><li><a href="case1.pdf"><i class="bi bi-file-pdf"></i>PDF</a></li></ul></div></nav>
@@ -186,28 +185,14 @@ gtag('config', 'G-8H8JSB1VP7', { 'anonymize_ip': true});
 </header>
 
 
-<p>We have to deal with carbon to address climate change, so let’s have a deep dive into the carbon emission data. One of my favorite sources and visulizations is <a href="https://ourworldindata.org/co2-emissions">Our World in Data</a>. The raw data is also available <a href="https://github.com/owid/co2-data/blob/master/owid-co2-data.csv">here</a>. Check also the efforts to improve the resolution of global carbon emission data/inventory, e.g.&nbsp;the <a href="https://carbonmonitor.org/">Carbon Monitor</a>.</p>
+<section id="background" class="level2">
+<h2 class="anchored" data-anchor-id="background">Background</h2>
+</section>
 <section id="questions" class="level2">
 <h2 class="anchored" data-anchor-id="questions">Questions</h2>
-<p>Please use the most recent data and answer below questions:</p>
-<ul>
-<li>Top 10 countries by annual total energy related carbon emissions? (0.5pt)</li>
-<li>Top 10 countries by per capita average carbon emissions? (0.5pt)</li>
-<li>Top 5 countries with the highest and lowest carbon intensity (carbon emission/GDP), respectively? Offer your assumptions why this is the case, use data to show your assumptions if possible. (1pt)</li>
-<li>Top 10 countries by cumulative carbon emissions, 1750-2022? (0.5pt)</li>
-<li>List all countries that have reduced their carbon emissions since 1990/2000? (0.5pt)</li>
-<li>Change the acounting from production-based to consumption-based, describe how the ranks changing? What leads the changing? (1pt)</li>
-<li>Use global data to show how big impact of the pandemic on the global emission, using readings to explain how each factor has contributed the change? (1pt)</li>
-<li>What technology and methods made the near real-time carbon monitoring possible? Use one example to show how the daily carbon emission data could improve in the policy discussion? (1pt)</li>
-</ul>
-<p>Note: please list countries and their corresponding data of those indicators. Plug: we will come back to this assignment when discuss sharing of “common but differntiated responsibilities” in climate negotiation and governance.</p>
 </section>
 <section id="further-readings" class="level2">
 <h2 class="anchored" data-anchor-id="further-readings">Further readings</h2>
-<ul>
-<li><p>Dou, Xinyu, Yilong Wang, Philippe Ciais, Frédéric Chevallier, Steven J. Davis, Monica Crippa, Greet Janssens-Maenhout, et al.&nbsp;2022. “Near-Real-Time Global Gridded Daily CO2 Emissions.” <em>The Innovation</em> 3 (1). <a href="https://doi.org/10.1016/j.xinn.2021.100182" class="uri">https://doi.org/10.1016/j.xinn.2021.100182</a>.</p></li>
-<li><p>Friedlingstein, Pierre, Michael O’Sullivan, Matthew W. Jones, Robbie M. Andrew, Luke Gregor, Judith Hauck, Corinne Le Quéré, et al.&nbsp;2022. “Global Carbon Budget 2022.” <em>Earth System Science Data</em> 14 (11): 4811–4900. <a href="https://doi.org/10.5194/essd-14-4811-2022" class="uri">https://doi.org/10.5194/essd-14-4811-2022</a>.</p></li>
-</ul>
 
 
 </section>
@@ -394,7 +379,12 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      return note.innerHTML;
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
     }
   }
   for (var i=0; i<xrefs.length; i++) {

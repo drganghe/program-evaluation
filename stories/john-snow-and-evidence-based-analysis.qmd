@@ -1,0 +1,70 @@
+---
+title: John Snow and Evidence Based Analysis
+format: 
+  html: 
+    theme: cosmo
+    css: /styles.css
+    toc: true
+    link-external-icon: true
+    link-external-newwindow: true
+  pdf: 
+    documentclass: article
+    #classoption: [landscape]
+    lof: false
+    lot: false
+    geometry:
+      - top=1in
+      - bottom=1in
+      - left=1in
+      - right=1in
+      - heightrounded
+    #fontfamily: xelatex
+    colorlinks: true
+#draft: true
+---
+
+## John Snow
+
+- English physician 
+- Leader in the development of anaesthesia and medical hygiene 
+- Founders of modern epidemiology and early germ theory
+
+## 1854 Broad Street cholera outbreak
+
+- A severe outbreak of cholera in 1854 near Broad Street in London
+- Background: the 1846–1860 cholera pandemic happening worldwide
+- The outbreak killed 616 people
+
+### Two theories
+
+- Miasma theroy
+  - Particles in the air
+  - Dr William Farr, commissioner for the 1851 London census and a member of the General Register's Office, 
+  - Miasma arose from the soil surrounding the River Thames
+
+- Germ theory
+  - A germ cell that had not yet been identified, via water
+  - John Snow
+
+
+## John Snow's investigation
+
+- Mapping out the cases
+  - High around the pump: 
+  >all the deaths had taken place within a short distance of the [Broad Street] pump.  
+- Statistic: Cholera rate in sewage-polluted water serving area is 14 times those from upriver
+
+
+## Evidence is power
+
+- John Snow's invetigation  
+  - Government officals replaced the Broad Street pump  
+  - He convinced William Farr, his opponent, to accept the germ theory  
+- The power of data visulization  
+- The create a double-blind experiment  
+- Founding of epedimiology  
+
+## Further readings
+
+
+

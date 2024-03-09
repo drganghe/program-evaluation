@@ -200,14 +200,14 @@
     "href": "casestudies/case1.html#questions",
     "title": "Assignment 1 Deep dive in carbon emissions",
     "section": "Questions",
-    "text": "Questions\nPlease use the most recent data and answer below questions:\n\nTop 10 countries by annual total energy related carbon emissions? (0.5pt)\nTop 10 countries by per capita average carbon emissions? (0.5pt)\nTop 5 countries with the highest and lowest carbon intensity (carbon emission/GDP), respectively? Offer your assumptions why this is the case, use data to show your assumptions if possible. (1pt)\nTop 10 countries by cumulative carbon emissions, 1750-2022? (0.5pt)\nList all countries that have reduced their carbon emissions since 1990/2000? (0.5pt)\nChange the acounting from production-based to consumption-based, describe how the ranks changing? What leads the changing? (1pt)\nUse global data to show how big impact of the pandemic on the global emission, using readings to explain how each factor has contributed the change? (1pt)\nWhat technology and methods made the near real-time carbon monitoring possible? Use one example to show how the daily carbon emission data could improve in the policy discussion? (1pt)\n\nNote: please list countries and their corresponding data of those indicators. Plug: we will come back to this assignment when discuss sharing of “common but differntiated responsibilities” in climate negotiation and governance."
+    "text": "Questions"
   },
   {
     "objectID": "casestudies/case1.html#further-readings",
     "href": "casestudies/case1.html#further-readings",
     "title": "Assignment 1 Deep dive in carbon emissions",
     "section": "Further readings",
-    "text": "Further readings\n\nDou, Xinyu, Yilong Wang, Philippe Ciais, Frédéric Chevallier, Steven J. Davis, Monica Crippa, Greet Janssens-Maenhout, et al. 2022. “Near-Real-Time Global Gridded Daily CO2 Emissions.” The Innovation 3 (1). https://doi.org/10.1016/j.xinn.2021.100182.\nFriedlingstein, Pierre, Michael O’Sullivan, Matthew W. Jones, Robbie M. Andrew, Luke Gregor, Judith Hauck, Corinne Le Quéré, et al. 2022. “Global Carbon Budget 2022.” Earth System Science Data 14 (11): 4811–4900. https://doi.org/10.5194/essd-14-4811-2022."
+    "text": "Further readings"
   },
   {
     "objectID": "resources.html#organizations",
@@ -221,7 +221,7 @@
     "href": "lectures/lecture1.html#about-us",
     "title": "Lecture 1 Introduction",
     "section": "About us",
-    "text": "About us\n\n\nProfessor Gang He\n\nProfessor Samantha Macbride"
+    "text": "About us\n\n\nProfessor Gang He\n\nProfessor Samantha MacBride"
   },
   {
     "objectID": "lectures/lecture1.html#why-paf-9174",
@@ -242,7 +242,7 @@
     "href": "lectures/lecture1.html#john-snow-cholera-the-broad-street-pump",
     "title": "Lecture 1 Introduction",
     "section": "John Snow, Cholera, the Broad Street Pump",
-    "text": "John Snow, Cholera, the Broad Street Pump\n\n\n\n\n\n\n\n\n\n\n\n\nSource: Wikipedia"
+    "text": "John Snow, Cholera, the Broad Street Pump\n\n\n\n\n\n\n\n\n\n\n\n\nSource: Wikipedia; Learn more on Google Map"
   },
   {
     "objectID": "lectures/lecture1.html#cost-saving-of-global-supply-chain",
@@ -312,14 +312,14 @@
     "href": "lectures/lecture1.html#causal-revolution",
     "title": "Lecture 1 Introduction",
     "section": "Causal Revolution",
-    "text": "Causal Revolution\nEvidence based medecine"
+    "text": "Causal Revolution\n\nEvidence based medecine"
   },
   {
     "objectID": "lectures/lecture1.html#evidence-based-policy",
     "href": "lectures/lecture1.html#evidence-based-policy",
     "title": "Lecture 1 Introduction",
     "section": "Evidence based policy",
-    "text": "Evidence based policy\n\nRAND’s Health Insurance Experiment (HIE)"
+    "text": "Evidence based policy\nExample: RAND’s Health Insurance Experiment (HIE)\n\n\n\n\n\n\n\n\nKey findings:\n\n\nCost sharing reduced spending for health care services\nParticipants with cost sharing made fewer medical visits and were admitted to hospitals less frequently\nReduced spending resulted entirely from less use of care; the costs of care were not affected\nCost sharing had no detrimental effects on participants’ health, except for the sickest and poorest patients\n\n\n\n\n\nSource: 40 Years of the RAND Health Insurance Experiment"
   },
   {
     "objectID": "lectures/lecture1.html#not-all-policy-have-to-be-based-on-evidence",
@@ -348,5 +348,82 @@
     "title": "Lecture 1 Introduction",
     "section": "",
     "text": "References\n\n\nHelveston, John Paul, Gang He, and Michael R. Davidson. 2022. “Quantifying the Cost Savings of Global Solar Photovoltaic Supply Chains.” Nature 612 (7938): 83–87. https://doi.org/10.1038/s41586-022-05316-6.\n\n\nNewcomer, Kathryn E., Harry P. Hatry, and Joseph S. Wholey. 2015. Handbook of Practical Program Evaluation. 4th edition. San Francisco: Jossey-Bass.\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He\n\n\n\n\nhttps://drganghe.github.io/program-evaluation/"
+  },
+  {
+    "objectID": "lectures/lecture1.html#data-science-for-social-good",
+    "href": "lectures/lecture1.html#data-science-for-social-good",
+    "title": "Lecture 1 Introduction",
+    "section": "Data science for Social Good",
+    "text": "Data science for Social Good\n\n\n\n\n\n\n\n\nData science\n\nCollect\nAnalyze\nCommunicate"
+  },
+  {
+    "objectID": "lectures/lecture1.html#not-all-policies-have-to-be-based-on-evidence",
+    "href": "lectures/lecture1.html#not-all-policies-have-to-be-based-on-evidence",
+    "title": "Lecture 1 Introduction",
+    "section": "Not all policies have to be based on evidence",
+    "text": "Not all policies have to be based on evidence\n\nValue\nPolitics\nFeasibility\nQuality of evidence and research"
+  },
+  {
+    "objectID": "lectures/lecture1.html#welcome-and-icebreaker",
+    "href": "lectures/lecture1.html#welcome-and-icebreaker",
+    "title": "Lecture 1 Introduction",
+    "section": "Welcome and icebreaker",
+    "text": "Welcome and icebreaker\n\nRose: “something that is working well or something positive”\nThorn: “something that isn’t working or something negative”\nBud: “an area of opportunity or idea yet to be explored”"
+  },
+  {
+    "objectID": "lectures/lecture1.html#performance-analysis-of-the-queens-residential-curbside-organics-program",
+    "href": "lectures/lecture1.html#performance-analysis-of-the-queens-residential-curbside-organics-program",
+    "title": "Lecture 1 Introduction",
+    "section": "Performance analysis of the Queens Residential Curbside Organics Program",
+    "text": "Performance analysis of the Queens Residential Curbside Organics Program\n\n\nSource: Prof. Samantha MacBride"
+  },
+  {
+    "objectID": "lectures/lecture1.html#not-all-policies-are-based-on-evidence",
+    "href": "lectures/lecture1.html#not-all-policies-are-based-on-evidence",
+    "title": "Lecture 1 Introduction",
+    "section": "Not all policies are based on evidence",
+    "text": "Not all policies are based on evidence\n\nValue\nPolitics\nFeasibility\nQuality of evidence and research"
+  },
+  {
+    "objectID": "stories/john-snow-and-evidence-based-analysis.html",
+    "href": "stories/john-snow-and-evidence-based-analysis.html",
+    "title": "John Snow and Evidence Based Analysis",
+    "section": "",
+    "text": "English physician\nLeader in the development of anaesthesia and medical hygiene\nFounders of modern epidemiology and early germ theory"
+  },
+  {
+    "objectID": "stories/john-snow-and-evidence-based-analysis.html#john-snow",
+    "href": "stories/john-snow-and-evidence-based-analysis.html#john-snow",
+    "title": "John Snow and Evidence Based Analysis",
+    "section": "",
+    "text": "English physician\nLeader in the development of anaesthesia and medical hygiene\nFounders of modern epidemiology and early germ theory"
+  },
+  {
+    "objectID": "stories/john-snow-and-evidence-based-analysis.html#broad-street-cholera-outbreak",
+    "href": "stories/john-snow-and-evidence-based-analysis.html#broad-street-cholera-outbreak",
+    "title": "John Snow and Evidence Based Analysis",
+    "section": "1854 Broad Street cholera outbreak",
+    "text": "1854 Broad Street cholera outbreak\n\nA severe outbreak of cholera in 1854 near Broad Street in London\nBackground: the 1846–1860 cholera pandemic happening worldwide\nThe outbreak killed 616 people\n\n\nTwo theories\n\nMiasma theroy\n\nParticles in the air\nDr William Farr, commissioner for the 1851 London census and a member of the General Register’s Office,\nMiasma arose from the soil surrounding the River Thames\n\nGerm theory\n\nA germ cell that had not yet been identified, via water\nJohn Snow"
+  },
+  {
+    "objectID": "stories/john-snow-and-evidence-based-analysis.html#john-snows-investigation",
+    "href": "stories/john-snow-and-evidence-based-analysis.html#john-snows-investigation",
+    "title": "John Snow and Evidence Based Analysis",
+    "section": "John Snow’s investigation",
+    "text": "John Snow’s investigation\n\nMapping out the cases\n\nHigh around the pump: &gt;all the deaths had taken place within a short distance of the [Broad Street] pump.\n\n\nStatistic: Cholera rate in sewage-polluted water serving area is 14 times those from upriver"
+  },
+  {
+    "objectID": "stories/john-snow-and-evidence-based-analysis.html#evidence-is-power",
+    "href": "stories/john-snow-and-evidence-based-analysis.html#evidence-is-power",
+    "title": "John Snow and Evidence Based Analysis",
+    "section": "Evidence is power",
+    "text": "Evidence is power\n\nJohn Snow’s invetigation\n\nGovernment officals replaced the Broad Street pump\n\nHe convinced William Farr, his opponent, to accept the germ theory\n\n\nThe power of data visulization\n\nThe create a double-blind experiment\n\nFounding of epedimiology"
+  },
+  {
+    "objectID": "stories/john-snow-and-evidence-based-analysis.html#further-readings",
+    "href": "stories/john-snow-and-evidence-based-analysis.html#further-readings",
+    "title": "John Snow and Evidence Based Analysis",
+    "section": "Further readings",
+    "text": "Further readings"
   }
 ]

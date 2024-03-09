@@ -13,6 +13,9 @@
 /_backup/
 
 #R Temporal Files
+.Rhistory
+.DS_Store
+.RData
 ~$*.Rhistory*
 ~$*.DS_Store*
 ~$*.Rproj.user*
