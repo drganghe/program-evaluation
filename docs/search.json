@@ -95,14 +95,14 @@
     "href": "project.html",
     "title": "Project",
     "section": "",
-    "text": "Your final project is a demonstration of your master of the concepts and skills discussed in the class. You can choose an program evaluation topic of your own interest. I also post below sample topics.\n\n\n\nWhat are the impact of ARPA-E programs?\nDoes the EPA’s Clean Air Act worth it?\nHow to prepare for Governor’s Island development projects evaluable?"
+    "text": "Your final project is a demonstration of your master of the concepts and skills discussed in the class. You can choose an program evaluation topic of your own interest. I also post below sample topics.\n\n\n\nWhat are the impact of ARPA-E programs?\nDoes the EPA’s Clean Air Act worth it?\nHow to prepare for Governors Island development projects evaluable?"
   },
   {
     "objectID": "project.html#introduction",
     "href": "project.html#introduction",
     "title": "Project",
     "section": "",
-    "text": "Your final project is a demonstration of your master of the concepts and skills discussed in the class. You can choose an program evaluation topic of your own interest. I also post below sample topics.\n\n\n\nWhat are the impact of ARPA-E programs?\nDoes the EPA’s Clean Air Act worth it?\nHow to prepare for Governor’s Island development projects evaluable?"
+    "text": "Your final project is a demonstration of your master of the concepts and skills discussed in the class. You can choose an program evaluation topic of your own interest. I also post below sample topics.\n\n\n\nWhat are the impact of ARPA-E programs?\nDoes the EPA’s Clean Air Act worth it?\nHow to prepare for Governors Island development projects evaluable?"
   },
   {
     "objectID": "project.html#proposal",
@@ -130,7 +130,7 @@
     "href": "schedule.html",
     "title": "Course Schedule",
     "section": "",
-    "text": "Week\nDate\nGuiding question\nTopic\nAssignment\n\n\n\n\n1\nMar 9\nWhat is program evaluation? Where are we headed in this course?\nIntroduction and overview"
+    "text": "Week\nDate\nGuiding question\nTopic\nStory\nAssignment\n\n\n\n\n1\nMar 9\nWhat is program evaluation? Where are we headed in this course?\nIntroduction and overview\nJohn Snow\n\n\n\n2\nMar 16\nWhy do evaluation?\nGoals and Types of Evaluation\n\nNorthwest Housing Alternatives"
   },
   {
     "objectID": "index.html",
@@ -186,7 +186,7 @@
     "href": "casestudies.html",
     "title": "Case Studies",
     "section": "",
-    "text": "#\nCase\npdf\nDue date\n\n\n\n\n1\n\ncase1"
+    "text": "#\nCase\npdf\nDue date\n\n\n\n\n1\nNorthwest Housing Alternatives\n\nMarch 16, 2024"
   },
   {
     "objectID": "casestudies/case1.html",
@@ -410,20 +410,27 @@
     "href": "stories/john-snow-and-evidence-based-analysis.html#john-snows-investigation",
     "title": "John Snow and Evidence Based Analysis",
     "section": "John Snow’s investigation",
-    "text": "John Snow’s investigation\n\nMapping out the cases\n\nHigh around the pump: &gt;all the deaths had taken place within a short distance of the [Broad Street] pump.\n\n\nStatistic: Cholera rate in sewage-polluted water serving area is 14 times those from upriver"
+    "text": "John Snow’s investigation\n\nMapping out the cases\n\n“all the deaths had taken place within a short distance of the [Broad Street] pump”.\n\nStatistics: Cholera rate in sewage-polluted water serving area is 14 times those from upriver"
   },
   {
     "objectID": "stories/john-snow-and-evidence-based-analysis.html#evidence-is-power",
     "href": "stories/john-snow-and-evidence-based-analysis.html#evidence-is-power",
     "title": "John Snow and Evidence Based Analysis",
     "section": "Evidence is power",
-    "text": "Evidence is power\n\nJohn Snow’s invetigation\n\nGovernment officals replaced the Broad Street pump\n\nHe convinced William Farr, his opponent, to accept the germ theory\n\n\nThe power of data visulization\n\nThe create a double-blind experiment\n\nFounding of epedimiology"
+    "text": "Evidence is power\n\nJohn Snow’s invetigation\n\nGovernment officals replaced the Broad Street pump\n\nHe convinced William Farr, his opponent, to accept the germ theory\n\n\nThe power of data visulization\n\nThe create of double-blind experiment\n\nFounding of epedimiology"
   },
   {
     "objectID": "stories/john-snow-and-evidence-based-analysis.html#further-readings",
     "href": "stories/john-snow-and-evidence-based-analysis.html#further-readings",
     "title": "John Snow and Evidence Based Analysis",
     "section": "Further readings",
-    "text": "Further readings"
+    "text": "Further readings\n\nTulchinsky, Theodore H. 2018. “Chapter 5 - John Snow, Cholera, the Broad Street Pump; Waterborne Diseases Then and Now.” In Case Studies in Public Health, edited by Theodore H. Tulchinsky, 77–99. Academic Press. https://doi.org/10.1016/B978-0-12-804571-8.00017-2."
+  },
+  {
+    "objectID": "stories.html",
+    "href": "stories.html",
+    "title": "Stories",
+    "section": "",
+    "text": "Date\n\n\nTitle\n\n\n\n\n\n\nMar 9, 2024\n\n\nJohn Snow and Evidence Based Analysis\n\n\n\n\n\nNo matching items"
   }
 ]

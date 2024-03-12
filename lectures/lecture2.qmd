@@ -22,6 +22,16 @@ format:
 draft: true
 ---
 
+## Recap lecture 1
+
+- Get to know each other
+- John Snow and evidence based analysis
+- Evidence based policy
+  - Global clean energy supply chain
+  - Queens curb side organics
+- Capturing the wedage
+- Governers Island and other cases
+
 ## Program & Program Evaluation{.smaller}
 
 ::: columns
@@ -56,14 +66,15 @@ Source: @newcomer_handbook_2015
 
 ## Type of evaluation
 
-Formative Summative
-Ongoing One-Shot
-Objective Observers Participatory
-Goal-Oriented “Goal-Free”
-Quantitative Qualitative
-Ex Ante Post Program
-Problem Orientation Non-Problem
-
+<center>
+Formative &harr; Summative   
+Ongoing &harr; One-Shot   
+Objective &harr; Observers Participatory  
+Goal-Oriented &harr;“Goal-Free”   
+Quantitative &harr;Qualitative   
+Ex Ante &harr; Post Program   
+Problem Orientation &harr; Non-Problem  
+</center>
 
 
 

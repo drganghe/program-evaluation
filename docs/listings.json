@@ -4,5 +4,11 @@
     "items": [
       "/lectures/lecture1.html"
     ]
+  },
+  {
+    "listing": "/stories.html",
+    "items": [
+      "/stories/john-snow-and-evidence-based-analysis.html"
+    ]
   }
 ]

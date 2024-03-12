@@ -1,0 +1,21 @@
+---
+title: "Stories"
+image: "/files/images/hex-Program-Evaluation.png"
+listing:
+  contents: stories
+  page-size: 36
+  sort: "date asc"
+  type: table
+  categories: false
+  sort-ui: false
+  filter-ui: false
+  feed: false
+  fields: [date, title]
+#page-layout: full
+page-navigation: false
+title-block-banner: false
+repo-actions: false
+---
+
+{{< include /files/includes/_msclarity.qmd >}}
+

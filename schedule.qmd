@@ -1,8 +1,10 @@
 ---
 title: Course Schedule
 repo-actions: false
+page-layout: full
 ---
 
-| Week | Date  | Guiding question                                                | Topic                     | Assignment |
-|---------------|---------------|---------------|---------------|---------------|
-| 1    | Mar 9 | What is program evaluation? Where are we headed in this course? | Introduction and overview |            |
+| Week | Date  | Guiding question                                                | Topic                     | Story | Assignment |
+|---------------|---------------|---------------|---------------|---------------|---------------|
+| 1    | Mar 9 | What is program evaluation? Where are we headed in this course? | [Introduction and overview](/lectures/lecture1.qmd) |   [John Snow](/stories/john-snow-and-evidence-based-analysis.qmd)  |       |
+| 2    | Mar 16 | Why do evaluation? | Goals and Types of Evaluation |     |   Northwest Housing Alternatives   |

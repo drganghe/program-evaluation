@@ -1,12 +1,15 @@
 ---
 title: John Snow and Evidence Based Analysis
+author: Gang He
+date: March 9, 2024
 format: 
   html: 
     theme: cosmo
     css: /styles.css
     toc: true
-    link-external-icon: true
+#   link-external-icon: true
     link-external-newwindow: true
+  
   pdf: 
     documentclass: article
     #classoption: [landscape]
@@ -49,10 +52,11 @@ format:
 
 ## John Snow's investigation
 
-- Mapping out the cases
-  - High around the pump: 
-  >all the deaths had taken place within a short distance of the [Broad Street] pump.  
-- Statistic: Cholera rate in sewage-polluted water serving area is 14 times those from upriver
+- Mapping out the cases   
+
+  > "all the deaths had taken place within a short distance of the [Broad Street] pump".  
+
+- Statistics: Cholera rate in sewage-polluted water serving area is 14 times those from upriver
 
 
 ## Evidence is power
@@ -61,10 +65,14 @@ format:
   - Government officals replaced the Broad Street pump  
   - He convinced William Farr, his opponent, to accept the germ theory  
 - The power of data visulization  
-- The create a double-blind experiment  
+- The create of double-blind experiment  
 - Founding of epedimiology  
 
 ## Further readings
 
+- Tulchinsky, Theodore H. 2018. “Chapter 5 - John Snow, Cholera, the Broad Street Pump; Waterborne Diseases Then and Now.” In Case Studies in Public Health, edited by Theodore H. Tulchinsky, 77–99. Academic Press. https://doi.org/10.1016/B978-0-12-804571-8.00017-2.
 
 
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}
