@@ -53,21 +53,21 @@
     "href": "resources.html",
     "title": "Resources",
     "section": "",
-    "text": "Evaluation.gov\nFederal Evaluators"
+    "text": "Huntington-Klein, Nick. 2022. The Effect: An Introduction to Research Design and Causality. 1st edition. Boca Raton London New York: Chapman and Hall/CRC.\n\n\n\n\n\nPearl, Judea, and Dana Mackenzie. 2018. The Book of Why: The New Science of Cause and Effect. 1st edition. New York: Basic Books.\n\nAngrist, Joshua, and Jörn-Steffen Pischke. 2009. Mostly Harmless Econometrics. Princeton University Press.\n\nList, John A. 2022. The Voltage Effect: How to Make Good Ideas Great and Great Ideas Scale. New York: Crown Currency."
   },
   {
     "objectID": "resources.html#federal-evaluation",
     "href": "resources.html#federal-evaluation",
     "title": "Resources",
-    "section": "",
-    "text": "Evaluation.gov\nFederal Evaluators"
+    "section": "Federal evaluation",
+    "text": "Federal evaluation\nEvaluation.gov\nFederal Evaluators"
   },
   {
     "objectID": "lectures.html",
     "href": "lectures.html",
     "title": "Lectures",
     "section": "",
-    "text": "Lecture 1 Introduction\n\n\n\nGang He\n\n\nMar 9, 2024\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Lecture 1 Introduction\n\n\n\nGang He\n\n\nMar 9, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 2 Goals and Types of Evaluation\n\n\n\nGang He\n\n\nMar 16, 2024\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "assignments/hw1.html",
@@ -130,7 +130,7 @@
     "href": "schedule.html",
     "title": "Course Schedule",
     "section": "",
-    "text": "Week\nDate\nGuiding question\nTopic\nStory\nAssignment\n\n\n\n\n1\nMar 9\nWhat is program evaluation? Where are we headed in this course?\nIntroduction and overview\nJohn Snow\n\n\n\n2\nMar 16\nWhy do evaluation?\nGoals and Types of Evaluation\n\nNorthwest Housing Alternatives"
+    "text": "Week\nDate\nGuiding question\nTopic\nStory\nCase Study\nAssignment\n\n\n\n\n1\nMar 9\nWhat is program evaluation? Where are we headed in this course?\nIntroduction and overview\nJohn Snow\n\n\n\n\n2\nMar 16\nWhy do evaluation?\nGoals and Types of Evaluation\nHigh Line Park\nCase 1: Northwest Housing Alternatives\nCase Response"
   },
   {
     "objectID": "index.html",
@@ -214,7 +214,7 @@
     "href": "resources.html#organizations",
     "title": "Resources",
     "section": "Organizations",
-    "text": "Organizations"
+    "text": "Organizations\nAmerican Evaluation Association"
   },
   {
     "objectID": "lectures/lecture1.html#about-us",
@@ -431,6 +431,167 @@
     "href": "stories.html",
     "title": "Stories",
     "section": "",
-    "text": "Date\n\n\nTitle\n\n\n\n\n\n\nMar 9, 2024\n\n\nJohn Snow and Evidence Based Analysis\n\n\n\n\n\nNo matching items"
+    "text": "Date\n\n\nTitle\n\n\n\n\n\n\nMar 9, 2024\n\n\nJohn Snow and Evidence Based Analysis\n\n\n\n\nMar 16, 2024\n\n\nHigh Line Park\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "stories/high-line-park.html",
+    "href": "stories/high-line-park.html",
+    "title": "High Line Park",
+    "section": "",
+    "text": "The High Line is a 1.45-mile-long elevated linear park, greenway, which was created on an abandoned rail trail\nUsed to be a big headache for the city, and property nearby\nNow a success story of urban planning, landscape design, and human recreation\nAttracts 5 million visitors yearly"
+  },
+  {
+    "objectID": "stories/high-line-park.html#background",
+    "href": "stories/high-line-park.html#background",
+    "title": "High Line Park",
+    "section": "",
+    "text": "The High Line is a 1.45-mile-long elevated linear park, greenway, which was created on an abandoned rail trail\nUsed to be a big headache for the city, and property nearby\nNow a success story of urban planning, landscape design, and human recreation\nAttracts 5 million visitors yearly"
+  },
+  {
+    "objectID": "stories/high-line-park.html#brief-history",
+    "href": "stories/high-line-park.html#brief-history",
+    "title": "High Line Park",
+    "section": "Brief history",
+    "text": "Brief history\n\n“1934: As part of the West Side Improvement Project, the High Line opens to trains. It runs from 34th Street to St John’s Park Terminal, at Spring Street. It is designed to go through the center of blocks, rather than over the avenue, carrying goods to and from Manhattan’s largest industrial district.”\n“1980s: Following decades-long growth in the interstate trucking industry, the last train runs on the High Line in 1980, pulling three carloads of frozen turkeys. A group of property owners lobbies for demolition while Peter Obletz, a Chelsea resident, activist, and railroad enthusiast, challenges demolition efforts in court.”\n“1999: Friends of the High Line is founded by Joshua David and Robert Hammond, residents of the High Line neighborhood, to advocate for the High Line’s preservation and reuse as public open space.”\nSection 1 opened in 2009; Section 2 in 2011; Section 3 in 2014; The Spur in 2018."
+  },
+  {
+    "objectID": "stories/high-line-park.html#stakeholders",
+    "href": "stories/high-line-park.html#stakeholders",
+    "title": "High Line Park",
+    "section": "Stakeholders",
+    "text": "Stakeholders\n\nThe movement to save the High Line was catalyzed by iconic photographs taken by Joel Sternfeld in 2000, nine years before the park would open to the public\n\nFriends of the High Line and the City of New York conduct a process to select a design team for the High Line. The selected team is James Corner Field Operations, a landscape architecture firm, Diller Scofidio + Renfro, and Piet Oudolf, planting designer\n\nThe City accepts ownership of the High Line which is donated by CSX Transportation, Inc. in November 2005; Groundbreaking is celebrated in April 2006\n\nThe High Line is maintained by Friends of the High Line, which was founded by area residents Joshua David and Robert Hammond in 1999\n\nThe public support: donation and support\n\nMayor Michael Bloomberg administration"
+  },
+  {
+    "objectID": "stories/high-line-park.html#resources",
+    "href": "stories/high-line-park.html#resources",
+    "title": "High Line Park",
+    "section": "Resources",
+    "text": "Resources\n\nPermit: Rallying public support for the park and convincing Mayor Michael Bloomberg’s administration in 2002 to support the project by filing a request with the United States Surface Transportation Board to create a public trail on the site.\nFunding:\n\nlicensing agreement with the New York City Department of Parks & Recreation: $5 million a year daily operation and maintenance of the park\nFriends of the High Line has raised more than $150 million in public and private funds"
+  },
+  {
+    "objectID": "stories/high-line-park.html#impact",
+    "href": "stories/high-line-park.html#impact",
+    "title": "High Line Park",
+    "section": "Impact",
+    "text": "Impact\n\nProperty prices increase by 10% on average, developers and residents are happy, the City is happy.\nWon numerous urban/landscape awards, a must go place in NYC"
+  },
+  {
+    "objectID": "stories/high-line-park.html#further-readings",
+    "href": "stories/high-line-park.html#further-readings",
+    "title": "High Line Park",
+    "section": "Further readings",
+    "text": "Further readings\n\nMohammadsaeid Mahmoodabadi Arani, 2021. Towards a Cost-Benefit Analysis of the High Line in New York City."
+  },
+  {
+    "objectID": "stories/high-line-park.html#thoughts-for-evaluation",
+    "href": "stories/high-line-park.html#thoughts-for-evaluation",
+    "title": "High Line Park",
+    "section": "Thoughts for evaluation",
+    "text": "Thoughts for evaluation\n\nNot all about costs: public space, history, vision, and creative ideas\n\nEvaluation indicators: visitors, property value, awards, what else?"
+  },
+  {
+    "objectID": "resources.html#relevant-texts",
+    "href": "resources.html#relevant-texts",
+    "title": "Resources",
+    "section": "",
+    "text": "Huntington-Klein, Nick. 2022. The Effect: An Introduction to Research Design and Causality. 1st edition. Boca Raton London New York: Chapman and Hall/CRC.\n\n\n\n\n\nPearl, Judea, and Dana Mackenzie. 2018. The Book of Why: The New Science of Cause and Effect. 1st edition. New York: Basic Books.\n\nAngrist, Joshua, and Jörn-Steffen Pischke. 2009. Mostly Harmless Econometrics. Princeton University Press.\n\nList, John A. 2022. The Voltage Effect: How to Make Good Ideas Great and Great Ideas Scale. New York: Crown Currency."
+  },
+  {
+    "objectID": "lectures/lecture2.html#recap-lecture-1",
+    "href": "lectures/lecture2.html#recap-lecture-1",
+    "title": "Lecture 2 Goals and Types of Evaluation",
+    "section": "Recap lecture 1",
+    "text": "Recap lecture 1\n\nGet to know each other\nJohn Snow and evidence based analysis\nEvidence based policy\n\nGlobal clean energy supply chain\nQueens curb side organics\n\nCapturing the wedage\nGoverners Island and other cases"
+  },
+  {
+    "objectID": "lectures/lecture2.html#program-program-evaluation",
+    "href": "lectures/lecture2.html#program-program-evaluation",
+    "title": "Lecture 2 Goals and Types of Evaluation",
+    "section": "Program & Program Evaluation",
+    "text": "Program & Program Evaluation\n\n\nProgram:\n\nA program is a set of resources and activities directed toward one or more common goals, typically under the direction of a single manager or management team.\n\n\nProgram Evaluation:\n\nProgram evaluation is the application of systematic methods to address questions about program operations and results. It may include ongoing monitoring of a program as well as one-shot studies of program processes or program impact. The approaches used are based on social science research methodologies and professional standards.\n\n\n\n\nSource: Newcomer, Hatry, and Wholey (2015)"
+  },
+  {
+    "objectID": "lectures/lecture2.html#five-questions-to-ask",
+    "href": "lectures/lecture2.html#five-questions-to-ask",
+    "title": "Lecture 2 Goals and Types of Evaluation",
+    "section": "Five questions to ask",
+    "text": "Five questions to ask\n\nCan the results of the evaluation influence decisions about the program?\nCan the evaluation be done in time to be useful?\nIs the program significant enough to merit evaluation?\nIs program performance viewed as problematic?\nWhere is the program in its development?\n\n\nSource: Newcomer, Hatry, and Wholey (2015)"
+  },
+  {
+    "objectID": "lectures/lecture2.html#type-of-evaluation",
+    "href": "lectures/lecture2.html#type-of-evaluation",
+    "title": "Lecture 2 Goals and Types of Evaluation",
+    "section": "Type of evaluation",
+    "text": "Type of evaluation\n\nFormative ↔︎ Summative\nOngoing ↔︎ One-Shot\nObjective ↔︎ Observers Participatory\nGoal-Oriented ↔︎“Goal-Free”\nQuantitative ↔︎Qualitative\nEx Ante ↔︎ Post Program\nProblem Orientation ↔︎ Non-Problem\n\n\nSource: Newcomer, Hatry, and Wholey (2015)"
+  },
+  {
+    "objectID": "lectures/lecture2.html#exploratory-evaluation",
+    "href": "lectures/lecture2.html#exploratory-evaluation",
+    "title": "Lecture 2 Goals and Types of Evaluation",
+    "section": "Exploratory evaluation",
+    "text": "Exploratory evaluation\n\n\n\n\n\n\n\n\n\nApproach\nPurpose\nTime\n\n\n\n\nEvaluability assessment\nAssess whether programs are ready for useful evaluation; get agreement on program goals and evaluation criteria; clarify the focus and intended use of further evaluation.\n1 to 6 months; 2 staff-weeks to 3 staff-months\n\n\nRapid feedback evaluation\nEstimate program effectiveness in terms of agreed-on program goals; indicate the range of uncertainty in the estimates; produce tested designs for more definitive evaluation; clarify the focus and intended use of further evaluation.\n3 to 6 months; 3 to 12 staff-months\n\n\nEvaluation synthesis\nSynthesize findings of prior research and evaluation studies.\n1 to 4 months; 1 to 3 staff-months\n\n\nSmall-sample studies\nEstimate program effectiveness in terms of agreed-on program goals; produce tested measures of program performance.\n1 week to 6 months; 1 staff-week to 12 staff-month\n\n\n\n\n\nSource: Newcomer, Hatry, and Wholey (2015)"
+  },
+  {
+    "objectID": "lectures/lecture2.html#evaluability-standards-readiness-for-useful-evaluation",
+    "href": "lectures/lecture2.html#evaluability-standards-readiness-for-useful-evaluation",
+    "title": "Lecture 2 Goals and Types of Evaluation",
+    "section": "Evaluability Standards: Readiness for Useful Evaluation",
+    "text": "Evaluability Standards: Readiness for Useful Evaluation\n\nProgram goals are agreed on and realistic.\nInformation needs are well defined.\nEvaluation data are obtainable.\nIntended users are willing and able to use evaluation information.\n\n\nSource: Newcomer, Hatry, and Wholey (2015)"
+  },
+  {
+    "objectID": "lectures/lecture2.html#selecting-an-exploratory-evaluation-approach",
+    "href": "lectures/lecture2.html#selecting-an-exploratory-evaluation-approach",
+    "title": "Lecture 2 Goals and Types of Evaluation",
+    "section": "Selecting an exploratory evaluation approach",
+    "text": "Selecting an exploratory evaluation approach\n\n\n\n\n\n\n\n\nApproach\nWhen Appropriate\n\n\n\n\nEvaluability assessment\nLarge, decentralized program; unclear evaluation criteria.\n\n\nRapid feedback evaluation\nAgreement exists on the goals in terms of which a program is to be evaluated; need for evaluation information “right quick”; potential need for more definitive evaluation.\n\n\nEvaluation synthesis\nNeed for evaluation information “right quick”; potential need for more definitive evaluation.\n\n\nSmall-sample studies\nAgreement exists on the goals in terms of which a program is to be evaluated; collection of evaluation data will require sampling.\n\n\n\n\n\nSource: Newcomer, Hatry, and Wholey (2015)"
+  },
+  {
+    "objectID": "lectures/lecture2.html#cultural",
+    "href": "lectures/lecture2.html#cultural",
+    "title": "Lecture 2 Goals and Types of Evaluation",
+    "section": "Cultural",
+    "text": "Cultural"
+  },
+  {
+    "objectID": "lectures/lecture2.html#evaluation-process-and-feedback",
+    "href": "lectures/lecture2.html#evaluation-process-and-feedback",
+    "title": "Lecture 2 Goals and Types of Evaluation",
+    "section": "Evaluation process and feedback",
+    "text": "Evaluation process and feedback\n\n\nSource: Newcomer, Hatry, and Wholey (2015)"
+  },
+  {
+    "objectID": "lectures/lecture2.html#gaos-evaluation-design-process",
+    "href": "lectures/lecture2.html#gaos-evaluation-design-process",
+    "title": "Lecture 2 Goals and Types of Evaluation",
+    "section": "GAO’s Evaluation Design Process",
+    "text": "GAO’s Evaluation Design Process\n\nclarify the study objectives;\nobtain background information on the issue and design options;\ndevelop and test the proposed approach;\nreach agreement on the proposed approach.\n\n\nRead more: Designing Evaluations: 2012 Revision"
+  },
+  {
+    "objectID": "lectures/lecture2.html#references",
+    "href": "lectures/lecture2.html#references",
+    "title": "Lecture 2 Goals and Types of Evaluation",
+    "section": "",
+    "text": "References\n\n\nNewcomer, Kathryn E., Harry P. Hatry, and Joseph S. Wholey. 2015. Handbook of Practical Program Evaluation. 4th edition. San Francisco: Jossey-Bass.\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He\n\n\n\n\nhttps://drganghe.github.io/program-evaluation/"
+  },
+  {
+    "objectID": "lectures/lecture2.html#high-line-park-story",
+    "href": "lectures/lecture2.html#high-line-park-story",
+    "title": "Lecture 2 Goals and Types of Evaluation",
+    "section": "High Line Park Story",
+    "text": "High Line Park Story\n\n\nPhoto credit: Gang He"
+  },
+  {
+    "objectID": "lectures/lecture2.html#culturally-responsive-evaluation",
+    "href": "lectures/lecture2.html#culturally-responsive-evaluation",
+    "title": "Lecture 2 Goals and Types of Evaluation",
+    "section": "Culturally responsive evaluation",
+    "text": "Culturally responsive evaluation\n\nCulture of the program that is being evaluated\nCultural parameters\nIncluding equity"
+  },
+  {
+    "objectID": "lectures/lecture2.html#cre-framework",
+    "href": "lectures/lecture2.html#cre-framework",
+    "title": "Lecture 2 Goals and Types of Evaluation",
+    "section": "CRE framework",
+    "text": "CRE framework\n\n\nSource: Newcomer, Hatry, and Wholey (2015)"
   }
 ]

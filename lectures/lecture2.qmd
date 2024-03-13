@@ -2,9 +2,9 @@
 title: "Lecture 2 Goals and Types of Evaluation"
 description-meta: "Why do evaluation? Major forms evaluation."
 author: "Gang He"
-date: Mar 15, 2024
+date: Mar 16, 2024
 date-format: long
-image: "/lectures/images/datagov.png"
+image: "/lectures/images/high-line-park.jpg"
 format:
   revealjs:
     theme: white
@@ -19,7 +19,7 @@ format:
     scrollable: true
     css: /custom.css
     footer: <https://drganghe.github.io/program-evaluation/>
-draft: true
+#draft: true
 ---
 
 ## Recap lecture 1
@@ -63,6 +63,9 @@ Source: @newcomer_handbook_2015
 - Is program performance viewed as problematic?
 - Where is the program in its development?
 
+::: footer
+Source: @newcomer_handbook_2015
+:::
 
 ## Type of evaluation
 
@@ -75,6 +78,97 @@ Quantitative &harr;Qualitative
 Ex Ante &harr; Post Program   
 Problem Orientation &harr; Non-Problem  
 </center>
+
+::: footer
+Source: @newcomer_handbook_2015
+:::
+
+## Exploratory evaluation
+
+::: {style="font-size: 20px;"}
+| Approach | Purpose | Time |
+|---|---|---|
+| Evaluability assessment | Assess whether programs are ready for useful evaluation; get agreement on program goals and evaluation criteria; clarify the focus and intended use of further evaluation. | 1 to 6 months; 2 staff-weeks to 3 staff-months|
+| Rapid feedback evaluation | Estimate program effectiveness in terms of agreed-on program goals; indicate the range of uncertainty in the estimates; produce tested designs for more definitive evaluation; clarify the focus and intended use of further evaluation. | 3 to 6 months; 3 to 12 staff-months |
+| Evaluation synthesis | Synthesize findings of prior research and evaluation studies. | 1 to 4 months; 1 to 3 staff-months |
+| Small-sample studies | Estimate program effectiveness in terms of agreed-on program goals; produce tested measures of program performance. | 1 week to 6 months; 1 staff-week to 12 staff-month |
+:::
+
+::: footer
+Source: @newcomer_handbook_2015
+:::
+
+## Evaluability Standards: Readiness for Useful Evaluation
+
+- Program goals are agreed on and realistic.
+- Information needs are well defined.
+- Evaluation data are obtainable.
+- Intended users are willing and able to use evaluation information.
+
+::: footer
+Source: @newcomer_handbook_2015
+:::
+
+## Selecting an exploratory evaluation approach
+
+::: {style="font-size: 24px;"}
+| Approach | When Appropriate|
+|---|---|
+| Evaluability assessment | Large, decentralized program; unclear evaluation criteria.|
+| Rapid feedback evaluation | Agreement exists on the goals in terms of which a program is to be evaluated; need for evaluation information “right quick”; potential need for more definitive evaluation. |
+| Evaluation synthesis | Need for evaluation information “right quick”; potential need for more definitive evaluation. |
+| Small-sample studies | Agreement exists on the goals in terms of which a program is to be evaluated; collection of evaluation data will require sampling.|
+:::
+
+::: footer
+Source: @newcomer_handbook_2015
+:::
+
+
+## High Line Park Story
+
+![](/lectures/images/high-line-park.JPG){fig-align="center"}
+
+::: footer
+Photo credit: Gang He
+:::
+
+
+## Culturally responsive evaluation
+
+- Culture of the program that is being evaluated
+- Cultural parameters 
+- Including equity 
+
+
+## CRE framework
+
+![](/lectures/images/cultural-responsive-evaluation-framework.png){fig-align="center"}
+
+::: footer
+Source: @newcomer_handbook_2015
+:::
+
+
+## Evaluation process and feedback
+
+![](/lectures/images/figure1.3-proces-feedback.png){fig-align="center"}
+
+::: footer
+Source: @newcomer_handbook_2015
+:::
+
+
+## GAO’s Evaluation Design Process
+
+- clarify the study objectives; 
+- obtain background information on the issue and design options;
+- develop and test the proposed approach; 
+- reach agreement on the proposed approach.
+
+::: footer
+Read more: [Designing Evaluations: 2012 Revision](https://www.gao.gov/assets/gao-12-208g.pdf)
+:::
 
 
 

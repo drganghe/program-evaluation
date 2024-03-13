@@ -34,13 +34,11 @@ Professor Samantha MacBride
 :::
 :::
 
-
 ## Welcome and icebreaker
 
 -   Rose: "something that is working well or something positive"
 -   Thorn: "something that isn't working or something negative"
 -   Bud: "an area of opportunity or idea yet to be explored"
-
 
 ## Why PAF 9174?
 
@@ -52,7 +50,6 @@ Goal: sensible program evaluation at reasonable cost
 4.  Executives
 5.  **Evidence-based policy and management decisions**
 
-
 ## Organization
 
 -   Syllabus
@@ -60,7 +57,6 @@ Goal: sensible program evaluation at reasonable cost
 -   Office hour
 -   Case studies
 -   Evaluation report
-
 
 ## John Snow, Cholera, the Broad Street Pump
 
@@ -78,7 +74,6 @@ Goal: sensible program evaluation at reasonable cost
 Source: [Wikipedia](https://en.wikipedia.org/wiki/John_Snow); Learn more on [Google Map](https://www.google.com/maps/place/Broad+Street+Pump/@51.5133419,-0.1367321,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipPs78QaZFiaUp6RrSKuuS7S7RPxBgpO0QkiIEDM!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipPs78QaZFiaUp6RrSKuuS7S7RPxBgpO0QkiIEDM%3Dw86-h114-k-no!7i3024!8i4032!4m7!3m6!1s0x487604d4eb461fe5:0xb5eeaa102de1834a!8m2!3d51.5133195!4d-0.1367142!10e5!16s%2Fg%2F11b_0381j2?entry=ttu)
 :::
 
-
 ## Cost saving of global supply chain
 
 ![](/lectures/images/savings-historical.png){fig-align="center"}
@@ -94,8 +89,6 @@ Source: @helveston_he_davidson_2022
 ::: footer
 Source: Prof. Samantha MacBride
 :::
-
-
 
 ## Program & Program Evaluation {.smaller}
 
@@ -117,7 +110,6 @@ Program Evaluation:
 Source: @newcomer_handbook_2015
 :::
 
-
 ## Capturing the wedege
 
 ![](/lectures/images/program-effect.png){fig-align="center"}
@@ -125,7 +117,6 @@ Source: @newcomer_handbook_2015
 ::: footer
 Source: [Andrew Wheiss](https://evalsp24.classes.andrewheiss.com/)
 :::
-
 
 ## Theory of change
 
@@ -142,7 +133,6 @@ flowchart LR
 
 </center>
 
-
 ## Big data and AI {.smaller}
 
 ::: columns
@@ -151,7 +141,6 @@ flowchart LR
 :::
 
 ::: {.column width="30%"}
-
 Perspective:
 
 -   Universe created:
@@ -173,7 +162,6 @@ Perspective:
 -   Written record:
 
     -   5,000 years ago
-
 :::
 
 ::: {.column width="40%"}
@@ -201,7 +189,6 @@ Perspective:
 Photo: [NASA](https://www.planetary.org/worlds/pale-blue-dot); Read more: [Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_machine_learning)
 :::
 
-
 ## NYC Open Data
 
 ![](/lectures/images/NYC-Open-Data.png){fig-align="center"}
@@ -209,7 +196,6 @@ Photo: [NASA](https://www.planetary.org/worlds/pale-blue-dot); Read more: [Wikip
 ::: footer
 Learn more: <https://opendata.cityofnewyork.us/>
 :::
-
 
 ## Open NY
 
@@ -219,7 +205,6 @@ Learn more: <https://opendata.cityofnewyork.us/>
 Learn more: <https://data.ny.gov/>
 :::
 
-
 ## Federal Data
 
 ![](/lectures/images/federal-data.png){fig-align="center"}
@@ -227,7 +212,6 @@ Learn more: <https://data.ny.gov/>
 ::: footer
 Learn more: <https://data.gov/>
 :::
-
 
 ## Data science for Social Good
 
@@ -245,17 +229,15 @@ Data science
 :::
 :::
 
-
 ## Causal Revolution
 
 ::: {style="text-align:center; font-size: 36px;"}
 Evidence based medecine
 :::
 
-
 ## Evidence based policy
 
-Example: RAND's Health Insurance Experiment (HIE) 
+Example: RAND's Health Insurance Experiment (HIE)
 
 ::: columns
 ::: {.column width="50%"}
@@ -265,11 +247,11 @@ Example: RAND's Health Insurance Experiment (HIE)
 ::: {.column width="50%"}
 **Key findings**:
 
-::: {style="font-size: 24px;"} 
-- Cost sharing reduced spending for health care services
-- Participants with cost sharing made fewer medical visits and were admitted to hospitals less frequently
-- Reduced spending resulted entirely from less use of care; the costs of care were not affected
-- Cost sharing had no detrimental effects on participants' health, except for the sickest and poorest patients
+::: {style="font-size: 24px;"}
+-   Cost sharing reduced spending for health care services
+-   Participants with cost sharing made fewer medical visits and were admitted to hospitals less frequently
+-   Reduced spending resulted entirely from less use of care; the costs of care were not affected
+-   Cost sharing had no detrimental effects on participants' health, except for the sickest and poorest patients
 :::
 :::
 :::
@@ -278,14 +260,12 @@ Example: RAND's Health Insurance Experiment (HIE)
 Source: [40 Years of the RAND Health Insurance Experiment](https://www.rand.org/health-care/projects/HIE-40.html)
 :::
 
-
 ## Not all policies are based on evidence
 
-- Value 
-- Politics
-- Feasibility 
-- Quality of evidence and research 
-
+-   Value
+-   Politics
+-   Feasibility
+-   Quality of evidence and research
 
 ## Program Evaluation
 
@@ -293,15 +273,13 @@ Source: [40 Years of the RAND Health Insurance Experiment](https://www.rand.org/
 Data Science + Causal Inference
 :::
 
-
 ## Case studies
 
-- Food service resuse system for Governor's Island
-- Northwest Housing Associates
-- Jobs Plus in New York City
-- Advanced Research Projects Agency-Energy
-- Benefits and Costs of the Clean Air Act 1990-2020
-
+-   Food service resuse system for Governor's Island
+-   Northwest Housing Associates
+-   Jobs Plus in New York City
+-   Advanced Research Projects Agency-Energy
+-   Benefits and Costs of the Clean Air Act 1990-2020
 
 ------------------------------------------------------------------------
 
