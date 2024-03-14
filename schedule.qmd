@@ -7,4 +7,4 @@ page-layout: full
 | Week | Date   | Guiding question   | Topic     | Story    | Case Study    | Assignment    |
 |-----------|-----------|-----------|-----------|-----------|-----------|-----------|
 | 1    | Mar 9  | What is program evaluation? Where are we headed in this course? | [Introduction and overview](/lectures/lecture1.qmd) | [John Snow](/stories/john-snow-and-evidence-based-analysis.qmd) |                                        |               |
-| 2    | Mar 16 | Why do evaluation?                                              | [Goals and Types of Evaluation](/lectures/lecture2.qmd)  | [High Line Park](/stories/high-line-park.qmd)                   | Case 1: Northwest Housing Alternatives | Case Response |
+| 2    | Mar 16 | Why do evaluation?                                              | [Goals and Types of Evaluation](/lectures/lecture2.qmd)  | [High Line Park](/stories/high-line-park.qmd)                   | Case 1: Northwest Housing Alternatives | Case Response 1 |

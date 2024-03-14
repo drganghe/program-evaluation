@@ -53,7 +53,7 @@
     "href": "resources.html",
     "title": "Resources",
     "section": "",
-    "text": "Huntington-Klein, Nick. 2022. The Effect: An Introduction to Research Design and Causality. 1st edition. Boca Raton London New York: Chapman and Hall/CRC.\n\n\n\n\n\nPearl, Judea, and Dana Mackenzie. 2018. The Book of Why: The New Science of Cause and Effect. 1st edition. New York: Basic Books.\n\nAngrist, Joshua, and Jörn-Steffen Pischke. 2009. Mostly Harmless Econometrics. Princeton University Press.\n\nList, John A. 2022. The Voltage Effect: How to Make Good Ideas Great and Great Ideas Scale. New York: Crown Currency."
+    "text": "Huntington-Klein, Nick. 2022. The Effect: An Introduction to Research Design and Causality. 1st edition. Boca Raton London New York: Chapman and Hall/CRC.\nCunningham, Scott. 2021. Causal Inference: The Mixtape. New Haven London: Yale University Press.\n\n\n\n\n\nPearl, Judea, and Dana Mackenzie. 2018. The Book of Why: The New Science of Cause and Effect. 1st edition. New York: Basic Books.\n\nAngrist, Joshua, and Jörn-Steffen Pischke. 2009. Mostly Harmless Econometrics. Princeton University Press.\n\nList, John A. 2022. The Voltage Effect: How to Make Good Ideas Great and Great Ideas Scale. New York: Crown Currency."
   },
   {
     "objectID": "resources.html#federal-evaluation",
@@ -130,7 +130,7 @@
     "href": "schedule.html",
     "title": "Course Schedule",
     "section": "",
-    "text": "Week\nDate\nGuiding question\nTopic\nStory\nCase Study\nAssignment\n\n\n\n\n1\nMar 9\nWhat is program evaluation? Where are we headed in this course?\nIntroduction and overview\nJohn Snow\n\n\n\n\n2\nMar 16\nWhy do evaluation?\nGoals and Types of Evaluation\nHigh Line Park\nCase 1: Northwest Housing Alternatives\nCase Response"
+    "text": "Week\nDate\nGuiding question\nTopic\nStory\nCase Study\nAssignment\n\n\n\n\n1\nMar 9\nWhat is program evaluation? Where are we headed in this course?\nIntroduction and overview\nJohn Snow\n\n\n\n\n2\nMar 16\nWhy do evaluation?\nGoals and Types of Evaluation\nHigh Line Park\nCase 1: Northwest Housing Alternatives\nCase Response 1"
   },
   {
     "objectID": "index.html",
@@ -186,7 +186,7 @@
     "href": "casestudies.html",
     "title": "Case Studies",
     "section": "",
-    "text": "#\nCase\npdf\nDue date\n\n\n\n\n1\nNorthwest Housing Alternatives\n\nMarch 16, 2024"
+    "text": "#\nCase\nDue date\n\n\n\n\n1\nNorthwest Housing Alternatives\nMarch 16, 2024"
   },
   {
     "objectID": "casestudies/case1.html",
@@ -198,14 +198,14 @@
   {
     "objectID": "casestudies/case1.html#questions",
     "href": "casestudies/case1.html#questions",
-    "title": "Assignment 1 Deep dive in carbon emissions",
+    "title": "Northwest Housing Atlertative",
     "section": "Questions",
     "text": "Questions"
   },
   {
     "objectID": "casestudies/case1.html#further-readings",
     "href": "casestudies/case1.html#further-readings",
-    "title": "Assignment 1 Deep dive in carbon emissions",
+    "title": "Northwest Housing Atlertative",
     "section": "Further readings",
     "text": "Further readings"
   },
@@ -494,7 +494,7 @@
     "href": "resources.html#relevant-texts",
     "title": "Resources",
     "section": "",
-    "text": "Huntington-Klein, Nick. 2022. The Effect: An Introduction to Research Design and Causality. 1st edition. Boca Raton London New York: Chapman and Hall/CRC.\n\n\n\n\n\nPearl, Judea, and Dana Mackenzie. 2018. The Book of Why: The New Science of Cause and Effect. 1st edition. New York: Basic Books.\n\nAngrist, Joshua, and Jörn-Steffen Pischke. 2009. Mostly Harmless Econometrics. Princeton University Press.\n\nList, John A. 2022. The Voltage Effect: How to Make Good Ideas Great and Great Ideas Scale. New York: Crown Currency."
+    "text": "Huntington-Klein, Nick. 2022. The Effect: An Introduction to Research Design and Causality. 1st edition. Boca Raton London New York: Chapman and Hall/CRC.\nCunningham, Scott. 2021. Causal Inference: The Mixtape. New Haven London: Yale University Press.\n\n\n\n\n\nPearl, Judea, and Dana Mackenzie. 2018. The Book of Why: The New Science of Cause and Effect. 1st edition. New York: Basic Books.\n\nAngrist, Joshua, and Jörn-Steffen Pischke. 2009. Mostly Harmless Econometrics. Princeton University Press.\n\nList, John A. 2022. The Voltage Effect: How to Make Good Ideas Great and Great Ideas Scale. New York: Crown Currency."
   },
   {
     "objectID": "lectures/lecture2.html#recap-lecture-1",
@@ -522,7 +522,7 @@
     "href": "lectures/lecture2.html#type-of-evaluation",
     "title": "Lecture 2 Goals and Types of Evaluation",
     "section": "Type of evaluation",
-    "text": "Type of evaluation\n\nFormative ↔︎ Summative\nOngoing ↔︎ One-Shot\nObjective ↔︎ Observers Participatory\nGoal-Oriented ↔︎“Goal-Free”\nQuantitative ↔︎Qualitative\nEx Ante ↔︎ Post Program\nProblem Orientation ↔︎ Non-Problem\n\n\nSource: Newcomer, Hatry, and Wholey (2015)"
+    "text": "Type of evaluation\n\nFormative ↔︎ Summative\nOngoing ↔︎ One-Shot\nObjective ↔︎ Observers Participatory\nGoal-Oriented ↔︎ “Goal-Free”\nQuantitative ↔︎ Qualitative\nEx Ante ↔︎ Post Program\nProblem Orientation ↔︎ Non-Problem\n\n\nSource: Newcomer, Hatry, and Wholey (2015)"
   },
   {
     "objectID": "lectures/lecture2.html#exploratory-evaluation",
@@ -571,7 +571,7 @@
     "href": "lectures/lecture2.html#references",
     "title": "Lecture 2 Goals and Types of Evaluation",
     "section": "",
-    "text": "References\n\n\nNewcomer, Kathryn E., Harry P. Hatry, and Joseph S. Wholey. 2015. Handbook of Practical Program Evaluation. 4th edition. San Francisco: Jossey-Bass.\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He\n\n\n\n\nhttps://drganghe.github.io/program-evaluation/"
+    "text": "References\n\n\nLimbani, Felix, Jane Goudge, Rohina Joshi, Marion A. Maar, J. Jaime Miranda, Brian Oldenburg, Gary Parker, et al. 2019. “Process Evaluation in the Field: Global Learnings from Seven Implementation Research Hypertension Projects in Low-and Middle-Income Countries.” BMC Public Health 19 (1): 953. https://doi.org/10.1186/s12889-019-7261-8.\n\n\nNewcomer, Kathryn E., Harry P. Hatry, and Joseph S. Wholey. 2015. Handbook of Practical Program Evaluation. 4th edition. San Francisco: Jossey-Bass.\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He\n\n\n\n\nhttps://drganghe.github.io/program-evaluation/"
   },
   {
     "objectID": "lectures/lecture2.html#high-line-park-story",
@@ -593,5 +593,26 @@
     "title": "Lecture 2 Goals and Types of Evaluation",
     "section": "CRE framework",
     "text": "CRE framework\n\n\nSource: Newcomer, Hatry, and Wholey (2015)"
+  },
+  {
+    "objectID": "lectures/lecture2.html#types-and-uses-of-evaluation",
+    "href": "lectures/lecture2.html#types-and-uses-of-evaluation",
+    "title": "Lecture 2 Goals and Types of Evaluation",
+    "section": "Types and uses of evaluation",
+    "text": "Types and uses of evaluation\n\n\n\n\n\n\n\n\n\n\nEvaluation Types\nWhen to use\nWhat it shows\nWhy it is useful\n\n\n\n\nFormative Evaluation Evaluability Assessment Needs Assessment\n- During the development of a new program.  - When an existing program being modified or is being used in a new setting or with a new population.\n- Whether the proposed program elements are likely to be needed, understood, and accepted by the population you want to reach. - The extent to which an evaluation is possible, based on the goals and objectives.\n- It allows for modification to be made to the plan before full implementation begins.- Maximizes the likelihood that the program will succeed\n\n\nProcess EvaluationProgram Monitoring\n- As soon as program implementation begins.- During operation of an existing program.\n- How well the program is working- The extent to which the program is being implemented as designed- Whether the program is accessible and acceptable to its target population\n- Provides an early warning for any problems that may occur- Allows programs to monitor how well their program plans and activities are working\n\n\nOutcome Evaluation Objectives-Based Evaluation\n- After the program has made contact with at least one person or group in the target population\n- The degree to which the program is having an effect on the target population’s behaviors.\n- Tells whether the program is being effective in meeting its objectives.\n\n\nEconomic Evaluation: Cost Analysis, Cost-Effectiveness Evaluation, Cost-Benefit Analysis, Cost-Utility Analysis\n- At the beginning of a program- During the operation of an existing program.\n- What resources are being used in a program and their costs (direct and indirect) compared to outcome\n- Provides program managers and funders a way to assess cost relative to effects. “How much bang for your buck.\n\n\nImpact Evaluation\n- During the operation of an existing program at appropriate intervals. - At the end of a program.\n- The degree to which the program meets its ultimate goal on an overall rate of STD transmission (how much has program X decreased the morbidity of an STD beyond the study population).\n- Provides evidence for use in policy and funding decisions\n\n\n\n\n\nSource: CDC"
+  },
+  {
+    "objectID": "lectures/lecture2.html#process-evaluation-in-the-ripple-study",
+    "href": "lectures/lecture2.html#process-evaluation-in-the-ripple-study",
+    "title": "Lecture 2 Goals and Types of Evaluation",
+    "section": "Process evaluation in the RIPPLE study",
+    "text": "Process evaluation in the RIPPLE study\n\nSource: CDC"
+  },
+  {
+    "objectID": "lectures/lecture2.html#process-evaluation-can-be-very-useful",
+    "href": "lectures/lecture2.html#process-evaluation-can-be-very-useful",
+    "title": "Lecture 2 Goals and Types of Evaluation",
+    "section": "Process evaluation can be very useful",
+    "text": "Process evaluation can be very useful\n\n\nSource: Limbani et al. (2019)"
   }
 ]

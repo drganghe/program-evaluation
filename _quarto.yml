@@ -19,8 +19,8 @@ website:
         href: schedule.qmd
       - text: Lectures
         href: lectures.qmd
-      - text: Case Studies
-        href: casestudies.qmd             
+      - text: Stories
+        href: stories.qmd             
       - text: Project
         href: project.qmd        
       - text: Resources
@@ -64,7 +64,8 @@ format:
     link-external-newwindow: true
     #link-external-filter: '^(?:http:|https:)\/\/drganghe\.github\.io\/custom'
 
-comments:
-  hypothesis: false
+#comments:
+#  giscus: 
+#    repo: drganghe/program-evaluation
   
 

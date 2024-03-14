@@ -73,8 +73,8 @@ Source: @newcomer_handbook_2015
 Formative &harr; Summative   
 Ongoing &harr; One-Shot   
 Objective &harr; Observers Participatory  
-Goal-Oriented &harr;“Goal-Free”   
-Quantitative &harr;Qualitative   
+Goal-Oriented &harr; “Goal-Free”   
+Quantitative &harr; Qualitative   
 Ex Ante &harr; Post Program   
 Problem Orientation &harr; Non-Problem  
 </center>
@@ -82,6 +82,44 @@ Problem Orientation &harr; Non-Problem
 ::: footer
 Source: @newcomer_handbook_2015
 :::
+
+
+## Types and uses of evaluation
+
+::: {style="font-size: 16px;"}
+|Evaluation Types|When to use|What it shows|Why it is useful|
+|---|---|---|---|
+|Formative Evaluation<br /> Evaluability Assessment<br /> Needs Assessment |- During the development of a new program. <br /> - When an existing program being modified or is being used in a new setting or with a new population. |- Whether the proposed program elements are likely to be needed, understood, and accepted by the population you want to reach. <br />- The extent to which an evaluation is possible, based on the goals and objectives. |- It allows for modification to be made to the plan before full implementation begins.<br />- Maximizes the likelihood that the program will succeed |
+|Process Evaluation<br />Program Monitoring |- As soon as program implementation begins.<br />- During operation of an existing program.  | - How well the program is working<br />- The extent to which the program is being implemented as designed<br />- Whether the program is accessible and acceptable to its target population | - Provides an early warning for any problems that may occur<br />- Allows programs to monitor how well their program plans and activities are working |
+|Outcome Evaluation<br /> Objectives-Based Evaluation | - After the program has made contact with at least one person or group in the target population  | - The degree to which the program is having an effect on the target population's behaviors. | - Tells whether the program is being effective in meeting its objectives. |
+|Economic Evaluation: Cost Analysis, Cost-Effectiveness Evaluation, Cost-Benefit Analysis, Cost-Utility Analysis| - At the beginning of a program<br />- During the operation of an existing program. | - What resources are being used in a program and their costs (direct and indirect) compared to outcome | - Provides program managers and funders a way to assess cost relative to effects. "How much bang for your buck. |
+|Impact Evaluation| - During the operation of an existing program at appropriate intervals. <br />- At the end of a program. | - The degree to which the program meets its ultimate goal on an overall rate of STD transmission (how much has program X decreased the morbidity of an STD beyond the study population).  | - Provides evidence for use in policy and funding decisions |
+:::
+
+::: footer
+Source: [CDC](https://www.cdc.gov/std/program/pupestd/types%20of%20evaluation.pdf)
+:::
+
+<!---
+## Process evaluation in the RIPPLE study
+
+- The RIPPLE (randomised intervention of pupil peer led sex education) study: whether peer delivered sex education is more effective than teacher delivered sessions at decreasing risky sexual behaviour 
+- It involves 27 English secondary schools and follow-up to age 19.
+- The outcome results by age 16 showed that the peer led approach improved some knowledge outcomes; increased satisfaction with sex education; and reduced intercourse and increased confidence about the use of condoms in girls
+
+::: footer
+Source: @oakley_process_2006
+:::
+--->
+
+## Process evaluation can be very useful
+
+![](/lectures/images/lessons-learned-from-the-process-evaluations.png){fig-align="center"}
+
+::: footer
+Source: @limbani_process_2019
+:::
+
 
 ## Exploratory evaluation
 
