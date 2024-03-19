@@ -6,7 +6,7 @@ This is the website for the Program Evaluation class. I share the slides, homewo
 
 This class benefits from many similar classes and I cannot credit them enough below:  
 
-- PAF7174 taught by Prof. [George Mitchell](https://www.baruch.cuny.edu/profiles/faculty/George-Ellis-Mitchell) 
+- PAF7174 taught by Prof. [George Mitchell](https://www.baruch.cuny.edu/profiles/faculty/George-E.-Mitchell) 
 - Dr. Andrew Heiss, [Program Evaluation](https://evalsp24.classes.andrewheiss.com/)
 
 

@@ -1,0 +1,119 @@
+---
+title: "Lecture 3 Logic and causal models"
+description-meta: "Formulating good questions."
+author: "Gang He"
+date: Mar 23, 2024
+date-format: long
+image: "/lectures/images/high-line-park.jpg"
+format:
+  revealjs:
+    theme: white
+ #   embed-resources: true
+    slide-number: true
+    preview-links: auto
+    link-external-newwindow: true
+    citations-hover: true
+    auto-stretch: true
+    r-fit-text: true
+    center: true
+    scrollable: true
+    css: /custom.css
+    footer: <https://drganghe.github.io/program-evaluation/>
+draft: true
+---
+
+## Recap lecture 2
+
+- Types and applications of evaluation
+- Exploratory evaluation
+- High Line Park
+- Culcural responsive evaluation
+- Northwest Housing Associates
+
+
+## Today's agenda
+
+- Theory of change
+- Logic model
+- DAG: Directed Acyclic Graphs
+- Causal models
+- Jobs Plus case
+
+
+## Theory of change
+
+<center>
+
+```{mermaid}
+flowchart LR
+  A(IRA) --> B(Subsidies)
+  B --> C(Investment)
+  B --> D(Jobs)
+  C <--> D
+  C --> E(Domestic Manufacturing)
+  D --> E(Domestic Manufacturing)
+```
+
+</center>
+
+
+## Elements of a program
+
+::: columns
+
+::: {.column width="50%"}
+Inputs:  
+
+Things that go into an activity; money, people, time, etc.
+
+Activities:
+
+Actions that convert inputs to outputs; things that the program does
+:::
+
+::: {.column width="50%"}
+Outputs:
+
+Tangible goods and services produced by activities; you have control over these
+
+
+Outcomes:
+
+What happens when the target population uses the outputs; you don't have control over these
+:::
+
+:::
+
+:::{style=""}
+Inputs → Activities → Outputs → Outcomes
+
+::: footer
+Read more: [Andrew Wheiss](https://evalsp24.classes.andrewheiss.com/)
+:::
+
+
+## Capturing the wedege
+
+![](/lectures/images/program-effect.png){fig-align="center"}
+
+::: footer
+Source: [Andrew Wheiss](https://evalsp24.classes.andrewheiss.com/)
+:::
+
+
+## Directed Acyclic Graphs
+
+
+
+
+
+------------------------------------------------------------------------
+
+### References
+
+::: {#refs}
+:::
+
+::: footer
+Back to Title [Slide](https://drganghe.github.io/program-evaluation/lectures/lecture3/#/title-slide), All [Lectures](https://drganghe.github.io/program-evaluation/lectures.html), Course [Home](https://drganghe.github.io/program-evaluation/), or Learn More About [Gang He](https://drganghe.github.io)
+:::
