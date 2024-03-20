@@ -38,6 +38,7 @@ draft: true
 - DAG: Directed Acyclic Graphs
 - Causal models
 - Jobs Plus case
+- Ask a good question game
 
 
 ## Theory of change
@@ -101,10 +102,70 @@ Source: [Andrew Wheiss](https://evalsp24.classes.andrewheiss.com/)
 :::
 
 
-## Directed Acyclic Graphs
+## Data
+
+- Experimental: you have control over which units receive treatment
+- Observational: you do not have control over which units receive treatment
 
 
+## Natural experiments
 
+Real experiments could be 
+- High costs  
+- Unethical  
+- Infeasible  
+
+
+## Stories
+
+- Dell M, Querubin P. Nation Building Through Foreign Intervention: Evidence from Discontinuities in Military Strategies. *The Quarterly Journal of Economics* 2018;133:701–64. <https://doi.org/10.1093/qje/qjx037>.  
+-Chen Y, Ebenstein A, Greenstone M, Li H. Evidence on the impact of sustained exposure to air pollution on life expectancy from China’s Huai River policy. *PNAS* 2013. <https://doi.org/10.1073/pnas.1300018110>.
+
+
+## Directed Acyclic Graphs (DAG)
+
+Directed: Each node has an arrow that points to another node
+
+Acyclic: You can't cycle back to a node (and arrows only have one direction)
+
+Graph: It's a graph
+
+::: footer
+Source: [Andrew Wheiss](https://evalsp24.classes.andrewheiss.com/)
+:::
+
+## Draw a DAG
+
+Step 1: List variables
+
+Step 2: Simplify
+
+Step 3: Connect arrows
+
+Step 4: Use logic and math to determine
+which nodes and arrows to measure
+
+::: footer
+Source: [Andrew Wheiss](https://evalsp24.classes.andrewheiss.com/)
+:::
+
+
+## Causal identification
+
+A causal effect is identified if the association between treatment and outcome is propertly stripped and isolated.
+
+- Arrows in a DAG transmit associations  
+- We can redirect and control those paths by "adjusting" or "conditioning"
+
+
+## 
+
+
+## Causal models
+
+- Randomized controlled trail (RCT)
+- Regressional discontinuity (RD)
+- Diference in difference (DiD)
 
 
 ------------------------------------------------------------------------
