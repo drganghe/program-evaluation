@@ -1,10 +1,10 @@
 ---
-title: "Lecture 3 Logic and causal models"
+title: "Lecture 3 Logic and Causal Models"
 description-meta: "Formulating good questions."
 author: "Gang He"
 date: Mar 23, 2024
 date-format: long
-image: "/lectures/images/high-line-park.jpg"
+image: "/lectures/images/program-effect.png"
 format:
   revealjs:
     theme: white
@@ -19,7 +19,7 @@ format:
     scrollable: true
     css: /custom.css
     footer: <https://drganghe.github.io/program-evaluation/>
-draft: true
+#draft: true
 ---
 
 ## Recap lecture 2
@@ -28,7 +28,7 @@ draft: true
 - Exploratory evaluation
 - High Line Park
 - Culcural responsive evaluation
-- Northwest Housing Associates
+- Northwest Housing Alternatives
 
 
 ## Today's agenda
@@ -37,7 +37,7 @@ draft: true
 - Logic model
 - DAG: Directed Acyclic Graphs
 - Causal models
-- Jobs Plus case
+- Jobs Plus in NYC case
 - Ask a good question game
 
 
@@ -58,35 +58,38 @@ flowchart LR
 </center>
 
 
-## Elements of a program
+## Elements of a program{.smaller}
 
 ::: columns
 
 ::: {.column width="50%"}
-Inputs:  
+**Inputs**:  
 
 Things that go into an activity; money, people, time, etc.
 
-Activities:
+**Activities**:
 
 Actions that convert inputs to outputs; things that the program does
 :::
 
 ::: {.column width="50%"}
-Outputs:
+**Outputs**:
 
 Tangible goods and services produced by activities; you have control over these
 
 
-Outcomes:
+**Outcomes**:
 
 What happens when the target population uses the outputs; you don't have control over these
 :::
 
 :::
 
-:::{style=""}
+:::{style="text-align:center;"}
+
 Inputs → Activities → Outputs → Outcomes
+
+:::
 
 ::: footer
 Read more: [Andrew Wheiss](https://evalsp24.classes.andrewheiss.com/)
@@ -110,16 +113,18 @@ Source: [Andrew Wheiss](https://evalsp24.classes.andrewheiss.com/)
 
 ## Natural experiments
 
-Real experiments could be 
+Real experiments could be   
+
 - High costs  
-- Unethical  
 - Infeasible  
+- Unethical  
+
 
 
 ## Stories
 
-- Dell M, Querubin P. Nation Building Through Foreign Intervention: Evidence from Discontinuities in Military Strategies. *The Quarterly Journal of Economics* 2018;133:701–64. <https://doi.org/10.1093/qje/qjx037>.  
--Chen Y, Ebenstein A, Greenstone M, Li H. Evidence on the impact of sustained exposure to air pollution on life expectancy from China’s Huai River policy. *PNAS* 2013. <https://doi.org/10.1073/pnas.1300018110>.
+- @dell_nation_2018  
+- @chen_evidence_2013 
 
 
 ## Directed Acyclic Graphs (DAG)
@@ -134,7 +139,12 @@ Graph: It's a graph
 Source: [Andrew Wheiss](https://evalsp24.classes.andrewheiss.com/)
 :::
 
+
 ## Draw a DAG
+
+::: columns
+
+::: {.column width="50%"}
 
 Step 1: List variables
 
@@ -142,8 +152,20 @@ Step 2: Simplify
 
 Step 3: Connect arrows
 
-Step 4: Use logic and math to determine
-which nodes and arrows to measure
+Step 4: Use logic and math to determine which nodes and arrows to measure
+
+:::
+
+::: {.column width="50%"}
+
+What is the causal effect of an additional year of education on earnings?
+
+![](/lectures/images/edu-earn-full-dag.png){fig-align="center"}
+
+:::
+
+:::
+
 
 ::: footer
 Source: [Andrew Wheiss](https://evalsp24.classes.andrewheiss.com/)
@@ -158,7 +180,168 @@ A causal effect is identified if the association between treatment and outcome i
 - We can redirect and control those paths by "adjusting" or "conditioning"
 
 
-## 
+## Three types of associations
+
+:::{style="text-align:center;"}
+
+::: columns
+
+::: {.column width="33%"}
+Confounding: Common cause
+
+![](/lectures/images/confounding-dag.png){fig-align="center"}
+:::
+
+::: {.column width="33%"}
+Causation: Mediation
+
+![](/lectures/images/mediation-dag.png){fig-align="center"}
+:::
+
+::: {.column width="33%"}
+Collision: Endogeneity/Selection
+
+![](/lectures/images/collision-dag.png){fig-align="center"}
+:::
+
+:::
+
+:::
+
+::: footer
+Source: [Andrew Wheiss](https://evalsp24.classes.andrewheiss.com/)
+:::
+
+
+## Confounding example
+
+::: columns
+
+::: {.column width="50%"}
+What's the relations between money and win margin?
+
+![](/lectures/images/money-elections-dag.png){fig-align="center"}
+:::
+
+::: {.column width="50%"}
+Money $\rightarrow$ Win   
+Money $\leftarrow$ Quality $\rightarrow$ Win   
+Quality is a backdoor   
+
+Solution:
+
+:::{style="font-size: 24px;"}
+
+- Find the part of campaign money that is explained by quality, remove it. This is the residual part of money.
+
+- Find the part of win margin that is explained by quality, remove it. This is the residual part of win margin.
+
+- Find the relationship between the residual part of money and residual part of win margin. This is the causal effect.
+
+:::
+
+:::
+
+:::
+
+
+## Causasion example
+
+::: columns
+
+::: {.column width="50%"}
+
+![](/lectures/images/edu-earn-full-dag.png){fig-align="center"}
+:::
+
+::: {.column width="50%"}
+
+Should you control job connections?
+
+- Avoid overcontrolling
+
+:::
+
+:::
+
+
+::: footer
+Source: [Andrew Wheiss](https://evalsp24.classes.andrewheiss.com/)
+:::
+
+
+
+## Colliders example
+
+::: columns
+
+::: {.column width="50%"}
+
+![](/lectures/images/programming-social-skills-dag.png){fig-align="center"}
+:::
+
+::: {.column width="50%"}
+
+Do programming skills reduce social skills?
+
+Hired by a tech company inadvertently connected the two.
+
+:::
+
+:::
+
+
+::: footer
+Source: [Andrew Wheiss](https://evalsp24.classes.andrewheiss.com/)
+:::
+
+
+## Colliders example
+
+::: columns
+
+::: {.column width="50%"}
+
+![](/lectures/images/nba-height-dag.png){fig-align="center"}
+:::
+
+::: {.column width="50%"}
+
+Height is unrelated to basketball skill among NBA players
+
+- Colliders can create fake causal effects
+
+- Colliders can hide real causal effects
+
+:::
+
+:::
+
+::: footer
+Source: [Andrew Wheiss](https://evalsp24.classes.andrewheiss.com/)
+:::
+
+
+## Counterfacture, intervention, and effects
+
+::: columns
+
+::: {.column width="50%"}
+
+![](/lectures/images/edu-earn-experiment.png){fig-align="center"}
+:::
+
+::: {.column width="50%"}
+
+- Control backdoors
+- Average treatment effect
+- Sub groups (age, race, ethnicity, income, etc.)
+
+:::
+
+:::
+
+
 
 
 ## Causal models

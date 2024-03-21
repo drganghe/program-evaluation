@@ -1,16 +1,18 @@
 [
   {
-    "listing": "/lectures.html",
-    "items": [
-      "/lectures/lecture1.html",
-      "/lectures/lecture2.html"
-    ]
-  },
-  {
     "listing": "/stories.html",
     "items": [
       "/stories/john-snow-and-evidence-based-analysis.html",
-      "/stories/high-line-park.html"
+      "/stories/high-line-park.html",
+      "/stories/bombing-heating-and-causal-models.html"
+    ]
+  },
+  {
+    "listing": "/lectures.html",
+    "items": [
+      "/lectures/lecture1.html",
+      "/lectures/lecture2.html",
+      "/lectures/lecture3.html"
     ]
   }
 ]

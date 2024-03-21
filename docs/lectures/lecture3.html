@@ -8,11 +8,11 @@
 <link href="../site_libs/quarto-html/light-border.css" rel="stylesheet">
 <link href="../site_libs/quarto-html/quarto-html.min.css" rel="stylesheet" data-mode="light">
 <link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
-  <meta name="generator" content="quarto-1.5.6">
+  <meta name="generator" content="quarto-1.4.551">
 
   <meta name="author" content="Gang He">
   <meta name="dcterms.date" content="2024-03-23">
-  <title>Program Evaluation – Lecture 3 Logic and causal models</title>
+  <title>Program Evaluation - Lecture 3 Logic and Causal Models</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
@@ -34,6 +34,7 @@
     div.csl-bib-body { }
     div.csl-entry {
       clear: both;
+      margin-bottom: 0em;
     }
     .hanging-indent div.csl-entry {
       margin-left:2em;
@@ -354,11 +355,15 @@
   <script src="../site_libs/quarto-diagram/mermaid.min.js"></script>
   <script src="../site_libs/quarto-diagram/mermaid-init.js"></script>
   <link href="../site_libs/quarto-diagram/mermaid.css" rel="stylesheet">
-<meta property="og:title" content="Program Evaluation - Lecture 3 Logic and causal models">
-<meta property="og:image" content="https://drganghe.github.io/program-evaluation/lectures/images/high-line-park.jpg">
+<meta property="og:title" content="Program Evaluation - Lecture 3 Logic and Causal Models">
+<meta property="og:image" content="https://drganghe.github.io/program-evaluation/lectures/images/program-effect.png">
 <meta property="og:site_name" content="Program Evaluation">
-<meta name="twitter:title" content="Program Evaluation - Lecture 3 Logic and causal models">
-<meta name="twitter:image" content="https://drganghe.github.io/program-evaluation/lectures/images/high-line-park.jpg">
+<meta property="og:image:height" content="1032">
+<meta property="og:image:width" content="2438">
+<meta name="twitter:title" content="Program Evaluation - Lecture 3 Logic and Causal Models">
+<meta name="twitter:image" content="https://drganghe.github.io/program-evaluation/lectures/images/program-effect.png">
+<meta name="twitter:image-height" content="1032">
+<meta name="twitter:image-width" content="2438">
 <meta name="twitter:card" content="summary_large_image">
 </head>
 <body class="quarto-light">
@@ -366,7 +371,7 @@
     <div class="slides">
 
 <section id="title-slide" class="quarto-title-block center">
-  <h1 class="title">Lecture 3 Logic and causal models</h1>
+  <h1 class="title">Lecture 3 Logic and Causal Models</h1>
 
 <div class="quarto-title-authors">
 <div class="quarto-title-author">
@@ -385,7 +390,7 @@ Gang He
 <li>Exploratory evaluation</li>
 <li>High Line Park</li>
 <li>Culcural responsive evaluation</li>
-<li>Northwest Housing Associates</li>
+<li>Northwest Housing Alternatives</li>
 </ul>
 </section>
 <section id="todays-agenda" class="slide level2 center">
@@ -395,7 +400,8 @@ Gang He
 <li>Logic model</li>
 <li>DAG: Directed Acyclic Graphs</li>
 <li>Causal models</li>
-<li>Jobs Plus case</li>
+<li>Jobs Plus in NYC case</li>
+<li>Ask a good question game</li>
 </ul>
 </section>
 <section id="theory-of-change" class="slide level2 center">
@@ -421,22 +427,24 @@ Gang He
 </div>
 </center>
 </section>
-<section id="elements-of-a-program" class="slide level2 center">
+<section id="elements-of-a-program" class="slide level2 smaller center">
 <h2>Elements of a program</h2>
 <div class="columns">
 <div class="column" style="width:50%;">
-<p>Inputs:</p>
+<p><strong>Inputs</strong>:</p>
 <p>Things that go into an activity; money, people, time, etc.</p>
-<p>Activities:</p>
+<p><strong>Activities</strong>:</p>
 <p>Actions that convert inputs to outputs; things that the program does</p>
 </div><div class="column" style="width:50%;">
-<p>Outputs:</p>
+<p><strong>Outputs</strong>:</p>
 <p>Tangible goods and services produced by activities; you have control over these</p>
-<p>Outcomes:</p>
+<p><strong>Outcomes</strong>:</p>
 <p>What happens when the target population uses the outputs; you don’t have control over these</p>
 </div>
 </div>
-<p>:::{style=““} Inputs → Activities → Outputs → Outcomes</p>
+<div style="text-align:center;">
+<p>Inputs → Activities → Outputs → Outcomes</p>
+</div>
 <div class="footer">
 <p>Read more: <a href="https://evalsp24.classes.andrewheiss.com/">Andrew Wheiss</a></p>
 </div>
@@ -444,18 +452,227 @@ Gang He
 <section id="capturing-the-wedege" class="slide level2 center">
 <h2>Capturing the wedege</h2>
 
-<img data-src="..\lectures/images/program-effect.png" class="quarto-figure quarto-figure-center r-stretch"><div class="footer">
+<img data-src="../lectures/images/program-effect.png" class="quarto-figure quarto-figure-center r-stretch"><div class="footer">
 <p>Source: <a href="https://evalsp24.classes.andrewheiss.com/">Andrew Wheiss</a></p>
 </div>
 </section>
-<section id="directed-acyclic-graphs" class="slide level2 center">
-<h2>Directed Acyclic Graphs</h2>
+<section id="data" class="slide level2 center">
+<h2>Data</h2>
+<ul>
+<li>Experimental: you have control over which units receive treatment</li>
+<li>Observational: you do not have control over which units receive treatment</li>
+</ul>
+</section>
+<section id="natural-experiments" class="slide level2 center">
+<h2>Natural experiments</h2>
+<p>Real experiments could be</p>
+<ul>
+<li>High costs<br>
+</li>
+<li>Infeasible<br>
+</li>
+<li>Unethical</li>
+</ul>
+</section>
+<section id="stories" class="slide level2 center">
+<h2>Stories</h2>
+<ul>
+<li><span class="citation" data-cites="dell_nation_2018">Dell and Querubin (<a href="#/references" role="doc-biblioref" onclick="">2018</a>)</span><br>
+</li>
+<li><span class="citation" data-cites="chen_evidence_2013">Chen et al. (<a href="#/references" role="doc-biblioref" onclick="">2013</a>)</span></li>
+</ul>
+</section>
+<section id="directed-acyclic-graphs-dag" class="slide level2 center">
+<h2>Directed Acyclic Graphs (DAG)</h2>
+<p>Directed: Each node has an arrow that points to another node</p>
+<p>Acyclic: You can’t cycle back to a node (and arrows only have one direction)</p>
+<p>Graph: It’s a graph</p>
+<div class="footer">
+<p>Source: <a href="https://evalsp24.classes.andrewheiss.com/">Andrew Wheiss</a></p>
+</div>
+</section>
+<section id="draw-a-dag" class="slide level2 center">
+<h2>Draw a DAG</h2>
+<div class="columns">
+<div class="column" style="width:50%;">
+<p>Step 1: List variables</p>
+<p>Step 2: Simplify</p>
+<p>Step 3: Connect arrows</p>
+<p>Step 4: Use logic and math to determine which nodes and arrows to measure</p>
+</div><div class="column" style="width:50%;">
+<p>What is the causal effect of an additional year of education on earnings?</p>
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="../lectures/images/edu-earn-full-dag.png" class="quarto-figure quarto-figure-center"></p>
+</figure>
+</div>
+</div>
+</div>
+<div class="footer">
+<p>Source: <a href="https://evalsp24.classes.andrewheiss.com/">Andrew Wheiss</a></p>
+</div>
+</section>
+<section id="causal-identification" class="slide level2 center">
+<h2>Causal identification</h2>
+<p>A causal effect is identified if the association between treatment and outcome is propertly stripped and isolated.</p>
+<ul>
+<li>Arrows in a DAG transmit associations<br>
+</li>
+<li>We can redirect and control those paths by “adjusting” or “conditioning”</li>
+</ul>
+</section>
+<section id="three-types-of-associations" class="slide level2 center">
+<h2>Three types of associations</h2>
+<div style="text-align:center;">
+<div class="columns">
+<div class="column" style="width:33%;">
+<p>Confounding: Common cause</p>
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="../lectures/images/confounding-dag.png" class="quarto-figure quarto-figure-center"></p>
+</figure>
+</div>
+</div><div class="column" style="width:33%;">
+<p>Causation: Mediation</p>
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="../lectures/images/mediation-dag.png" class="quarto-figure quarto-figure-center"></p>
+</figure>
+</div>
+</div><div class="column" style="width:33%;">
+<p>Collision: Endogeneity/Selection</p>
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="../lectures/images/collision-dag.png" class="quarto-figure quarto-figure-center"></p>
+</figure>
+</div>
+</div>
+</div>
+</div>
+<div class="footer">
+<p>Source: <a href="https://evalsp24.classes.andrewheiss.com/">Andrew Wheiss</a></p>
+</div>
+</section>
+<section id="confounding-example" class="slide level2 center">
+<h2>Confounding example</h2>
+<div class="columns">
+<div class="column" style="width:50%;">
+<p>What’s the relations between money and win margin?</p>
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="../lectures/images/money-elections-dag.png" class="quarto-figure quarto-figure-center"></p>
+</figure>
+</div>
+</div><div class="column" style="width:50%;">
+<p>Money <span class="math inline">\(\rightarrow\)</span> Win<br>
+Money <span class="math inline">\(\leftarrow\)</span> Quality <span class="math inline">\(\rightarrow\)</span> Win<br>
+Quality is a backdoor</p>
+<p>Solution:</p>
+<div style="font-size: 24px;">
+<ul>
+<li><p>Find the part of campaign money that is explained by quality, remove it. This is the residual part of money.</p></li>
+<li><p>Find the part of win margin that is explained by quality, remove it. This is the residual part of win margin.</p></li>
+<li><p>Find the relationship between the residual part of money and residual part of win margin. This is the causal effect.</p></li>
+</ul>
+</div>
+</div>
+</div>
+</section>
+<section id="causasion-example" class="slide level2 center">
+<h2>Causasion example</h2>
+<div class="columns">
+<div class="column" style="width:50%;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="../lectures/images/edu-earn-full-dag.png" class="quarto-figure quarto-figure-center"></p>
+</figure>
+</div>
+</div><div class="column" style="width:50%;">
+<p>Should you control job connections?</p>
+<ul>
+<li>Avoid overcontrolling</li>
+</ul>
+</div>
+</div>
+<div class="footer">
+<p>Source: <a href="https://evalsp24.classes.andrewheiss.com/">Andrew Wheiss</a></p>
+</div>
+</section>
+<section id="colliders-example" class="slide level2 center">
+<h2>Colliders example</h2>
+<div class="columns">
+<div class="column" style="width:50%;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="../lectures/images/programming-social-skills-dag.png" class="quarto-figure quarto-figure-center"></p>
+</figure>
+</div>
+</div><div class="column" style="width:50%;">
+<p>Do programming skills reduce social skills?</p>
+<p>Hired by a tech company inadvertently connected the two.</p>
+</div>
+</div>
+<div class="footer">
+<p>Source: <a href="https://evalsp24.classes.andrewheiss.com/">Andrew Wheiss</a></p>
+</div>
+</section>
+<section id="colliders-example-1" class="slide level2 center">
+<h2>Colliders example</h2>
+<div class="columns">
+<div class="column" style="width:50%;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="../lectures/images/nba-height-dag.png" class="quarto-figure quarto-figure-center"></p>
+</figure>
+</div>
+</div><div class="column" style="width:50%;">
+<p>Height is unrelated to basketball skill among NBA players</p>
+<ul>
+<li><p>Colliders can create fake causal effects</p></li>
+<li><p>Colliders can hide real causal effects</p></li>
+</ul>
+</div>
+</div>
+<div class="footer">
+<p>Source: <a href="https://evalsp24.classes.andrewheiss.com/">Andrew Wheiss</a></p>
+</div>
+</section>
+<section id="counterfacture-intervention-and-effects" class="slide level2 center">
+<h2>Counterfacture, intervention, and effects</h2>
+<div class="columns">
+<div class="column" style="width:50%;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="../lectures/images/edu-earn-experiment.png" class="quarto-figure quarto-figure-center"></p>
+</figure>
+</div>
+</div><div class="column" style="width:50%;">
+<ul>
+<li>Control backdoors</li>
+<li>Average treatment effect</li>
+<li>Sub groups (age, race, ethnicity, income, etc.)</li>
+</ul>
+</div>
+</div>
+</section>
+<section id="causal-models" class="slide level2 center">
+<h2>Causal models</h2>
+<ul>
+<li>Randomized controlled trail (RCT)</li>
+<li>Regressional discontinuity (RD)</li>
+<li>Diference in difference (DiD)</li>
+</ul>
 </section>
 <section class="slide level2 smaller scrollable" id="references">
 
 <h3 id="references">References</h3>
-<div id="refs" role="list">
-
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
+<div id="ref-chen_evidence_2013" class="csl-entry" role="listitem">
+Chen, Yuyu, Avraham Ebenstein, Michael Greenstone, and Hongbin Li. 2013. <span>“Evidence on the Impact of Sustained Exposure to Air Pollution on Life Expectancy from <span>China</span>’s <span>Huai</span> <span>River</span> Policy.”</span> <em>Proceedings of the National Academy of Sciences</em>, July. <a href="https://doi.org/10.1073/pnas.1300018110">https://doi.org/10.1073/pnas.1300018110</a>.
+</div>
+<div id="ref-dell_nation_2018" class="csl-entry" role="listitem">
+Dell, Melissa, and Pablo Querubin. 2018. <span>“Nation <span>Building</span> <span>Through</span> <span>Foreign</span> <span>Intervention</span>: <span>Evidence</span> from <span>Discontinuities</span> in <span>Military</span> <span>Strategies</span>.”</span> <em>The Quarterly Journal of Economics</em> 133 (2): 701–64. <a href="https://doi.org/10.1093/qje/qjx037">https://doi.org/10.1093/qje/qjx037</a>.
+</div>
 </div>
 <div class="footer">
 <p>Back to Title <a href="https://drganghe.github.io/program-evaluation/lectures/lecture3/#/title-slide">Slide</a>, All <a href="https://drganghe.github.io/program-evaluation/lectures.html">Lectures</a>, Course <a href="https://drganghe.github.io/program-evaluation/">Home</a>, or Learn More About <a href="https://drganghe.github.io">Gang He</a></p>
@@ -764,6 +981,11 @@ Gang He
         for (var i=0; i<links.length; i++) {
           const link = links[i];
           if (!isInternal(link.href)) {
+            // undo the damage that might have been done by quarto-nav.js in the case of
+            // links that we want to consider external
+            if (link.dataset.originalHref !== undefined) {
+              link.href = link.dataset.originalHref;
+            }
               // target, if specified
               link.setAttribute("target", "_blank");
               if (link.getAttribute("rel") === null) {
@@ -807,7 +1029,11 @@ Gang He
           try { href = new URL(href).hash; } catch {}
           const id = href.replace(/^#\/?/, "");
           const note = window.document.getElementById(id);
-          return note.innerHTML;
+          if (note) {
+            return note.innerHTML;
+          } else {
+            return "";
+          }
         });
       }
       const findCites = (el) => {

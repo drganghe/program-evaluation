@@ -23,7 +23,7 @@ format:
       - heightrounded
     #fontfamily: xelatex
     colorlinks: true
-draft: true
+#draft: true
 ---
 
 ## Bombing strategy in Vietnam
@@ -35,7 +35,7 @@ draft: true
 - A strategy emphasizing overwhelming firepower plausibly increased insurgent attacks and worsened attitudes toward the U.S. and South Vietnamese government, relative to a more hearts-and-minds-oriented approach.
 
 
-## Heating difference between the North and South China
+## Heating differences between the North and South in China
 
 - China’s Huai River policy: free winter heating via the provision of coal for boilers in cities north of the Huai River but denied heat to the south. 
 - Regression discontinuity design based on distance from the Huai River
@@ -55,7 +55,7 @@ draft: true
 ## Further readings
 
 - Dell M, Querubin P. Nation Building Through Foreign Intervention: Evidence from Discontinuities in Military Strategies. *The Quarterly Journal of Economics* 2018;133:701–64. <https://doi.org/10.1093/qje/qjx037>.  
--Chen Y, Ebenstein A, Greenstone M, Li H. Evidence on the impact of sustained exposure to air pollution on life expectancy from China’s Huai River policy. *PNAS* 2013. <https://doi.org/10.1073/pnas.1300018110>.
+- Chen Y, Ebenstein A, Greenstone M, Li H. Evidence on the impact of sustained exposure to air pollution on life expectancy from China’s Huai River policy. *PNAS* 2013. <https://doi.org/10.1073/pnas.1300018110>.
 
 
 
