@@ -8,11 +8,11 @@
 <link href="../site_libs/quarto-html/light-border.css" rel="stylesheet">
 <link href="../site_libs/quarto-html/quarto-html.min.css" rel="stylesheet" data-mode="light">
 <link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
-  <meta name="generator" content="quarto-1.4.551">
+  <meta name="generator" content="quarto-1.5.25">
 
   <meta name="author" content="Gang He">
   <meta name="dcterms.date" content="2024-03-23">
-  <title>Program Evaluation - Lecture 3 Logic and Causal Models</title>
+  <title>Program Evaluation – Lecture 3 Logic and Causal Models</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
@@ -443,10 +443,10 @@ Gang He
 </div>
 </div>
 <div style="text-align:center;">
-<p>Inputs → Activities → Outputs → Outcomes</p>
+<p>Inputs → Activities → Outputs → Outcomes → Final outcomes</p>
 </div>
 <div class="footer">
-<p>Read more: <a href="https://evalsp24.classes.andrewheiss.com/">Andrew Wheiss</a></p>
+<p>Source: <span class="citation" data-cites="gertler_impact_2016">Gertler et al. (<a href="#/references" role="doc-biblioref" onclick="">2016</a>)</span></p>
 </div>
 </section>
 <section id="capturing-the-wedege" class="slide level2 center">
@@ -658,9 +658,11 @@ Quality is a backdoor</p>
 <section id="causal-models" class="slide level2 center">
 <h2>Causal models</h2>
 <ul>
+<li>Instrumental variables</li>
 <li>Randomized controlled trail (RCT)</li>
 <li>Regressional discontinuity (RD)</li>
 <li>Diference in difference (DiD)</li>
+<li>Matching</li>
 </ul>
 </section>
 <section class="slide level2 smaller scrollable" id="references">
@@ -672,6 +674,9 @@ Chen, Yuyu, Avraham Ebenstein, Michael Greenstone, and Hongbin Li. 2013. <span>�
 </div>
 <div id="ref-dell_nation_2018" class="csl-entry" role="listitem">
 Dell, Melissa, and Pablo Querubin. 2018. <span>“Nation <span>Building</span> <span>Through</span> <span>Foreign</span> <span>Intervention</span>: <span>Evidence</span> from <span>Discontinuities</span> in <span>Military</span> <span>Strategies</span>.”</span> <em>The Quarterly Journal of Economics</em> 133 (2): 701–64. <a href="https://doi.org/10.1093/qje/qjx037">https://doi.org/10.1093/qje/qjx037</a>.
+</div>
+<div id="ref-gertler_impact_2016" class="csl-entry" role="listitem">
+Gertler, Paul J., Sebastian Martinez, Patrick Premand, Laura B. Rawlings, and Christel M. J. Vermeersch. 2016. <em>Impact <span>Evaluation</span> in <span>Practice</span>, <span>Second</span> <span>Edition</span></em>. Washington, DC: World Bank. <a href="https://doi.org/10.1596/978-1-4648-0779-4">https://doi.org/10.1596/978-1-4648-0779-4</a>.
 </div>
 </div>
 <div class="footer">
@@ -926,18 +931,7 @@ Dell, Melissa, and Pablo Querubin. 2018. <span>“Nation <span>Building</span> <
         }
         return false;
       }
-      const clipboard = new window.ClipboardJS('.code-copy-button', {
-        text: function(trigger) {
-          const codeEl = trigger.previousElementSibling.cloneNode(true);
-          for (const childEl of codeEl.children) {
-            if (isCodeAnnotation(childEl)) {
-              childEl.remove();
-            }
-          }
-          return codeEl.innerText;
-        }
-      });
-      clipboard.on('success', function(e) {
+      const onCopySuccess = function(e) {
         // button target
         const button = e.trigger;
         // don't keep focus
@@ -969,7 +963,29 @@ Dell, Melissa, and Pablo Querubin. 2018. <span>“Nation <span>Building</span> <
         }, 1000);
         // clear code selection
         e.clearSelection();
+      }
+      const getTextToCopy = function(trigger) {
+          const codeEl = trigger.previousElementSibling.cloneNode(true);
+          for (const childEl of codeEl.children) {
+            if (isCodeAnnotation(childEl)) {
+              childEl.remove();
+            }
+          }
+          return codeEl.innerText;
+      }
+      const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+        text: getTextToCopy
       });
+      clipboard.on('success', onCopySuccess);
+      if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+        // For code content inside modals, clipBoardJS needs to be initialized with a container option
+        // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
+        const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+          text: getTextToCopy,
+          container: window.document.getElementById('quarto-embedded-source-code-modal')
+        });
+        clipboardModal.on('success', onCopySuccess);
+      }
         var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
         var mailtoRegex = new RegExp(/^mailto:/);
           var filterRegex = new RegExp("https:\/\/drganghe\.github\.io\/program-evaluation");
@@ -977,7 +993,7 @@ Dell, Melissa, and Pablo Querubin. 2018. <span>“Nation <span>Building</span> <
             return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
         }
         // Inspect non-navigation links and adorn them if external
-     	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+     	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
         for (var i=0; i<links.length; i++) {
           const link = links[i];
           if (!isInternal(link.href)) {

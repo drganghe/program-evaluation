@@ -87,12 +87,12 @@ What happens when the target population uses the outputs; you don't have control
 
 :::{style="text-align:center;"}
 
-Inputs → Activities → Outputs → Outcomes
+Inputs → Activities → Outputs → Outcomes → Final outcomes
 
 :::
 
 ::: footer
-Read more: [Andrew Wheiss](https://evalsp24.classes.andrewheiss.com/)
+Source: @gertler_impact_2016
 :::
 
 
@@ -346,9 +346,11 @@ Source: [Andrew Wheiss](https://evalsp24.classes.andrewheiss.com/)
 
 ## Causal models
 
+- Instrumental variables
 - Randomized controlled trail (RCT)
 - Regressional discontinuity (RD)
 - Diference in difference (DiD)
+- Matching
 
 
 ------------------------------------------------------------------------

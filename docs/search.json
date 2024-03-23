@@ -578,7 +578,7 @@
     "href": "lectures/lecture3.html#elements-of-a-program",
     "title": "Lecture 3 Logic and Causal Models",
     "section": "Elements of a program",
-    "text": "Elements of a program\n\n\nInputs:\nThings that go into an activity; money, people, time, etc.\nActivities:\nActions that convert inputs to outputs; things that the program does\n\nOutputs:\nTangible goods and services produced by activities; you have control over these\nOutcomes:\nWhat happens when the target population uses the outputs; you don’t have control over these\n\n\n\nInputs → Activities → Outputs → Outcomes\n\n\nRead more: Andrew Wheiss"
+    "text": "Elements of a program\n\n\nInputs:\nThings that go into an activity; money, people, time, etc.\nActivities:\nActions that convert inputs to outputs; things that the program does\n\nOutputs:\nTangible goods and services produced by activities; you have control over these\nOutcomes:\nWhat happens when the target population uses the outputs; you don’t have control over these\n\n\n\nInputs → Activities → Outputs → Outcomes → Final outcomes\n\n\nSource: Gertler et al. (2016)"
   },
   {
     "objectID": "lectures/lecture3.html#capturing-the-wedege",
@@ -676,14 +676,14 @@
     "href": "lectures/lecture3.html#causal-models",
     "title": "Lecture 3 Logic and Causal Models",
     "section": "Causal models",
-    "text": "Causal models\n\nRandomized controlled trail (RCT)\nRegressional discontinuity (RD)\nDiference in difference (DiD)"
+    "text": "Causal models\n\nInstrumental variables\nRandomized controlled trail (RCT)\nRegressional discontinuity (RD)\nDiference in difference (DiD)\nMatching"
   },
   {
     "objectID": "lectures/lecture3.html#references",
     "href": "lectures/lecture3.html#references",
     "title": "Lecture 3 Logic and Causal Models",
     "section": "",
-    "text": "References\n\n\nChen, Yuyu, Avraham Ebenstein, Michael Greenstone, and Hongbin Li. 2013. “Evidence on the Impact of Sustained Exposure to Air Pollution on Life Expectancy from China’s Huai River Policy.” Proceedings of the National Academy of Sciences, July. https://doi.org/10.1073/pnas.1300018110.\n\n\nDell, Melissa, and Pablo Querubin. 2018. “Nation Building Through Foreign Intervention: Evidence from Discontinuities in Military Strategies.” The Quarterly Journal of Economics 133 (2): 701–64. https://doi.org/10.1093/qje/qjx037.\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He\n\n\n\n\nhttps://drganghe.github.io/program-evaluation/"
+    "text": "References\n\n\nChen, Yuyu, Avraham Ebenstein, Michael Greenstone, and Hongbin Li. 2013. “Evidence on the Impact of Sustained Exposure to Air Pollution on Life Expectancy from China’s Huai River Policy.” Proceedings of the National Academy of Sciences, July. https://doi.org/10.1073/pnas.1300018110.\n\n\nDell, Melissa, and Pablo Querubin. 2018. “Nation Building Through Foreign Intervention: Evidence from Discontinuities in Military Strategies.” The Quarterly Journal of Economics 133 (2): 701–64. https://doi.org/10.1093/qje/qjx037.\n\n\nGertler, Paul J., Sebastian Martinez, Patrick Premand, Laura B. Rawlings, and Christel M. J. Vermeersch. 2016. Impact Evaluation in Practice, Second Edition. Washington, DC: World Bank. https://doi.org/10.1596/978-1-4648-0779-4.\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He\n\n\n\n\nhttps://drganghe.github.io/program-evaluation/"
   },
   {
     "objectID": "project.html",
