@@ -27,7 +27,7 @@ format:
 - Types and applications of evaluation
 - Exploratory evaluation
 - High Line Park
-- Culcural responsive evaluation
+- Cultural responsive evaluation
 - Northwest Housing Alternatives
 
 

@@ -4,7 +4,8 @@
     "items": [
       "/stories/john-snow-and-evidence-based-analysis.html",
       "/stories/high-line-park.html",
-      "/stories/bombing-heating-and-causal-models.html"
+      "/stories/bombing-heating-and-causal-models.html",
+      "/stories/john-muir-and-national-park.html"
     ]
   },
   {
@@ -12,7 +13,8 @@
     "items": [
       "/lectures/lecture1.html",
       "/lectures/lecture2.html",
-      "/lectures/lecture3.html"
+      "/lectures/lecture3.html",
+      "/lectures/lecture4.html"
     ]
   }
 ]

@@ -4,7 +4,7 @@
     "href": "stories.html",
     "title": "Stories",
     "section": "",
-    "text": "Date\n\n\nTitle\n\n\n\n\n\n\nMar 9, 2024\n\n\nJohn Snow and Evidence Based Analysis\n\n\n\n\nMar 16, 2024\n\n\nHigh Line Park\n\n\n\n\nMar 23, 2024\n\n\nBombing, Heating, and Causal Models\n\n\n\n\n\nNo matching items"
+    "text": "Date\n\n\nTitle\n\n\n\n\n\n\nMar 9, 2024\n\n\nJohn Snow and Evidence Based Analysis\n\n\n\n\nMar 16, 2024\n\n\nHigh Line Park\n\n\n\n\nMar 23, 2024\n\n\nBombing, Heating, and Causal Models\n\n\n\n\nApr 6, 2024\n\n\nJohn Muir and National Park\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "resources.html",
@@ -305,7 +305,7 @@
     "href": "lectures.html",
     "title": "Lectures",
     "section": "",
-    "text": "Lecture 1 Introduction\n\n\n\nGang He\n\n\nMar 9, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 2 Goals and Types of Evaluation\n\n\n\nGang He\n\n\nMar 16, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 3 Logic and Causal Models\n\n\n\nGang He\n\n\nMar 23, 2024\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Lecture 1 Introduction\n\n\n\nGang He\n\n\nMar 9, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 2 Goals and Types of Evaluation\n\n\n\nGang He\n\n\nMar 16, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 3 Logic and Causal Models\n\n\n\nGang He\n\n\nMar 23, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 4 Stakeholder Analysis, Mapping, and Engagement\n\n\n\nGang He\n\n\nApr 6, 2024\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "stories/john-snow-and-evidence-based-analysis.html",
@@ -557,7 +557,7 @@
     "href": "lectures/lecture3.html#recap-lecture-2",
     "title": "Lecture 3 Logic and Causal Models",
     "section": "Recap lecture 2",
-    "text": "Recap lecture 2\n\nTypes and applications of evaluation\nExploratory evaluation\nHigh Line Park\nCulcural responsive evaluation\nNorthwest Housing Alternatives"
+    "text": "Recap lecture 2\n\nTypes and applications of evaluation\nExploratory evaluation\nHigh Line Park\nCultural responsive evaluation\nNorthwest Housing Alternatives"
   },
   {
     "objectID": "lectures/lecture3.html#todays-agenda",
@@ -725,6 +725,202 @@
     "href": "schedule.html",
     "title": "Course Schedule",
     "section": "",
-    "text": "Week\nDate\nGuiding question\nTopic\nStory\nCase Study\nAssignment\n\n\n\n\n1\nMar 9\nWhat is program evaluation? Where are we headed in this course?\nIntroduction and Overview\nJohn Snow\n\n\n\n\n2\nMar 16\nWhy do evaluation?\nGoals and Types of Evaluation\nHigh Line Park\nCase 1: Northwest Housing Alternatives\nCase Response 1\n\n\n3\nMar 23\nHow to identify causal effects?\nLogic and Causal Models\nBombing, Heating, and Causal Models\nCase 2: Jobs Plus in NYC\nCase Response 2"
+    "text": "Week\nDate\nGuiding question\nTopic\nStory\nCase Study\nAssignment\n\n\n\n\n1\nMar 9\nWhat is program evaluation? Where are we headed in this course?\nIntroduction and Overview\nJohn Snow\n\n\n\n\n2\nMar 16\nWhy do evaluation?\nGoals and Types of Evaluation\nHigh Line Park\nCase 1: Northwest Housing Alternatives\nCase Response 1\n\n\n3\nMar 23\nHow to identify causal effects?\nLogic and Causal Models\nBombing, Heating, and Causal Models\nCase 2: Jobs Plus in NYC\nCase Response 2\n\n\n4\nApril 6\nHow to account for everyone involved?\nStakeholder Engagement\nJohn Muir and National Park System\nCase 3: ARPA-E\nCase Response 3"
+  },
+  {
+    "objectID": "stories/bombing-heating-and-causal-models.html#references",
+    "href": "stories/bombing-heating-and-causal-models.html#references",
+    "title": "Bombing, Heating, and Causal Models",
+    "section": "References",
+    "text": "References\n\nDell M, Querubin P. Nation Building Through Foreign Intervention: Evidence from Discontinuities in Military Strategies. The Quarterly Journal of Economics 2018;133:701–64. https://doi.org/10.1093/qje/qjx037.\n\nChen Y, Ebenstein A, Greenstone M, Li H. Evidence on the impact of sustained exposure to air pollution on life expectancy from China’s Huai River policy. PNAS 2013. https://doi.org/10.1073/pnas.1300018110."
+  },
+  {
+    "objectID": "stories/john-muir-and-national-park.html",
+    "href": "stories/john-muir-and-national-park.html",
+    "title": "John Muir and National Park",
+    "section": "",
+    "text": "Naturalist, author, environmental philosopher (1838-1914)\n“John of the Mountains”"
+  },
+  {
+    "objectID": "stories/john-muir-and-national-park.html#who-is-john-muir",
+    "href": "stories/john-muir-and-national-park.html#who-is-john-muir",
+    "title": "John Muir and National Park",
+    "section": "",
+    "text": "Naturalist, author, environmental philosopher (1838-1914)\n“John of the Mountains”"
+  },
+  {
+    "objectID": "stories/john-muir-and-national-park.html#muir-and-national-park",
+    "href": "stories/john-muir-and-national-park.html#muir-and-national-park",
+    "title": "John Muir and National Park",
+    "section": "Muir and national park",
+    "text": "Muir and national park\n\n“Father of the National Parks”\n\n\nClimb the mountains and get their good tidings, Nature’s peace will flow into you as sunshine flows into trees. The winds will blow their own freshness into you and the storms their energy, while cares will drop off like autumn leaves. As age comes on, one source of enjoyment after another is closed, but nature’s sources never fail.\n\n– Our National Parks , 1901, page 56."
+  },
+  {
+    "objectID": "stories/john-muir-and-national-park.html#stakeholders",
+    "href": "stories/john-muir-and-national-park.html#stakeholders",
+    "title": "John Muir and National Park",
+    "section": "Stakeholders",
+    "text": "Stakeholders\n\nThe president (Theodore Roosevelt)\nPublic support via books, popular magazine article, and the Sierra Club"
+  },
+  {
+    "objectID": "stories/john-muir-and-national-park.html#outcomes",
+    "href": "stories/john-muir-and-national-park.html#outcomes",
+    "title": "John Muir and National Park",
+    "section": "Outcomes",
+    "text": "Outcomes\n\nUS Congress, 1890, establising the Yosemite National Park\nThe start of National Park System"
+  },
+  {
+    "objectID": "stories/john-muir-and-national-park.html#thoughts-for-evaluation",
+    "href": "stories/john-muir-and-national-park.html#thoughts-for-evaluation",
+    "title": "John Muir and National Park",
+    "section": "Thoughts for evaluation",
+    "text": "Thoughts for evaluation\n\nBeyond prices: public space, history, recreation, education, and American treasure\n\nEvaluation indicators: visitors, local economy, what else?"
+  },
+  {
+    "objectID": "stories/john-muir-and-national-park.html#further-readings",
+    "href": "stories/john-muir-and-national-park.html#further-readings",
+    "title": "John Muir and National Park",
+    "section": "Further readings",
+    "text": "Further readings\n\nWalls, Margaret. 2022. “Economics of the US National Park System: Values, Funding, and Resource Management Challenges.” Annual Review of Resource Economics 14 (Volume 14, 2022): 579–96. https://doi.org/10.1146/annurev-resource-111920-021401."
+  },
+  {
+    "objectID": "lectures/lecture4.html#recap-lecture-3",
+    "href": "lectures/lecture4.html#recap-lecture-3",
+    "title": "Lecture 4 Stakeholder Analysis, Mapping, and Engagement",
+    "section": "Recap lecture 3",
+    "text": "Recap lecture 3\n\nTheory of change\nLogic model\nDAG: Directed Acyclic Graphs\nCausal models\nJobs Plus in NYC case\nAsk a good question game"
+  },
+  {
+    "objectID": "lectures/lecture4.html#todays-agenda",
+    "href": "lectures/lecture4.html#todays-agenda",
+    "title": "Lecture 4 Stakeholder Analysis, Mapping, and Engagement",
+    "section": "Today’s agenda",
+    "text": "Today’s agenda\n\nStakeholders\nIdentify key stakeholder\nEngaging stakeholders\nARPR-E case\nRole play, stakeholder conflict"
+  },
+  {
+    "objectID": "lectures/lecture4.html#the-first-step",
+    "href": "lectures/lecture4.html#the-first-step",
+    "title": "Lecture 4 Stakeholder Analysis, Mapping, and Engagement",
+    "section": "The first step",
+    "text": "The first step\n\n\nSource: CDC"
+  },
+  {
+    "objectID": "lectures/lecture4.html#stakeholder-identification-and-analysis-techniques",
+    "href": "lectures/lecture4.html#stakeholder-identification-and-analysis-techniques",
+    "title": "Lecture 4 Stakeholder Analysis, Mapping, and Engagement",
+    "section": "Stakeholder Identification and Analysis Techniques",
+    "text": "Stakeholder Identification and Analysis Techniques\n\nConducting basic stakeholder identification and analysis\nChoosing evaluation stakeholder analysis participants\nDrafting a purpose network diagram (or purpose hierarchy)"
+  },
+  {
+    "objectID": "lectures/lecture4.html#questions-to-ask",
+    "href": "lectures/lecture4.html#questions-to-ask",
+    "title": "Lecture 4 Stakeholder Analysis, Mapping, and Engagement",
+    "section": "Questions to ask",
+    "text": "Questions to ask\n\nWho the evaluation sponsor(s) is.\n\nWho the day-to-day process champion(s) is, meaning the day-to-day evaluation process manager; this person may be the evaluator, but maybe not.\n\nWho the stakeholders, key stakeholders, and primary intended users are.\n\nWhat the purpose(s) or intended use(s) of the evaluation is.\n\nWho the members of the evaluation coordinating committee or task force are, if such a group is to be formed.\n\nHow the different stakeholders will be involved at different stages in the evaluation process.\n\nWho the evaluator(s) is, or at least what his or her qualifications should be, and who the members of any required evaluation team might be."
+  },
+  {
+    "objectID": "lectures/lecture4.html#type-of-stakeholders",
+    "href": "lectures/lecture4.html#type-of-stakeholders",
+    "title": "Lecture 4 Stakeholder Analysis, Mapping, and Engagement",
+    "section": "Type of stakeholders",
+    "text": "Type of stakeholders\n\nImplementers\nDecision makers\nParticipants\nPartners\n\n\nSource: CDC"
+  },
+  {
+    "objectID": "lectures/lecture4.html#how-to-involve-stakeholders",
+    "href": "lectures/lecture4.html#how-to-involve-stakeholders",
+    "title": "Lecture 4 Stakeholder Analysis, Mapping, and Engagement",
+    "section": "How to involve stakeholders",
+    "text": "How to involve stakeholders\n\nInvite stakeholders to a meeting\nInvolve stateholders in key activities\n\n\nSource: CDC"
+  },
+  {
+    "objectID": "lectures/lecture4.html#engagement-level",
+    "href": "lectures/lecture4.html#engagement-level",
+    "title": "Lecture 4 Stakeholder Analysis, Mapping, and Engagement",
+    "section": "Engagement level",
+    "text": "Engagement level\n\nNo engagement\nEngage as data source\nInform\nConsult\nInvolve\nCollaborate\nEmpower"
+  },
+  {
+    "objectID": "lectures/lecture4.html#story",
+    "href": "lectures/lecture4.html#story",
+    "title": "Lecture 4 Stakeholder Analysis, Mapping, and Engagement",
+    "section": "Story",
+    "text": "Story\n\nJohn Muir and the National Park System"
+  },
+  {
+    "objectID": "lectures/lecture4.html#purpose-network-diagram",
+    "href": "lectures/lecture4.html#purpose-network-diagram",
+    "title": "Lecture 4 Stakeholder Analysis, Mapping, and Engagement",
+    "section": "Purpose Network Diagram",
+    "text": "Purpose Network Diagram"
+  },
+  {
+    "objectID": "lectures/lecture4.html#missing-opportunities",
+    "href": "lectures/lecture4.html#missing-opportunities",
+    "title": "Lecture 4 Stakeholder Analysis, Mapping, and Engagement",
+    "section": "Missing opportunities",
+    "text": "Missing opportunities\n\nNot engage stakeholders\nEngage stakeholders too late\nNot inform stakeholders"
+  },
+  {
+    "objectID": "lectures/lecture4.html#references",
+    "href": "lectures/lecture4.html#references",
+    "title": "Lecture 4 Stakeholder Analysis, Mapping, and Engagement",
+    "section": "",
+    "text": "References\n\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He\n\n\n\n\nhttps://drganghe.github.io/program-evaluation/"
+  },
+  {
+    "objectID": "lectures/lecture4.html#types-of-stakeholders",
+    "href": "lectures/lecture4.html#types-of-stakeholders",
+    "title": "Lecture 4 Stakeholder Analysis, Mapping, and Engagement",
+    "section": "Types of stakeholders",
+    "text": "Types of stakeholders\n\nImplementers\nDecision makers\nParticipants\nPartners\n\n\nSource: CDC"
+  },
+  {
+    "objectID": "lectures/lecture4.html#useful-thinking",
+    "href": "lectures/lecture4.html#useful-thinking",
+    "title": "Lecture 4 Stakeholder Analysis, Mapping, and Engagement",
+    "section": "Useful thinking",
+    "text": "Useful thinking\n\nInternal vs. external\nPrimary vs. secondary\nInfluential vs. non-influential\nSupportive vs. adversarial"
+  },
+  {
+    "objectID": "lectures/lecture4.html#mapping-stakeholders",
+    "href": "lectures/lecture4.html#mapping-stakeholders",
+    "title": "Lecture 4 Stakeholder Analysis, Mapping, and Engagement",
+    "section": "Mapping stakeholders",
+    "text": "Mapping stakeholders\n\nList all potential stakeholders\nCaterized them\nDescribe interest and influence\nNote preferred communication channel\nDevelop strategies\nMonitor and update\nShare and review\nDevelop an action plan"
+  },
+  {
+    "objectID": "lectures/lecture4.html#offshore-wind-example",
+    "href": "lectures/lecture4.html#offshore-wind-example",
+    "title": "Lecture 4 Stakeholder Analysis, Mapping, and Engagement",
+    "section": "Offshore wind example",
+    "text": "Offshore wind example\n\n\n\n\n\n\n\n\nStakeholders\nInterests and concerns\n\n\n\n\nLocal residents\nConcerned about visual and noise pollution, potential impacts on property value, and benefits to the local community like job opportunities.\n\n\nEnvironmental & conservation groups\nInterested in the project’s ecological impact, particularly bird migration and marine life, but also supportive of renewable energy initiatives.\n\n\nLocal and national governments\nInterested in sustainable energy goals, economic development, job creation, and regulatory compliance.\n\n\nUtility company\nInterested in increasing share of renewables per regulation, concerned about grid reliability\n\n\nPotential energy consumers\nInterested in reliable, cost-effective, and sustainable energy.\n\n\nCompany investors and shareholders\nLooking for profitability, sustainable investments, and risk management.\n\n\nLocal fishing and maritime industries\nConcerned about potential disruptions to fishing routes and marine ecosystems.\n\n\nNearby tourism businesses\nConcerns about potential impacts on the aesthetics of the landscape and tourist attractions.\n\n\nRenewable energy advocacy groups\nSupportive of clean energy but keen on ensuring it’s done right without unnecessary environmental impacts.\n\n\n\n\n\nRead more: South Fork Wind Delivers First Offshore Wind Power to Long Island"
+  },
+  {
+    "objectID": "lectures/lecture4.html#prioritize-stakeholders",
+    "href": "lectures/lecture4.html#prioritize-stakeholders",
+    "title": "Lecture 4 Stakeholder Analysis, Mapping, and Engagement",
+    "section": "Prioritize stakeholders",
+    "text": "Prioritize stakeholders\nGovernment Relations team example\n\nLevel 1 Stakeholders will include highly ranked officials like ministers, members of parliament, governors, senators, and members of congress. You decide to engage with these officials on a monthly basis.\nLevel 2 Stakeholders will include people like local elected officials who you need to engage with for the same purpose, but not as often. Your team will engage with these people quarterly.\nLevel 3 Stakeholders will include people who aren’t directly involved but who need to be kept informed about your efforts, like directors of community organizations and committee leaders. You decide to update them annually.\n\n\nRead more: Patrick Grégoire"
+  },
+  {
+    "objectID": "lectures/lecture4.html#the-univerdal-metrix-tool",
+    "href": "lectures/lecture4.html#the-univerdal-metrix-tool",
+    "title": "Lecture 4 Stakeholder Analysis, Mapping, and Engagement",
+    "section": "The univerdal metrix tool",
+    "text": "The univerdal metrix tool"
+  },
+  {
+    "objectID": "lectures/lecture4.html#south-fork",
+    "href": "lectures/lecture4.html#south-fork",
+    "title": "Lecture 4 Stakeholder Analysis, Mapping, and Engagement",
+    "section": "South Fork",
+    "text": "South Fork\n\n\nAn auspicious day to witness first power from (SouthForkWind?) with many dedicated colleagues and friends. For the first time in history, families and businesses on Long Island are using offshore wind! Congrats to (OrstedUS?) (EversourceCorp?) (EHTownTrustees?) and (LongIslandPower?)! pic.twitter.com/ughxe03eHK\n\n— Doreen Harris ((Doreen_M_Harris?)) December 7, 2023"
+  },
+  {
+    "objectID": "lectures/lecture4.html#south-fork-offshore-wind",
+    "href": "lectures/lecture4.html#south-fork-offshore-wind",
+    "title": "Lecture 4 Stakeholder Analysis, Mapping, and Engagement",
+    "section": "South Fork Offshore Wind",
+    "text": "South Fork Offshore Wind\n\n\n\nAn auspicious day to witness first power from (SouthForkWind?) with many dedicated colleagues and friends. For the first time in history, families and businesses on Long Island are using offshore wind! Congrats to (OrstedUS?) (EversourceCorp?) (EHTownTrustees?) and (LongIslandPower?)! pic.twitter.com/ughxe03eHK\n\n— Doreen Harris ((Doreen_M_Harris?)) December 7, 2023"
   }
 ]
