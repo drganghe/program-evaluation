@@ -38,7 +38,21 @@ draft: true
 - Caucus on progress on evaluation project
 
 
+## RCTs
 
+::: footer
+Source: [ECMA 35550](http://runningres.com/course-details)
+:::
+
+
+## Abdul Latif Jameel Poverty Action Lab
+
+
+## Story
+
+:::{style="text-align:center;"}
+Esther Duflo and RCTs
+:::
 
 ------
 
@@ -48,5 +62,5 @@ draft: true
 :::
 
 ::: footer
-Back to Title [Slide](https://drganghe.github.io/program-evaluation/lectures/lecture4/#/title-slide), All [Lectures](https://drganghe.github.io/program-evaluation/lectures.html), Course [Home](https://drganghe.github.io/program-evaluation/), or Learn More About [Gang He](https://drganghe.github.io)
+Back to Title [Slide](https://drganghe.github.io/program-evaluation/lectures/lecture5/#/title-slide), All [Lectures](https://drganghe.github.io/program-evaluation/lectures.html), Course [Home](https://drganghe.github.io/program-evaluation/), or Learn More About [Gang He](https://drganghe.github.io)
 :::

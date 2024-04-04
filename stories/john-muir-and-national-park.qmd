@@ -1,5 +1,5 @@
 ---
-title: John Muir and National Park
+title: John Muir and National Park System
 author: Gang He
 date: April 6, 2024
 format: 
