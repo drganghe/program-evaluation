@@ -34,6 +34,7 @@
     div.csl-bib-body { }
     div.csl-entry {
       clear: both;
+      margin-bottom: 0em;
     }
     .hanging-indent div.csl-entry {
       margin-left:2em;
@@ -352,10 +353,14 @@
     }
   </style>
 <meta property="og:title" content="Program Evaluation - Lecture 5 Evaluation Designs">
-<meta property="og:image" content="https://drganghe.github.io/program-evaluation/lectures/images/cdc-framework-stakeholders.webp">
+<meta property="og:image" content="https://drganghe.github.io/program-evaluation/lectures/images/steps-in-rcts.png">
 <meta property="og:site_name" content="Program Evaluation">
+<meta property="og:image:height" content="650">
+<meta property="og:image:width" content="1036">
 <meta name="twitter:title" content="Program Evaluation - Lecture 5 Evaluation Designs">
-<meta name="twitter:image" content="https://drganghe.github.io/program-evaluation/lectures/images/cdc-framework-stakeholders.webp">
+<meta name="twitter:image" content="https://drganghe.github.io/program-evaluation/lectures/images/steps-in-rcts.png">
+<meta name="twitter:image-height" content="650">
+<meta name="twitter:image-width" content="1036">
 <meta name="twitter:card" content="summary_large_image">
 </head>
 <body class="quarto-light">
@@ -389,18 +394,158 @@ Gang He
 <h2>Today’s agenda</h2>
 <ul>
 <li>Evaluation design</li>
+<li>RCT</li>
+<li>Other strategies</li>
 <li>Proposal</li>
 <li>Caucus on progress on evaluation project</li>
+</ul>
+</section>
+<section id="counterfactural-what-if" class="slide level2 center">
+<h2>Counterfactural: What if?</h2>
+<div style="text-align:center">
+<p>What would have happened in the absence of the program?</p>
+<p>How do we measure what would have happened if the other circumstance had prevailed?</p>
+</div>
+</section>
+<section id="comparison-group" class="slide level2 center">
+<h2>Comparison group</h2>
+<p>Individual level effect is impossible to observe.</p>
+<p>No individual counterfactuals.</p>
+</section>
+<section id="naive-design" class="slide level2 center">
+<h2>Naive design</h2>
+<ul>
+<li><strong>Naturally occurring</strong> treated and untreated groups</li>
+<li>Examples
+<ul>
+<li>Students who participated pre-K (test scores)</li>
+<li>Moms who use anesthetic (hospital stays)</li>
+</ul></li>
+<li>Questions to ask: Do we expect that if the program had not been offered, the outcomes of the treated and untreated comparison groups would have been roughly the same?</li>
+</ul>
+</section>
+<section id="challenges" class="slide level2 center">
+<h2>Challenges</h2>
+<ul>
+<li>Self-selection</li>
+<li>Selection bias</li>
+</ul>
+</section>
+<section id="the-power-of-randomized" class="slide level2 center">
+<h2>The power of randomized</h2>
+<p>Comparing average outcomes only works if groups that received/didn’t receive treatment look the same.</p>
+
+<img data-src="../lectures/images/random-sampling-randomized-treatment.png" class="quarto-figure quarto-figure-center r-stretch"><div class="footer">
+<p>Source: <span class="citation" data-cites="gertler_impact_2016">Gertler et al. (<a href="#/references" role="doc-biblioref" onclick="">2016</a>)</span></p>
+</div>
+</section>
+<section id="random-assignment-methods" class="slide level2 center">
+<h2>Random assignment methods</h2>
+<ul>
+<li>Coins</li>
+<li>Dice</li>
+<li>Lottery</li>
+<li>Random numbers</li>
+</ul>
+</section>
+<section id="steps-in-rcts" class="slide level2 center">
+<h2>Steps in RCTs</h2>
+
+<img data-src="../lectures/images/steps-in-rcts.png" class="quarto-figure quarto-figure-center r-stretch"><div class="footer">
+<p>Source: <span class="citation" data-cites="gertler_impact_2016">Gertler et al. (<a href="#/references" role="doc-biblioref" onclick="">2016</a>)</span></p>
+</div>
+</section>
+<section id="what-can-be-randomized" class="slide level2 center">
+<h2>What can be randomized?</h2>
+<p>Different ways to randomize come from three basic elements of a program which can be randomized</p>
+<ul>
+<li><p>Access: which people are offered access to a program</p></li>
+<li><p>Timing: when people are offered access</p></li>
+<li><p>Encouragement: which people are given encouragement to participate</p></li>
+</ul>
+<div class="footer">
+<p>Source: <a href="http://runningres.com/course-details">ECMA 35550</a></p>
+</div>
+</section>
+<section id="when-to-use-rcts" class="slide level2 center">
+<h2>When to use RCTs?</h2>
+<ul>
+<li>Demand for treatment exceeds supply</li>
+<li>Treatment will be phased in over time</li>
+<li>Treatment is in equipoise (genuine uncertainty)</li>
+<li>Local culture open to randomization</li>
+<li>When you’re a nondemocratic monopolist</li>
+<li>When people won’t know (and it’s ethical!)</li>
+<li>When lotteries are going to happen anyway</li>
+</ul>
+</section>
+<section id="when-not" class="slide level2 center">
+<h2>When not?</h2>
+<ul>
+<li>When you need immediate results</li>
+<li>When it’s unethical or illegal</li>
+<li>When it’s something that happened in the past</li>
+<li>When it involves universal ongoing phenomena</li>
+</ul>
+</section>
+<section id="abdul-latif-jameel-poverty-action-lab" class="slide level2 center">
+<h2>Abdul Latif Jameel Poverty Action Lab</h2>
+
+<img data-src="../lectures/images/jpal.webp" class="quarto-figure quarto-figure-center r-stretch"><div class="footer">
+<p>Source: <a href="https://www.povertyactionlab.org/">J-PAL</a></p>
+</div>
+</section>
+<section id="story" class="slide level2 center">
+<h2>Story</h2>
+<div style="text-align:center;">
+<p>Esther Duflo and RCTs</p>
+</div>
+</section>
+<section id="quasi-experiment-design" class="slide level2 center">
+<h2>Quasi experiment design</h2>
+<p>Not randomized assignments</p>
+<ul>
+<li>Regression discontinuity design (RDD)</li>
+<li>Difference in differences (DiD)</li>
+<li>Other designs</li>
+</ul>
+</section>
+<section id="regression-discontinuity-design-rdd" class="slide level2 center">
+<h2>Regression discontinuity design (RDD)</h2>
+<p>Programs that have a continuous eligibility index with a clearly defined eligibility threshold (cutoff score) to determine who is eligible and who is not.</p>
+<ul>
+<li>The index must rank people or units in a continuous or “smooth” way.</li>
+<li>The index must have a clearly defined cutoff score.</li>
+<li>The cutoff must be unique to the program of interest.</li>
+<li>The score of a particular individual or unit cannot be manipulated.</li>
+</ul>
+</section>
+<section id="difference-in-differences-did" class="slide level2 center">
+<h2>Difference in differences (DiD)</h2>
+<p>compares the changes in outcomes over time between a population that is enrolled in a program (the treatment group) and a population that is not (the comparison group).</p>
+
+<img data-src="../lectures/images/DiD-visual.png" class="quarto-figure quarto-figure-center r-stretch"><div class="footer">
+<p>Source: <a href="https://bookdown.org/cuborican/RE_STAT/difference-in-differences.html">Econometrics for Business Analysis</a></p>
+</div>
+</section>
+<section id="rule-of-thumb" class="slide level2 center">
+<h2>Rule of thumb</h2>
+<ul>
+<li>Correlation is the beginning of understanding what happens to a group</li>
+<li>Correlation does not equal causation</li>
+<li>Evaluation design will depends on possibility, feasibility, and appropriability</li>
 </ul>
 </section>
 <section class="slide level2 smaller scrollable" id="references">
 
 <h3 id="references">References</h3>
-<div id="refs" role="list">
-
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
+<div id="ref-gertler_impact_2016" class="csl-entry" role="listitem">
+Gertler, Paul J., Sebastian Martinez, Patrick Premand, Laura B. Rawlings, and Christel M. J. Vermeersch. 2016. <em>Impact <span>Evaluation</span> in <span>Practice</span>, <span>Second</span> <span>Edition</span></em>. Washington, DC: World Bank. <a href="https://doi.org/10.1596/978-1-4648-0779-4">https://doi.org/10.1596/978-1-4648-0779-4</a>.
+</div>
 </div>
 <div class="footer">
-<p>Back to Title <a href="https://drganghe.github.io/program-evaluation/lectures/lecture4/#/title-slide">Slide</a>, All <a href="https://drganghe.github.io/program-evaluation/lectures.html">Lectures</a>, Course <a href="https://drganghe.github.io/program-evaluation/">Home</a>, or Learn More About <a href="https://drganghe.github.io">Gang He</a></p>
+<p>Back to Title <a href="https://drganghe.github.io/program-evaluation/lectures/lecture5/#/title-slide">Slide</a>, All <a href="https://drganghe.github.io/program-evaluation/lectures.html">Lectures</a>, Course <a href="https://drganghe.github.io/program-evaluation/">Home</a>, or Learn More About <a href="https://drganghe.github.io">Gang He</a></p>
 </div>
 
 <div class="quarto-auto-generated-content">

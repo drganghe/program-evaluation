@@ -4,7 +4,7 @@
     "href": "stories.html",
     "title": "Stories",
     "section": "",
-    "text": "Date\n\n\nTitle\n\n\n\n\n\n\nMar 9, 2024\n\n\nJohn Snow and Evidence Based Analysis\n\n\n\n\nMar 16, 2024\n\n\nHigh Line Park\n\n\n\n\nMar 23, 2024\n\n\nBombing, Heating, and Causal Models\n\n\n\n\nApr 6, 2024\n\n\nJohn Muir and National Park System\n\n\n\n\n\nNo matching items"
+    "text": "Date\n\n\nTitle\n\n\n\n\n\n\nMar 9, 2024\n\n\nJohn Snow and Evidence Based Analysis\n\n\n\n\nMar 16, 2024\n\n\nHigh Line Park\n\n\n\n\nMar 23, 2024\n\n\nBombing, Heating, and Causal Models\n\n\n\n\nApr 6, 2024\n\n\nJohn Muir and National Park System\n\n\n\n\nApr 13, 2024\n\n\nEsther Duflo and Randomized Controlled Trails\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "resources.html",
@@ -305,7 +305,7 @@
     "href": "lectures.html",
     "title": "Lectures",
     "section": "",
-    "text": "Lecture 1 Introduction\n\n\n\nGang He\n\n\nMar 9, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 2 Goals and Types of Evaluation\n\n\n\nGang He\n\n\nMar 16, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 3 Logic and Causal Models\n\n\n\nGang He\n\n\nMar 23, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 4 Stakeholder Analysis, Mapping, and Engagement\n\n\n\nGang He\n\n\nApr 6, 2024\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Lecture 1 Introduction\n\n\n\nGang He\n\n\nMar 9, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 2 Goals and Types of Evaluation\n\n\n\nGang He\n\n\nMar 16, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 3 Logic and Causal Models\n\n\n\nGang He\n\n\nMar 23, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 4 Stakeholder Analysis, Mapping, and Engagement\n\n\n\nGang He\n\n\nApr 6, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 5 Evaluation Designs\n\n\n\nGang He\n\n\nApr 13, 2024\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "stories/john-snow-and-evidence-based-analysis.html",
@@ -725,7 +725,7 @@
     "href": "schedule.html",
     "title": "Course Schedule",
     "section": "",
-    "text": "Week\nDate\nGuiding question\nTopic\nStory\nCase Study\nAssignment\n\n\n\n\n1\nMar 9\nWhat is program evaluation? Where are we headed in this course?\nIntroduction and Overview\nJohn Snow\n\n\n\n\n2\nMar 16\nWhy do evaluation?\nGoals and Types of Evaluation\nHigh Line Park\nCase 1: Northwest Housing Alternatives\nCase Response 1\n\n\n3\nMar 23\nHow to identify causal effects?\nLogic and Causal Models\nBombing, Heating, and Causal Models\nCase 2: Jobs Plus in NYC\nCase Response 2\n\n\n4\nApril 6\nHow to account for everyone involved?\nStakeholder Engagement\nJohn Muir and National Park System\nCase 3: ARPA-E\nCase Response 3"
+    "text": "Week\nDate\nGuiding question\nTopic\nStory\nCase Study\nAssignment\n\n\n\n\n1\nMar 9\nWhat is program evaluation? Where are we headed in this course?\nIntroduction and Overview\nJohn Snow\n\n\n\n\n2\nMar 16\nWhy do evaluation?\nGoals and Types of Evaluation\nHigh Line Park\nCase 1: Northwest Housing Alternatives\nCase Response 1\n\n\n3\nMar 23\nHow to identify causal effects?\nLogic and Causal Models\nBombing, Heating, and Causal Models\nCase 2: Jobs Plus in NYC\nCase Response 2\n\n\n4\nApril 6\nHow to account for everyone involved?\nStakeholder Engagement\nJohn Muir and National Park System\nCase 3: ARPA-E\nCase Response 3\n\n\n5\nApril 13\nHow do I use the scientific method in the real world?\nEvaluation Designs\nEsther Duflo and RCTs\n\nProposal due"
   },
   {
     "objectID": "stories/bombing-heating-and-causal-models.html#references",
@@ -886,7 +886,7 @@
     "href": "lectures/lecture4.html#mapping-stakeholders",
     "title": "Lecture 4 Stakeholder Analysis, Mapping, and Engagement",
     "section": "Mapping stakeholders",
-    "text": "Mapping stakeholders\n\nList all potential stakeholders\nCaterized them\nDescribe interest and influence\nNote preferred communication channel\nDevelop strategies\nMonitor and update\nShare and review\nDevelop an action plan"
+    "text": "Mapping stakeholders\n\nList all potential stakeholders\nCategorize them\nDescribe interest and influence\nNote preferred communication channel\nDevelop strategies\nMonitor and update\nShare and review\nDevelop an action plan"
   },
   {
     "objectID": "lectures/lecture4.html#offshore-wind-example",
@@ -943,5 +943,208 @@
     "title": "Lecture 4 Stakeholder Analysis, Mapping, and Engagement",
     "section": "UNEG Principles",
     "text": "UNEG Principles\n\nIdentify the stakeholders and the role these will play in the evaluation.\nPromote an inclusive and diverse stakeholder engagement with a tailored approach by stakeholder\nEngage stakeholders early on and throughout the evaluation process\nSeek opportunities to engage with stakeholders in order promote an evaluation culture\nEnsure communication with stakeholders is clear and tailored to their specific needs\nAbide to the highest ethical standards in engaging with evaluation stakeholders, ensuring respect and sensitivity to stakeholder’s diversity and human rights\nSeek and use stakeholders’ feedback on the evaluation process for effective learning and continuous improvement of evaluation practice\n\n\nSource: UNEG"
+  },
+  {
+    "objectID": "lectures/lecture5.html#recap-lecture-4",
+    "href": "lectures/lecture5.html#recap-lecture-4",
+    "title": "Lecture 5 Evaluation Designs",
+    "section": "Recap lecture 4",
+    "text": "Recap lecture 4\n\nStakeholders\nIdentify key stakeholder\nEngaging stakeholders\nARPR-E case\nRole play, stakeholder conflict"
+  },
+  {
+    "objectID": "lectures/lecture5.html#todays-agenda",
+    "href": "lectures/lecture5.html#todays-agenda",
+    "title": "Lecture 5 Evaluation Designs",
+    "section": "Today’s agenda",
+    "text": "Today’s agenda\n\nEvaluation design\nRCT\nOther strategies\nProposal\nCaucus on progress on evaluation project"
+  },
+  {
+    "objectID": "lectures/lecture5.html#counterfactural-what-if",
+    "href": "lectures/lecture5.html#counterfactural-what-if",
+    "title": "Lecture 5 Evaluation Designs",
+    "section": "Counterfactural: What if?",
+    "text": "Counterfactural: What if?\n\nWhat would have happened in the absence of the program?\nHow do we measure what would have happened if the other circumstance had prevailed?"
+  },
+  {
+    "objectID": "lectures/lecture5.html#comparison-group",
+    "href": "lectures/lecture5.html#comparison-group",
+    "title": "Lecture 5 Evaluation Designs",
+    "section": "Comparison group",
+    "text": "Comparison group\nIndividual level effect is impossible to observe.\nNo individual counterfactuals."
+  },
+  {
+    "objectID": "lectures/lecture5.html#naive-design",
+    "href": "lectures/lecture5.html#naive-design",
+    "title": "Lecture 5 Evaluation Designs",
+    "section": "Naive design",
+    "text": "Naive design\n\nNaturally occurring treated and untreated groups\nExamples\n\nStudents who participated pre-K (test scores)\nMoms who use anesthetic (hospital stays)\n\nQuestions to ask: Do we expect that if the program had not been offered, the outcomes of the treated and untreated comparison groups would have been roughly the same?"
+  },
+  {
+    "objectID": "lectures/lecture5.html#basic-value-added-design",
+    "href": "lectures/lecture5.html#basic-value-added-design",
+    "title": "Lecture 5 Evaluation Designs",
+    "section": "Basic value-added design",
+    "text": "Basic value-added design"
+  },
+  {
+    "objectID": "lectures/lecture5.html#the-power-of-randomized",
+    "href": "lectures/lecture5.html#the-power-of-randomized",
+    "title": "Lecture 5 Evaluation Designs",
+    "section": "The power of randomized",
+    "text": "The power of randomized\nComparing average outcomes only works if groups that received/didn’t receive treatment look the same.\n\n\nSource: Gertler et al. (2016)"
+  },
+  {
+    "objectID": "lectures/lecture5.html#random-assignment-methods",
+    "href": "lectures/lecture5.html#random-assignment-methods",
+    "title": "Lecture 5 Evaluation Designs",
+    "section": "Random assignment methods",
+    "text": "Random assignment methods\n\nCoins\nDice\nLottery\nRandom numbers"
+  },
+  {
+    "objectID": "lectures/lecture5.html#rcts",
+    "href": "lectures/lecture5.html#rcts",
+    "title": "Lecture 5 Evaluation Designs",
+    "section": "RCTs",
+    "text": "RCTs\n\nSource: ECMA 35550"
+  },
+  {
+    "objectID": "lectures/lecture5.html#when-to-use-rcts",
+    "href": "lectures/lecture5.html#when-to-use-rcts",
+    "title": "Lecture 5 Evaluation Designs",
+    "section": "When to use RCTs?",
+    "text": "When to use RCTs?\n\nDemand for treatment exceeds supply\nTreatment will be phased in over time\nTreatment is in equipoise (genuine uncertainty)\nLocal culture open to randomization\nWhen you’re a nondemocratic monopolist\nWhen people won’t know (and it’s ethical!)\nWhen lotteries are going to happen anyway"
+  },
+  {
+    "objectID": "lectures/lecture5.html#when-not",
+    "href": "lectures/lecture5.html#when-not",
+    "title": "Lecture 5 Evaluation Designs",
+    "section": "When not?",
+    "text": "When not?\n\nWhen you need immediate results\nWhen it’s unethical or illegal\nWhen it’s something that happened in the past\nWhen it involves universal ongoing phenomena"
+  },
+  {
+    "objectID": "lectures/lecture5.html#abdul-latif-jameel-poverty-action-lab",
+    "href": "lectures/lecture5.html#abdul-latif-jameel-poverty-action-lab",
+    "title": "Lecture 5 Evaluation Designs",
+    "section": "Abdul Latif Jameel Poverty Action Lab",
+    "text": "Abdul Latif Jameel Poverty Action Lab\n\n\nSource: J-PAL"
+  },
+  {
+    "objectID": "lectures/lecture5.html#story",
+    "href": "lectures/lecture5.html#story",
+    "title": "Lecture 5 Evaluation Designs",
+    "section": "Story",
+    "text": "Story\n\nEsther Duflo and RCTs"
+  },
+  {
+    "objectID": "lectures/lecture5.html#quasi-experiments",
+    "href": "lectures/lecture5.html#quasi-experiments",
+    "title": "Lecture 5 Evaluation Designs",
+    "section": "Quasi experiments",
+    "text": "Quasi experiments"
+  },
+  {
+    "objectID": "lectures/lecture5.html#references",
+    "href": "lectures/lecture5.html#references",
+    "title": "Lecture 5 Evaluation Designs",
+    "section": "",
+    "text": "References\n\n\nGertler, Paul J., Sebastian Martinez, Patrick Premand, Laura B. Rawlings, and Christel M. J. Vermeersch. 2016. Impact Evaluation in Practice, Second Edition. Washington, DC: World Bank. https://doi.org/10.1596/978-1-4648-0779-4.\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He\n\n\n\n\nhttps://drganghe.github.io/program-evaluation/"
+  },
+  {
+    "objectID": "stories/esther-duflo-and-rcts.html",
+    "href": "stories/esther-duflo-and-rcts.html",
+    "title": "Esther Duflo and Randomized Controlled Trails",
+    "section": "",
+    "text": "2019 Nobel Prize in Economics\nProfessor in Economics in MIT"
+  },
+  {
+    "objectID": "stories/esther-duflo-and-rcts.html#esther-duflo",
+    "href": "stories/esther-duflo-and-rcts.html#esther-duflo",
+    "title": "Esther Duflo and Randomized Controlled Trails",
+    "section": "",
+    "text": "2019 Nobel Prize in Economics\nProfessor in Economics in MIT"
+  },
+  {
+    "objectID": "stories/esther-duflo-and-rcts.html#rcts",
+    "href": "stories/esther-duflo-and-rcts.html#rcts",
+    "title": "Esther Duflo and Randomized Controlled Trails",
+    "section": "RCTs",
+    "text": "RCTs\n\nBut Abhijit immediately understood the power of RCTs, not just as a tool to evaluate programs, but as a way of turning development economics on its head by giving us the freedom to put any theory to the test.\n\n– Esther Duflo Biographical"
+  },
+  {
+    "objectID": "stories/esther-duflo-and-rcts.html#noteable-rcts",
+    "href": "stories/esther-duflo-and-rcts.html#noteable-rcts",
+    "title": "Esther Duflo and Randomized Controlled Trails",
+    "section": "Noteable RCTs",
+    "text": "Noteable RCTs\n\n1747 scurvy trial by James Lind\nUK Medical Research Council’s (MRC) trial of patulin for common cold in 1943\nThe Abdul Latif Jameel Poverty Action Lab"
+  },
+  {
+    "objectID": "stories/esther-duflo-and-rcts.html#why-rcts-had-so-much-impacts",
+    "href": "stories/esther-duflo-and-rcts.html#why-rcts-had-so-much-impacts",
+    "title": "Esther Duflo and Randomized Controlled Trails",
+    "section": "Why RCTs had so much impacts",
+    "text": "Why RCTs had so much impacts\n\nIdentification of causal effects (power of randomized)\nExternal validity?\nObserving unobservables\nData collection\nExperiments\n\n\nRead more: Esther Duflo"
+  },
+  {
+    "objectID": "stories/esther-duflo-and-rcts.html#thoughts-for-evaluation",
+    "href": "stories/esther-duflo-and-rcts.html#thoughts-for-evaluation",
+    "title": "Esther Duflo and Randomized Controlled Trails",
+    "section": "Thoughts for evaluation",
+    "text": "Thoughts for evaluation\n\nNatural experiments\n\nCausal identification strategies\nPros and cons of RCTs"
+  },
+  {
+    "objectID": "stories/esther-duflo-and-rcts.html#further-readings",
+    "href": "stories/esther-duflo-and-rcts.html#further-readings",
+    "title": "Esther Duflo and Randomized Controlled Trails",
+    "section": "Further readings",
+    "text": "Further readings\n\nWhy randomized controlled trials matter and the procedures that strengthen them"
+  },
+  {
+    "objectID": "lectures/lecture5.html#steps-in-rcts",
+    "href": "lectures/lecture5.html#steps-in-rcts",
+    "title": "Lecture 5 Evaluation Designs",
+    "section": "Steps in RCTs",
+    "text": "Steps in RCTs\n\n\nSource: Gertler et al. (2016)"
+  },
+  {
+    "objectID": "lectures/lecture5.html#what-can-be-randomized",
+    "href": "lectures/lecture5.html#what-can-be-randomized",
+    "title": "Lecture 5 Evaluation Designs",
+    "section": "What can be randomized?",
+    "text": "What can be randomized?\nDifferent ways to randomize come from three basic elements of a program which can be randomized\n\nAccess: which people are offered access to a program\nTiming: when people are offered access\nEncouragement: which people are given encouragement to participate\n\n\nSource: ECMA 35550"
+  },
+  {
+    "objectID": "lectures/lecture5.html#quasi-experiment-design",
+    "href": "lectures/lecture5.html#quasi-experiment-design",
+    "title": "Lecture 5 Evaluation Designs",
+    "section": "Quasi experiment design",
+    "text": "Quasi experiment design\nNot randomized assignments\n\nRegression discontinuity design (RDD)\nDifference in differences (DiD)\nOther designs"
+  },
+  {
+    "objectID": "lectures/lecture5.html#regression-discontinuity-design-rdd",
+    "href": "lectures/lecture5.html#regression-discontinuity-design-rdd",
+    "title": "Lecture 5 Evaluation Designs",
+    "section": "Regression discontinuity design (RDD)",
+    "text": "Regression discontinuity design (RDD)\nPrograms that have a continuous eligibility index with a clearly defined eligibility threshold (cutoff score) to determine who is eligible and who is not.\n\nThe index must rank people or units in a continuous or “smooth” way.\nThe index must have a clearly defined cutoff score.\nThe cutoff must be unique to the program of interest.\nThe score of a particular individual or unit cannot be manipulated."
+  },
+  {
+    "objectID": "lectures/lecture5.html#difference-in-differences-did",
+    "href": "lectures/lecture5.html#difference-in-differences-did",
+    "title": "Lecture 5 Evaluation Designs",
+    "section": "Difference in differences (DiD)",
+    "text": "Difference in differences (DiD)\ncompares the changes in outcomes over time between a population that is enrolled in a program (the treatment group) and a population that is not (the comparison group).\n\n\nSource: Econometrics for Business Analysis"
+  },
+  {
+    "objectID": "lectures/lecture5.html#challenges",
+    "href": "lectures/lecture5.html#challenges",
+    "title": "Lecture 5 Evaluation Designs",
+    "section": "Challenges",
+    "text": "Challenges\n\nSelf-selection\nSelection bias"
+  },
+  {
+    "objectID": "lectures/lecture5.html#rule-of-thumb",
+    "href": "lectures/lecture5.html#rule-of-thumb",
+    "title": "Lecture 5 Evaluation Designs",
+    "section": "Rule of thumb",
+    "text": "Rule of thumb\n\nCorrelation is the beginning of understanding what happens to a group\nCorrelation does not equal causation\nEvaluation design will depends on possibility, feasibility, and appropriability"
   }
 ]

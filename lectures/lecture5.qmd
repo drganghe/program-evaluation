@@ -4,7 +4,7 @@ description-meta: "How do I use the scientific method in the real world?"
 author: "Gang He"
 date: April 13, 2024
 date-format: long
-image: "/lectures/images/cdc-framework-stakeholders.webp"
+image: "/lectures/images/steps-in-rcts.png"
 format:
   revealjs:
     theme: white
@@ -19,7 +19,7 @@ format:
     scrollable: true
     css: /custom.css
     footer: <https://drganghe.github.io/program-evaluation/>
-draft: true
+#draft: true
 ---
 
 ## Recap lecture 4
@@ -34,18 +34,114 @@ draft: true
 ## Today's agenda
 
 - Evaluation design
+- RCT
+- Other strategies
 - Proposal
 - Caucus on progress on evaluation project
 
 
-## RCTs
+## Counterfactural: What if?
+
+:::{style="text-align:center"}
+What would have happened in the absence of the program?
+
+How do we measure what would have happened if the other circumstance had prevailed?
+:::
+
+
+## Comparison group
+
+Individual level effect is impossible to observe.
+
+No individual counterfactuals.
+
+
+## Naive design
+
+- **Naturally occurring** treated and untreated groups
+- Examples
+  - Students who participated pre-K (test scores)
+  - Moms who use anesthetic (hospital stays)
+- Questions to ask: Do we expect that if the program had not been offered, the outcomes of the treated and untreated comparison groups would have been roughly the same?
+
+
+## Challenges
+
+- Self-selection
+- Selection bias
+
+
+## The power of randomized
+
+Comparing average outcomes only works if groups that received/didn't receive treatment look the same.
+
+![](/lectures/images/random-sampling-randomized-treatment.png){fig-align="center"}
+
+::: footer
+Source: @gertler_impact_2016
+:::
+
+
+## Random assignment methods
+
+- Coins
+- Dice
+- Lottery
+- Random numbers
+
+
+
+## Steps in RCTs
+
+![](/lectures/images/steps-in-rcts.png){fig-align="center"}
+
+::: footer
+Source: @gertler_impact_2016
+:::
+
+
+## What can be randomized?
+
+Different ways to randomize come from three basic elements of a program which can be randomized
+
+- Access: which people are offered access to a program
+
+- Timing: when people are offered access
+
+- Encouragement: which people are given encouragement to participate
+
 
 ::: footer
 Source: [ECMA 35550](http://runningres.com/course-details)
 :::
 
 
+## When to use RCTs?
+
+- Demand for treatment exceeds supply
+- Treatment will be phased in over time
+- Treatment is in equipoise (genuine uncertainty)
+- Local culture open to randomization
+- When you're a nondemocratic monopolist
+- When people won't know (and it's ethical!)
+- When lotteries are going to happen anyway
+
+
+## When not?
+
+- When you need immediate results
+- When it's unethical or illegal
+- When it's something that happened in the past
+- When it involves universal ongoing phenomena
+
+
 ## Abdul Latif Jameel Poverty Action Lab
+
+![](/lectures/images/jpal.webp){fig-align="center"}
+
+::: footer
+Source: [J-PAL](https://www.povertyactionlab.org/)
+:::
 
 
 ## Story
@@ -53,6 +149,46 @@ Source: [ECMA 35550](http://runningres.com/course-details)
 :::{style="text-align:center;"}
 Esther Duflo and RCTs
 :::
+
+
+## Quasi experiment design
+
+Not randomized assignments
+
+- Regression discontinuity design (RDD) 
+- Difference in differences (DiD) 
+- Other designs
+
+
+## Regression discontinuity design (RDD)
+
+Programs that have a continuous eligibility index with a
+clearly defined eligibility threshold (cutoff score) to determine who is
+eligible and who is not.
+
+- The index must rank people or units in a continuous or “smooth” way.
+- The index must have a clearly defined cutoff score.
+- The cutoff must be unique to the program of interest.
+- The score of a particular individual or unit cannot be manipulated.
+
+
+## Difference in differences (DiD)
+
+compares the changes in outcomes over time between a population that is enrolled in a program (the treatment group) and a population that is not (the comparison group).
+
+![](/lectures/images/DiD-visual.png){fig-align="center"}
+
+::: footer
+Source: [Econometrics for Business Analysis](https://bookdown.org/cuborican/RE_STAT/difference-in-differences.html)
+:::
+
+
+## Rule of thumb
+
+- Correlation is the beginning of understanding what happens to a group
+- Correlation does not equal causation
+- Evaluation design will depends on possibility, feasibility, and appropriability
+
 
 ------
 

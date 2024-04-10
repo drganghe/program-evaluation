@@ -120,7 +120,7 @@ Source: [CDC](https://www.cdc.gov/std/Program/pupestd/Identifying%20and%20Determ
 ## Mapping stakeholders
 
 - List all potential stakeholders
-- Caterized them
+- Categorize them
 - Describe interest and influence
 - Note preferred communication channel
 - Develop strategies

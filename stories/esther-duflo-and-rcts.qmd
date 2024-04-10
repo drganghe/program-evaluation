@@ -23,11 +23,13 @@ format:
       - heightrounded
     #fontfamily: xelatex
     colorlinks: true
-draft: true
+#draft: true
 ---
 
 ## Esther Duflo
 
+- 2019 Nobel Prize in Economics
+- Professor in Economics in MIT
 
 ## RCTs
 
@@ -36,17 +38,34 @@ draft: true
 -- [Esther Duflo Biographical](https://www.nobelprize.org/prizes/economic-sciences/2019/duflo/biographical/)
 
 
+## Noteable RCTs
+
+- 1747 scurvy trial by James Lind
+- UK Medical Research Council's (MRC) trial of patulin for common cold in 1943
+- The Abdul Latif Jameel Poverty Action Lab
+
+## Why RCTs had so much impacts
+
+- Identification of causal effects (power of randomized)
+- External validity?
+- Observing unobservables
+- Data collection
+- Experiments
+
+::: footer
+Read more: [Esther Duflo](https://thedocs.worldbank.org/en/doc/394531465569503682-0050022016/original/EstherDufloPRESENTATION.pdf)
+:::
+
 ## Thoughts for evaluation
 
 - Natural experiments   
 - Causal identification strategies
-- Regression discountinuity
+- Pros and cons of RCTs
 
 
-## References
+## Further readings
 
-
-
+- [Why randomized controlled trials matter and the procedures that strengthen them](https://ourworldindata.org/randomized-controlled-trials)
 
 
 <!--Include social share buttons-->

@@ -10,3 +10,4 @@ page-layout: full
 | 2    | Mar 16 | Why do evaluation?      | [Goals and Types of Evaluation](/lectures/lecture2.qmd)  | [High Line Park](/stories/high-line-park.qmd)     | Case 1: Northwest Housing Alternatives | Case Response 1 |
 | 3    | Mar 23 | How to identify causal effects?        | [Logic and Causal Models](/lectures/lecture3.qmd)  | [Bombing, Heating, and Causal Models](/stories/bombing-heating-and-causal-models.qmd)     | Case 2: Jobs Plus in NYC | Case Response 2 |
 | 4    | April 6 | How to account for everyone involved?        | [Stakeholder Engagement](/lectures/lecture4.qmd)  | [John Muir and National Park System](/stories/john-muir-and-national-park.qmd)     | Case 3: ARPA-E | Case Response 3 |
+| 5    | April 13 | How do I use the scientific method in the real world?   | [Evaluation Designs](/lectures/lecture5.qmd)  | [Esther Duflo and RCTs](/stories/esther-duflo-and-rcts.qmd)     |   | Proposal due |
