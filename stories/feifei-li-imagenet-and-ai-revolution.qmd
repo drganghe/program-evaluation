@@ -1,5 +1,5 @@
 ---
-title: Feifei Li and ImageNet
+title: Feifei Li, ImageNet, and the AI Revolution
 author: Gang He
 date: April 20, 2024
 format: 
@@ -23,7 +23,7 @@ format:
       - heightrounded
     #fontfamily: xelatex
     colorlinks: true
-#draft: true
+draft: true
 ---
 
 ## ImageNet

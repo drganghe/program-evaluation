@@ -38,7 +38,7 @@ format:
 - Identify key stakeholder
 - Engaging stakeholders
 - ARPR-E case
-- Role play, stakeholder conflict
+- Review of logic models
 
 
 ## The first step

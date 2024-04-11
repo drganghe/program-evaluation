@@ -28,7 +28,7 @@ format:
 - Identify key stakeholder
 - Engaging stakeholders
 - ARPR-E case
-- Role play, stakeholder conflict
+- Review of logic models and preliminary discussion of student project ideas
 
 
 ## Today's agenda
@@ -37,7 +37,7 @@ format:
 - RCT
 - Other strategies
 - Proposal
-- Caucus on progress on evaluation project
+- Progress on evaluation project
 
 
 ## Counterfactural: What if?

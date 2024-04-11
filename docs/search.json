@@ -4,7 +4,7 @@
     "href": "stories.html",
     "title": "Stories",
     "section": "",
-    "text": "Date\n\n\nTitle\n\n\n\n\n\n\nMar 9, 2024\n\n\nJohn Snow and Evidence Based Analysis\n\n\n\n\nMar 16, 2024\n\n\nHigh Line Park\n\n\n\n\nMar 23, 2024\n\n\nBombing, Heating, and Causal Models\n\n\n\n\nApr 6, 2024\n\n\nJohn Muir and National Park System\n\n\n\n\nApr 13, 2024\n\n\nEsther Duflo and Randomized Controlled Trails\n\n\n\n\nApr 20, 2024\n\n\nFeifei Li and ImageNet\n\n\n\n\nMay 11, 2024\n\n\nThe Moral Machine and Ethical AI\n\n\n\n\n\nNo matching items"
+    "text": "Date\n\n\nTitle\n\n\n\n\n\n\nMar 9, 2024\n\n\nJohn Snow and Evidence Based Analysis\n\n\n\n\nMar 16, 2024\n\n\nHigh Line Park\n\n\n\n\nMar 23, 2024\n\n\nBombing, Heating, and Causal Models\n\n\n\n\nApr 6, 2024\n\n\nJohn Muir and National Park System\n\n\n\n\nApr 13, 2024\n\n\nEsther Duflo and Randomized Controlled Trails\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "resources.html",
@@ -795,7 +795,7 @@
     "href": "lectures/lecture4.html#todays-agenda",
     "title": "Lecture 4 Stakeholder Analysis, Mapping, and Engagement",
     "section": "Today’s agenda",
-    "text": "Today’s agenda\n\nStakeholders\nIdentify key stakeholder\nEngaging stakeholders\nARPR-E case\nRole play, stakeholder conflict"
+    "text": "Today’s agenda\n\nStakeholders\nIdentify key stakeholder\nEngaging stakeholders\nARPR-E case\nReview of logic models"
   },
   {
     "objectID": "lectures/lecture4.html#the-first-step",
@@ -949,14 +949,14 @@
     "href": "lectures/lecture5.html#recap-lecture-4",
     "title": "Lecture 5 Evaluation Designs",
     "section": "Recap lecture 4",
-    "text": "Recap lecture 4\n\nStakeholders\nIdentify key stakeholder\nEngaging stakeholders\nARPR-E case\nRole play, stakeholder conflict"
+    "text": "Recap lecture 4\n\nStakeholders\nIdentify key stakeholder\nEngaging stakeholders\nARPR-E case\nReview of logic models and preliminary discussion of student project ideas"
   },
   {
     "objectID": "lectures/lecture5.html#todays-agenda",
     "href": "lectures/lecture5.html#todays-agenda",
     "title": "Lecture 5 Evaluation Designs",
     "section": "Today’s agenda",
-    "text": "Today’s agenda\n\nEvaluation design\nRCT\nOther strategies\nProposal\nCaucus on progress on evaluation project"
+    "text": "Today’s agenda\n\nEvaluation design\nRCT\nOther strategies\nProposal\nProgress on evaluation project"
   },
   {
     "objectID": "lectures/lecture5.html#counterfactural-what-if",
@@ -1146,20 +1146,6 @@
     "title": "Lecture 5 Evaluation Designs",
     "section": "Rule of thumb",
     "text": "Rule of thumb\n\nCorrelation is the beginning of understanding what happens to a group\nCorrelation does not equal causation\nEvaluation design will depends on possibility, feasibility, and appropriability"
-  },
-  {
-    "objectID": "stories/the-moral-machine-and-ethical-ai.html#thoughts-for-evaluation",
-    "href": "stories/the-moral-machine-and-ethical-ai.html#thoughts-for-evaluation",
-    "title": "The Moral Machine and Ethical AI",
-    "section": "Thoughts for evaluation",
-    "text": "Thoughts for evaluation\n\nData\n\nEthics"
-  },
-  {
-    "objectID": "stories/the-moral-machine-and-ethical-ai.html#further-readings",
-    "href": "stories/the-moral-machine-and-ethical-ai.html#further-readings",
-    "title": "The Moral Machine and Ethical AI",
-    "section": "Further readings",
-    "text": "Further readings"
   },
   {
     "objectID": "stories/feifei-li-and-imagenet.html#feifei-li",
