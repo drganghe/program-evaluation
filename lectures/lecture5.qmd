@@ -51,10 +51,19 @@ How do we measure what would have happened if the other circumstance had prevail
 
 ## Comparison group
 
-Individual level effect is impossible to observe.
+A valid comparison group:
 
-No individual counterfactuals.
+1. has the same characteristics, on average, as the treatment group in the
+absence of the program;
+1. remains unaffected by the program; and
+1. would react to the program in the same way as the treatment group, if given the program.
 
+Note: Individual level effect is impossible to observe. No individual counterfactuals.
+
+
+::: footer
+Source: @gertler_impact_2016
+:::
 
 ## Naive design
 
@@ -89,6 +98,7 @@ Source: @gertler_impact_2016
 - Lottery
 - Random numbers
 
+Tool: [Random Generator](/files/tools/RandomGenerator.xlsx)
 
 
 ## Steps in RCTs
@@ -120,10 +130,9 @@ Source: [ECMA 35550](http://runningres.com/course-details)
 
 - Demand for treatment exceeds supply
 - Treatment will be phased in over time
-- Treatment is in equipoise (genuine uncertainty)
+- Treatment has uncertainty
 - Local culture open to randomization
-- When you're a nondemocratic monopolist
-- When people won't know (and it's ethical!)
+- When people won't know and it's ethical
 - When lotteries are going to happen anyway
 
 
@@ -147,7 +156,7 @@ Source: [J-PAL](https://www.povertyactionlab.org/)
 ## Story
 
 :::{style="text-align:center;"}
-Esther Duflo and RCTs
+[Esther Duflo and RCTs](/stories/esther-duflo-and-rcts.qmd)
 :::
 
 
@@ -162,9 +171,7 @@ Not randomized assignments
 
 ## Regression discontinuity design (RDD)
 
-Programs that have a continuous eligibility index with a
-clearly defined eligibility threshold (cutoff score) to determine who is
-eligible and who is not.
+Programs that have a continuous eligibility index with a clearly defined eligibility threshold (cutoff score) to determine who is eligible and who is not.
 
 - The index must rank people or units in a continuous or “smooth” way.
 - The index must have a clearly defined cutoff score.
@@ -174,7 +181,7 @@ eligible and who is not.
 
 ## Difference in differences (DiD)
 
-compares the changes in outcomes over time between a population that is enrolled in a program (the treatment group) and a population that is not (the comparison group).
+Compares the changes in outcomes over time between a population that is enrolled in a program (the treatment group) and a population that is not (the comparison group).
 
 ![](/lectures/images/DiD-visual.png){fig-align="center"}
 

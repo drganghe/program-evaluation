@@ -4,7 +4,7 @@
     "href": "stories.html",
     "title": "Stories",
     "section": "",
-    "text": "Date\n\n\nTitle\n\n\n\n\n\n\nMar 9, 2024\n\n\nJohn Snow and Evidence Based Analysis\n\n\n\n\nMar 16, 2024\n\n\nHigh Line Park\n\n\n\n\nMar 23, 2024\n\n\nBombing, Heating, and Causal Models\n\n\n\n\nApr 6, 2024\n\n\nJohn Muir and National Park System\n\n\n\n\nApr 13, 2024\n\n\nEsther Duflo and Randomized Controlled Trails\n\n\n\n\n\nNo matching items"
+    "text": "Date\n\n\nTitle\n\n\n\n\n\n\nMar 9, 2024\n\n\nJohn Snow and Evidence Based Analysis\n\n\n\n\nMar 16, 2024\n\n\nHigh Line Park\n\n\n\n\nMar 23, 2024\n\n\nBombing, Heating, and Causal Models\n\n\n\n\nApr 6, 2024\n\n\nJohn Muir and National Park System\n\n\n\n\nApr 13, 2024\n\n\nEsther Duflo and Randomized Controlled Trails\n\n\n\n\nApr 20, 2024\n\n\nFeifei Li and ImageNet\n\n\n\n\nMay 11, 2024\n\n\nThe Moral Machine and Ethical AI\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "resources.html",
@@ -46,7 +46,7 @@
     "href": "resources.html#tools",
     "title": "Resources",
     "section": "Tools",
-    "text": "Tools\nDAG chart tool: Dagitty"
+    "text": "Tools\nDAG chart tool: Dagitty\nRandom Generator"
   },
   {
     "objectID": "lectures/lecture2.html#recap-lecture-1",
@@ -116,7 +116,7 @@
     "href": "lectures/lecture2.html#high-line-park-story",
     "title": "Lecture 2 Goals and Types of Evaluation",
     "section": "High Line Park Story",
-    "text": "High Line Park Story\n\n\nPhoto credit: Gang He"
+    "text": "High Line Park Story\n\n\n\n\n\n\nPhoto credit: Gang He"
   },
   {
     "objectID": "lectures/lecture2.html#culturally-responsive-evaluation",
@@ -970,7 +970,7 @@
     "href": "lectures/lecture5.html#comparison-group",
     "title": "Lecture 5 Evaluation Designs",
     "section": "Comparison group",
-    "text": "Comparison group\nIndividual level effect is impossible to observe.\nNo individual counterfactuals."
+    "text": "Comparison group\nA valid comparison group:\n\nhas the same characteristics, on average, as the treatment group in the absence of the program;\nremains unaffected by the program; and\nwould react to the program in the same way as the treatment group, if given the program.\n\nNote: Individual level effect is impossible to observe. No individual counterfactuals.\n\nSource: Gertler et al. (2016)"
   },
   {
     "objectID": "lectures/lecture5.html#naive-design",
@@ -998,7 +998,7 @@
     "href": "lectures/lecture5.html#random-assignment-methods",
     "title": "Lecture 5 Evaluation Designs",
     "section": "Random assignment methods",
-    "text": "Random assignment methods\n\nCoins\nDice\nLottery\nRandom numbers"
+    "text": "Random assignment methods\n\nCoins\nDice\nLottery\nRandom numbers\n\nTool: Random Generator"
   },
   {
     "objectID": "lectures/lecture5.html#rcts",
@@ -1012,7 +1012,7 @@
     "href": "lectures/lecture5.html#when-to-use-rcts",
     "title": "Lecture 5 Evaluation Designs",
     "section": "When to use RCTs?",
-    "text": "When to use RCTs?\n\nDemand for treatment exceeds supply\nTreatment will be phased in over time\nTreatment is in equipoise (genuine uncertainty)\nLocal culture open to randomization\nWhen you’re a nondemocratic monopolist\nWhen people won’t know (and it’s ethical!)\nWhen lotteries are going to happen anyway"
+    "text": "When to use RCTs?\n\nDemand for treatment exceeds supply\nTreatment will be phased in over time\nTreatment has uncertainty\nLocal culture open to randomization\nWhen people won’t know and it’s ethical\nWhen lotteries are going to happen anyway"
   },
   {
     "objectID": "lectures/lecture5.html#when-not",
@@ -1131,7 +1131,7 @@
     "href": "lectures/lecture5.html#difference-in-differences-did",
     "title": "Lecture 5 Evaluation Designs",
     "section": "Difference in differences (DiD)",
-    "text": "Difference in differences (DiD)\ncompares the changes in outcomes over time between a population that is enrolled in a program (the treatment group) and a population that is not (the comparison group).\n\n\nSource: Econometrics for Business Analysis"
+    "text": "Difference in differences (DiD)\nCompares the changes in outcomes over time between a population that is enrolled in a program (the treatment group) and a population that is not (the comparison group).\n\n\nSource: Econometrics for Business Analysis"
   },
   {
     "objectID": "lectures/lecture5.html#challenges",
@@ -1146,5 +1146,40 @@
     "title": "Lecture 5 Evaluation Designs",
     "section": "Rule of thumb",
     "text": "Rule of thumb\n\nCorrelation is the beginning of understanding what happens to a group\nCorrelation does not equal causation\nEvaluation design will depends on possibility, feasibility, and appropriability"
+  },
+  {
+    "objectID": "stories/the-moral-machine-and-ethical-ai.html#thoughts-for-evaluation",
+    "href": "stories/the-moral-machine-and-ethical-ai.html#thoughts-for-evaluation",
+    "title": "The Moral Machine and Ethical AI",
+    "section": "Thoughts for evaluation",
+    "text": "Thoughts for evaluation\n\nData\n\nEthics"
+  },
+  {
+    "objectID": "stories/the-moral-machine-and-ethical-ai.html#further-readings",
+    "href": "stories/the-moral-machine-and-ethical-ai.html#further-readings",
+    "title": "The Moral Machine and Ethical AI",
+    "section": "Further readings",
+    "text": "Further readings"
+  },
+  {
+    "objectID": "stories/feifei-li-and-imagenet.html#feifei-li",
+    "href": "stories/feifei-li-and-imagenet.html#feifei-li",
+    "title": "Feifei Li and ImageNet",
+    "section": "Feifei Li",
+    "text": "Feifei Li"
+  },
+  {
+    "objectID": "stories/feifei-li-and-imagenet.html#thoughts-for-evaluation",
+    "href": "stories/feifei-li-and-imagenet.html#thoughts-for-evaluation",
+    "title": "Feifei Li and ImageNet",
+    "section": "Thoughts for evaluation",
+    "text": "Thoughts for evaluation\n\nData\n\nEthics"
+  },
+  {
+    "objectID": "stories/feifei-li-and-imagenet.html#further-readings",
+    "href": "stories/feifei-li-and-imagenet.html#further-readings",
+    "title": "Feifei Li and ImageNet",
+    "section": "Further readings",
+    "text": "Further readings"
   }
 ]

@@ -39,6 +39,8 @@ NYC Opportunities [Evaluation](https://www.nyc.gov/site/opportunity/reports/eval
 
 DAG chart tool: [Dagitty](https://www.dagitty.net/dags.html)
 
+[Random Generator](/files/tools/RandomGenerator.xlsx)
+
 
 
 <!--Include social share buttons-->

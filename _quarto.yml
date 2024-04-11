@@ -30,14 +30,17 @@ website:
     right: 
       - icon: github
         href: https://github.com/drganghe/program-evaluation
+        target: _blank
   page-navigation: true
   page-footer: 
     left: "[Gang He](http://drganghe.github.io) &copy; <script>document.write(new Date().getFullYear())</script>" 
     right: 
       - icon: github
         href: https://github.com/drganghe/program-evaluation
+        target: _blank
       - icon: twitter 
         href: https://twitter.com/DrGangHe
+        target: _blank
   search:
     location: navbar
     type: textbox

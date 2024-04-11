@@ -1,0 +1,54 @@
+---
+title: "Lecture 7 Data Analysis: Quantitative, Qualitative and Mixed Analysis"
+description-meta: "What methods make data tell accurate stories and solve problems?"
+author: "Gang He"
+date: April 27, 2024
+date-format: long
+image: "/lectures/images/steps-in-rcts.png"
+format:
+  revealjs:
+    theme: white
+ #   embed-resources: true
+    slide-number: true
+    preview-links: auto
+    link-external-newwindow: true
+    citations-hover: true
+    auto-stretch: true
+    r-fit-text: true
+    center: true
+    scrollable: true
+    css: /custom.css
+    footer: <https://drganghe.github.io/program-evaluation/>
+draft: true
+---
+
+## Recap lecture 4
+
+- Stakeholders
+- Identify key stakeholder
+- Engaging stakeholders
+- ARPR-E case
+- Role play, stakeholder conflict
+
+
+## Today's agenda
+
+- Evaluation design
+- RCT
+- Other strategies
+- Proposal
+- Caucus on progress on evaluation project
+
+
+
+
+------
+
+### References
+
+::: {#refs}
+:::
+
+::: footer
+Back to Title [Slide](https://drganghe.github.io/program-evaluation/lectures/lecture7/#/title-slide), All [Lectures](https://drganghe.github.io/program-evaluation/lectures.html), Course [Home](https://drganghe.github.io/program-evaluation/), or Learn More About [Gang He](https://drganghe.github.io)
+:::
