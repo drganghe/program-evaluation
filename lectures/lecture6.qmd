@@ -22,22 +22,64 @@ format:
 draft: true
 ---
 
-## Recap lecture 4
-
-- Stakeholders
-- Identify key stakeholder
-- Engaging stakeholders
-- ARPR-E case
-- Role play, stakeholder conflict
-
-
-## Today's agenda
+## Recap lecture 5
 
 - Evaluation design
 - RCT
 - Other strategies
 - Proposal
-- Caucus on progress on evaluation project
+- Progress on evaluation project
+
+
+## Today's agenda
+
+- Data sources
+- Statistical data
+- Survey
+- Interview
+- Case study
+- Evaluation project consultation
+
+
+## Literature review
+
+- Google Scholar
+- Review articles
+- Experts interview
+- Examples
+
+
+## Existing data
+
+- Economic, census statistics
+- Open data platforms
+- Program data
+
+
+## Collecting program data
+
+
+## Probabilistic sampling
+
+- Random sampling
+- Stratified random sampling
+- Cluster sampling
+
+
+## Sample size: Power calculations
+
+"Smallest sample(lowest budget)" to possibly measure program impact.
+
+
+
+
+## Survey
+
+
+## Field
+
+
+## Case study
 
 
 

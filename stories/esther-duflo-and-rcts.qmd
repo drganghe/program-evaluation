@@ -40,8 +40,8 @@ format:
 
 ## Noteable RCTs
 
-- 1747 scurvy trial by James Lind
-- UK Medical Research Council's (MRC) trial of patulin for common cold in 1943
+- 1747 scurvy trial by James Lind [@trohler_lind_2005]
+- UK Medical Research Council's (MRC) trial of patulin for common cold in 1943 [@clarke_1944_2006]
 - The Abdul Latif Jameel Poverty Action Lab
 
 ## Why RCTs had so much impacts
@@ -66,6 +66,11 @@ Read more: [Esther Duflo](https://thedocs.worldbank.org/en/doc/39453146556950368
 ## Further readings
 
 - [Why randomized controlled trials matter and the procedures that strengthen them](https://ourworldindata.org/randomized-controlled-trials)
+
+## References
+
+::: {#refs}
+:::
 
 
 <!--Include social share buttons-->

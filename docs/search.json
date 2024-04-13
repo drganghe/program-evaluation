@@ -508,14 +508,14 @@
     "href": "syllabus.html",
     "title": "Syllabus",
     "section": "",
-    "text": "Marxe School of Public and International Affairs\nCourse Name: PAF 9174 (43225), Program Evaluation\nInstructor: Gang He and Samantha Macbride\nEmail: gang.he@baruch.cuny.edu\nTime: Saturday 12:30-3:30pm\nLocation: Newman Vertical Campus, 14th Floor, Room 14-285"
+    "text": "Marxe School of Public and International Affairs\nCourse Name: PAF 9174 (43225), Program Evaluation\nInstructor: Gang He and Samantha Macbride\nEmail: gang.he@baruch.cuny.edu and samantha.macbride@baruch.cuny.edu\nTime: Saturday 12:30-3:30pm\nLocation: Newman Vertical Campus, 14th Floor, Room 14-285"
   },
   {
     "objectID": "syllabus.html#course-information",
     "href": "syllabus.html#course-information",
     "title": "Syllabus",
     "section": "",
-    "text": "Marxe School of Public and International Affairs\nCourse Name: PAF 9174 (43225), Program Evaluation\nInstructor: Gang He and Samantha Macbride\nEmail: gang.he@baruch.cuny.edu\nTime: Saturday 12:30-3:30pm\nLocation: Newman Vertical Campus, 14th Floor, Room 14-285"
+    "text": "Marxe School of Public and International Affairs\nCourse Name: PAF 9174 (43225), Program Evaluation\nInstructor: Gang He and Samantha Macbride\nEmail: gang.he@baruch.cuny.edu and samantha.macbride@baruch.cuny.edu\nTime: Saturday 12:30-3:30pm\nLocation: Newman Vertical Campus, 14th Floor, Room 14-285"
   },
   {
     "objectID": "syllabus.html#course-description",
@@ -1075,7 +1075,7 @@
     "href": "stories/esther-duflo-and-rcts.html#noteable-rcts",
     "title": "Esther Duflo and Randomized Controlled Trails",
     "section": "Noteable RCTs",
-    "text": "Noteable RCTs\n\n1747 scurvy trial by James Lind\nUK Medical Research Council’s (MRC) trial of patulin for common cold in 1943\nThe Abdul Latif Jameel Poverty Action Lab"
+    "text": "Noteable RCTs\n\n1747 scurvy trial by James Lind (Tröhler 2005)\nUK Medical Research Council’s (MRC) trial of patulin for common cold in 1943 (Clarke 2006)\nThe Abdul Latif Jameel Poverty Action Lab"
   },
   {
     "objectID": "stories/esther-duflo-and-rcts.html#why-rcts-had-so-much-impacts",
@@ -1167,5 +1167,19 @@
     "title": "Feifei Li and ImageNet",
     "section": "Further readings",
     "text": "Further readings"
+  },
+  {
+    "objectID": "stories/esther-duflo-and-rcts.html#reference",
+    "href": "stories/esther-duflo-and-rcts.html#reference",
+    "title": "Esther Duflo and Randomized Controlled Trails",
+    "section": "Reference",
+    "text": "Reference\n\n\nClarke, Mike. 2006. “The 1944 Patulin Trial of the British Medical Research Council.” Journal of the Royal Society of Medicine 99 (9): 478–80. https://doi.org/10.1177/014107680609900923.\n\n\nTröhler, U. 2005. “Lind and Scurvy: 1747 to 1795.” Journal of the Royal Society of Medicine 98 (11): 519–22. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1276007/."
+  },
+  {
+    "objectID": "stories/esther-duflo-and-rcts.html#references",
+    "href": "stories/esther-duflo-and-rcts.html#references",
+    "title": "Esther Duflo and Randomized Controlled Trails",
+    "section": "References",
+    "text": "References\n\n\nClarke, Mike. 2006. “The 1944 Patulin Trial of the British Medical Research Council.” Journal of the Royal Society of Medicine 99 (9): 478–80. https://doi.org/10.1177/014107680609900923.\n\n\nTröhler, U. 2005. “Lind and Scurvy: 1747 to 1795.” Journal of the Royal Society of Medicine 98 (11): 519–22. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1276007/."
   }
 ]
