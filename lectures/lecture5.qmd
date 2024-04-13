@@ -40,6 +40,21 @@ format:
 - Progress on evaluation project
 
 
+## Evaluation designs{.smaller}
+
+- Experimental
+  - Randomised controled trial
+
+- Quasi-experimental
+  - Regression discontinuity
+  - Difference in differences
+
+- Observational (Non-experimental)
+  - Time–series analysis (Pre- and post-intervention studies)
+  - Cross-sectional surveys
+  - Case studies
+
+
 ## Counterfactural: What if?
 
 :::{style="text-align:center"}

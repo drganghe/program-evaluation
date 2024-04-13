@@ -1181,5 +1181,12 @@
     "title": "Esther Duflo and Randomized Controlled Trails",
     "section": "References",
     "text": "References\n\n\nClarke, Mike. 2006. “The 1944 Patulin Trial of the British Medical Research Council.” Journal of the Royal Society of Medicine 99 (9): 478–80. https://doi.org/10.1177/014107680609900923.\n\n\nTröhler, U. 2005. “Lind and Scurvy: 1747 to 1795.” Journal of the Royal Society of Medicine 98 (11): 519–22. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1276007/."
+  },
+  {
+    "objectID": "lectures/lecture5.html#evaluation-designs",
+    "href": "lectures/lecture5.html#evaluation-designs",
+    "title": "Lecture 5 Evaluation Designs",
+    "section": "Evaluation designs",
+    "text": "Evaluation designs\n\nExperimental\n\nRandomised controled trial\n\nQuasi-experimental\n\nRegression discontinuity\nDifference in differences\n\nObservational (Non-experimental)\n\nTime–series analysis (Pre- and post-intervention studies)\nCross-sectional surveys\nCase studies"
   }
 ]
