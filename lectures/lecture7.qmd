@@ -22,13 +22,14 @@ format:
 draft: true
 ---
 
-## Recap lecture 4
+## Recap lecture 6
 
-- Stakeholders
-- Identify key stakeholder
-- Engaging stakeholders
-- ARPR-E case
-- Role play, stakeholder conflict
+- Data sources
+- Statistical data
+- Survey
+- Interview
+- Case study
+- Evaluation project consultation
 
 
 ## Today's agenda

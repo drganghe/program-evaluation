@@ -70,7 +70,8 @@ format:
 
 ## Further readings
 
-- Tulchinsky, Theodore H. 2018. “Chapter 5 - John Snow, Cholera, the Broad Street Pump; Waterborne Diseases Then and Now.” In Case Studies in Public Health, edited by Theodore H. Tulchinsky, 77–99. Academic Press. https://doi.org/10.1016/B978-0-12-804571-8.00017-2.
+- Tulchinsky, Theodore H. 2018. “Chapter 5 - John Snow, Cholera, the Broad Street Pump; Waterborne Diseases Then and Now.” In Case Studies in Public Health, edited by Theodore H. Tulchinsky, 77–99. Academic Press. <https://doi.org/10.1016/B978-0-12-804571-8.00017-2>.
+- Scott Cunningham. 9.1 John Snow's Cholera Hypothesis in Cause Inference:  The Mixtape. https://mixtape.scunning.com/09-difference_in_differences
 
 
 <!--Include social share buttons-->

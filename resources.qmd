@@ -42,6 +42,13 @@ DAG chart tool: [Dagitty](https://www.dagitty.net/dags.html)
 [Random Generator](/files/tools/RandomGenerator.xlsx)
 
 
+## Evaluation Report Template
+
+USAID Evaluation Report and Review [Template](https://usaidlearninglab.org/system/files/2022-09/evaluation_report_checklist_and_review_template_final2022.pdf)
+
+Evaluation [Checklists](https://wmich.edu/evaluation/checklists)
+
+
 
 <!--Include social share buttons-->
 

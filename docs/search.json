@@ -4,7 +4,7 @@
     "href": "stories.html",
     "title": "Stories",
     "section": "",
-    "text": "Date\n\n\nTitle\n\n\n\n\n\n\nMar 9, 2024\n\n\nJohn Snow and Evidence Based Analysis\n\n\n\n\nMar 16, 2024\n\n\nHigh Line Park\n\n\n\n\nMar 23, 2024\n\n\nBombing, Heating, and Causal Models\n\n\n\n\nApr 6, 2024\n\n\nJohn Muir and National Park System\n\n\n\n\nApr 13, 2024\n\n\nEsther Duflo and Randomized Controlled Trails\n\n\n\n\n\nNo matching items"
+    "text": "Date\n\n\nTitle\n\n\n\n\n\n\nMar 9, 2024\n\n\nJohn Snow and Evidence Based Analysis\n\n\n\n\nMar 16, 2024\n\n\nHigh Line Park\n\n\n\n\nMar 23, 2024\n\n\nBombing, Heating, and Causal Models\n\n\n\n\nApr 6, 2024\n\n\nJohn Muir and National Park System\n\n\n\n\nApr 13, 2024\n\n\nEsther Duflo and Randomized Controlled Trails\n\n\n\n\nApr 20, 2024\n\n\nFeifei Li, ImageNet, and the AI Revolution\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "resources.html",
@@ -305,7 +305,7 @@
     "href": "lectures.html",
     "title": "Lectures",
     "section": "",
-    "text": "Lecture 1 Introduction\n\n\n\nGang He\n\n\nMar 9, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 2 Goals and Types of Evaluation\n\n\n\nGang He\n\n\nMar 16, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 3 Logic and Causal Models\n\n\n\nGang He\n\n\nMar 23, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 4 Stakeholder Analysis, Mapping, and Engagement\n\n\n\nGang He\n\n\nApr 6, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 5 Evaluation Designs\n\n\n\nGang He\n\n\nApr 13, 2024\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Lecture 1 Introduction\n\n\n\nGang He\n\n\nMar 9, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 2 Goals and Types of Evaluation\n\n\n\nGang He\n\n\nMar 16, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 3 Logic and Causal Models\n\n\n\nGang He\n\n\nMar 23, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 4 Stakeholder Analysis, Mapping, and Engagement\n\n\n\nGang He\n\n\nApr 6, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 5 Evaluation Designs\n\n\n\nGang He\n\n\nApr 13, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 6 Data Collection: Procedures, Instrumentation, Practical Considerations\n\n\n\nGang He\n\n\nApr 20, 2024\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "stories/john-snow-and-evidence-based-analysis.html",
@@ -347,7 +347,7 @@
     "href": "stories/john-snow-and-evidence-based-analysis.html#further-readings",
     "title": "John Snow and Evidence Based Analysis",
     "section": "Further readings",
-    "text": "Further readings\n\nTulchinsky, Theodore H. 2018. “Chapter 5 - John Snow, Cholera, the Broad Street Pump; Waterborne Diseases Then and Now.” In Case Studies in Public Health, edited by Theodore H. Tulchinsky, 77–99. Academic Press. https://doi.org/10.1016/B978-0-12-804571-8.00017-2."
+    "text": "Further readings\n\nTulchinsky, Theodore H. 2018. “Chapter 5 - John Snow, Cholera, the Broad Street Pump; Waterborne Diseases Then and Now.” In Case Studies in Public Health, edited by Theodore H. Tulchinsky, 77–99. Academic Press. https://doi.org/10.1016/B978-0-12-804571-8.00017-2.\nScott Cunningham. 9.1 John Snow’s Cholera Hypothesis in Cause Inference: The Mixtape. https://mixtape.scunning.com/09-difference_in_differences"
   },
   {
     "objectID": "stories/high-line-park.html",
@@ -725,7 +725,7 @@
     "href": "schedule.html",
     "title": "Course Schedule",
     "section": "",
-    "text": "Week\nDate\nGuiding question\nTopic\nStory\nCase Study\nAssignment\n\n\n\n\n1\nMar 9\nWhat is program evaluation? Where are we headed in this course?\nIntroduction and Overview\nJohn Snow\n\n\n\n\n2\nMar 16\nWhy do evaluation?\nGoals and Types of Evaluation\nHigh Line Park\nCase 1: Northwest Housing Alternatives\nCase Response 1\n\n\n3\nMar 23\nHow to identify causal effects?\nLogic and Causal Models\nBombing, Heating, and Causal Models\nCase 2: Jobs Plus in NYC\nCase Response 2\n\n\n4\nApril 6\nHow to account for everyone involved?\nStakeholder Engagement\nJohn Muir and National Park System\nCase 3: ARPA-E\nCase Response 3\n\n\n5\nApril 13\nHow do I use the scientific method in the real world?\nEvaluation Designs\nEsther Duflo and RCTs\n\nProposal due"
+    "text": "Week\nDate\nGuiding question\nTopic\nStory\nCase Study\nAssignment\n\n\n\n\n1\nMar 9\nWhat is program evaluation? Where are we headed in this course?\nIntroduction and Overview\nJohn Snow\n\n\n\n\n2\nMar 16\nWhy do evaluation?\nGoals and Types of Evaluation\nHigh Line Park\nCase 1: Northwest Housing Alternatives\nCase Response 1\n\n\n3\nMar 23\nHow to identify causal effects?\nLogic and Causal Models\nBombing, Heating, and Causal Models\nCase 2: Jobs Plus in NYC\nCase Response 2\n\n\n4\nApril 6\nHow to account for everyone involved?\nStakeholder Engagement\nJohn Muir and National Park System\nCase 3: ARPA-E\nCase Response 3\n\n\n5\nApril 13\nHow do I use the scientific method in the real world?\nEvaluation Designs\nEsther Duflo and RCTs\n\nProposal due\n\n\n6\nApril 20\nWhere does the data for program evaluation come from?\nData Collection\nFei-fei Li and ImageNet"
   },
   {
     "objectID": "stories/bombing-heating-and-causal-models.html#references",
@@ -1188,5 +1188,187 @@
     "title": "Lecture 5 Evaluation Designs",
     "section": "Evaluation designs",
     "text": "Evaluation designs\n\nExperimental\n\nRandomised controled trial\n\nQuasi-experimental\n\nRegression discontinuity\nDifference in differences\n\nObservational (Non-experimental)\n\nTime–series analysis (Pre- and post-intervention studies)\nCross-sectional surveys\nCase studies"
+  },
+  {
+    "objectID": "resources.html#evaluation-report-template",
+    "href": "resources.html#evaluation-report-template",
+    "title": "Resources",
+    "section": "Evaluation Report Template",
+    "text": "Evaluation Report Template\nUSAID Evaluation Report and Review Template\nEvaluation Checklists"
+  },
+  {
+    "objectID": "stories/feifei-li-imagenet-and-ai-revolution.html",
+    "href": "stories/feifei-li-imagenet-and-ai-revolution.html",
+    "title": "Feifei Li, ImageNet, and the AI Revolution",
+    "section": "",
+    "text": "Big data: millions of open-source images to train AI\nData as a public good that advances computer vision and deep learning\nCompetition: The ImageNet Large Scale Visual Recognition Challenge"
+  },
+  {
+    "objectID": "stories/feifei-li-imagenet-and-ai-revolution.html#imagenet",
+    "href": "stories/feifei-li-imagenet-and-ai-revolution.html#imagenet",
+    "title": "Feifei Li, ImageNet, and the AI Revolution",
+    "section": "",
+    "text": "Big data: millions of open-source images to train AI\nData as a public good that advances computer vision and deep learning\nCompetition: The ImageNet Large Scale Visual Recognition Challenge"
+  },
+  {
+    "objectID": "stories/feifei-li-imagenet-and-ai-revolution.html#fei-fei-li",
+    "href": "stories/feifei-li-imagenet-and-ai-revolution.html#fei-fei-li",
+    "title": "Feifei Li, ImageNet, and the AI Revolution",
+    "section": "Fei-Fei Li",
+    "text": "Fei-Fei Li\n\nProfessor of Computer Sciences at Stanford University\nDirect of Human-centered AI Institute\n“The Worlds I See”"
+  },
+  {
+    "objectID": "stories/feifei-li-imagenet-and-ai-revolution.html#thoughts-for-evaluation",
+    "href": "stories/feifei-li-imagenet-and-ai-revolution.html#thoughts-for-evaluation",
+    "title": "Feifei Li, ImageNet, and the AI Revolution",
+    "section": "Thoughts for evaluation",
+    "text": "Thoughts for evaluation\n\nData\nVision\n\nEthics"
+  },
+  {
+    "objectID": "stories/feifei-li-imagenet-and-ai-revolution.html#further-readings",
+    "href": "stories/feifei-li-imagenet-and-ai-revolution.html#further-readings",
+    "title": "Feifei Li, ImageNet, and the AI Revolution",
+    "section": "Further readings",
+    "text": "Further readings\nImageNet"
+  },
+  {
+    "objectID": "lectures/lecture6.html#recap-lecture-5",
+    "href": "lectures/lecture6.html#recap-lecture-5",
+    "title": "Lecture 6 Data Collection: Procedures, Instrumentation, Practical Considerations",
+    "section": "Recap lecture 5",
+    "text": "Recap lecture 5\n\nEvaluation design\nRCT\nQuasi-experimental (RD, DiD)\nObservational\nProposal\nProgress on evaluation project"
+  },
+  {
+    "objectID": "lectures/lecture6.html#todays-agenda",
+    "href": "lectures/lecture6.html#todays-agenda",
+    "title": "Lecture 6 Data Collection: Procedures, Instrumentation, Practical Considerations",
+    "section": "Today’s agenda",
+    "text": "Today’s agenda\n\nData sources\nStatistical data\nSurvey\nInterview\nCase study\nEvaluation project consultation"
+  },
+  {
+    "objectID": "lectures/lecture6.html#literature-review",
+    "href": "lectures/lecture6.html#literature-review",
+    "title": "Lecture 6 Data Collection: Procedures, Instrumentation, Practical Considerations",
+    "section": "Literature review",
+    "text": "Literature review\n\nGoogle Scholar\nReview articles\nExperts interview\nExamples"
+  },
+  {
+    "objectID": "lectures/lecture6.html#existing-data",
+    "href": "lectures/lecture6.html#existing-data",
+    "title": "Lecture 6 Data Collection: Procedures, Instrumentation, Practical Considerations",
+    "section": "Existing data",
+    "text": "Existing data\n\nEconomic, census statistics\nOpen data platforms (NYC Open Data, Open Data NY, data.gov)\nProgram data\n\nExample: Prof. MacBride’s Queens Curbside Recycling study"
+  },
+  {
+    "objectID": "lectures/lecture6.html#collecting-program-data",
+    "href": "lectures/lecture6.html#collecting-program-data",
+    "title": "Lecture 6 Data Collection: Procedures, Instrumentation, Practical Considerations",
+    "section": "Collecting program data",
+    "text": "Collecting program data\n\nExperiments\nInterview\nSurvey\nField\nCase study"
+  },
+  {
+    "objectID": "lectures/lecture6.html#probabilistic-sampling",
+    "href": "lectures/lecture6.html#probabilistic-sampling",
+    "title": "Lecture 6 Data Collection: Procedures, Instrumentation, Practical Considerations",
+    "section": "Probabilistic sampling",
+    "text": "Probabilistic sampling\n\nRandom sampling\nStratified random sampling\nCluster sampling"
+  },
+  {
+    "objectID": "lectures/lecture6.html#sample-size-power-calculations",
+    "href": "lectures/lecture6.html#sample-size-power-calculations",
+    "title": "Lecture 6 Data Collection: Procedures, Instrumentation, Practical Considerations",
+    "section": "Sample size: Power calculations",
+    "text": "Sample size: Power calculations\n“Smallest sample (lowest budget)” to possibly measure program impact."
+  },
+  {
+    "objectID": "lectures/lecture6.html#survey",
+    "href": "lectures/lecture6.html#survey",
+    "title": "Lecture 6 Data Collection: Procedures, Instrumentation, Practical Considerations",
+    "section": "Survey",
+    "text": "Survey\n\nConcise/short\nStart with an easy quesiton (yes or no to get “hooked”)\nDonot leading questions\nShow progress/time\nBrainstorm ideas to get good-quality of survey"
+  },
+  {
+    "objectID": "lectures/lecture6.html#comparing-different-survey-methods",
+    "href": "lectures/lecture6.html#comparing-different-survey-methods",
+    "title": "Lecture 6 Data Collection: Procedures, Instrumentation, Practical Considerations",
+    "section": "Comparing different survey methods",
+    "text": "Comparing different survey methods\n\n\n\n\nCriteria\nMail\nInternet\nTelephone\nIn Person\n\n\n\n\nQuality of data\n\n\n\n\n\n\nOpportunities for analyses\n\n\n\n\n\n\nResources needed\n\n\n\n\n\n\n\n\n\nSource: Newcomer, Hatry, and Wholey (2015)"
+  },
+  {
+    "objectID": "lectures/lecture6.html#focused-group",
+    "href": "lectures/lecture6.html#focused-group",
+    "title": "Lecture 6 Data Collection: Procedures, Instrumentation, Practical Considerations",
+    "section": "Focused group",
+    "text": "Focused group\n\nKey stakeholders (See Stakeholder Engagement)\nLarge impact\nMost insights"
+  },
+  {
+    "objectID": "lectures/lecture6.html#interview",
+    "href": "lectures/lecture6.html#interview",
+    "title": "Lecture 6 Data Collection: Procedures, Instrumentation, Practical Considerations",
+    "section": "Interview",
+    "text": "Interview\n\nHomework\nPrepare and test your questions\nSemi-structured interview\nPlan and flexible\nNote taking\nSeek feedback"
+  },
+  {
+    "objectID": "lectures/lecture6.html#fieldwork",
+    "href": "lectures/lecture6.html#fieldwork",
+    "title": "Lecture 6 Data Collection: Procedures, Instrumentation, Practical Considerations",
+    "section": "Fieldwork",
+    "text": "Fieldwork\n\nTo describe what happens at the level being examined (local office, local program, local agency, local community, state office, state agency, and so on) by collecting information about procedures and data on activities, services, institutional features, outcomes.\n\nTo explain why the situations are as they are."
+  },
+  {
+    "objectID": "lectures/lecture6.html#case-study",
+    "href": "lectures/lecture6.html#case-study",
+    "title": "Lecture 6 Data Collection: Procedures, Instrumentation, Practical Considerations",
+    "section": "Case study",
+    "text": "Case study"
+  },
+  {
+    "objectID": "lectures/lecture6.html#tools-of-trade",
+    "href": "lectures/lecture6.html#tools-of-trade",
+    "title": "Lecture 6 Data Collection: Procedures, Instrumentation, Practical Considerations",
+    "section": "Tools of trade",
+    "text": "Tools of trade\n\nGoogle/Microsoft Forms\nSurvey Monkey\nQualtrics\nAmazon"
+  },
+  {
+    "objectID": "lectures/lecture6.html#train-staff",
+    "href": "lectures/lecture6.html#train-staff",
+    "title": "Lecture 6 Data Collection: Procedures, Instrumentation, Practical Considerations",
+    "section": "Train staff",
+    "text": "Train staff\n\nGoals, process, and responses\nAssessment\nMock interviews"
+  },
+  {
+    "objectID": "lectures/lecture6.html#test-instruments",
+    "href": "lectures/lecture6.html#test-instruments",
+    "title": "Lecture 6 Data Collection: Procedures, Instrumentation, Practical Considerations",
+    "section": "Test instruments",
+    "text": "Test instruments\n\nClear vague and biased wording\nLogical order\nCompleteness of intended data"
+  },
+  {
+    "objectID": "lectures/lecture6.html#run-pilot",
+    "href": "lectures/lecture6.html#run-pilot",
+    "title": "Lecture 6 Data Collection: Procedures, Instrumentation, Practical Considerations",
+    "section": "Run pilot",
+    "text": "Run pilot\n\nGet feedback and comments\nRevision\nRefining\n\nReady for a full implementation."
+  },
+  {
+    "objectID": "lectures/lecture6.html#challenges",
+    "href": "lectures/lecture6.html#challenges",
+    "title": "Lecture 6 Data Collection: Procedures, Instrumentation, Practical Considerations",
+    "section": "Challenges",
+    "text": "Challenges\n\nResponse rate\nQuality and consistency\nData security"
+  },
+  {
+    "objectID": "lectures/lecture6.html#references",
+    "href": "lectures/lecture6.html#references",
+    "title": "Lecture 6 Data Collection: Procedures, Instrumentation, Practical Considerations",
+    "section": "",
+    "text": "References\n\n\nNewcomer, Kathryn E., Harry P. Hatry, and Joseph S. Wholey. 2015. Handbook of Practical Program Evaluation. 4th edition. San Francisco: Jossey-Bass.\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He\n\n\n\n\nhttps://drganghe.github.io/program-evaluation/"
+  },
+  {
+    "objectID": "lectures/lecture6.html#strategies",
+    "href": "lectures/lecture6.html#strategies",
+    "title": "Lecture 6 Data Collection: Procedures, Instrumentation, Practical Considerations",
+    "section": "Strategies",
+    "text": "Strategies\n\nProvide incentives\nOptimize survey length\nFollow up\nMultiple channels\nTargeted audience\nAvoid repetitive"
   }
 ]

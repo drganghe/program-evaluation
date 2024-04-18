@@ -4,7 +4,7 @@ description-meta: "Where does the data for program evaluation come from?"
 author: "Gang He"
 date: April 20, 2024
 date-format: long
-image: "/lectures/images/steps-in-rcts.png"
+image: "/lectures/images/datagov.png"
 format:
   revealjs:
     theme: white
@@ -19,14 +19,15 @@ format:
     scrollable: true
     css: /custom.css
     footer: <https://drganghe.github.io/program-evaluation/>
-draft: true
+#draft: true
 ---
 
 ## Recap lecture 5
 
 - Evaluation design
 - RCT
-- Other strategies
+- Quasi-experimental (RD, DiD)
+- Observational
 - Proposal
 - Progress on evaluation project
 
@@ -52,11 +53,19 @@ draft: true
 ## Existing data
 
 - Economic, census statistics
-- Open data platforms
+- Open data platforms (NYC Open Data, Open Data NY, data.gov)
 - Program data
+
+Example: Prof. MacBride's Queens Curbside Recycling study
 
 
 ## Collecting program data
+
+- Experiments
+- Interview
+- Survey
+- Field
+- Case study
 
 
 ## Probabilistic sampling
@@ -68,20 +77,105 @@ draft: true
 
 ## Sample size: Power calculations
 
-"Smallest sample(lowest budget)" to possibly measure program impact.
+"Smallest sample (lowest budget)" to possibly measure program impact.
 
 
+## Challenges
+
+- Response rate
+- Quality and consistency
+- Data security
 
 
 ## Survey
 
+- Concise/short
+- Start with an easy quesiton (yes or no to get "hooked")
+- Donot leading questions
+- Show progress/time
+- Brainstorm ideas to get good-quality of survey
 
-## Field
+
+## Comparing different survey methods
+
+:::{style="font-size: 32px"}
+| Criteria | Mail | Internet | Telephone | In Person |
+|---|---|---|---|---|
+| Quality of data | | | | |
+| Opportunities for analyses | | | | |
+| Resources needed | | | | |
+:::
+
+::: footer
+Source: @newcomer_handbook_2015
+:::
 
 
-## Case study
+## Focused group
+
+- Key stakeholders (See [Stakeholder Engagement](/lectures/lecture4.qmd))
+- Large impact
+- Most insights
 
 
+## Interview
+
+- Homework
+- Prepare and test your questions
+- Semi-structured interview 
+- Plan and flexible
+- Note taking
+- Seek feedback
+
+
+## Fieldwork
+
+- To **describe** what happens at the level being examined (local office, local
+program, local agency, local community, state office, state agency, and so
+on) by collecting information about procedures and data on activities, services,
+institutional features, outcomes.   
+- To **explain** why the situations are as they are.
+
+
+## Strategies
+
+- Provide incentives
+- Optimize survey length
+- Follow up
+- Multiple channels
+- Targeted audience
+- Avoid repetitive
+
+
+## Tools of trade
+
+- Google/Microsoft Forms
+- Survey Monkey
+- Qualtrics
+- Amazon 
+
+
+## Train staff
+
+- Goals, process, and responses
+- Assessment
+- Mock interviews
+
+
+## Test instruments
+
+- Clear vague and biased wording
+- Logical order
+- Completeness of intended data
+
+
+## Run pilot
+
+- Get feedback and comments
+- Revision
+- Refining
+
+Ready for a full implementation.
 
 
 ------
