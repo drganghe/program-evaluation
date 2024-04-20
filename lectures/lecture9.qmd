@@ -2,7 +2,7 @@
 title: "Lecture 9 Ethics, Principles, and Standards"
 description-meta: "How can I be an ethical evaluator?"
 author: "Gang He"
-date: May 4, 2024
+date: May 11, 2024
 date-format: long
 image: "/lectures/images/steps-in-rcts.png"
 format:
@@ -20,9 +20,10 @@ format:
     css: /custom.css
     footer: <https://drganghe.github.io/program-evaluation/>
 draft: true
+draft-mode: unlinked
 ---
 
-## Recap lecture 4
+## Recap lecture 8
 
 - Stakeholders
 - Identify key stakeholder

@@ -24,6 +24,7 @@ format:
     #fontfamily: xelatex
     colorlinks: true
 draft: true
+draft-mode: unlinked
 ---
 
 ## The Moral Machine

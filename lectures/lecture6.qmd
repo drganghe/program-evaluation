@@ -53,7 +53,7 @@ format:
 ## Existing data
 
 - Economic, census statistics
-- Open data platforms (NYC Open Data, Open Data NY, data.gov)
+- Open data platforms ([NYC Open Data](https://opendata.cityofnewyork.us/), [Open Data NY](https://data.ny.gov/), [data.gov](https://data.gov/))  
 - Program data
 
 Example: Prof. MacBride's Queens Curbside Recycling study
@@ -80,14 +80,14 @@ Example: Prof. MacBride's Queens Curbside Recycling study
 "Smallest sample (lowest budget)" to possibly measure program impact.
 
 
-## Challenges
+## Survey Challenges
 
 - Response rate
 - Quality and consistency
 - Data security
 
 
-## Survey
+## Survey strategies
 
 - Concise/short
 - Start with an easy quesiton (yes or no to get "hooked")
@@ -115,7 +115,7 @@ Source: @newcomer_handbook_2015
 
 - Key stakeholders (See [Stakeholder Engagement](/lectures/lecture4.qmd))
 - Large impact
-- Most insights
+- Gain insights
 
 
 ## Interview
@@ -123,7 +123,7 @@ Source: @newcomer_handbook_2015
 - Homework
 - Prepare and test your questions
 - Semi-structured interview 
-- Plan and flexible
+- Plan and being flexible
 - Note taking
 - Seek feedback
 

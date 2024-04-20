@@ -34,16 +34,15 @@ draft: true
 
 ## Today's agenda
 
-- Evaluation design
-- RCT
-- Other strategies
-- Proposal
-- Caucus on progress on evaluation project
+- Data analysis
+- Quantitative methods
+- Qualitative methods
+- Visualization
 
 
 
 
-------
+---
 
 ### References
 

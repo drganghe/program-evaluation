@@ -22,7 +22,7 @@ format:
 draft: true
 ---
 
-## Recap lecture 4
+## Recap lecture 7
 
 - Stakeholders
 - Identify key stakeholder
@@ -33,11 +33,12 @@ draft: true
 
 ## Today's agenda
 
-- Evaluation design
-- RCT
-- Other strategies
-- Proposal
-- Caucus on progress on evaluation project
+- CBA: Cost benefits analysis
+- Costs
+- Benefits
+- CBA
+- Challenges
+
 
 
 ## Cost-benefits analysis

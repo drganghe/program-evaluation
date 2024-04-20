@@ -1257,7 +1257,7 @@
     "href": "lectures/lecture6.html#existing-data",
     "title": "Lecture 6 Data Collection: Procedures, Instrumentation, Practical Considerations",
     "section": "Existing data",
-    "text": "Existing data\n\nEconomic, census statistics\nOpen data platforms (NYC Open Data, Open Data NY, data.gov)\nProgram data\n\nExample: Prof. MacBride’s Queens Curbside Recycling study"
+    "text": "Existing data\n\nEconomic, census statistics\nOpen data platforms (NYC Open Data, Open Data NY, data.gov)\n\nProgram data\n\nExample: Prof. MacBride’s Queens Curbside Recycling study"
   },
   {
     "objectID": "lectures/lecture6.html#collecting-program-data",
@@ -1299,14 +1299,14 @@
     "href": "lectures/lecture6.html#focused-group",
     "title": "Lecture 6 Data Collection: Procedures, Instrumentation, Practical Considerations",
     "section": "Focused group",
-    "text": "Focused group\n\nKey stakeholders (See Stakeholder Engagement)\nLarge impact\nMost insights"
+    "text": "Focused group\n\nKey stakeholders (See Stakeholder Engagement)\nLarge impact\nGain insights"
   },
   {
     "objectID": "lectures/lecture6.html#interview",
     "href": "lectures/lecture6.html#interview",
     "title": "Lecture 6 Data Collection: Procedures, Instrumentation, Practical Considerations",
     "section": "Interview",
-    "text": "Interview\n\nHomework\nPrepare and test your questions\nSemi-structured interview\nPlan and flexible\nNote taking\nSeek feedback"
+    "text": "Interview\n\nHomework\nPrepare and test your questions\nSemi-structured interview\nPlan and being flexible\nNote taking\nSeek feedback"
   },
   {
     "objectID": "lectures/lecture6.html#fieldwork",
@@ -1370,5 +1370,19 @@
     "title": "Lecture 6 Data Collection: Procedures, Instrumentation, Practical Considerations",
     "section": "Strategies",
     "text": "Strategies\n\nProvide incentives\nOptimize survey length\nFollow up\nMultiple channels\nTargeted audience\nAvoid repetitive"
+  },
+  {
+    "objectID": "lectures/lecture6.html#survey-challenges",
+    "href": "lectures/lecture6.html#survey-challenges",
+    "title": "Lecture 6 Data Collection: Procedures, Instrumentation, Practical Considerations",
+    "section": "Survey Challenges",
+    "text": "Survey Challenges\n\nResponse rate\nQuality and consistency\nData security"
+  },
+  {
+    "objectID": "lectures/lecture6.html#survey-strategies",
+    "href": "lectures/lecture6.html#survey-strategies",
+    "title": "Lecture 6 Data Collection: Procedures, Instrumentation, Practical Considerations",
+    "section": "Survey strategies",
+    "text": "Survey strategies\n\nConcise/short\nStart with an easy quesiton (yes or no to get “hooked”)\nDonot leading questions\nShow progress/time\nBrainstorm ideas to get good-quality of survey"
   }
 ]

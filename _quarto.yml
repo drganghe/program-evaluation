@@ -45,6 +45,7 @@ website:
     location: navbar
     type: textbox
   reader-mode: true
+  draft-mode: unlinked
   repo-url: https://github.com/drganghe/program-evaluation
   repo-actions: [edit, issue, source]
   open-graph: true
