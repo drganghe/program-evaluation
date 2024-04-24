@@ -1,5 +1,5 @@
 ---
-title: "Lecture 7 Data Analysis: Quantitative, Qualitative and Mixed Analysis"
+title: "Lecture 7 Data Analysis: Quantitative, Qualitative, and Mixed Analysis"
 description-meta: "What methods make data tell accurate stories and solve problems?"
 author: "Gang He"
 date: April 27, 2024
@@ -38,8 +38,60 @@ draft: true
 - Quantitative methods
 - Qualitative methods
 - Visualization
+- Story telling
 
 
+## Qualitative data
+
+:::{style="font-size: 18px"}
+| Primary purpose |	Methods |
+| --- | --- |
+| Enumerative	| Classical Content Analysis; Word count; Cultural domain analysis; Ethnographic decision models |
+| Descriptive | Matrix displays; Timelines; Concept maps/mind maps; Template/framework analysis |
+| Hermeneutic | Thematic analysis; Constant comparative method; Thematic narrative analysis; Framework analysis; Discourse analysis; Qualitative content analysis|
+| Explannatory | Qualitative comparative analysis; Process tracing |
+:::
+
+::: footer
+Source: @newcomer_handbook_2015
+:::
+
+## Word counting
+
+
+## Matrix displays
+
+
+## Mindmap
+
+- [Markmap](markmap.js.org/)
+
+
+## Statistics
+
+
+## Regression
+
+
+## Significance tests
+
+
+
+## Stories
+
+- Data story
+- Method story
+- Pattens and trends
+- Organization and instution vision, mission, and efforts
+- Motivate changes
+
+
+## Duck curve
+
+
+## Story
+
+Hans Rosling, Data Visualization, and Storytelling
 
 
 ---

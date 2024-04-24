@@ -2,12 +2,14 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.31">
+<meta name="generator" content="quarto-1.5.30">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Gang He">
+<meta name="dcterms.date" content="2024-05-04">
 
-<title>Program Evaluation – Lectures</title>
+<title>Program Evaluation – Robert Bullard and Environmental Justice</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,24 +25,22 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -67,35 +67,6 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-image','listing-date','listing-title','listing-author',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-8H8JSB1VP7"></script>
 
 <script type="text/javascript">
@@ -105,58 +76,25 @@ function gtag(){dataLayer.push(arguments);}
 gtag('js', new Date());
 gtag('config', 'G-8H8JSB1VP7', { 'anonymize_ip': true});
 </script>
+<meta name="quarto:status" content="draft">
 
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
-<link rel="stylesheet" href="styles.css">
-<meta property="og:title" content="Program Evaluation - Lectures">
-<meta property="og:image" content="https://drganghe.github.io/program-evaluation/files/images/hex-Program-Evaluation.png">
+<link rel="stylesheet" href="../styles.css">
+<link rel="stylesheet" href="../styles.css">
+<meta property="og:title" content="Program Evaluation - Robert Bullard and Environmental Justice">
 <meta property="og:site_name" content="Program Evaluation">
-<meta property="og:image:height" content="1200">
-<meta property="og:image:width" content="1037">
-<meta name="twitter:title" content="Program Evaluation - Lectures">
-<meta name="twitter:image" content="https://drganghe.github.io/program-evaluation/files/images/hex-Program-Evaluation.png">
-<meta name="twitter:image-height" content="1200">
-<meta name="twitter:image-width" content="1037">
-<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Program Evaluation - Robert Bullard and Environmental Justice">
+<meta name="twitter:card" content="summary">
 </head>
 
 <body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
-  <header id="quarto-header" class="headroom fixed-top">
+  <header id="quarto-header" class="headroom fixed-top"><div id="quarto-draft-alert" class="alert alert-warning"><i class="bi bi-pencil-square"></i>Draft</div>
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">Program Evaluation</span>
     </a>
   </div>
@@ -167,27 +105,27 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./syllabus.html"> 
+    <a class="nav-link" href="../syllabus.html"> 
 <span class="menu-text">Syllabus</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./schedule.html"> 
+    <a class="nav-link" href="../schedule.html"> 
 <span class="menu-text">Schedule</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./lectures.html" aria-current="page"> 
+    <a class="nav-link" href="../lectures.html"> 
 <span class="menu-text">Lectures</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./stories.html"> 
+    <a class="nav-link" href="../stories.html"> 
 <span class="menu-text">Stories</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./project.html"> 
+    <a class="nav-link" href="../project.html"> 
 <span class="menu-text">Project</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./resources.html"> 
+    <a class="nav-link" href="../resources.html"> 
 <span class="menu-text">Resources</span></a>
   </li>  
   <li class="nav-item">
@@ -214,25 +152,47 @@ window.Quarto = {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#robert-bullard" id="toc-robert-bullard" class="nav-link active" data-scroll-target="#robert-bullard">Robert Bullard</a></li>
+  <li><a href="#environmental-justice" id="toc-environmental-justice" class="nav-link" data-scroll-target="#environmental-justice">Environmental justice</a></li>
+  <li><a href="#what-evidence" id="toc-what-evidence" class="nav-link" data-scroll-target="#what-evidence">What evidence</a></li>
+  <li><a href="#thoughts-for-evaluation" id="toc-thoughts-for-evaluation" class="nav-link" data-scroll-target="#thoughts-for-evaluation">Thoughts for evaluation</a></li>
+  <li><a href="#further-readings" id="toc-further-readings" class="nav-link" data-scroll-target="#further-readings">Further readings</a></li>
+  </ul>
+<div class="toc-actions"><ul><li><a href="https://github.com/drganghe/program-evaluation/edit/main/stories/robert-bullard-and-environmental-justice.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/drganghe/program-evaluation/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li><li><a href="https://github.com/drganghe/program-evaluation/blob/main/stories/robert-bullard-and-environmental-justice.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li></ul></div><div class="quarto-alternate-formats"><h2>Other Formats</h2><ul><li><a href="robert-bullard-and-environmental-justice.pdf"><i class="bi bi-file-pdf"></i>PDF</a></li></ul></div></nav>
     </div>
 <!-- main -->
-<main class="content column-page" id="quarto-document-content">
+<main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Lectures</h1>
+<h1 class="title">Robert Bullard and Environmental Justice</h1>
 </div>
 
 
 
-<div class="quarto-title-meta column-page">
+<div class="quarto-title-meta">
 
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>Gang He </p>
+          </div>
+  </div>
     
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">May 4, 2024</p>
+    </div>
+  </div>
   
     
   </div>
@@ -242,159 +202,35 @@ window.Quarto = {
 </header>
 
 
+<section id="robert-bullard" class="level2">
+<h2 class="anchored" data-anchor-id="robert-bullard">Robert Bullard</h2>
+</section>
+<section id="environmental-justice" class="level2">
+<h2 class="anchored" data-anchor-id="environmental-justice">Environmental justice</h2>
+</section>
+<section id="what-evidence" class="level2">
+<h2 class="anchored" data-anchor-id="what-evidence">What evidence</h2>
+</section>
+<section id="thoughts-for-evaluation" class="level2">
+<h2 class="anchored" data-anchor-id="thoughts-for-evaluation">Thoughts for evaluation</h2>
+</section>
+<section id="further-readings" class="level2">
+<h2 class="anchored" data-anchor-id="further-readings">Further readings</h2>
+<!--Include social share buttons-->
 <!-- 
-https://learn.microsoft.com/en-us/clarity/setup-and-installation/clarity-setup
+AddToAny check more: https://www.addtoany.com/buttons/for/website 
+Using includes will make edits easier, will only need to add or remove button here if needed.
+https://quarto.org/docs/authoring/includes.html
 -->
-<script type="text/javascript">
-    (function(c,l,a,r,i,t,y){
-        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
-        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
-        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
-    })(window, document, "clarity", "script", "ktfar1v3c9");
-</script>
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_x"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_mastodon"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
+</div>
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
 
 
+</section>
 
-
-<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
-<div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-listing-date-sort="1709960400000" data-listing-file-modified-sort="1712843138863" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="633">
-<a href="./lectures/lecture1.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./lectures/images/Open-NY.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Lecture 1 Introduction
-</h5>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Gang He
-</div>
-<div class="listing-date">
-Mar 9, 2024
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="1" data-listing-date-sort="1710561600000" data-listing-file-modified-sort="1712843071404" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1050">
-<a href="./lectures/lecture2.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./lectures/images/high-line-park.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Lecture 2 Goals and Types of Evaluation
-</h5>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Gang He
-</div>
-<div class="listing-date">
-Mar 16, 2024
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="2" data-listing-date-sort="1711166400000" data-listing-file-modified-sort="1711207983962" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="535">
-<a href="./lectures/lecture3.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./lectures/images/program-effect.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Lecture 3 Logic and Causal Models
-</h5>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Gang He
-</div>
-<div class="listing-date">
-Mar 23, 2024
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="3" data-listing-date-sort="1712376000000" data-listing-file-modified-sort="1712860999033" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="833">
-<a href="./lectures/lecture4.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./lectures/images/cdc-framework-stakeholders.webp" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Lecture 4 Stakeholder Analysis, Mapping, and Engagement
-</h5>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Gang He
-</div>
-<div class="listing-date">
-Apr 6, 2024
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="4" data-listing-date-sort="1712980800000" data-listing-file-modified-sort="1713022371775" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="528">
-<a href="./lectures/lecture5.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./lectures/images/steps-in-rcts.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Lecture 5 Evaluation Designs
-</h5>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Gang He
-</div>
-<div class="listing-date">
-Apr 13, 2024
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-<div class="g-col-1" data-index="5" data-listing-date-sort="1713585600000" data-listing-file-modified-sort="1713615902545" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="316">
-<a href="./lectures/lecture6.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./lectures/images/datagov.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Lecture 6 Data Collection: Procedures, Instrumentation, Practical Considerations
-</h5>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Gang He
-</div>
-<div class="listing-date">
-Apr 20, 2024
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
-</div>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -829,7 +665,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </div>   
     <div class="nav-footer-center">
       &nbsp;
-    </div>
+    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/drganghe/program-evaluation/edit/main/stories/robert-bullard-and-environmental-justice.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/drganghe/program-evaluation/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li><li><a href="https://github.com/drganghe/program-evaluation/blob/main/stories/robert-bullard-and-environmental-justice.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li></ul></div></div>
     <div class="nav-footer-right">
       <ul class="footer-items list-unstyled">
     <li class="nav-item compact">

@@ -20,7 +20,6 @@ format:
     css: /custom.css
     footer: <https://drganghe.github.io/program-evaluation/>
 draft: true
-draft-mode: unlinked
 ---
 
 ## Recap lecture 8

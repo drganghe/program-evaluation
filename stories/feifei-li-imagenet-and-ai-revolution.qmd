@@ -37,7 +37,7 @@ format:
 
 - Professor of Computer Sciences at Stanford University
 - Direct of Human-centered AI Institute 
-- "The Worlds I See"
+- Boo: *The Worlds I See*
 
 ## Thoughts for evaluation
 

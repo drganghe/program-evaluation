@@ -12,6 +12,7 @@ listing:
   feed: false
   fields: [date, title]
 #page-layout: full
+draft-mode: unlinked
 page-navigation: false
 title-block-banner: false
 repo-actions: false

@@ -6,9 +6,16 @@ page-layout: full
 
 | Week | Date   | Guiding question   | Topic     | Story    | Case Study    | Assignment    |
 |-----------|-----------|-----------|-----------|-----------|-----------|-----------|
-| 1    | Mar 9  | What is program evaluation? Where are we headed in this course? | [Introduction and Overview](/lectures/lecture1.qmd) | [John Snow](/stories/john-snow-and-evidence-based-analysis.qmd) |                                        |               |
-| 2    | Mar 16 | Why do evaluation?      | [Goals and Types of Evaluation](/lectures/lecture2.qmd)  | [High Line Park](/stories/high-line-park.qmd)     | Case 1: Northwest Housing Alternatives | Case Response 1 |
-| 3    | Mar 23 | How to identify causal effects?        | [Logic and Causal Models](/lectures/lecture3.qmd)  | [Bombing, Heating, and Causal Models](/stories/bombing-heating-and-causal-models.qmd)     | Case 2: Jobs Plus in NYC | Case Response 2 |
-| 4    | April 6 | How to account for everyone involved?        | [Stakeholder Engagement](/lectures/lecture4.qmd)  | [John Muir and National Park System](/stories/john-muir-and-national-park.qmd)     | Case 3: ARPA-E | Case Response 3 |
-| 5    | April 13 | How do I use the scientific method in the real world?   | [Evaluation Designs](/lectures/lecture5.qmd)  | [Esther Duflo and RCTs](/stories/esther-duflo-and-rcts.qmd)     |   | Proposal due |
-| 6    | April 20 | Where does the data for program evaluation come from?   | [Data Collection](/lectures/lecture6.qmd)  | [Fei-fei Li and ImageNet](/stories/feifei-li-imagenet-and-ai-revolution.qmd)     |   |  |
+|  1  | Mar 9  | What is program evaluation? Where are we headed in this course? | [Introduction and Overview](/lectures/lecture1.qmd) | [John Snow](/stories/john-snow-and-evidence-based-analysis.qmd) |                                        |               |
+|  2  | Mar 16 | Why do evaluation?      | [Goals and Types of Evaluation](/lectures/lecture2.qmd)  | [High Line Park](/stories/high-line-park.qmd)     | Case 1: Northwest Housing Alternatives | Case Response 1 |
+|  3  | Mar 23 | How to identify causal effects?        | [Logic and Causal Models](/lectures/lecture3.qmd)  | [Bombing, Heating, and Causal Models](/stories/bombing-heating-and-causal-models.qmd)     | Case 2: Jobs Plus in NYC | Case Response 2 |
+|  4  | April 6 | How to account for everyone involved?        | [Stakeholder Engagement](/lectures/lecture4.qmd)  | [John Muir and National Park System](/stories/john-muir-and-national-park.qmd)     | Case 3: ARPA-E | Case Response 3 |
+|  5  | April 13 | How do I use the scientific method in the real world?   | [Evaluation Designs](/lectures/lecture5.qmd)  | [Esther Duflo and RCTs](/stories/esther-duflo-and-rcts.qmd)     |   | Proposal due |
+|  6  | April 20 | Where does the data for program evaluation come from?   | [Data Collection](/lectures/lecture6.qmd)  | [Fei-fei Li and ImageNet](/stories/feifei-li-imagenet-and-ai-revolution.qmd)     |   |  |
+
+:::{.content-hidden}
+|  7  | April 27 | What methods make data tell accurate stories and solve problems?   | [Data Analysis](/lectures/lecture7.qmd)  | [Hans Rosling and Storytelling](/stories/hans-rosling-data-visualization-and-storystelling.qmd)  | Case 4: NYC Gifted & Talented Program | Case Response 4 |
+|  8  | May 4 | Is the program worthwhile? What happens next?   | [Cost Benefits Analysis](/lectures/lecture8.qmd)  | [Robert Bullard and Environmental Justice](/stories/robert-bullard-and-environmental-justice.qmd)  | Case 5: EPA Clean Air Act | Case Response 5 |
+|  9  | May 11 | What methods make data tell accurate stories and solve problems?   | [Data Analysis](/lectures/lecture9.qmd)  | [The Moral Machine](/stories/the-moral-machine-and-ethical-ai.qmd)  |  |  |
+|  10  | May 18 | What we have learned in the class?   | Final presentation  |   |  |  |
+:::

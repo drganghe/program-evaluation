@@ -13,7 +13,8 @@ listing:
   feed: false
   fields: [image, date, title, author]
 page-layout: full
-page-navigation: true
+page-navigation: false
+draft-mode: unlinked
 title-block-banner: false
 repo-actions: false
 ---

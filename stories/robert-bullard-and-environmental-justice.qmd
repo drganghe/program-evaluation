@@ -1,7 +1,7 @@
 ---
-title: The Moral Machine and Ethical AI
+title: Robert Bullard and Environmental Justice
 author: Gang He
-date: May 11, 2024
+date: May 4, 2024
 format: 
   html: 
     theme: cosmo
@@ -26,16 +26,16 @@ format:
 draft: true
 ---
 
-## The Moral Machine
+## Robert Bullard
 
 
+## Environmental justice
+
+
+## What evidence
 
 
 ## Thoughts for evaluation
-
-- Data    
-- Ethics
-
 
 
 ## Further readings
