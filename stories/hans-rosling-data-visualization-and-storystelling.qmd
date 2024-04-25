@@ -23,8 +23,7 @@ format:
       - heightrounded
     #fontfamily: xelatex
     colorlinks: true
-draft: true
-draft-mode: unlinked
+#draft: true
 ---
 
 ## Hans Rosling
