@@ -41,7 +41,7 @@ format:
 - Story telling
 
 
-## Solar eclipse and solar generation
+---
 
 ![](/lectures/images/2024-04-08-solar-eclipse-and-generation.jpg){fig-align="center"}
 
@@ -170,6 +170,10 @@ $R^2$ does not indicate whether:
 - there is collinearity present in the data on the explanatory variables;
 - the model might be improved by using transformed versions of the existing set of independent variables;
 - there are enough data points to make a solid conclusion.
+
+::: footer
+Source: [Wikipedia](https://en.wikipedia.org/wiki/Coefficient_of_determination)
+:::
 
 
 ## Summary of statistics
