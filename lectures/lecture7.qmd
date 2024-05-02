@@ -39,6 +39,7 @@ format:
 - Quantitative methods
 - Visualization
 - Story telling
+- NYC G&T Program
 
 
 ---

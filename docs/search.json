@@ -4,7 +4,7 @@
     "href": "stories.html",
     "title": "Stories",
     "section": "",
-    "text": "Date\n\n\nTitle\n\n\n\n\n\n\nMar 9, 2024\n\n\nJohn Snow and Evidence Based Analysis\n\n\n\n\nMar 16, 2024\n\n\nHigh Line Park\n\n\n\n\nMar 23, 2024\n\n\nBombing, Heating, and Causal Models\n\n\n\n\nApr 6, 2024\n\n\nJohn Muir and National Park System\n\n\n\n\nApr 13, 2024\n\n\nEsther Duflo and Randomized Controlled Trails\n\n\n\n\nApr 20, 2024\n\n\nFeifei Li, ImageNet, and the AI Revolution\n\n\n\n\nApr 27, 2024\n\n\nHans Rosling, Data Visualization, and Storytelling\n\n\n\n\n\nNo matching items"
+    "text": "Date\n\n\nTitle\n\n\n\n\n\n\nMar 9, 2024\n\n\nJohn Snow and Evidence Based Analysis\n\n\n\n\nMar 16, 2024\n\n\nHigh Line Park\n\n\n\n\nMar 23, 2024\n\n\nBombing, Heating, and Causal Models\n\n\n\n\nApr 6, 2024\n\n\nJohn Muir and National Park System\n\n\n\n\nApr 13, 2024\n\n\nEsther Duflo and Randomized Controlled Trails\n\n\n\n\nApr 20, 2024\n\n\nFeifei Li, ImageNet, and the AI Revolution\n\n\n\n\nApr 27, 2024\n\n\nHans Rosling, Data Visualization, and Storytelling\n\n\n\n\nMay 4, 2024\n\n\nRobert Bullard and Environmental Justice\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "resources.html",
@@ -46,7 +46,7 @@
     "href": "resources.html#tools",
     "title": "Resources",
     "section": "Tools",
-    "text": "Tools\nDAG chart tool: Dagitty\nRandom Generator"
+    "text": "Tools\nDAG chart tool: Dagitty\nRandom Generator\nFEMA Benefit‐Cost Analysis (BCA) Toolkit 6.0 Release Notes"
   },
   {
     "objectID": "lectures/lecture2.html#recap-lecture-1",
@@ -305,7 +305,7 @@
     "href": "lectures.html",
     "title": "Lectures",
     "section": "",
-    "text": "Lecture 1 Introduction\n\n\n\nGang He\n\n\nMar 9, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 2 Goals and Types of Evaluation\n\n\n\nGang He\n\n\nMar 16, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 3 Logic and Causal Models\n\n\n\nGang He\n\n\nMar 23, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 4 Stakeholder Analysis, Mapping, and Engagement\n\n\n\nGang He\n\n\nApr 6, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 5 Evaluation Designs\n\n\n\nGang He\n\n\nApr 13, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 6 Data Collection: Procedures, Instrumentation, Practical Considerations\n\n\n\nGang He\n\n\nApr 20, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 7 Data Analysis: Quantitative, Qualitative, and Mixed Analysis\n\n\n\nGang He\n\n\nApr 27, 2024\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Lecture 1 Introduction\n\n\n\nGang He\n\n\nMar 9, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 2 Goals and Types of Evaluation\n\n\n\nGang He\n\n\nMar 16, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 3 Logic and Causal Models\n\n\n\nGang He\n\n\nMar 23, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 4 Stakeholder Analysis, Mapping, and Engagement\n\n\n\nGang He\n\n\nApr 6, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 5 Evaluation Designs\n\n\n\nGang He\n\n\nApr 13, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 6 Data Collection: Procedures, Instrumentation, Practical Considerations\n\n\n\nGang He\n\n\nApr 20, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 7 Data Analysis: Quantitative, Qualitative, and Mixed Analysis\n\n\n\nGang He\n\n\nApr 27, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 8 Economic Evaluation and Performance Measurement\n\n\n\nGang He\n\n\nMay 4, 2024\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "stories/john-snow-and-evidence-based-analysis.html",
@@ -725,7 +725,7 @@
     "href": "schedule.html",
     "title": "Course Schedule",
     "section": "",
-    "text": "Week\nDate\nGuiding question\nTopic\nStory\nCase Study\nAssignment\n\n\n\n\n1\nMar 9\nWhat is program evaluation? Where are we headed in this course?\nIntroduction and Overview\nJohn Snow\n\n\n\n\n2\nMar 16\nWhy do evaluation?\nGoals and Types of Evaluation\nHigh Line Park\nCase 1: Northwest Housing Alternatives\nCase Response 1\n\n\n3\nMar 23\nHow to identify causal effects?\nLogic and Causal Models\nBombing, Heating, and Causal Models\nCase 2: Jobs Plus in NYC\nCase Response 2\n\n\n4\nApril 6\nHow to account for everyone involved?\nStakeholder Engagement\nJohn Muir and National Park System\nCase 3: ARPA-E\nCase Response 3\n\n\n5\nApril 13\nHow do I use the scientific method in the real world?\nEvaluation Designs\nEsther Duflo and RCTs\n\nProposal due\n\n\n6\nApril 20\nWhere does the data for program evaluation come from?\nData Collection\nFei-fei Li and ImageNet\n\n\n\n\n7\nApril 27\nWhat methods make data tell accurate stories and solve problems?\nData Analysis\nHans Rosling and Storytelling\nCase 4: NYC Gifted & Talented Program\nCase Response 4"
+    "text": "Week\nDate\nGuiding question\nTopic\nStory\nCase Study\nAssignment\n\n\n\n\n1\nMar 9\nWhat is program evaluation? Where are we headed in this course?\nIntroduction and Overview\nJohn Snow\n\n\n\n\n2\nMar 16\nWhy do evaluation?\nGoals and Types of Evaluation\nHigh Line Park\nCase 1: Northwest Housing Alternatives\nCase Response 1\n\n\n3\nMar 23\nHow to identify causal effects?\nLogic and Causal Models\nBombing, Heating, and Causal Models\nCase 2: Jobs Plus in NYC\nCase Response 2\n\n\n4\nApril 6\nHow to account for everyone involved?\nStakeholder Engagement\nJohn Muir and National Park System\nCase 3: ARPA-E\nCase Response 3\n\n\n5\nApril 13\nHow do I use the scientific method in the real world?\nEvaluation Designs\nEsther Duflo and RCTs\n\nProposal due\n\n\n6\nApril 20\nWhere does the data for program evaluation come from?\nData Collection\nFei-fei Li and ImageNet\n\n\n\n\n7\nApril 27\nWhat methods make data tell accurate stories and solve problems?\nData Analysis\nHans Rosling and Storytelling\nCase 4: NYC Gifted & Talented Program\nCase Response 4\n\n\n8\nMay 4\nIs the program worthwhile? What happens next?\nEconomic Evaluation and Performance Measurement\nRobert Bullard and Environmental Justice\nCase 5: EPA Clean Air Act\nCase Response 5"
   },
   {
     "objectID": "stories/bombing-heating-and-causal-models.html#references",
@@ -1397,7 +1397,7 @@
     "href": "lectures/lecture7.html#todays-agenda",
     "title": "Lecture 7 Data Analysis: Quantitative, Qualitative, and Mixed Analysis",
     "section": "Today’s agenda",
-    "text": "Today’s agenda\n\nData analysis\nQualitative methods\nQuantitative methods\nVisualization\nStory telling"
+    "text": "Today’s agenda\n\nData analysis\nQualitative methods\nQuantitative methods\nVisualization\nStory telling\nNYC G&T Program"
   },
   {
     "objectID": "lectures/lecture7.html#solar-eclipse-and-solar-generation",
@@ -1552,5 +1552,187 @@
     "title": "Lecture 7 Data Analysis: Quantitative, Qualitative, and Mixed Analysis",
     "section": "Climate Strips",
     "text": "Climate Strips\n\n\nSource: https://www.reading.ac.uk/planet/climate-resources/climate-stripes"
+  },
+  {
+    "objectID": "lectures/lecture8.html#recap-lecture-7",
+    "href": "lectures/lecture8.html#recap-lecture-7",
+    "title": "Lecture 8 Economic Evaluation and Performance Measurement",
+    "section": "Recap lecture 7",
+    "text": "Recap lecture 7\n\nData analysis\nQualitative methods\nQuantitative methods\nVisualization\nStory telling\nNYC G&T Program"
+  },
+  {
+    "objectID": "lectures/lecture8.html#todays-agenda",
+    "href": "lectures/lecture8.html#todays-agenda",
+    "title": "Lecture 8 Economic Evaluation and Performance Measurement",
+    "section": "Today’s agenda",
+    "text": "Today’s agenda\n\nCBA: Cost benefits analysis\nChallenges\nBeyond costs\nStory: Robert Bullard and Environmental Justice\nEPA case study"
+  },
+  {
+    "objectID": "lectures/lecture8.html#cost-benefit-analysis",
+    "href": "lectures/lecture8.html#cost-benefit-analysis",
+    "title": "Lecture 8 Economic Evaluation and Performance Measurement",
+    "section": "Cost-benefit analysis",
+    "text": "Cost-benefit analysis\n\nBenefits &gt; Costs = Good Program?"
+  },
+  {
+    "objectID": "lectures/lecture8.html#ten-steps",
+    "href": "lectures/lecture8.html#ten-steps",
+    "title": "Lecture 8 Economic Evaluation and Performance Measurement",
+    "section": "Ten steps",
+    "text": "Ten steps\n\nSet the framework for the analysis.\nDecide whose costs and benefits should be recognized.\nIdentify and categorize costs and benefits.\nProject costs and benefits over the life of the program, if applicable.\nMonetize (place a dollar value on) costs.\nQuantify benefits in terms of units of effectiveness (for CEA) or monetize benefits (for CBA).\nDiscount costs and benefits to obtain present values.\nCompute a cost-effectiveness ratio (for CEA) or net present value (for CBA).\nPerform sensitivity analysis.\nMake a recommendation where appropriate.\n\n\nSource: Newcomer, Hatry, and Wholey (2015)"
+  },
+  {
+    "objectID": "lectures/lecture8.html#program-costs",
+    "href": "lectures/lecture8.html#program-costs",
+    "title": "Lecture 8 Economic Evaluation and Performance Measurement",
+    "section": "Program costs",
+    "text": "Program costs\n\nCosts to program participatns\nCost to society\nInvestment\nRecurring costs"
+  },
+  {
+    "objectID": "lectures/lecture8.html#program-benefits",
+    "href": "lectures/lecture8.html#program-benefits",
+    "title": "Lecture 8 Economic Evaluation and Performance Measurement",
+    "section": "Program benefits",
+    "text": "Program benefits\n\nBenefits to program participants\nBenefits to society"
+  },
+  {
+    "objectID": "lectures/lecture8.html#discounting",
+    "href": "lectures/lecture8.html#discounting",
+    "title": "Lecture 8 Economic Evaluation and Performance Measurement",
+    "section": "Discounting",
+    "text": "Discounting\n\n\nSource: Gang He"
+  },
+  {
+    "objectID": "lectures/lecture8.html#justification",
+    "href": "lectures/lecture8.html#justification",
+    "title": "Lecture 8 Economic Evaluation and Performance Measurement",
+    "section": "Justification",
+    "text": "Justification\n\nBenefit cost ratio\nSimple payback\nPayback time\nRate of return"
+  },
+  {
+    "objectID": "lectures/lecture8.html#sensitivity-analysis",
+    "href": "lectures/lecture8.html#sensitivity-analysis",
+    "title": "Lecture 8 Economic Evaluation and Performance Measurement",
+    "section": "Sensitivity analysis",
+    "text": "Sensitivity analysis\n\nDiscounting rate (interest rate, inflation rate)\nSVL assuption\nCosts"
+  },
+  {
+    "objectID": "lectures/lecture8.html#the-challenge",
+    "href": "lectures/lecture8.html#the-challenge",
+    "title": "Lecture 8 Economic Evaluation and Performance Measurement",
+    "section": "The challenge",
+    "text": "The challenge\n\nValue of the invaluable\nPrice the priceless"
+  },
+  {
+    "objectID": "lectures/lecture8.html#monitization",
+    "href": "lectures/lecture8.html#monitization",
+    "title": "Lecture 8 Economic Evaluation and Performance Measurement",
+    "section": "Monitization",
+    "text": "Monitization\n\nBudget and accounting\nCost of capital\nSunk costs\nIndirect costs (overhead)"
+  },
+  {
+    "objectID": "lectures/lecture8.html#willingness-to-pay",
+    "href": "lectures/lecture8.html#willingness-to-pay",
+    "title": "Lecture 8 Economic Evaluation and Performance Measurement",
+    "section": "Willingness to pay",
+    "text": "Willingness to pay\n“The maximum price a customer is willing to pay for a product or service.”\n\n\n\nIncome\nGeography\nWeather\nAge\nGender\nBrand loyalty\nService levels\n\n\n\nAdvertising\nCompeting products\nExpectations\nLegality\nPackaging\nEnvironmental or social impact\nNecessity\n\n\n\n\nSource: Harvard Business School"
+  },
+  {
+    "objectID": "lectures/lecture8.html#value-of-statistical-life",
+    "href": "lectures/lecture8.html#value-of-statistical-life",
+    "title": "Lecture 8 Economic Evaluation and Performance Measurement",
+    "section": "Value of statistical life",
+    "text": "Value of statistical life\n\nFEMA: 7.5 million, 2020\nDOT: 12.5 million, 2022\n\nOther FEMA numbers:\n\nValue of lost time (per hour) (used in the Roads/Bridges detour cost): $34.72\nValue of electrical service (per person per day): $174\nValue of wastewater service (per person per day): $58\nValue of potable water service (per person per day): $114\n\n\nSource: FEMA; DOT"
+  },
+  {
+    "objectID": "lectures/lecture8.html#value-of-ecosystem-service",
+    "href": "lectures/lecture8.html#value-of-ecosystem-service",
+    "title": "Lecture 8 Economic Evaluation and Performance Measurement",
+    "section": "Value of ecosystem service",
+    "text": "Value of ecosystem service"
+  },
+  {
+    "objectID": "lectures/lecture8.html#how-about",
+    "href": "lectures/lecture8.html#how-about",
+    "title": "Lecture 8 Economic Evaluation and Performance Measurement",
+    "section": "How about",
+    "text": "How about\n\nHappiness\nJustice\nHigher hiarachy needs: self-realization"
+  },
+  {
+    "objectID": "lectures/lecture8.html#limitations",
+    "href": "lectures/lecture8.html#limitations",
+    "title": "Lecture 8 Economic Evaluation and Performance Measurement",
+    "section": "Limitations",
+    "text": "Limitations\n\nMay not the goal\nBias\nNon-market value\nUncertainties"
+  },
+  {
+    "objectID": "lectures/lecture8.html#beyond-cba",
+    "href": "lectures/lecture8.html#beyond-cba",
+    "title": "Lecture 8 Economic Evaluation and Performance Measurement",
+    "section": "Beyond CBA",
+    "text": "Beyond CBA\n\nOutcomes\nCost effectiveness\nOutputs\nEfficiency\nService quality\nCostomer satisfaction"
+  },
+  {
+    "objectID": "lectures/lecture8.html#story",
+    "href": "lectures/lecture8.html#story",
+    "title": "Lecture 8 Economic Evaluation and Performance Measurement",
+    "section": "Story",
+    "text": "Story\n\n\nRobert Bullard and Environmental Justice\n\n\nSource: Bullard (1983)"
+  },
+  {
+    "objectID": "lectures/lecture8.html#references",
+    "href": "lectures/lecture8.html#references",
+    "title": "Lecture 8 Economic Evaluation and Performance Measurement",
+    "section": "",
+    "text": "References\n\n\nBullard, Robert D. 1983. “Solid Waste Sites and the Black Houston Community*.” Sociological Inquiry 53 (2-3): 273–88. https://doi.org/10.1111/j.1475-682X.1983.tb00037.x.\n\n\nCostanza, Robert, Ralph d’Arge, Rudolf de Groot, Stephen Farber, Monica Grasso, Bruce Hannon, Karin Limburg, et al. 1997. “The Value of the World’s Ecosystem Services and Natural Capital.” Nature 387 (6630): 253–60. https://doi.org/10.1038/387253a0.\n\n\nNewcomer, Kathryn E., Harry P. Hatry, and Joseph S. Wholey. 2015. Handbook of Practical Program Evaluation. 4th edition. San Francisco: Jossey-Bass.\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He\n\n\n\n\nhttps://drganghe.github.io/program-evaluation/"
+  },
+  {
+    "objectID": "stories/robert-bullard-and-environmental-justice.html",
+    "href": "stories/robert-bullard-and-environmental-justice.html",
+    "title": "Robert Bullard and Environmental Justice",
+    "section": "",
+    "text": "Distinguished Professor at Texas Southern University\n“Father of environmental justice”"
+  },
+  {
+    "objectID": "stories/robert-bullard-and-environmental-justice.html#robert-bullard",
+    "href": "stories/robert-bullard-and-environmental-justice.html#robert-bullard",
+    "title": "Robert Bullard and Environmental Justice",
+    "section": "",
+    "text": "Distinguished Professor at Texas Southern University\n“Father of environmental justice”"
+  },
+  {
+    "objectID": "stories/robert-bullard-and-environmental-justice.html#environmental-justice",
+    "href": "stories/robert-bullard-and-environmental-justice.html#environmental-justice",
+    "title": "Robert Bullard and Environmental Justice",
+    "section": "Environmental justice",
+    "text": "Environmental justice\n\n“Environmental justice” means the just treatment and meaningful involvement of all people, regardless of income, race, color, national origin, Tribal affiliation, or disability, in agency decision-making and other Federal activities that affect human health and the environment so that people:\n\n\nare fully protected from disproportionate and adverse human health and environmental effects (including risks) and hazards, including those related to climate change, the cumulative impacts of environmental and other burdens, and the legacy of racism or other structural or systemic barriers; and\nhave equitable access to a healthy, sustainable, and resilient environment in which to live, play, work, learn, grow, worship, and engage in cultural and subsistence practices"
+  },
+  {
+    "objectID": "stories/robert-bullard-and-environmental-justice.html#what-evidence",
+    "href": "stories/robert-bullard-and-environmental-justice.html#what-evidence",
+    "title": "Robert Bullard and Environmental Justice",
+    "section": "What evidence",
+    "text": "What evidence\n\nSolid waste sites and the black Houston community, 1983 &gt;The findings reveal that solid waste sites were not randomly scattered over the Houston landscape but were likely to be found in predominantly black neighborhoods and near black schools.\nDumping in Dixie: Race, Class and Environmental Quality, 1990"
+  },
+  {
+    "objectID": "stories/robert-bullard-and-environmental-justice.html#thoughts-for-evaluation",
+    "href": "stories/robert-bullard-and-environmental-justice.html#thoughts-for-evaluation",
+    "title": "Robert Bullard and Environmental Justice",
+    "section": "Thoughts for evaluation",
+    "text": "Thoughts for evaluation\n\nEvidence is power\nLocal, regional, and national"
+  },
+  {
+    "objectID": "stories/robert-bullard-and-environmental-justice.html#further-readings",
+    "href": "stories/robert-bullard-and-environmental-justice.html#further-readings",
+    "title": "Robert Bullard and Environmental Justice",
+    "section": "Further readings",
+    "text": "Further readings\nEPA Environmental Justice"
+  },
+  {
+    "objectID": "lectures/lecture8.html#value-of-environmentecosystem-service",
+    "href": "lectures/lecture8.html#value-of-environmentecosystem-service",
+    "title": "Lecture 8 Economic Evaluation and Performance Measurement",
+    "section": "Value of environment/ecosystem service",
+    "text": "Value of environment/ecosystem service\n\nFood\nRaw material\nClean air/water\nProtection from natural hazards\nSpiritual, cultural, and recreational benefits\n\n$33 trillion, double global GNP\n\nSource: Costanza et al. (1997)"
   }
 ]

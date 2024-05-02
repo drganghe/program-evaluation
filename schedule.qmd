@@ -13,10 +13,9 @@ page-layout: full
 |  5  | April 13 | How do I use the scientific method in the real world?   | [Evaluation Designs](/lectures/lecture5.qmd)  | [Esther Duflo and RCTs](/stories/esther-duflo-and-rcts.qmd)     |   | Proposal due |
 |  6  | April 20 | Where does the data for program evaluation come from?   | [Data Collection](/lectures/lecture6.qmd)  | [Fei-fei Li and ImageNet](/stories/feifei-li-imagenet-and-ai-revolution.qmd)     |   |  |
 |  7  | April 27 | What methods make data tell accurate stories and solve problems?   | [Data Analysis](/lectures/lecture7.qmd)  | [Hans Rosling and Storytelling](/stories/hans-rosling-data-visualization-and-storystelling.qmd)  | Case 4: NYC Gifted & Talented Program | Case Response 4 |
-
+|  8  | May 4 | Is the program worthwhile? What happens next?   | [Economic Evaluation and Performance Measurement](/lectures/lecture8.qmd)  | [Robert Bullard and Environmental Justice](/stories/robert-bullard-and-environmental-justice.qmd)  | Case 5: EPA Clean Air Act | Case Response 5 |
 
 :::{.content-hidden}
-|  8  | May 4 | Is the program worthwhile? What happens next?   | [Cost Benefits Analysis](/lectures/lecture8.qmd)  | [Robert Bullard and Environmental Justice](/stories/robert-bullard-and-environmental-justice.qmd)  | Case 5: EPA Clean Air Act | Case Response 5 |
-|  9  | May 11 | What methods make data tell accurate stories and solve problems?   | [Data Analysis](/lectures/lecture9.qmd)  | [The Moral Machine](/stories/the-moral-machine-and-ethical-ai.qmd)  |  |  |
+|  9  | May 11 | How to be an ethical evaluator?   | [Ethics, Principles, and Standards](/lectures/lecture9.qmd)  | [The Moral Machine](/stories/the-moral-machine-and-ethical-ai.qmd)  |  |  |
 |  10  | May 18 | What we have learned in the class?   | Final presentation  |   |  |  |
 :::
