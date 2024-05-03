@@ -43,6 +43,7 @@ format:
 ## What evidence
 
 - *Solid waste sites and the black Houston community*, 1983
+
 >The findings reveal that solid waste sites were not randomly scattered over the Houston landscape but were likely to be found in predominantly black neighborhoods and near black schools.
 
 - *Dumping in Dixie: Race, Class and Environmental Quality*, 1990
