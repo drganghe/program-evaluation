@@ -38,7 +38,6 @@ format:
 - Statistical data
 - Survey
 - Interview
-- Case study
 - Evaluation project consultation
 
 

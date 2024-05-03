@@ -29,16 +29,16 @@ format:
 - Quantitative methods
 - Visualization
 - Story telling
-- NYC G&T Program
+- Case: NYC G&T Program
 
 
 ## Today's agenda
 
-- CBA: Cost benefits analysis
+- CBA: Cost-benefit analysis
 - Challenges
 - Beyond costs
 - Story: Robert Bullard and Environmental Justice
-- EPA case study
+- Case: CBA of EPA Clean Air Act
 
 
 ## Cost-benefit analysis
@@ -67,7 +67,7 @@ Source: @newcomer_handbook_2015
 
 ## Program costs
 
-- Costs to program participatns
+- Costs to program participants
 - Cost to society
 - Investment
 - Recurring costs
@@ -182,19 +182,19 @@ Source: @costanza_value_1997
 
 - Happiness
 - Justice
-- Higher hiarachy needs: self-realization
+- Higher hierarchy needs: self-realization
 
 
 ## Sensitivity analysis
 
-- Discounting rate (interest rate, inflation rate) 
-- SVL assuption
+- Discount rate (interest rate, inflation rate) 
+- SVL assumption
 - Costs
 
 
 ## Limitations
 
-- May not the goal
+- CEA/CBA may not be the goal
 - Bias
 - Non-market value
 - Uncertainties
@@ -207,7 +207,7 @@ Source: @costanza_value_1997
 - Outputs
 - Efficiency
 - Service quality
-- Costomer satisfaction
+- Customer satisfaction
 
 
 ## Story
