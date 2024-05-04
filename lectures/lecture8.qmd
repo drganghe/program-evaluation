@@ -187,15 +187,15 @@ Source: @costanza_value_1997
 
 ## Sensitivity analysis
 
-- Discount rate (interest rate, inflation rate) 
-- SVL assumption
+- Discount rates (interest rates, inflation rates) 
+- SVL assumptions
 - Costs
 
 
 ## Limitations
 
 - CEA/CBA may not be the goal
-- Bias
+- Bias on costs and benefits
 - Non-market value
 - Uncertainties
 
@@ -203,11 +203,12 @@ Source: @costanza_value_1997
 ## Beyond CBA
 
 - Outcomes
-- Cost effectiveness
 - Outputs
 - Efficiency
 - Service quality
 - Customer satisfaction
+- Quality of life
+- Social justice
 
 
 ## Story
