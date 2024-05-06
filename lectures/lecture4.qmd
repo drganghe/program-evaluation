@@ -140,10 +140,11 @@ Source: A Practical Guide for Engaging Stakeholders in Developing Evaluation Que
 
 ---
 
+```{=html}
 <center>
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">An auspicious day to witness first power from <a href="https://twitter.com/SouthForkWind?ref_src=twsrc%5Etfw">@SouthForkWind</a> with many dedicated colleagues and friends. For the first time in history, families and businesses on Long Island are using offshore wind! Congrats to <a href="https://twitter.com/OrstedUS?ref_src=twsrc%5Etfw">@OrstedUS</a> <a href="https://twitter.com/EversourceCorp?ref_src=twsrc%5Etfw">@EversourceCorp</a> <a href="https://twitter.com/EHTownTrustees?ref_src=twsrc%5Etfw">@EHTownTrustees</a> and <a href="https://twitter.com/LongIslandPower?ref_src=twsrc%5Etfw">@LongIslandPower</a>! <a href="https://t.co/ughxe03eHK">pic.twitter.com/ughxe03eHK</a></p>&mdash; Doreen Harris (@Doreen_M_Harris) <a href="https://twitter.com/Doreen_M_Harris/status/1732864788437356881?ref_src=twsrc%5Etfw">December 7, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </center>
-
+```
 
 ## Offshore wind example
 
