@@ -19,9 +19,41 @@ format:
     scrollable: true
     css: /custom.css
     footer: <https://drganghe.github.io/program-evaluation/>
-draft: true
+#draft: true
 ---
 
+## Today's agenda
+
+- Course evaluation (<http://baruch.cuny.edu/EVALS>)
+- Review the class
+- Ethic considerations
+- Q&A for presentation and project
+
+
+## Your evaluation is important to us
+
+
+<center>
+<http://baruch.cuny.edu/EVALS>
+</center>
+
+
+![](/lectures/images/Simplified-Logic-Model.jpeg){fig-align="center"}
+
+
+::: footer
+Source: [Freshspectrum](https://freshspectrum.com/evaluation-cartoons/)
+:::
+
+## Mindmap of class
+
+```{=html}
+<iframe width="980" height="600" src="/lectures/program-evaluation-markmap.html" title="Program Evaluation Mindmap"></iframe>
+```
+
+
+:::{.content-hidden}
+<!--
 ## Recap lecture 1
 
 - Get to know each other
@@ -97,17 +129,149 @@ draft: true
 - Beyond costs
 - Story: Robert Bullard and Environmental Justice
 - Case: CBA of EPA Clean Air Act
+-->
+:::
 
 
-## Today's agenda
+## Critics/pitfalls in evaluations
 
-- Course evaluation
-- Review the class
-- Ethic considerations
-- Q&A for presentation and project
+- Data
+- Sampling
+- Design/causal models
+- Implementation
+- Visulization/Presentation
+- Generalization
 
 
+## Recommendations and suggestions
 
+- Evidence-based (findings)
+- Compliance
+- Problem solving (causes)
+- Consider options
+- Best practices
+
+::: footer
+Source: @newcomer_handbook_2015
+:::
+
+
+## Writing
+
+- Report
+- Abstract (200 words)
+- Executive summary (2 pages)
+- Poster/presentation/social media post
+
+::: footer
+Source: @newcomer_handbook_2015
+:::
+
+
+## Hippocratic Oath: First do no harm
+
+>I will use those dietary regimens which will benefit my patients according to my greatest ability and judgment, and I will do no harm or injustice to them. Neither will I administer a poison to anybody when asked to do so, nor will I suggest such a course. Similarly I will not give to a woman a pessary to cause abortion. But I will keep pure and holy both my life and my art. I will not use the knife, not even, verily, on sufferers from stone, but I will give place to such as are craftsmen therein.
+
+::: footer
+Source: [Wikipedia](https://en.wikipedia.org/wiki/Hippocratic_Oath)
+:::
+
+---
+
+- "A fundamental principle is that groups should not be excluded from an intervention that is known to be benefi cial solely for the purpose of conducting an evaluation."
+- "if an evaluation shows that a program is cost effective, the funders of the program—whether governments, donors, or nongovernmental organizations—should make reasonable eff orts to expand the program to include the comparison groups once the impact evaluation has been completed."
+- "evaluations should not dictate how programs are assigned; instead, evaluations should be fitted to program assignment rules to the extent that those are clear and fair."
+
+::: footer
+Source: @gertler_impact_2016
+:::
+
+
+## WHO protecting human subjects
+
+- The rights and welfare of the subjects involved in the impact evaluation should be adequately protected.
+- The researchers should obtain freely given, informed consent from the participants.
+- The balance between risk and potential benefi ts involved should be assessed and deemed acceptable by a panel of independent experts.
+- Any special national requirements should be met.
+
+
+## Belmont Report
+
+- Respect for persons. How will the researchers obtain informed consent from their research subjects?
+- Benefi cence. How will the researchers ensure that the research (1) does not harm and (2) maximizes potential benefi ts and minimizes potential harm?
+- Justice. How will the researchers ensure that the benefits and burdens of research are fairly and equitably shared?
+
+::: footer
+Source: [The Belmont Report: Ethical Principles and Guidelines for the Protection of Human Subjects of Research](https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/read-the-belmont-report/index.html)
+:::
+
+
+## AEA Guiding Principles For Evaluators{.smaller}
+
+- Systematic Inquiry: Evaluators conduct data-based inquiries that are thorough, methodical, and contextually relevant.
+- Competence: Evaluators provide skilled professional services to stakeholders.
+- Integrity: Evaluators behave with honesty and transparency in order to ensure the integrity of the evaluation.
+- Respect for People: Evaluators honor the dignity, well-being, and self-worth of individuals and acknowledge the influence of culture within and across groups.
+- Common Good and Equity: Evaluators strive to contribute to the common good and advancement of an equitable and just society.
+
+::: footer
+Source: [Guiding Principles](https://www.eval.org/About/Guiding-Principles)
+:::
+
+
+## Conflict of interest
+
+- Family, friendships, financial, or social factors 
+- Impact independent judegement and decision
+- Disclose and transparent
+
+
+## Managing ethical and credible evaluations
+
+- Protecting the individuals, or human subjects, who participate in the evaluation
+- Transparency of methods/data
+- Unbiased, reliable, and credible evaluation
+
+::: footer
+Source: @gertler_impact_2016
+:::
+
+
+## Transparent: Open science
+
+- Publication bias
+- Data mining
+- Multiple hypothesis testing
+- $R^2$/t-test (p-hacking)
+- Lack of replication
+
+
+## Checklist
+
+:::{style="font-size:24px"}
+- Is assignment to the treatment and comparison groups fair? Are there any groups with particularly high need that should receive the program in any case? Who will be excluded from the impact evaluation?
+- Has the research team identified the relevant Institutional Review Board(IRB) or National Ethics Review Committee?
+- Does the impact evaluation schedule allow sufficient time to prepare and submit the research protocol to the IRB and obtain consent before data collection from human subjects begins?
+- Did the research team submit the research protocol and preanalysis plan to a social science trial registry?
+- Is a procedure in place to ensure that the key elements of the intervention are documented as they happen, and not only as they are planned?
+- Do policy makers understand that evaluation results might show that the intervention was not eff ective, and do they agree that such results will be published and not held back?
+:::
+
+::: footer
+Source: @gertler_impact_2016
+:::
+
+## Story
+
+![](/lectures/images/moral-machine-design.png){fig-align="center"}
+
+<center>
+[The Moral Machine and Ethics](/stories/the-moral-machine-and-ethics.qmd)
+</center>
+
+::: footer
+Source: <http://moralmachine.mit.edu>
+:::
 
 ------
 

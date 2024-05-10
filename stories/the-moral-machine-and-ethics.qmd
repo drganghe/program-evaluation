@@ -1,5 +1,5 @@
 ---
-title: The Moral Machine and Ethical AI
+title: The Moral Machine and Ethics
 author: Gang He
 date: May 11, 2024
 format: 
@@ -23,25 +23,33 @@ format:
       - heightrounded
     #fontfamily: xelatex
     colorlinks: true
-draft: true 
-draft-mode: unlinked
+#draft: true 
+#draft-mode: unlinked
 ---
 
 ## The Moral Machine
 
+- Moral dilemmas: decisions people make between two destructive outcomes
+- Iyad Rahwan, Azim Shariff, and Jean-Francois Bonnefon
+- The trolley problem in atonomous driving
 
+
+## The moral preferences
+
+- Cultural: Individual vs collectivist 
+- Region: developed vs developing
+- Economic inequality
 
 
 ## Thoughts for evaluation
 
-- Data    
+- Data driven evidence   
 - Ethics
-
 
 
 ## Further readings
 
-
+<http://moralmachine.mit.edu>
 
 <!--Include social share buttons-->
 

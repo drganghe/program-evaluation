@@ -4,7 +4,7 @@
     "href": "stories.html",
     "title": "Stories",
     "section": "",
-    "text": "Date\n\n\nTitle\n\n\n\n\n\n\nMar 9, 2024\n\n\nJohn Snow and Evidence Based Analysis\n\n\n\n\nMar 16, 2024\n\n\nHigh Line Park\n\n\n\n\nMar 23, 2024\n\n\nBombing, Heating, and Causal Models\n\n\n\n\nApr 6, 2024\n\n\nJohn Muir and National Park System\n\n\n\n\nApr 13, 2024\n\n\nEsther Duflo and Randomized Controlled Trails\n\n\n\n\nApr 20, 2024\n\n\nFeifei Li, ImageNet, and the AI Revolution\n\n\n\n\nApr 27, 2024\n\n\nHans Rosling, Data Visualization, and Storytelling\n\n\n\n\nMay 4, 2024\n\n\nRobert Bullard and Environmental Justice\n\n\n\n\n\nNo matching items"
+    "text": "Date\n\n\nTitle\n\n\n\n\n\n\nMar 9, 2024\n\n\nJohn Snow and Evidence Based Analysis\n\n\n\n\nMar 16, 2024\n\n\nHigh Line Park\n\n\n\n\nMar 23, 2024\n\n\nBombing, Heating, and Causal Models\n\n\n\n\nApr 6, 2024\n\n\nJohn Muir and National Park System\n\n\n\n\nApr 13, 2024\n\n\nEsther Duflo and Randomized Controlled Trails\n\n\n\n\nApr 20, 2024\n\n\nFeifei Li, ImageNet, and the AI Revolution\n\n\n\n\nApr 27, 2024\n\n\nHans Rosling, Data Visualization, and Storytelling\n\n\n\n\nMay 4, 2024\n\n\nRobert Bullard and Environmental Justice\n\n\n\n\nMay 11, 2024\n\n\nThe Moral Machine and Ethics\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "resources.html",
@@ -305,7 +305,7 @@
     "href": "lectures.html",
     "title": "Lectures",
     "section": "",
-    "text": "Lecture 1 Introduction\n\n\n\nGang He\n\n\nMar 9, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 2 Goals and Types of Evaluation\n\n\n\nGang He\n\n\nMar 16, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 3 Logic and Causal Models\n\n\n\nGang He\n\n\nMar 23, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 4 Stakeholder Analysis, Mapping, and Engagement\n\n\n\nGang He\n\n\nApr 6, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 5 Evaluation Designs\n\n\n\nGang He\n\n\nApr 13, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 6 Data Collection: Procedures, Instrumentation, Practical Considerations\n\n\n\nGang He\n\n\nApr 20, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 7 Data Analysis: Quantitative, Qualitative, and Mixed Analysis\n\n\n\nGang He\n\n\nApr 27, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 8 Economic Evaluation and Performance Measurement\n\n\n\nGang He\n\n\nMay 4, 2024\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Lecture 1 Introduction\n\n\n\nGang He\n\n\nMar 9, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 2 Goals and Types of Evaluation\n\n\n\nGang He\n\n\nMar 16, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 3 Logic and Causal Models\n\n\n\nGang He\n\n\nMar 23, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 4 Stakeholder Analysis, Mapping, and Engagement\n\n\n\nGang He\n\n\nApr 6, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 5 Evaluation Designs\n\n\n\nGang He\n\n\nApr 13, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 6 Data Collection: Procedures, Instrumentation, Practical Considerations\n\n\n\nGang He\n\n\nApr 20, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 7 Data Analysis: Quantitative, Qualitative, and Mixed Analysis\n\n\n\nGang He\n\n\nApr 27, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 8 Economic Evaluation and Performance Measurement\n\n\n\nGang He\n\n\nMay 4, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 9 Ethics, Principles, and Standards\n\n\n\nGang He\n\n\nMay 11, 2024\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "stories/john-snow-and-evidence-based-analysis.html",
@@ -725,7 +725,7 @@
     "href": "schedule.html",
     "title": "Course Schedule",
     "section": "",
-    "text": "Week\nDate\nGuiding question\nTopic\nStory\nCase Study\nAssignment\n\n\n\n\n1\nMar 9\nWhat is program evaluation? Where are we headed in this course?\nIntroduction and Overview\nJohn Snow\n\n\n\n\n2\nMar 16\nWhy do evaluation?\nGoals and Types of Evaluation\nHigh Line Park\nCase 1: Northwest Housing Alternatives\nCase Response 1\n\n\n3\nMar 23\nHow to identify causal effects?\nLogic and Causal Models\nBombing, Heating, and Causal Models\nCase 2: Jobs Plus in NYC\nCase Response 2\n\n\n4\nApril 6\nHow to account for everyone involved?\nStakeholder Engagement\nJohn Muir and National Park System\nCase 3: ARPA-E\nCase Response 3\n\n\n5\nApril 13\nHow do I use the scientific method in the real world?\nEvaluation Designs\nEsther Duflo and RCTs\n\nProposal due\n\n\n6\nApril 20\nWhere does the data for program evaluation come from?\nData Collection\nFei-fei Li and ImageNet\n\n\n\n\n7\nApril 27\nWhat methods make data tell accurate stories and solve problems?\nData Analysis\nHans Rosling and Storytelling\nCase 4: NYC Gifted & Talented Program\nCase Response 4\n\n\n8\nMay 4\nIs the program worthwhile? What happens next?\nEconomic Evaluation and Performance Measurement\nRobert Bullard and Environmental Justice\nCase 5: EPA Clean Air Act\nCase Response 5"
+    "text": "Week\nDate\nGuiding question\nTopic\nStory\nCase Study\nAssignment\n\n\n\n\n1\nMar 9\nWhat is program evaluation? Where are we headed in this course?\nIntroduction and Overview\nJohn Snow\n\n\n\n\n2\nMar 16\nWhy do evaluation?\nGoals and Types of Evaluation\nHigh Line Park\nCase 1: Northwest Housing Alternatives\nCase Response 1\n\n\n3\nMar 23\nHow to identify causal effects?\nLogic and Causal Models\nBombing, Heating, and Causal Models\nCase 2: Jobs Plus in NYC\nCase Response 2\n\n\n4\nApril 6\nHow to account for everyone involved?\nStakeholder Engagement\nJohn Muir and National Park System\nCase 3: ARPA-E\nCase Response 3\n\n\n5\nApril 13\nHow do I use the scientific method in the real world?\nEvaluation Designs\nEsther Duflo and RCTs\n\nProposal due\n\n\n6\nApril 20\nWhere does the data for program evaluation come from?\nData Collection\nFei-fei Li and ImageNet\n\n\n\n\n7\nApril 27\nWhat methods make data tell accurate stories and solve problems?\nData Analysis\nHans Rosling and Storytelling\nCase 4: NYC Gifted & Talented Program\nCase Response 4\n\n\n8\nMay 4\nIs the program worthwhile? What happens next?\nEconomic Evaluation and Performance Measurement\nRobert Bullard and Environmental Justice\nCase 5: CBA of EPA Clean Air Act\nCase Response 5\n\n\n9\nMay 11\nHow to be an ethical evaluator?\nEthics, Principles, and Standards\nThe Moral Machine\n\n\n\n\n10\nMay 18\nWhat we have learned in the class?\nFinal presentation"
   },
   {
     "objectID": "stories/bombing-heating-and-causal-models.html#references",
@@ -1734,5 +1734,243 @@
     "title": "Lecture 8 Economic Evaluation and Performance Measurement",
     "section": "Value of environment/ecosystem service",
     "text": "Value of environment/ecosystem service\n\nFood\nRaw material\nClean air/water\nProtection from natural hazards\nSpiritual, cultural, and recreational benefits\n\n$33 trillion, double global GNP\n\nSource: Costanza et al. (1997)"
+  },
+  {
+    "objectID": "stories/the-moral-machine-and-ethical-ai.html",
+    "href": "stories/the-moral-machine-and-ethical-ai.html",
+    "title": "The Moral Machine and Ethical AI",
+    "section": "",
+    "text": "Moral dilemmas: decisions people make between two destructive outcomes\nIyad Rahwan, Azim Shariff, and Jean-Francois Bonnefon\nThe trolley problem in atonomous driving"
+  },
+  {
+    "objectID": "stories/the-moral-machine-and-ethical-ai.html#the-moral-machine",
+    "href": "stories/the-moral-machine-and-ethical-ai.html#the-moral-machine",
+    "title": "The Moral Machine and Ethical AI",
+    "section": "",
+    "text": "Moral dilemmas: decisions people make between two destructive outcomes\nIyad Rahwan, Azim Shariff, and Jean-Francois Bonnefon\nThe trolley problem in atonomous driving"
+  },
+  {
+    "objectID": "stories/the-moral-machine-and-ethical-ai.html#the-moral-preferences",
+    "href": "stories/the-moral-machine-and-ethical-ai.html#the-moral-preferences",
+    "title": "The Moral Machine and Ethical AI",
+    "section": "The moral preferences",
+    "text": "The moral preferences\n\nCultural: Individual vs collectivist\nRegion: developed vs developing\nEconomic inequality"
+  },
+  {
+    "objectID": "stories/the-moral-machine-and-ethical-ai.html#thoughts-for-evaluation",
+    "href": "stories/the-moral-machine-and-ethical-ai.html#thoughts-for-evaluation",
+    "title": "The Moral Machine and Ethical AI",
+    "section": "Thoughts for evaluation",
+    "text": "Thoughts for evaluation\n\nData driven evidence\n\nEthics"
+  },
+  {
+    "objectID": "stories/the-moral-machine-and-ethical-ai.html#further-readings",
+    "href": "stories/the-moral-machine-and-ethical-ai.html#further-readings",
+    "title": "The Moral Machine and Ethical AI",
+    "section": "Further readings",
+    "text": "Further readings\nhttp://moralmachine.mit.edu"
+  },
+  {
+    "objectID": "lectures/lecture9.html#todays-agenda",
+    "href": "lectures/lecture9.html#todays-agenda",
+    "title": "Lecture 9 Ethics, Principles, and Standards",
+    "section": "Today’s agenda",
+    "text": "Today’s agenda\n\nCourse evaluation (http://baruch.cuny.edu/EVALS)\nReview the class\nEthic considerations\nQ&A for presentation and project"
+  },
+  {
+    "objectID": "lectures/lecture9.html#recap-lecture-1",
+    "href": "lectures/lecture9.html#recap-lecture-1",
+    "title": "Lecture 9 Ethics, Principles, and Standards",
+    "section": "Recap lecture 1",
+    "text": "Recap lecture 1\n\nGet to know each other\nJohn Snow and evidence based analysis\nEvidence based policy\n\nGlobal clean energy supply chain\nQueens curb side organics\n\nCapturing the wedage\nGoverners Island and other cases"
+  },
+  {
+    "objectID": "lectures/lecture9.html#recap-lecture-2",
+    "href": "lectures/lecture9.html#recap-lecture-2",
+    "title": "Lecture 9 Ethics, Principles, and Standards",
+    "section": "Recap lecture 2",
+    "text": "Recap lecture 2\n\nTypes and applications of evaluation\nExploratory evaluation\nHigh Line Park\nCultural responsive evaluation\nCase: Northwest Housing Alternatives"
+  },
+  {
+    "objectID": "lectures/lecture9.html#recap-lecture-3",
+    "href": "lectures/lecture9.html#recap-lecture-3",
+    "title": "Lecture 9 Ethics, Principles, and Standards",
+    "section": "Recap lecture 3",
+    "text": "Recap lecture 3\n\nTheory of change\nLogic model\nDAG: Directed Acyclic Graphs\nCausal models\nCase: Jobs Plus in NYC case\nAsk a good question game"
+  },
+  {
+    "objectID": "lectures/lecture9.html#recap-lecture-4",
+    "href": "lectures/lecture9.html#recap-lecture-4",
+    "title": "Lecture 9 Ethics, Principles, and Standards",
+    "section": "Recap lecture 4",
+    "text": "Recap lecture 4\n\nStakeholders\nIdentify key stakeholder\nEngaging stakeholders\nCase: ARPR-E\nReview of logic models and preliminary discussion of student project ideas"
+  },
+  {
+    "objectID": "lectures/lecture9.html#recap-lecture-5",
+    "href": "lectures/lecture9.html#recap-lecture-5",
+    "title": "Lecture 9 Ethics, Principles, and Standards",
+    "section": "Recap lecture 5",
+    "text": "Recap lecture 5\n\nEvaluation design\nRCT\nQuasi-experimental (RD, DiD)\nObservational\nProposal\nProgress on evaluation project"
+  },
+  {
+    "objectID": "lectures/lecture9.html#recap-lecture-6",
+    "href": "lectures/lecture9.html#recap-lecture-6",
+    "title": "Lecture 9 Ethics, Principles, and Standards",
+    "section": "Recap lecture 6",
+    "text": "Recap lecture 6\n\nData sources\nStatistical data\nSurvey\nInterview\nEvaluation project consultation"
+  },
+  {
+    "objectID": "lectures/lecture9.html#recap-lecture-7",
+    "href": "lectures/lecture9.html#recap-lecture-7",
+    "title": "Lecture 9 Ethics, Principles, and Standards",
+    "section": "Recap lecture 7",
+    "text": "Recap lecture 7\n\nData analysis\nQualitative methods\nQuantitative methods\nVisualization\nStory telling\nCase: NYC G&T Program"
+  },
+  {
+    "objectID": "lectures/lecture9.html#recap-lecture-8",
+    "href": "lectures/lecture9.html#recap-lecture-8",
+    "title": "Lecture 9 Ethics, Principles, and Standards",
+    "section": "Recap lecture 8",
+    "text": "Recap lecture 8\n\nCBA: Cost-benefit analysis\nChallenges\nBeyond costs\nStory: Robert Bullard and Environmental Justice\nCase: CBA of EPA Clean Air Act"
+  },
+  {
+    "objectID": "lectures/lecture9.html#aea-guiding-principles-for-evaluators",
+    "href": "lectures/lecture9.html#aea-guiding-principles-for-evaluators",
+    "title": "Lecture 9 Ethics, Principles, and Standards",
+    "section": "AEA Guiding Principles For Evaluators",
+    "text": "AEA Guiding Principles For Evaluators\n\nSystematic Inquiry: Evaluators conduct data-based inquiries that are thorough, methodical, and contextually relevant.\nCompetence: Evaluators provide skilled professional services to stakeholders.\nIntegrity: Evaluators behave with honesty and transparency in order to ensure the integrity of the evaluation.\nRespect for People: Evaluators honor the dignity, well-being, and self-worth of individuals and acknowledge the influence of culture within and across groups.\nCommon Good and Equity: Evaluators strive to contribute to the common good and advancement of an equitable and just society.\n\n\nSource: Guiding Principles"
+  },
+  {
+    "objectID": "lectures/lecture9.html#references",
+    "href": "lectures/lecture9.html#references",
+    "title": "Lecture 9 Ethics, Principles, and Standards",
+    "section": "",
+    "text": "References\n\n\nGertler, Paul J., Sebastian Martinez, Patrick Premand, Laura B. Rawlings, and Christel M. J. Vermeersch. 2016. Impact Evaluation in Practice, Second Edition. Washington, DC: World Bank. https://doi.org/10.1596/978-1-4648-0779-4.\n\n\nNewcomer, Kathryn E., Harry P. Hatry, and Joseph S. Wholey. 2015. Handbook of Practical Program Evaluation. 4th edition. San Francisco: Jossey-Bass.\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He\n\n\n\n\nhttps://drganghe.github.io/program-evaluation/"
+  },
+  {
+    "objectID": "stories/the-moral-machine-and-ethics.html",
+    "href": "stories/the-moral-machine-and-ethics.html",
+    "title": "The Moral Machine and Ethics",
+    "section": "",
+    "text": "Moral dilemmas: decisions people make between two destructive outcomes\nIyad Rahwan, Azim Shariff, and Jean-Francois Bonnefon\nThe trolley problem in atonomous driving"
+  },
+  {
+    "objectID": "stories/the-moral-machine-and-ethics.html#the-moral-machine",
+    "href": "stories/the-moral-machine-and-ethics.html#the-moral-machine",
+    "title": "The Moral Machine and Ethics",
+    "section": "",
+    "text": "Moral dilemmas: decisions people make between two destructive outcomes\nIyad Rahwan, Azim Shariff, and Jean-Francois Bonnefon\nThe trolley problem in atonomous driving"
+  },
+  {
+    "objectID": "stories/the-moral-machine-and-ethics.html#the-moral-preferences",
+    "href": "stories/the-moral-machine-and-ethics.html#the-moral-preferences",
+    "title": "The Moral Machine and Ethics",
+    "section": "The moral preferences",
+    "text": "The moral preferences\n\nCultural: Individual vs collectivist\nRegion: developed vs developing\nEconomic inequality"
+  },
+  {
+    "objectID": "stories/the-moral-machine-and-ethics.html#thoughts-for-evaluation",
+    "href": "stories/the-moral-machine-and-ethics.html#thoughts-for-evaluation",
+    "title": "The Moral Machine and Ethics",
+    "section": "Thoughts for evaluation",
+    "text": "Thoughts for evaluation\n\nData driven evidence\n\nEthics"
+  },
+  {
+    "objectID": "stories/the-moral-machine-and-ethics.html#further-readings",
+    "href": "stories/the-moral-machine-and-ethics.html#further-readings",
+    "title": "The Moral Machine and Ethics",
+    "section": "Further readings",
+    "text": "Further readings\nhttp://moralmachine.mit.edu"
+  },
+  {
+    "objectID": "lectures/lecture9.html#story",
+    "href": "lectures/lecture9.html#story",
+    "title": "Lecture 9 Ethics, Principles, and Standards",
+    "section": "Story",
+    "text": "Story\n\n\nThe Moral Machine and Ethics\n\n\nSource: http://moralmachine.mit.edu"
+  },
+  {
+    "objectID": "lectures/lecture9.html#mindmap-of-class",
+    "href": "lectures/lecture9.html#mindmap-of-class",
+    "title": "Lecture 9 Ethics, Principles, and Standards",
+    "section": "Mindmap of class",
+    "text": "Mindmap of class"
+  },
+  {
+    "objectID": "lectures/lecture9.html#your-evaluation-is-important-to-us",
+    "href": "lectures/lecture9.html#your-evaluation-is-important-to-us",
+    "title": "Lecture 9 Ethics, Principles, and Standards",
+    "section": "Your evaluation is important to us",
+    "text": "Your evaluation is important to us\n\nhttp://baruch.cuny.edu/EVALS\n\n\n\nSource: Freshspectrum"
+  },
+  {
+    "objectID": "lectures/lecture9.html#criticspitfalls-in-evaluations",
+    "href": "lectures/lecture9.html#criticspitfalls-in-evaluations",
+    "title": "Lecture 9 Ethics, Principles, and Standards",
+    "section": "Critics/pitfalls in evaluations",
+    "text": "Critics/pitfalls in evaluations\n\nData\nSampling\nDesign/causal models\nImplementation\nVisulization/Presentation\nGeneralization"
+  },
+  {
+    "objectID": "lectures/lecture9.html#recommendations-and-suggestions",
+    "href": "lectures/lecture9.html#recommendations-and-suggestions",
+    "title": "Lecture 9 Ethics, Principles, and Standards",
+    "section": "Recommendations and suggestions",
+    "text": "Recommendations and suggestions\n\nEvidence-based (findings)\nCompliance\nProblem solving (causes)\nConsider options\nBest practices\n\n\nSource: Newcomer, Hatry, and Wholey (2015)"
+  },
+  {
+    "objectID": "lectures/lecture9.html#writing",
+    "href": "lectures/lecture9.html#writing",
+    "title": "Lecture 9 Ethics, Principles, and Standards",
+    "section": "Writing",
+    "text": "Writing\n\nReport\nAbstract (200 words)\nExecutive summary (2 pages)\nPoster/presentation/social media post\n\n\nSource: Newcomer, Hatry, and Wholey (2015)"
+  },
+  {
+    "objectID": "lectures/lecture9.html#managing-ethical-and-credible-evaluations",
+    "href": "lectures/lecture9.html#managing-ethical-and-credible-evaluations",
+    "title": "Lecture 9 Ethics, Principles, and Standards",
+    "section": "Managing ethical and credible evaluations",
+    "text": "Managing ethical and credible evaluations\n\nProtecting the individuals, or human subjects, who participate in the evaluation\nTransparency of methods/data\nUnbiased, reliable, and credible evaluation\n\n\nSource: Gertler et al. (2016)"
+  },
+  {
+    "objectID": "lectures/lecture9.html#checklist",
+    "href": "lectures/lecture9.html#checklist",
+    "title": "Lecture 9 Ethics, Principles, and Standards",
+    "section": "Checklist",
+    "text": "Checklist\n\n\nIs assignment to the treatment and comparison groups fair? Are there any groups with particularly high need that should receive the program in any case? Who will be excluded from the impact evaluation?\nHas the research team identified the relevant Institutional Review Board(IRB) or National Ethics Review Committee?\nDoes the impact evaluation schedule allow sufficient time to prepare and submit the research protocol to the IRB and obtain consent before data collection from human subjects begins?\nDid the research team submit the research protocol and preanalysis plan to a social science trial registry?\nIs a procedure in place to ensure that the key elements of the intervention are documented as they happen, and not only as they are planned?\nDo policy makers understand that evaluation results might show that the intervention was not eff ective, and do they agree that such results will be published and not held back?\n\n\n\nSource: Gertler et al. (2016)"
+  },
+  {
+    "objectID": "lectures/lecture9.html#hippocratic-oath-first-do-no-harm",
+    "href": "lectures/lecture9.html#hippocratic-oath-first-do-no-harm",
+    "title": "Lecture 9 Ethics, Principles, and Standards",
+    "section": "Hippocratic Oath: First do no harm",
+    "text": "Hippocratic Oath: First do no harm\n\nI will use those dietary regimens which will benefit my patients according to my greatest ability and judgment, and I will do no harm or injustice to them. Neither will I administer a poison to anybody when asked to do so, nor will I suggest such a course. Similarly I will not give to a woman a pessary to cause abortion. But I will keep pure and holy both my life and my art. I will not use the knife, not even, verily, on sufferers from stone, but I will give place to such as are craftsmen therein.\n\n\nSource: Wikipedia"
+  },
+  {
+    "objectID": "lectures/lecture9.html#who-protecting-human-subjects",
+    "href": "lectures/lecture9.html#who-protecting-human-subjects",
+    "title": "Lecture 9 Ethics, Principles, and Standards",
+    "section": "WHO protecting human subjects",
+    "text": "WHO protecting human subjects\n\nThe rights and welfare of the subjects involved in the impact evaluation should be adequately protected.\nThe researchers should obtain freely given, informed consent from the participants.\nThe balance between risk and potential benefi ts involved should be assessed and deemed acceptable by a panel of independent experts.\nAny special national requirements should be met."
+  },
+  {
+    "objectID": "lectures/lecture9.html#belmont-report",
+    "href": "lectures/lecture9.html#belmont-report",
+    "title": "Lecture 9 Ethics, Principles, and Standards",
+    "section": "Belmont Report",
+    "text": "Belmont Report\n\nRespect for persons. How will the researchers obtain informed consent from their research subjects?\nBenefi cence. How will the researchers ensure that the research (1) does not harm and (2) maximizes potential benefi ts and minimizes potential harm?\nJustice. How will the researchers ensure that the benefits and burdens of research are fairly and equitably shared?\n\n\nSource: The Belmont Report: Ethical Principles and Guidelines for the Protection of Human Subjects of Research"
+  },
+  {
+    "objectID": "lectures/lecture9.html#conflict-of-interest",
+    "href": "lectures/lecture9.html#conflict-of-interest",
+    "title": "Lecture 9 Ethics, Principles, and Standards",
+    "section": "Conflict of interest",
+    "text": "Conflict of interest\n\nFamily, friendships, financial, or social factors\nImpact independent judegement and decision\nDisclose and transparent"
+  },
+  {
+    "objectID": "lectures/lecture9.html#transparent-open-science",
+    "href": "lectures/lecture9.html#transparent-open-science",
+    "title": "Lecture 9 Ethics, Principles, and Standards",
+    "section": "Transparent: Open science",
+    "text": "Transparent: Open science\n\nPublication bias\nData mining\nMultiple hypothesis testing\n\\(R^2\\)/t-test (p-hacking)\nLack of replication"
   }
 ]
