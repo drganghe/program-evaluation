@@ -175,8 +175,8 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/Hippocratic_Oath)
 
 ---
 
-- "A fundamental principle is that groups should not be excluded from an intervention that is known to be benefi cial solely for the purpose of conducting an evaluation."
-- "if an evaluation shows that a program is cost effective, the funders of the program—whether governments, donors, or nongovernmental organizations—should make reasonable eff orts to expand the program to include the comparison groups once the impact evaluation has been completed."
+- "A fundamental principle is that groups should not be excluded from an intervention that is known to be beneficial solely for the purpose of conducting an evaluation."
+- "if an evaluation shows that a program is cost effective, the funders of the program—whether governments, donors, or nongovernmental organizations—should make reasonable efforts to expand the program to include the comparison groups once the impact evaluation has been completed."
 - "evaluations should not dictate how programs are assigned; instead, evaluations should be fitted to program assignment rules to the extent that those are clear and fair."
 
 ::: footer
@@ -188,14 +188,13 @@ Source: @gertler_impact_2016
 
 - The rights and welfare of the subjects involved in the impact evaluation should be adequately protected.
 - The researchers should obtain freely given, informed consent from the participants.
-- The balance between risk and potential benefi ts involved should be assessed and deemed acceptable by a panel of independent experts.
-- Any special national requirements should be met.
+- The balance between risk and potential benefits involved should be assessed and deemed acceptable by a panel of independent experts.
 
 
 ## Belmont Report
 
 - Respect for persons. How will the researchers obtain informed consent from their research subjects?
-- Benefi cence. How will the researchers ensure that the research (1) does not harm and (2) maximizes potential benefi ts and minimizes potential harm?
+- Beneficence. How will the researchers ensure that the research (1) does not harm and (2) maximizes potential benefits and minimizes potential harm?
 - Justice. How will the researchers ensure that the benefits and burdens of research are fairly and equitably shared?
 
 ::: footer
@@ -203,7 +202,7 @@ Source: [The Belmont Report: Ethical Principles and Guidelines for the Protectio
 :::
 
 
-## AEA Guiding Principles For Evaluators{.smaller}
+## AEA Guiding Principles for Evaluators{.smaller}
 
 - Systematic Inquiry: Evaluators conduct data-based inquiries that are thorough, methodical, and contextually relevant.
 - Competence: Evaluators provide skilled professional services to stakeholders.
@@ -219,7 +218,7 @@ Source: [Guiding Principles](https://www.eval.org/About/Guiding-Principles)
 ## Conflict of interest
 
 - Family, friendships, financial, or social factors 
-- Impact independent judegement and decision
+- Impact independent judgement and decision
 - Disclose and transparent
 
 
