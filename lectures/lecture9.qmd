@@ -38,19 +38,16 @@ format:
 </center>
 
 
-![](/lectures/images/Simplified-Logic-Model.jpeg){fig-align="center"}
-
-
-::: footer
-Source: [Freshspectrum](https://freshspectrum.com/evaluation-cartoons/)
-:::
 
 ## Mindmap of class
 
-```{=html}
-<iframe width="980" height="600" src="/lectures/program-evaluation-markmap.html" title="Program Evaluation Mindmap"></iframe>
-```
 
+<iframe width="980" height="600" src="/lectures/program-evaluation-markmap.html" title="Program Evaluation Mindmap"></iframe>
+
+
+::: footer
+Refresh page to see the mindmap or click [here](/lectures/program-evaluation-markmap.html){.external target="_blank"}, [download](/lectures/images/program-evaluation-markmap.svg).
+:::
 
 :::{.content-hidden}
 <!--
@@ -254,7 +251,7 @@ Source: @gertler_impact_2016
 - Does the impact evaluation schedule allow sufficient time to prepare and submit the research protocol to the IRB and obtain consent before data collection from human subjects begins?
 - Did the research team submit the research protocol and preanalysis plan to a social science trial registry?
 - Is a procedure in place to ensure that the key elements of the intervention are documented as they happen, and not only as they are planned?
-- Do policy makers understand that evaluation results might show that the intervention was not eff ective, and do they agree that such results will be published and not held back?
+- Do policymakers understand that evaluation results might show that the intervention was not effective, and do they agree that such results will be published and not held back?
 :::
 
 ::: footer
