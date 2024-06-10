@@ -185,5 +185,5 @@ Ready for a full implementation.
 :::
 
 ::: footer
-Back to Title [Slide](https://drganghe.github.io/program-evaluation/lectures/lecture6/#/title-slide), All [Lectures](https://drganghe.github.io/program-evaluation/lectures.html), Course [Home](https://drganghe.github.io/program-evaluation/), or Learn More About [Gang He](https://drganghe.github.io)
+Back to Title [Slide](https://drganghe.github.io/program-evaluation/lectures/lecture6.html#/title-slide), All [Lectures](https://drganghe.github.io/program-evaluation/lectures.html), Course [Home](https://drganghe.github.io/program-evaluation/), or Learn More About [Gang He](https://drganghe.github.io)
 :::

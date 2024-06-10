@@ -251,5 +251,5 @@ Source: [EIA](https://www.eia.gov/todayinenergy/detail.php?id=56880)
 :::
 
 ::: footer
-Back to Title [Slide](https://drganghe.github.io/program-evaluation/lectures/lecture7/#/title-slide), All [Lectures](https://drganghe.github.io/program-evaluation/lectures.html), Course [Home](https://drganghe.github.io/program-evaluation/), or Learn More About [Gang He](https://drganghe.github.io)
+Back to Title [Slide](https://drganghe.github.io/program-evaluation/lectures/lecture7.html#/title-slide), All [Lectures](https://drganghe.github.io/program-evaluation/lectures.html), Course [Home](https://drganghe.github.io/program-evaluation/), or Learn More About [Gang He](https://drganghe.github.io)
 :::

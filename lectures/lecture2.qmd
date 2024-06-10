@@ -218,5 +218,5 @@ Read more: [Designing Evaluations: 2012 Revision](https://www.gao.gov/assets/gao
 :::
 
 ::: footer
-Back to Title [Slide](https://drganghe.github.io/program-evaluation/lectures/lecture2/#/title-slide), All [Lectures](https://drganghe.github.io/program-evaluation/lectures.html), Course [Home](https://drganghe.github.io/program-evaluation/), or Learn More About [Gang He](https://drganghe.github.io)
+Back to Title [Slide](https://drganghe.github.io/program-evaluation/lectures/lecture2.html/#/title-slide), All [Lectures](https://drganghe.github.io/program-evaluation/lectures.html), Course [Home](https://drganghe.github.io/program-evaluation/), or Learn More About [Gang He](https://drganghe.github.io)
 :::

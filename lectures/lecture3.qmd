@@ -361,5 +361,5 @@ Source: [Andrew Wheiss](https://evalsp24.classes.andrewheiss.com/)
 :::
 
 ::: footer
-Back to Title [Slide](https://drganghe.github.io/program-evaluation/lectures/lecture3/#/title-slide), All [Lectures](https://drganghe.github.io/program-evaluation/lectures.html), Course [Home](https://drganghe.github.io/program-evaluation/), or Learn More About [Gang He](https://drganghe.github.io)
+Back to Title [Slide](https://drganghe.github.io/program-evaluation/lectures/lecture3.html#/title-slide), All [Lectures](https://drganghe.github.io/program-evaluation/lectures.html), Course [Home](https://drganghe.github.io/program-evaluation/), or Learn More About [Gang He](https://drganghe.github.io)
 :::
