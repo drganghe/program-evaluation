@@ -1,0 +1,55 @@
+---
+title: Feifei Li, ImageNet, and the AI Revolution
+author: Gang He
+date: April 20, 2024
+format: 
+  html: 
+    theme: cosmo
+    css: /styles.css
+    toc: true
+#   link-external-icon: true
+    link-external-newwindow: true
+  
+  pdf: 
+    documentclass: article
+    #classoption: [landscape]
+    lof: false
+    lot: false
+    geometry:
+      - top=1in
+      - bottom=1in
+      - left=1in
+      - right=1in
+      - heightrounded
+    #fontfamily: xelatex
+    colorlinks: true
+#draft: true
+---
+
+## ImageNet
+
+- Big data: millions of open-source images to train AI
+- Data as a public good that advances computer vision and deep learning
+- Competition: The ImageNet Large Scale Visual Recognition Challenge 
+
+
+## Fei-Fei Li
+
+- Professor of Computer Sciences at Stanford University
+- Direct of Human-centered AI Institute 
+- Boo: *The Worlds I See*
+
+## Thoughts for evaluation
+
+- Data
+- Vision    
+- Ethics
+
+
+## Further readings
+
+[ImageNet](https://www.image-net.org/index.php)
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

@@ -1,0 +1,64 @@
+---
+title: Bombing, Heating, and Causal Models
+author: Gang He
+date: March 23, 2024
+format: 
+  html: 
+    theme: cosmo
+    css: /styles.css
+    toc: true
+#   link-external-icon: true
+    link-external-newwindow: true
+  
+  pdf: 
+    documentclass: article
+    #classoption: [landscape]
+    lof: false
+    lot: false
+    geometry:
+      - top=1in
+      - bottom=1in
+      - left=1in
+      - right=1in
+      - heightrounded
+    #fontfamily: xelatex
+    colorlinks: true
+#draft: true
+---
+
+## Bombing strategy in Vietnam
+
+- Discontinuities in U.S. strategies employed during the Vietnam War to estimate their causal impacts. 
+- Rounding thresholds in an algorithm used to target air strikes
+- Bombing increased the military and political activities of the communist insurgency, weakened local governance, and reduced noncommunist civic engagement. 
+- Spatial discontinuity across neighboring military regions that pursued different counterinsurgency strategies. 
+- A strategy emphasizing overwhelming firepower plausibly increased insurgent attacks and worsened attitudes toward the U.S. and South Vietnamese government, relative to a more hearts-and-minds-oriented approach.
+
+
+## Heating differences between the North and South in China
+
+- China’s Huai River policy: free winter heating via the provision of coal for boilers in cities north of the Huai River but denied heat to the south. 
+- Regression discontinuity design based on distance from the Huai River
+- Ambient concentrations of TSPs are about 184 μg/m3 [95% confidence interval (CI): 61, 307] or 55% higher in the north. 
+- Life expectancies are about 5.5 y (95% CI: 0.8, 10.2) lower in the north owing to an increased incidence of cardiorespiratory mortality. 
+- Long-term exposure to an additional 100 μg/m3 of TSPs is associated with a reduction in life expectancy at birth of about 3.0 y (95% CI: 0.4, 5.6).
+
+
+
+## Thoughts for evaluation
+
+- Natural experiments   
+- Causal identification strategies
+- Regression discountinuity
+
+
+## References
+
+- Dell M, Querubin P. Nation Building Through Foreign Intervention: Evidence from Discontinuities in Military Strategies. *The Quarterly Journal of Economics* 2018;133:701–64. <https://doi.org/10.1093/qje/qjx037>.  
+- Chen Y, Ebenstein A, Greenstone M, Li H. Evidence on the impact of sustained exposure to air pollution on life expectancy from China’s Huai River policy. *PNAS* 2013. <https://doi.org/10.1073/pnas.1300018110>.
+
+
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

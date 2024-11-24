@@ -6,15 +6,15 @@ title: Syllabus
 
 **Marxe School of Public and International Affairs**
 
-**Course Name**: PAF 9174 (43225), Program Evaluation
+**Course Name**: PAF 9174 (43225), Program Evaluation (Spring 2025)
 
-**Instructor**: [Gang He](https://www.baruch.cuny.edu/profiles/faculty/gang-he) and [Samantha Macbride](https://www.baruch.cuny.edu/profiles/faculty/Samantha-Macbride)
+**Instructor**: [Gang He](https://www.baruch.cuny.edu/profiles/faculty/gang-he) 
 
-**Email**: <gang.he@baruch.cuny.edu> and <samantha.macbride@baruch.cuny.edu>	
+**Email**: <gang.he@baruch.cuny.edu>	
 
-**Time**: Saturday 12:30-3:30pm
+**Time**: Tuesday 6-9pm
 
-**Location**: Newman Vertical Campus, 14th Floor, Room 14-285 
+**Location**: Online
 
 
 {{< include /files/includes/_coursedescription.qmd >}}
@@ -38,7 +38,7 @@ Final grades will be calculated as follows:
 <div style="width:550px">
 Item                           | Weight | Notes
 -------------------------------|--------|-------------------------------------
-Weekly case study              | 40 %   | 5 cases
+Bi-weekly case study           | 40 %   | 5 cases
 Project: Proposal              | 10 %   | 
 Project: Presentation          | 20 %   |
 Project: Final report          | 30 %   |

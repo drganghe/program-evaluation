@@ -16,7 +16,7 @@ website:
       - text: Syllabus
         href: syllabus.qmd
       - text: Schedule
-        href: schedule.qmd
+        href: 2024/schedule.qmd
       - text: Lectures
         href: lectures.qmd
       - text: Stories
@@ -25,6 +25,10 @@ website:
         href: project.qmd        
       - text: Resources
         href: resources.qmd
+      - text: Archive
+        menu:
+          - text: Spring 2024
+            href: 2024/schedule.qmd  
       - text: Dr. Gang He
         href: http://drganghe.github.io        
     right: 
@@ -67,6 +71,9 @@ format:
     link-external-icon: false
     link-external-newwindow: true
     #link-external-filter: '^(?:http:|https:)\/\/drganghe\.github\.io\/custom'
+
+execute: 
+  freeze: auto
 
 #comments:
 #  giscus: 

@@ -1,0 +1,64 @@
+---
+title: Robert Bullard and Environmental Justice
+author: Gang He
+date: May 4, 2024
+format: 
+  html: 
+    theme: cosmo
+    css: /styles.css
+    toc: true
+#   link-external-icon: true
+    link-external-newwindow: true
+  
+  pdf: 
+    documentclass: article
+    #classoption: [landscape]
+    lof: false
+    lot: false
+    geometry:
+      - top=1in
+      - bottom=1in
+      - left=1in
+      - right=1in
+      - heightrounded
+    #fontfamily: xelatex
+    colorlinks: true
+#draft: true
+---
+
+## Robert Bullard
+
+- Distinguished Professor at Texas Southern University
+- "Father of environmental justice"
+
+
+## Environmental justice
+
+>“Environmental justice” means the just treatment and meaningful involvement of all people, regardless of income, race, color, national origin, Tribal affiliation, or disability, in agency decision-making and other Federal activities that affect human health and the environment so that people:
+
+- are fully protected from disproportionate and adverse human health and environmental effects (including risks) and hazards, including those related to climate change, the cumulative impacts of environmental and other burdens, and the legacy of racism or other structural or systemic barriers; and
+- have equitable access to a healthy, sustainable, and resilient environment in which to live, play, work, learn, grow, worship, and engage in cultural and subsistence practices
+
+
+## What evidence
+
+- *Solid waste sites and the black Houston community*, 1983
+
+>The findings reveal that solid waste sites were not randomly scattered over the Houston landscape but were likely to be found in predominantly black neighborhoods and near black schools.
+
+- *Dumping in Dixie: Race, Class and Environmental Quality*, 1990
+
+
+## Thoughts for evaluation
+
+- Evidence is power
+- Local, regional, and national
+
+
+## Further readings
+
+EPA [Environmental Justice](https://www.epa.gov/environmentaljustice)
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

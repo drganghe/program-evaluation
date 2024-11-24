@@ -1,0 +1,66 @@
+---
+title: Syllabus
+---
+
+## Course Information
+
+**Marxe School of Public and International Affairs**
+
+**Course Name**: PAF 9174 (43225), Program Evaluation (Spring 2024)
+
+**Instructor**: [Gang He](https://www.baruch.cuny.edu/profiles/faculty/gang-he) and [Samantha Macbride](https://www.baruch.cuny.edu/profiles/faculty/Samantha-Macbride)
+
+**Email**: <gang.he@baruch.cuny.edu> and <samantha.macbride@baruch.cuny.edu>	
+
+**Time**: Saturday 12:30-3:30pm
+
+**Location**: Newman Vertical Campus, 14th Floor, Room 14-285 
+
+
+{{< include /files/includes/_coursedescription.qmd >}}
+
+
+{{< include /files/includes/_courseobjectives.qmd >}}
+
+
+
+## Class Readings
+
+Required text, available online via Baruch Newman Library.
+
+- Newcomer, Kathryn E., Harry P. Hatry, and Joseph S. Wholey. 2015. [Handbook of Practical Program Evaluation](https://cuny-bb.primo.exlibrisgroup.com/permalink/01CUNY_BB/1r6p7jg/alma9994414097806122). Fourth ed. San Francisco, CA: Jossey-Bass. [Hereafter, “Handbook”].
+- Other readings and materials will be posted on Blackboard.
+
+## Grading
+
+Final grades will be calculated as follows:
+
+<div style="width:550px">
+Item                           | Weight | Notes
+-------------------------------|--------|-------------------------------------
+Weekly case study              | 40 %   | 5 cases
+Project: Proposal              | 10 %   | 
+Project: Presentation          | 20 %   |
+Project: Final report          | 30 %   |
+
+</div>
+
+
+## Grading Scale
+
+<div style="width:400px">
+Grade  | Range       | Grade | Range
+-------|-------------|-------|------------
+A      | 93 - 100%   | C     | 73 - 76.99%
+A-     | 90 - 92.99% | C-    | 70 - 72.99%
+B+     | 87 - 89.99% | D+    | 67 - 69.99%
+B      | 83 - 86.99% | D     | 63 - 66.99%
+B-     | 80 - 82.99% | D-    | 60 - 62.99%
+C+     | 77 - 79.99% | F     | < 60%
+</div>
+
+
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

@@ -1,0 +1,78 @@
+---
+title: Esther Duflo and Randomized Controlled Trails
+author: Gang He
+date: April 13, 2024
+format: 
+  html: 
+    theme: cosmo
+    css: /styles.css
+    toc: true
+#   link-external-icon: true
+    link-external-newwindow: true
+  
+  pdf: 
+    documentclass: article
+    #classoption: [landscape]
+    lof: false
+    lot: false
+    geometry:
+      - top=1in
+      - bottom=1in
+      - left=1in
+      - right=1in
+      - heightrounded
+    #fontfamily: xelatex
+    colorlinks: true
+#draft: true
+---
+
+## Esther Duflo
+
+- 2019 Nobel Prize in Economics
+- Professor in Economics in MIT
+
+## RCTs
+
+>But Abhijit immediately understood the power of RCTs, not just as a tool to evaluate programs, but as a way of turning development economics on its head by giving us the freedom to put any theory to the test. 
+
+-- [Esther Duflo Biographical](https://www.nobelprize.org/prizes/economic-sciences/2019/duflo/biographical/)
+
+
+## Noteable RCTs
+
+- 1747 scurvy trial by James Lind [@trohler_lind_2005]
+- UK Medical Research Council's (MRC) trial of patulin for common cold in 1943 [@clarke_1944_2006]
+- The Abdul Latif Jameel Poverty Action Lab
+
+## Why RCTs had so much impacts
+
+- Identification of causal effects (power of randomized)
+- External validity?
+- Observing unobservables
+- Data collection
+- Experiments
+
+::: footer
+Read more: [Esther Duflo](https://thedocs.worldbank.org/en/doc/394531465569503682-0050022016/original/EstherDufloPRESENTATION.pdf)
+:::
+
+## Thoughts for evaluation
+
+- Natural experiments   
+- Causal identification strategies
+- Pros and cons of RCTs
+
+
+## Further readings
+
+- [Why randomized controlled trials matter and the procedures that strengthen them](https://ourworldindata.org/randomized-controlled-trials)
+
+## References
+
+::: {#refs}
+:::
+
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

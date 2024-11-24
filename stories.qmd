@@ -4,7 +4,7 @@ image: "/files/images/hex-Program-Evaluation.png"
 listing:
   contents: stories
   page-size: 36
-  sort: "date asc"
+  sort: "date desc"
   type: table
   categories: false
   sort-ui: false

@@ -2,7 +2,7 @@
 title: "Lectures"
 image: "/files/images/hex-Program-Evaluation.png"
 listing:
-  contents: lectures
+  contents: 2024/lecture*.qmd
   page-size: 36
   grid-columns: 3
   sort: "date asc"
