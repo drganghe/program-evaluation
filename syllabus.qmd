@@ -29,7 +29,8 @@ title: Syllabus
 Required text, available online via Baruch Newman Library.
 
 - Newcomer, Kathryn E., Harry P. Hatry, and Joseph S. Wholey. 2015. [Handbook of Practical Program Evaluation](https://cuny-bb.primo.exlibrisgroup.com/permalink/01CUNY_BB/1r6p7jg/alma9994414097806122). Fourth ed. San Francisco, CA: Jossey-Bass. [Hereafter, “Handbook”].
-- Other readings and materials will be posted on Blackboard.
+- Gertler, Paul; Martinez, Sebastian; Rawlings, Laura B.; Premand, Patrick; Vermeersch, Christel M. J. 2016. [Impact Evaluation in Practice](https://www.worldbank.org/en/programs/sief-trust-fund/publication/impact-evaluation-in-practice). World Bank. [Hereafter, “Practice”]
+- Other readings and materials will be posted on Brightspace.
 
 ## Grading
 
@@ -38,10 +39,10 @@ Final grades will be calculated as follows:
 <div style="width:550px">
 Item                           | Weight | Notes
 -------------------------------|--------|-------------------------------------
-Bi-weekly case study           | 40 %   | 5 cases
+Case study responses           | 50 %   | 5 cases
 Project: Proposal              | 10 %   | 
 Project: Presentation          | 20 %   |
-Project: Final report          | 30 %   |
+Project: Final report          | 20 %   |
 
 </div>
 
