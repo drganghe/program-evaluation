@@ -2,6 +2,19 @@
 title: "Lectures"
 image: "/files/images/hex-Program-Evaluation.png"
 listing:
+- id: "2025-lectures"
+  contents: 2025/lecture*.qmd
+  page-size: 36
+  grid-columns: 3
+  sort: "date asc"
+  type: grid
+  categories: false
+  sort-ui: false
+  filter-ui: false
+  feed: false
+  fields: [image, date, title, author]
+
+- id: "2024-lectures"
   contents: 2024/lecture*.qmd
   page-size: 36
   grid-columns: 3
@@ -12,7 +25,9 @@ listing:
   filter-ui: false
   feed: false
   fields: [image, date, title, author]
+
 page-layout: full
+toc: false
 page-navigation: false
 draft-mode: unlinked
 title-block-banner: false
@@ -20,3 +35,13 @@ repo-actions: false
 ---
 {{< include /files/includes/_msclarity.qmd >}}
 
+## 2025 Lectures
+
+:::{#2025-lectures}
+:::
+
+
+## 2024 Lectures
+
+:::{#2024-lectures}
+:::

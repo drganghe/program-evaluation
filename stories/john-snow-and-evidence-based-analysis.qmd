@@ -1,7 +1,7 @@
 ---
 title: John Snow and Evidence Based Analysis
 author: Gang He
-date: March 9, 2024
+date: Jan 28, 2025
 format: 
   html: 
     theme: cosmo
@@ -40,14 +40,14 @@ format:
 
 ### Two theories
 
-- Miasma theroy
-  - Particles in the air
-  - Dr William Farr, commissioner for the 1851 London census and a member of the General Register's Office, 
+- Miasma theroy  
+  - Particles in the air 
+  - Dr William Farr, commissioner for the 1851 London census and a member of the General Register's Office  
   - Miasma arose from the soil surrounding the River Thames
 
-- Germ theory
-  - A germ cell that had not yet been identified, via water
-  - John Snow
+- Germ theory  
+  - A germ cell that had not yet been identified, via water  
+  - John Snow  
 
 
 ## John Snow's investigation
@@ -56,7 +56,7 @@ format:
 
   > "all the deaths had taken place within a short distance of the [Broad Street] pump".  
 
-- Statistics: Cholera rate in sewage-polluted water serving area is 14 times those from upriver
+- Statistics: Cholera rate in sewage-polluted water serving area is 14 times those from upriver  
 
 
 ## Evidence is power

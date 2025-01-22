@@ -2,6 +2,7 @@
   {
     "listing": "/stories.html",
     "items": [
+      "/stories/john-snow-and-evidence-based-analysis.html",
       "/stories/the-moral-machine-and-ethics.html",
       "/stories/robert-bullard-and-environmental-justice.html",
       "/stories/hans-rosling-data-visualization-and-storystelling.html",
@@ -9,13 +10,13 @@
       "/stories/esther-duflo-and-rcts.html",
       "/stories/john-muir-and-national-park.html",
       "/stories/bombing-heating-and-causal-models.html",
-      "/stories/high-line-park.html",
-      "/stories/john-snow-and-evidence-based-analysis.html"
+      "/stories/high-line-park.html"
     ]
   },
   {
     "listing": "/lectures.html",
     "items": [
+      "/2025/lecture1.html",
       "/2024/lecture1.html",
       "/2024/lecture2.html",
       "/2024/lecture3.html",
