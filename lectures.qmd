@@ -19,12 +19,12 @@ listing:
   page-size: 36
   grid-columns: 3
   sort: "date asc"
-  type: grid
+  type: table
   categories: false
   sort-ui: false
   filter-ui: false
   feed: false
-  fields: [image, date, title, author]
+  fields: [image, date, title]
 
 page-layout: full
 toc: false
