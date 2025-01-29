@@ -4,7 +4,7 @@
     "href": "stories.html",
     "title": "Stories",
     "section": "",
-    "text": "Date\n\n\nTitle\n\n\n\n\n\n\nJan 28, 2025\n\n\nJohn Snow and Evidence Based Analysis\n\n\n\n\nMay 11, 2024\n\n\nThe Moral Machine and Ethics\n\n\n\n\nMay 4, 2024\n\n\nRobert Bullard and Environmental Justice\n\n\n\n\nApr 27, 2024\n\n\nHans Rosling, Data Visualization, and Storytelling\n\n\n\n\nApr 20, 2024\n\n\nFeifei Li, ImageNet, and the AI Revolution\n\n\n\n\nApr 13, 2024\n\n\nEsther Duflo and Randomized Controlled Trails\n\n\n\n\nApr 6, 2024\n\n\nJohn Muir and National Park System\n\n\n\n\nMar 23, 2024\n\n\nBombing, Heating, and Causal Models\n\n\n\n\nMar 16, 2024\n\n\nHigh Line Park\n\n\n\n\n\nNo matching items"
+    "text": "Date\n\n\nTitle\n\n\n\n\n\n\nFeb 4, 2025\n\n\nHigh Line Park\n\n\n\n\nJan 28, 2025\n\n\nJohn Snow and Evidence Based Analysis\n\n\n\n\nMay 11, 2024\n\n\nThe Moral Machine and Ethics\n\n\n\n\nMay 4, 2024\n\n\nRobert Bullard and Environmental Justice\n\n\n\n\nApr 27, 2024\n\n\nHans Rosling, Data Visualization, and Storytelling\n\n\n\n\nApr 20, 2024\n\n\nFeifei Li, ImageNet, and the AI Revolution\n\n\n\n\nApr 13, 2024\n\n\nEsther Duflo and Randomized Controlled Trails\n\n\n\n\nApr 6, 2024\n\n\nJohn Muir and National Park System\n\n\n\n\nMar 23, 2024\n\n\nBombing, Heating, and Causal Models\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "project.html",
@@ -46,7 +46,7 @@
     "href": "lectures.html",
     "title": "Lectures",
     "section": "",
-    "text": "Gang He\n\n\nJan 28, 2025\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Gang He\n\n\nJan 28, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGang He\n\n\nFeb 4, 2025\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "stories/feifei-li-imagenet-and-ai-revolution.html",
@@ -662,7 +662,7 @@
     "href": "2024/lecture2.html#high-line-park-story",
     "title": "Lecture 2 Goals and Types of Evaluation",
     "section": "High Line Park Story",
-    "text": "High Line Park Story\n\n\n\n\n\n\nPhoto credit: Gang He"
+    "text": "High Line Park Story\n\n\nPhoto credit: Gang He"
   },
   {
     "objectID": "2024/lecture2.html#culturally-responsive-evaluation",
@@ -1761,7 +1761,7 @@
     "href": "2024/syllabus.html#grading",
     "title": "Syllabus",
     "section": "Grading",
-    "text": "Grading\nFinal grades will be calculated as follows:\n\n\n\n\n\n\n\n\n\nItem\nWeight\nNotes\n\n\n\n\nWeekly case study\n40 %\n5 cases\n\n\nProject: Proposal\n10 %\n\n\n\nProject: Presentation\n20 %\n\n\n\nProject: Final report\n30 %"
+    "text": "Grading\nFinal grades will be calculated as follows:\n\n\n\n\n\n\n\n\n\nItem\nWeight\nNotes\n\n\n\n\nWeekly case study\n50 %\n5 cases\n\n\nProject: Proposal\n10 %\n\n\n\nProject: Presentation\n20 %\n\n\n\nProject: Final report\n20 %"
   },
   {
     "objectID": "2024/syllabus.html#grading-scale",
@@ -1985,7 +1985,7 @@
     "href": "stories/john-snow-and-evidence-based-analysis.html#further-readings",
     "title": "John Snow and Evidence Based Analysis",
     "section": "Further readings",
-    "text": "Further readings\n\nTulchinsky, Theodore H. 2018. “Chapter 5 - John Snow, Cholera, the Broad Street Pump; Waterborne Diseases Then and Now.” In Case Studies in Public Health, edited by Theodore H. Tulchinsky, 77–99. Academic Press. https://doi.org/10.1016/B978-0-12-804571-8.00017-2.\nScott Cunningham. 9.1 John Snow’s Cholera Hypothesis in Cause Inference: The Mixtape. https://mixtape.scunning.com/09-difference_in_differences"
+    "text": "Further readings\n\nTulchinsky, Theodore H. 2018. “Chapter 5 - John Snow, Cholera, the Broad Street Pump; Waterborne Diseases Then and Now.” In Case Studies in Public Health, edited by Theodore H. Tulchinsky, 77–99. Academic Press. https://doi.org/10.1016/B978-0-12-804571-8.00017-2.\nScott Cunningham. 9.1 John Snow’s Cholera Hypothesis in Cause Inference: The Mixtape. https://mixtape.scunning.com/09-difference_in_differences\nJohn Snow On the Mode of Communication of Cholera (John Churchill, 1855)."
   },
   {
     "objectID": "stories/hans-rosling-data-visualization-and-storystelling.html",
@@ -2174,7 +2174,7 @@
     "href": "2025/schedule.html",
     "title": "Spring 2025 Course Schedule",
     "section": "",
-    "text": "Week\nDate\nGuiding question\nTopic\nStory\nCase Study\nAssignment\n\n\n\n\n1\n1/28\nWhat is program evaluation? Where are we headed in this course?\nIntroduction and Overview\nJohn Snow\n\n\n\n\n2\n2/4\nWhy do evaluation?\nGoals and Types of Evaluation\nHigh Line Park\n\n\n\n\n3\n2/11\nHow to identify causal effects?\nLogic and Causal Models\nBombing, Heating, and Causal Models\nJobs Plus in NYC\nCR1\n\n\n4\n2/18\nClass following Monday schedule - No session\n\n\n\n\n\n\n5\n2/25\nHow do I account for everyone involved?\nStakeholder Engagement\nJohn Muir and National Park System\nARPA-E\nCR2\n\n\n6\n3/4\nHow do I use the scientific method in the real world?\nEvaluation Designs: Randomized experiences\nEsther Duflo and RCTs\n\n\n\n\n7\n3/11\nWhat if a randomized experiment is not viable?\nEvaluation Designs: Quasi-experiments\n\nNorthwest Housing Alternatives\nCR3\n\n\n8\n3/18\nHow to do case study evaluation?\nEvaluation Designs: Qualitative methods\n\n\n\n\n\n9\n3/25\nHow to manage challenges in evaluation?\nOvercome resistance and improve organization capacity\n\nNYC Gifted & Talented Program\nCR4\n\n\n10\n4/1\nWhere does the data come from?\nData Collection: Procedures, instrumentation, practical consideration\nFei-fei Li and ImageNet\n\n\n\n\n11\n4/8\nWhat methods make data tell accurate stories and solve problems?\nData Analysis: Quantitative, qualitative, and mixed analysis\nHans Rosling and Storytelling\n\nProposal\n\n\n12\n4/15\nNo session-Spring Recess\n\n\n\n\n\n\n13\n4/22\nIs the program worthwhile? What happens next?\nEconomic Evaluation and Performance Measurement\nRobert Bullard and Environmental Justice\nCBA of EPA Clean Air Act\nCR 5\n\n\n14\n4/29\nHow to be an ethical evaluator?\nEthics, Principles, and Standards\nThe Moral Machine\n\n\n\n\n15\n5/6\nPresentation\n\n\n\n\n\n\n16\n5/13\nEvaluation report\n\n\n\n\n\n\n\n\nNote: CR: Case Response"
+    "text": "Week\nDate\nGuiding question\nTopic\nStory\nCase Study\nAssignment\n\n\n\n\n1\n1/28\nWhat is program evaluation? Where are we headed in this course?\nIntroduction and Overview\nJohn Snow\n\n\n\n\n2\n2/4\nWhy do evaluation?\nGoals and Types of Evaluation\nHigh Line Park\nJobs Plus in NYC\nCR1\n\n\n3\n2/11\nHow to identify causal effects?\nLogic and Causal Models\nBombing, Heating, and Causal Models\nNorthwest Housing Alternatives\nCR2\n\n\n4\n2/18\nClass following Monday schedule - No session\n\n\n\n\n\n\n5\n2/25\nHow do I account for everyone involved?\nStakeholder Engagement\nJohn Muir and National Park System\nNYC Gifted & Talented Program\nCR3\n\n\n6\n3/4\nHow do I use the scientific method in the real world?\nEvaluation Designs: Randomized experiences\nEsther Duflo and RCTs\n\n\n\n\n7\n3/11\nWhat if a randomized experiment is not viable?\nEvaluation Designs: Quasi-experiments\n\n\n\n\n\n8\n3/18\nHow to do case study evaluation?\nEvaluation Designs: Qualitative methods\n\n\n\n\n\n9\n3/25\nHow to manage challenges in evaluation?\nOvercome resistance and improve organization capacity\n\n\n\n\n\n10\n4/1\nWhere does the data come from?\nData Collection: Procedures, instrumentation, practical consideration\nFei-fei Li and ImageNet\n\n\n\n\n11\n4/8\nWhat methods make data tell accurate stories and solve problems?\nData Analysis: Quantitative, qualitative, and mixed analysis\nHans Rosling and Storytelling\n\nProposal\n\n\n12\n4/15\nNo session-Spring Recess\n\n\n\n\n\n\n13\n4/22\nIs the program worthwhile? What happens next?\nEconomic Evaluation and Performance Measurement\nRobert Bullard and Environmental Justice\nCBA of EPA Clean Air Act\nCR\n\n\n14\n4/29\nHow to be an ethical evaluator?\nEthics, Principles, and Standards\nThe Moral Machine\n\n\n\n\n15\n5/6\nPresentation\n\n\n\n\n\n\n16\n5/13\nEvaluation report\n\n\n\n\n\n\n\n\nNote: CR: Case Response"
   },
   {
     "objectID": "2025/lecture1.html#about-me",
@@ -2321,7 +2321,7 @@
     "href": "lectures.html#lectures",
     "title": "Lectures",
     "section": "",
-    "text": "Gang He\n\n\nJan 28, 2025\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Gang He\n\n\nJan 28, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGang He\n\n\nFeb 4, 2025\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "lectures.html#lectures-1",
@@ -2336,5 +2336,117 @@
     "title": "Lecture 1 Introduction",
     "section": "The Stargate Project",
     "text": "The Stargate Project\n\n\n\n\n\n\n\n\n\n500 Billion AI Infrastructure\nSoftBank, OpenAI, Oracle, and MGX\nArm, Microsoft, NVIDIA, Oracle, and OpenAI\n\n\nQuestion: What will be the impact of this project?\n\nSource: OpenAI"
+  },
+  {
+    "objectID": "2025/lecture2.html#recap-lecture-1",
+    "href": "2025/lecture2.html#recap-lecture-1",
+    "title": "Lecture 2 Goals and Types of Evaluation",
+    "section": "Recap lecture 1",
+    "text": "Recap lecture 1\n\nGet to know each other\nJohn Snow and evidence based analysis\nEvidence based policy\n\nGlobal clean energy supply chain\nRand Health Insurance Experiment\n\nCapturing the wedage\nNot all policies are based on evidence"
+  },
+  {
+    "objectID": "2025/lecture2.html#program-program-evaluation",
+    "href": "2025/lecture2.html#program-program-evaluation",
+    "title": "Lecture 2 Goals and Types of Evaluation",
+    "section": "Program & Program Evaluation",
+    "text": "Program & Program Evaluation\n\n\nProgram:\n\nA program is a set of resources and activities directed toward one or more common goals, typically under the direction of a single manager or management team.\n\n\nProgram Evaluation:\n\nProgram evaluation is the application of systematic methods to address questions about program operations and results. It may include ongoing monitoring of a program as well as one-shot studies of program processes or program impact. The approaches used are based on social science research methodologies and professional standards.\n\n\n\nSource: Newcomer, Hatry, and Wholey (2015)"
+  },
+  {
+    "objectID": "2025/lecture2.html#five-questions-to-ask",
+    "href": "2025/lecture2.html#five-questions-to-ask",
+    "title": "Lecture 2 Goals and Types of Evaluation",
+    "section": "Five questions to ask",
+    "text": "Five questions to ask\n\nCan the results of the evaluation influence decisions about the program?\nCan the evaluation be done in time to be useful?\nIs the program significant enough to merit evaluation?\nIs program performance viewed as problematic?\nWhere is the program in its development?\n\n\nSource: Newcomer, Hatry, and Wholey (2015)"
+  },
+  {
+    "objectID": "2025/lecture2.html#type-of-evaluation",
+    "href": "2025/lecture2.html#type-of-evaluation",
+    "title": "Lecture 2 Goals and Types of Evaluation",
+    "section": "Type of evaluation",
+    "text": "Type of evaluation\n\nFormative ↔︎ Summative\nOngoing ↔︎ One-Shot\nObjective ↔︎ Observers Participatory\nGoal-Oriented ↔︎ “Goal-Free”\nQuantitative ↔︎ Qualitative\nEx Ante ↔︎ Post Program\nProblem Orientation ↔︎ Non-Problem\n\n\nSource: Newcomer, Hatry, and Wholey (2015)"
+  },
+  {
+    "objectID": "2025/lecture2.html#types-and-uses-of-evaluation",
+    "href": "2025/lecture2.html#types-and-uses-of-evaluation",
+    "title": "Lecture 2 Goals and Types of Evaluation",
+    "section": "Types and uses of evaluation",
+    "text": "Types and uses of evaluation\n\n\n\n\n\n\n\n\n\n\nEvaluation Types\nWhen to use\nWhat it shows\nWhy it is useful\n\n\n\n\nFormative Evaluation Evaluability Assessment Needs Assessment\n- During the development of a new program.  - When an existing program being modified or is being used in a new setting or with a new population.\n- Whether the proposed program elements are likely to be needed, understood, and accepted by the population you want to reach. - The extent to which an evaluation is possible, based on the goals and objectives.\n- It allows for modification to be made to the plan before full implementation begins.- Maximizes the likelihood that the program will succeed\n\n\nProcess EvaluationProgram Monitoring\n- As soon as program implementation begins.- During operation of an existing program.\n- How well the program is working- The extent to which the program is being implemented as designed- Whether the program is accessible and acceptable to its target population\n- Provides an early warning for any problems that may occur- Allows programs to monitor how well their program plans and activities are working\n\n\nOutcome Evaluation Objectives-Based Evaluation\n- After the program has made contact with at least one person or group in the target population\n- The degree to which the program is having an effect on the target population’s behaviors.\n- Tells whether the program is being effective in meeting its objectives.\n\n\nEconomic Evaluation: Cost Analysis, Cost-Effectiveness Evaluation, Cost-Benefit Analysis, Cost-Utility Analysis\n- At the beginning of a program- During the operation of an existing program.\n- What resources are being used in a program and their costs (direct and indirect) compared to outcome\n- Provides program managers and funders a way to assess cost relative to effects. “How much bang for your buck.\n\n\nImpact Evaluation\n- During the operation of an existing program at appropriate intervals. - At the end of a program.\n- The degree to which the program meets its ultimate goal on an overall rate of STD transmission (how much has program X decreased the morbidity of an STD beyond the study population).\n- Provides evidence for use in policy and funding decisions\n\n\n\n\n\nSource: CDC"
+  },
+  {
+    "objectID": "2025/lecture2.html#process-evaluation-can-be-very-useful",
+    "href": "2025/lecture2.html#process-evaluation-can-be-very-useful",
+    "title": "Lecture 2 Goals and Types of Evaluation",
+    "section": "Process evaluation can be very useful",
+    "text": "Process evaluation can be very useful\n\n\nSource: Limbani et al. (2019)"
+  },
+  {
+    "objectID": "2025/lecture2.html#exploratory-evaluation",
+    "href": "2025/lecture2.html#exploratory-evaluation",
+    "title": "Lecture 2 Goals and Types of Evaluation",
+    "section": "Exploratory evaluation",
+    "text": "Exploratory evaluation\n\n\n\n\n\n\n\n\n\nApproach\nPurpose\nTime\n\n\n\n\nEvaluability assessment\nAssess whether programs are ready for useful evaluation; get agreement on program goals and evaluation criteria; clarify the focus and intended use of further evaluation.\n1 to 6 months; 2 staff-weeks to 3 staff-months\n\n\nRapid feedback evaluation\nEstimate program effectiveness in terms of agreed-on program goals; indicate the range of uncertainty in the estimates; produce tested designs for more definitive evaluation; clarify the focus and intended use of further evaluation.\n3 to 6 months; 3 to 12 staff-months\n\n\nEvaluation synthesis\nSynthesize findings of prior research and evaluation studies.\n1 to 4 months; 1 to 3 staff-months\n\n\nSmall-sample studies\nEstimate program effectiveness in terms of agreed-on program goals; produce tested measures of program performance.\n1 week to 6 months; 1 staff-week to 12 staff-month\n\n\n\n\n\nSource: Newcomer, Hatry, and Wholey (2015)"
+  },
+  {
+    "objectID": "2025/lecture2.html#evaluability-standards-readiness-for-useful-evaluation",
+    "href": "2025/lecture2.html#evaluability-standards-readiness-for-useful-evaluation",
+    "title": "Lecture 2 Goals and Types of Evaluation",
+    "section": "Evaluability Standards: Readiness for Useful Evaluation",
+    "text": "Evaluability Standards: Readiness for Useful Evaluation\n\nProgram goals are agreed on and realistic.\nInformation needs are well defined.\nEvaluation data are obtainable.\nIntended users are willing and able to use evaluation information.\n\n\nSource: Newcomer, Hatry, and Wholey (2015)"
+  },
+  {
+    "objectID": "2025/lecture2.html#selecting-an-exploratory-evaluation-approach",
+    "href": "2025/lecture2.html#selecting-an-exploratory-evaluation-approach",
+    "title": "Lecture 2 Goals and Types of Evaluation",
+    "section": "Selecting an exploratory evaluation approach",
+    "text": "Selecting an exploratory evaluation approach\n\n\n\n\n\n\n\n\nApproach\nWhen Appropriate\n\n\n\n\nEvaluability assessment\nLarge, decentralized program; unclear evaluation criteria.\n\n\nRapid feedback evaluation\nAgreement exists on the goals in terms of which a program is to be evaluated; need for evaluation information “right quick”; potential need for more definitive evaluation.\n\n\nEvaluation synthesis\nNeed for evaluation information “right quick”; potential need for more definitive evaluation.\n\n\nSmall-sample studies\nAgreement exists on the goals in terms of which a program is to be evaluated; collection of evaluation data will require sampling.\n\n\n\n\n\nSource: Newcomer, Hatry, and Wholey (2015)"
+  },
+  {
+    "objectID": "2025/lecture2.html#high-line-park-story",
+    "href": "2025/lecture2.html#high-line-park-story",
+    "title": "Lecture 2 Goals and Types of Evaluation",
+    "section": "High Line Park Story",
+    "text": "High Line Park Story\n\n\nPhoto credit: Gang He"
+  },
+  {
+    "objectID": "2025/lecture2.html#culturally-responsive-evaluation",
+    "href": "2025/lecture2.html#culturally-responsive-evaluation",
+    "title": "Lecture 2 Goals and Types of Evaluation",
+    "section": "Culturally responsive evaluation",
+    "text": "Culturally responsive evaluation\n\nCulture of the program that is being evaluated\nCultural parameters\nIncluding equity"
+  },
+  {
+    "objectID": "2025/lecture2.html#cre-framework",
+    "href": "2025/lecture2.html#cre-framework",
+    "title": "Lecture 2 Goals and Types of Evaluation",
+    "section": "CRE framework",
+    "text": "CRE framework\n\n\nSource: Newcomer, Hatry, and Wholey (2015)"
+  },
+  {
+    "objectID": "2025/lecture2.html#evaluation-process-and-feedback",
+    "href": "2025/lecture2.html#evaluation-process-and-feedback",
+    "title": "Lecture 2 Goals and Types of Evaluation",
+    "section": "Evaluation process and feedback",
+    "text": "Evaluation process and feedback\n\n\nSource: Newcomer, Hatry, and Wholey (2015)"
+  },
+  {
+    "objectID": "2025/lecture2.html#gaos-evaluation-design-process",
+    "href": "2025/lecture2.html#gaos-evaluation-design-process",
+    "title": "Lecture 2 Goals and Types of Evaluation",
+    "section": "GAO’s Evaluation Design Process",
+    "text": "GAO’s Evaluation Design Process\n\nclarify the study objectives;\nobtain background information on the issue and design options;\ndevelop and test the proposed approach;\nreach agreement on the proposed approach.\n\n\nRead more: Designing Evaluations: 2012 Revision"
+  },
+  {
+    "objectID": "2025/lecture2.html#references",
+    "href": "2025/lecture2.html#references",
+    "title": "Lecture 2 Goals and Types of Evaluation",
+    "section": "",
+    "text": "References\n\n\nLimbani, Felix, Jane Goudge, Rohina Joshi, Marion A. Maar, J. Jaime Miranda, Brian Oldenburg, Gary Parker, et al. 2019. “Process Evaluation in the Field: Global Learnings from Seven Implementation Research Hypertension Projects in Low-and Middle-Income Countries.” BMC Public Health 19 (1): 953. https://doi.org/10.1186/s12889-019-7261-8.\n\n\nNewcomer, Kathryn E., Harry P. Hatry, and Joseph S. Wholey. 2015. Handbook of Practical Program Evaluation. 4th edition. San Francisco: Jossey-Bass.\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He"
+  },
+  {
+    "objectID": "2025/lecture2.html#goal",
+    "href": "2025/lecture2.html#goal",
+    "title": "Lecture 2 Goals and Types of Evaluation",
+    "section": "Goal",
+    "text": "Goal\nSensible program evaluation at reasonable cost\n\nFunder\nGovernment/NGO/Public Institutions/Citizens\nProgram manager/staff\nExecutives\nEvidence-based policy and management decisions"
   }
 ]

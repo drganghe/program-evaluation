@@ -38,10 +38,10 @@ Final grades will be calculated as follows:
 <div style="width:550px">
 Item                           | Weight | Notes
 -------------------------------|--------|-------------------------------------
-Weekly case study              | 40 %   | 5 cases
+Weekly case study              | 50 %   | 5 cases
 Project: Proposal              | 10 %   | 
 Project: Presentation          | 20 %   |
-Project: Final report          | 30 %   |
+Project: Final report          | 20 %   |
 
 </div>
 

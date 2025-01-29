@@ -1,7 +1,7 @@
 ---
 title: High Line Park
 author: Gang He
-date: March 16, 2024
+date: Feb 4, 2025
 format: 
   html: 
     theme: cosmo
@@ -39,7 +39,7 @@ format:
 - "1934: As part of the West Side Improvement Project, the High Line opens to trains. It runs from 34th Street to St John's Park Terminal, at Spring Street. It is designed to go through the center of blocks, rather than over the avenue, carrying goods to and from Manhattan's largest industrial district."
 - "1980s: Following decades-long growth in the interstate trucking industry, the last train runs on the High Line in 1980, pulling three carloads of frozen turkeys. A group of property owners lobbies for demolition while Peter Obletz, a Chelsea resident, activist, and railroad enthusiast, challenges demolition efforts in court."
 - "1999: Friends of the High Line is founded by Joshua David and Robert Hammond, residents of the High Line neighborhood, to advocate for the High Line's preservation and reuse as public open space."
--  Section 1 opened in 2009; Section 2 in 2011; Section 3 in 2014; The Spur in 2018.
+- Section 1 opened in 2009; Section 2 in 2011; Section 3 in 2014; The Spur in 2018.
 
 
 ## Stakeholders

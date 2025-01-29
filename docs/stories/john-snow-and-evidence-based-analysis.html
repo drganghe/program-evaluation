@@ -281,6 +281,7 @@ gtag('config', 'G-8H8JSB1VP7', { 'anonymize_ip': true});
 <ul>
 <li>Tulchinsky, Theodore H. 2018. “Chapter 5 - John Snow, Cholera, the Broad Street Pump; Waterborne Diseases Then and Now.” In Case Studies in Public Health, edited by Theodore H. Tulchinsky, 77–99. Academic Press. <a href="https://doi.org/10.1016/B978-0-12-804571-8.00017-2" class="uri">https://doi.org/10.1016/B978-0-12-804571-8.00017-2</a>.</li>
 <li>Scott Cunningham. 9.1 John Snow’s Cholera Hypothesis in Cause Inference: The Mixtape. <a href="https://mixtape.scunning.com/09-difference_in_differences" class="uri">https://mixtape.scunning.com/09-difference_in_differences</a></li>
+<li><span class="citation" data-cites="snowModeCommunicationCholera1855">John Snow <em>On the <span>Mode</span> of <span>Communication</span> of <span>Cholera</span></em> (John Churchill, 1855).</span></li>
 </ul>
 <!--Include social share buttons-->
 <!-- 
@@ -680,43 +681,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
           }
         });
       }
-  const findCites = (el) => {
-    const parentEl = el.parentElement;
-    if (parentEl) {
-      const cites = parentEl.dataset.cites;
-      if (cites) {
-        return {
-          el,
-          cites: cites.split(' ')
-        };
-      } else {
-        return findCites(el.parentElement)
-      }
-    } else {
-      return undefined;
-    }
-  };
-  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
-  for (var i=0; i<bibliorefs.length; i++) {
-    const ref = bibliorefs[i];
-    const citeInfo = findCites(ref);
-    if (citeInfo) {
-      tippyHover(citeInfo.el, function() {
-        var popup = window.document.createElement('div');
-        citeInfo.cites.forEach(function(cite) {
-          var citeDiv = window.document.createElement('div');
-          citeDiv.classList.add('hanging-indent');
-          citeDiv.classList.add('csl-entry');
-          var biblioDiv = window.document.getElementById('ref-' + cite);
-          if (biblioDiv) {
-            citeDiv.innerHTML = biblioDiv.innerHTML;
-          }
-          popup.appendChild(citeDiv);
-        });
-        return popup.innerHTML;
-      });
-    }
-  }
 });
 </script>
 </div> <!-- /content -->

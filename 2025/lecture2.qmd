@@ -2,7 +2,7 @@
 title: "Lecture 2 Goals and Types of Evaluation"
 description-meta: "Why do evaluation? Major forms evaluation."
 author: "Gang He"
-date: Mar 16, 2024
+date: Feb 4, 2025
 date-format: long
 image: "/images/high-line-park.jpg"
 format:
@@ -28,9 +28,20 @@ format:
 - John Snow and evidence based analysis
 - Evidence based policy
   - Global clean energy supply chain
-  - Queens curb side organics
+  - Rand Health Insurance Experiment
 - Capturing the wedage
-- Governers Island and other cases
+- Not all policies are based on evidence
+
+## Goal
+
+Sensible program evaluation at reasonable cost
+
+1.  Funder
+2.  Government/NGO/Public Institutions/Citizens
+3.  Program manager/staff
+4.  Executives
+5.  **Evidence-based policy and management decisions**
+
 
 ## Program & Program Evaluation{.smaller}
 

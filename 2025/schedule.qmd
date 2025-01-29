@@ -7,18 +7,18 @@ page-layout: full
 | Week | Date   | Guiding question   | Topic     | Story    | Case Study    | Assignment    |
 |---|---|-----------|-----------|-----------|-----------|---|
 |  1  | 1/28  | What is program evaluation? Where are we headed in this course? | [Introduction and Overview](lecture1.qmd) | [John Snow](/stories/john-snow-and-evidence-based-analysis.qmd) |                                        |               |
-|  2  | 2/4 | Why do evaluation?      | Goals and Types of Evaluation  | High Line Park     |   |   |
-|  3  | 2/11 | How to identify causal effects?        | Logic and Causal Models  | Bombing, Heating, and Causal Models     | Jobs Plus in NYC | CR1 |
+|  2  | 2/4 | Why do evaluation?      | [Goals and Types of Evaluation](lecture2.qmd)  | [High Line Park](/stories/high-line-park.qmd)    |  Jobs Plus in NYC | CR1  |
+|  3  | 2/11 | How to identify causal effects?        | Logic and Causal Models  | Bombing, Heating, and Causal Models     | Northwest Housing Alternatives | CR2 |
 |  4  | 2/18 | Class following Monday schedule - No session |  | |  |   |        
-|  5  | 2/25 | How do I account for everyone involved? | Stakeholder Engagement  | John Muir and National Park System     | ARPA-E | CR2 |
+|  5  | 2/25 | How do I account for everyone involved? | Stakeholder Engagement  | John Muir and National Park System     | NYC Gifted & Talented Program |  CR3 |
 |  6  | 3/4 | How do I use the scientific method in the real world?   | Evaluation Designs: Randomized experiences  | Esther Duflo and RCTs     |   |  |
-|  7  | 3/11 | What if a randomized experiment is not viable?   | Evaluation Designs: Quasi-experiments  |      |  Northwest Housing Alternatives | CR3 |
+|  7  | 3/11 | What if a randomized experiment is not viable?   | Evaluation Designs: Quasi-experiments  |      |   |   |
 |  8  | 3/18 | How to do case study evaluation?   | Evaluation Designs: Qualitative methods  |   |  |   |
-|  9  | 3/25 | How to manage challenges in evaluation?   | Overcome resistance and improve organization capacity  |  | NYC Gifted & Talented Program | CR4 |
+|  9  | 3/25 | How to manage challenges in evaluation?   | Overcome resistance and improve organization capacity  |  |  |  |
 |  10  | 4/1 | Where does the data come from?   | Data Collection: Procedures, instrumentation, practical consideration  | Fei-fei Li and ImageNet   |  |  |
 |  11  | 4/8 |  What methods make data tell accurate stories and solve problems?  | Data Analysis: Quantitative, qualitative, and mixed analysis  | Hans Rosling and Storytelling  |  | Proposal |
 |  12  | 4/15 | No session-Spring Recess   |   |   |  |  |
-|  13  | 4/22 | Is the program worthwhile? What happens next?   | Economic Evaluation and Performance Measurement  | Robert Bullard and Environmental Justice  | CBA of EPA Clean Air Act | CR 5 |
+|  13  | 4/22 | Is the program worthwhile? What happens next?   | Economic Evaluation and Performance Measurement  | Robert Bullard and Environmental Justice  | CBA of EPA Clean Air Act | CR |
 |  14  | 4/29 | How to be an ethical evaluator?   | Ethics, Principles, and Standards  | The Moral Machine  |  |  |
 |  15  | 5/6 | Presentation   |   |   |  |  |
 |  16  | 5/13 | Evaluation report   |   |   |  |  |
