@@ -132,6 +132,34 @@ Source: @limbani_process_2019
 :::
 
 
+## Kirkpatrick Model for training programs
+
+![](/images/kirkpatrick-model.png){fig-align="center"}
+
+::: footer    
+Source: [Kirkpatrick Model](https://www.kirkpatrickpartners.com/the-kirkpatrick-model/)
+:::
+
+
+## UK MRC Framework
+
+![](/images/uk-mrc-framework.jpg){fig-align="center"}
+
+::: footer  
+Source: @skivingtonNewFrameworkDeveloping2021
+:::
+
+
+## PRISM and RE-AIM
+
+![](/images/prism-reaim-model.png){fig-align="center"}
+
+::: footer
+Source: @feldsteinPracticalRobustImplementation2008
+:::
+
+
+
 ## Exploratory evaluation
 
 ::: {style="font-size: 20px;"}
@@ -179,7 +207,7 @@ Source: @newcomer_handbook_2015
 [![](/images/high-line-park.jpg){.r-stretch fig-align="center"}](/stories/high-line-park.qmd)
 
 ::: footer
-Photo credit: Gang He
+Photo credit: Gang He; High Line Observation Deck@[10th Ave & W 17th St](https://maps.app.goo.gl/vcQFaFYRndg8F5Kt9)
 :::
 
 
@@ -210,10 +238,10 @@ Source: @newcomer_handbook_2015
 
 ## GAO’s Evaluation Design Process
 
-- clarify the study objectives; 
-- obtain background information on the issue and design options;
-- develop and test the proposed approach; 
-- reach agreement on the proposed approach.
+- Clarify the study objectives; 
+- Obtain background information on the issue and design options;
+- Develop and test the proposed approach; 
+- Reach agreement on the proposed approach.
 
 ::: footer
 Read more: [Designing Evaluations: 2012 Revision](https://www.gao.gov/assets/gao-12-208g.pdf)
