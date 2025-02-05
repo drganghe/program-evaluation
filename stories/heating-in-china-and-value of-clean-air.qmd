@@ -1,5 +1,5 @@
 ---
-title: Bombing, Heating, and Causal Models
+title: Heating in China and Value of Clean Air
 author: Gang He
 date: March 23, 2024
 format: 
@@ -26,15 +26,6 @@ format:
 #draft: true
 ---
 
-## Bombing strategy in Vietnam
-
-- Discontinuities in U.S. strategies employed during the Vietnam War to estimate their causal impacts. 
-- Rounding thresholds in an algorithm used to target air strikes
-- Bombing increased the military and political activities of the communist insurgency, weakened local governance, and reduced noncommunist civic engagement. 
-- Spatial discontinuity across neighboring military regions that pursued different counterinsurgency strategies. 
-- A strategy emphasizing overwhelming firepower plausibly increased insurgent attacks and worsened attitudes toward the U.S. and South Vietnamese government, relative to a more hearts-and-minds-oriented approach.
-
-
 ## Heating differences between the North and South in China
 
 - China’s Huai River policy: free winter heating via the provision of coal for boilers in cities north of the Huai River but denied heat to the south. 
@@ -54,7 +45,6 @@ format:
 
 ## References
 
-- Dell M, Querubin P. Nation Building Through Foreign Intervention: Evidence from Discontinuities in Military Strategies. *The Quarterly Journal of Economics* 2018;133:701–64. <https://doi.org/10.1093/qje/qjx037>.  
 - Chen Y, Ebenstein A, Greenstone M, Li H. Evidence on the impact of sustained exposure to air pollution on life expectancy from China’s Huai River policy. *PNAS* 2013. <https://doi.org/10.1073/pnas.1300018110>.
 
 

@@ -2,6 +2,7 @@
   {
     "listing": "/stories.html",
     "items": [
+      "/stories/bombing-in-vietnam-war-and-development.html",
       "/stories/high-line-park.html",
       "/stories/john-snow-and-evidence-based-analysis.html",
       "/stories/the-moral-machine-and-ethics.html",
@@ -10,7 +11,7 @@
       "/stories/feifei-li-imagenet-and-ai-revolution.html",
       "/stories/esther-duflo-and-rcts.html",
       "/stories/john-muir-and-national-park.html",
-      "/stories/bombing-heating-and-causal-models.html"
+      "/stories/heating-in-china-and-value of-clean-air.html"
     ]
   },
   {
@@ -18,6 +19,7 @@
     "items": [
       "/2025/lecture1.html",
       "/2025/lecture2.html",
+      "/2025/lecture3.html",
       "/2024/lecture1.html",
       "/2024/lecture2.html",
       "/2024/lecture3.html",

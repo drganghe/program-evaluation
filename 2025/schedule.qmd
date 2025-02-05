@@ -8,7 +8,7 @@ page-layout: full
 |---|---|-----------|-----------|-----------|-----------|---|
 |  1  | 1/28  | What is program evaluation? Where are we headed in this course? | [Introduction and Overview](lecture1.qmd) | [John Snow](/stories/john-snow-and-evidence-based-analysis.qmd) |                                        |               |
 |  2  | 2/4 | Why do evaluation?      | [Goals and Types of Evaluation](lecture2.qmd)  | [High Line Park](/stories/high-line-park.qmd)    |  Jobs Plus in NYC | CR1  |
-|  3  | 2/11 | How to identify causal effects?        | Logic and Causal Models  | Bombing, Heating, and Causal Models     | Northwest Housing Alternatives | CR2 |
+|  3  | 2/11 | How to identify causal effects?        | [Logic and Causal Models](lecture3.qmd)  | [Bombing in Vetnam -- War and Development](/stories/bombing-in-vietnam-war-and-development.qmd)     | Northwest Housing Alternatives | CR2 |
 |  4  | 2/18 | Class following Monday schedule - No session |  | |  |   |        
 |  5  | 2/25 | How do I account for everyone involved? | Stakeholder Engagement  | John Muir and National Park System     | NYC Gifted & Talented Program |  CR3 |
 |  6  | 3/4 | How do I use the scientific method in the real world?   | Evaluation Designs: Randomized experiences  | Esther Duflo and RCTs     |   |  |
