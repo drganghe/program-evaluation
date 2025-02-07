@@ -280,6 +280,84 @@ Gang He
 <p>Source: <a href="https://evalsp24.classes.andrewheiss.com/">Andrew Wheiss</a></p>
 </div>
 </section>
+<section id="counterfactual" class="slide level2 center">
+<h2>Counterfactual</h2>
+<div style="text-align:center;">
+<p>The counterfactual is what would have happened—what the outcome (Y) would have been for a program participant—in the absence of the program (P).</p>
+<p>Since we cannot directly observe the counterfactual, we must estimate it.</p>
+</div>
+<div class="footer">
+<p>Source: <span class="citation" data-cites="gertler_impact_2016">Gertler et al. (<a href="#/references" role="doc-biblioref" onclick="">2016</a>)</span></p>
+</div>
+</section>
+<section id="a-valid-comparison-group" class="slide level2 center">
+<h2>A valid comparison group</h2>
+<ul>
+<li>has the same characteristics, on average, as the treatment group in the absence of the program;</li>
+<li>remains unaffected by the program; and</li>
+<li>would react to the program in the same way as the treatment group, if given the program.</li>
+</ul>
+<div class="footer">
+<p>Source: <span class="citation" data-cites="gertler_impact_2016">Gertler et al. (<a href="#/references" role="doc-biblioref" onclick="">2016</a>)</span></p>
+</div>
+</section>
+<section id="two-counterfeit-estimates-of-the-counterfactual" class="slide level2 center">
+<h2>Two counterfeit estimates of the counterfactual</h2>
+<div class="columns">
+<div class="column" style="width:50%;">
+<div style="font-size: 26px;">
+<ul>
+<li>Before-and-after comparisons (also known as pre-post or refl exive comparisons) compare the outcomes of the same group before and after participating in a program.
+<ul>
+<li>Challenge: Variables and conditions change</li>
+</ul></li>
+<li>Enrolled-and-nonenrolled (or self-selected) comparisons compare the outcomes of a group that chooses to participate in a program with those of a group that chooses not to participate.
+<ul>
+<li>Challenge: Selection bias</li>
+</ul></li>
+</ul>
+</div>
+</div><div class="column" style="width:50%;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="../images/counterfeit-estimates.png" class="quarto-figure quarto-figure-center"></p>
+</figure>
+</div>
+</div></div>
+<div class="footer">
+<p>Source: <span class="citation" data-cites="gertler_impact_2016">Gertler et al. (<a href="#/references" role="doc-biblioref" onclick="">2016</a>)</span></p>
+</div>
+</section>
+<section id="counterfacture-intervention-and-effects" class="slide level2 center">
+<h2>Counterfacture, intervention, and effects</h2>
+<div class="columns">
+<div class="column" style="width:50%;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="../images/edu-earn-experiment.png" class="quarto-figure quarto-figure-center"></p>
+</figure>
+</div>
+</div><div class="column" style="width:50%;">
+<ul>
+<li>Control backdoors</li>
+<li>Average treatment effect</li>
+<li>Sub groups (age, race, ethnicity, income, etc.)</li>
+</ul>
+</div></div>
+<div class="footer">
+<p>Source: <a href="https://evalsp24.classes.andrewheiss.com/">Andrew Wheiss</a></p>
+</div>
+</section>
+<section id="causal-models" class="slide level2 center">
+<h2>Causal models</h2>
+<ul>
+<li>Instrumental variables</li>
+<li>Randomized controlled trail (RCT)</li>
+<li>Regressional discontinuity (RD)</li>
+<li>Diference in difference (DiD)</li>
+<li>Matching</li>
+</ul>
+</section>
 <section id="data" class="slide level2 center">
 <h2>Data</h2>
 <ul>
@@ -399,6 +477,9 @@ Quality is a backdoor</p>
 </ul>
 </div>
 </div></div>
+<div class="footer">
+<p>Source: <a href="https://evalsp24.classes.andrewheiss.com/">Andrew Wheiss</a></p>
+</div>
 </section>
 <section id="causasion-example" class="slide level2 center">
 <h2>Causasion example</h2>
@@ -418,70 +499,6 @@ Quality is a backdoor</p>
 <div class="footer">
 <p>Source: <a href="https://evalsp24.classes.andrewheiss.com/">Andrew Wheiss</a></p>
 </div>
-</section>
-<section id="colliders-example" class="slide level2 center">
-<h2>Colliders example</h2>
-<div class="columns">
-<div class="column" style="width:50%;">
-<div class="quarto-figure quarto-figure-center">
-<figure>
-<p><img data-src="../images/programming-social-skills-dag.png" class="quarto-figure quarto-figure-center"></p>
-</figure>
-</div>
-</div><div class="column" style="width:50%;">
-<p>Do programming skills reduce social skills?</p>
-<p>Hired by a tech company inadvertently connected the two.</p>
-</div></div>
-<div class="footer">
-<p>Source: <a href="https://evalsp24.classes.andrewheiss.com/">Andrew Wheiss</a></p>
-</div>
-</section>
-<section id="colliders-example-1" class="slide level2 center">
-<h2>Colliders example</h2>
-<div class="columns">
-<div class="column" style="width:50%;">
-<div class="quarto-figure quarto-figure-center">
-<figure>
-<p><img data-src="../images/nba-height-dag.png" class="quarto-figure quarto-figure-center"></p>
-</figure>
-</div>
-</div><div class="column" style="width:50%;">
-<p>Height is unrelated to basketball skill among NBA players</p>
-<ul>
-<li><p>Colliders can create fake causal effects</p></li>
-<li><p>Colliders can hide real causal effects</p></li>
-</ul>
-</div></div>
-<div class="footer">
-<p>Source: <a href="https://evalsp24.classes.andrewheiss.com/">Andrew Wheiss</a></p>
-</div>
-</section>
-<section id="counterfacture-intervention-and-effects" class="slide level2 center">
-<h2>Counterfacture, intervention, and effects</h2>
-<div class="columns">
-<div class="column" style="width:50%;">
-<div class="quarto-figure quarto-figure-center">
-<figure>
-<p><img data-src="../images/edu-earn-experiment.png" class="quarto-figure quarto-figure-center"></p>
-</figure>
-</div>
-</div><div class="column" style="width:50%;">
-<ul>
-<li>Control backdoors</li>
-<li>Average treatment effect</li>
-<li>Sub groups (age, race, ethnicity, income, etc.)</li>
-</ul>
-</div></div>
-</section>
-<section id="causal-models" class="slide level2 center">
-<h2>Causal models</h2>
-<ul>
-<li>Instrumental variables</li>
-<li>Randomized controlled trail (RCT)</li>
-<li>Regressional discontinuity (RD)</li>
-<li>Diference in difference (DiD)</li>
-<li>Matching</li>
-</ul>
 </section>
 <section class="slide level2 smaller scrollable" id="references">
 

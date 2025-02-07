@@ -1,6 +1,6 @@
 ---
 title: "Lecture 3 Logic and Causal Models"
-description-meta: "Building a logic model."
+description-meta: "Building a logic model, DAGs, counterfactuals, and causal models."
 author: "Gang He"
 date: February 11, 2025
 date-format: long
@@ -122,6 +122,86 @@ Learn more: [Logic Model: A Biginner's Guide](https://www.michigan.gov/-/media/P
 ::: footer
 Source: [Andrew Wheiss](https://evalsp24.classes.andrewheiss.com/)
 :::
+
+
+## Counterfactual
+
+:::{style="text-align:center;"}
+
+The counterfactual is what would have happened—what the outcome (Y) would have been for a program participant—in the absence of the program (P).
+
+Since we cannot directly observe the counterfactual, we must estimate it.
+:::
+
+::: footer
+Source: @gertler_impact_2016
+:::
+
+## A valid comparison group
+
+- has the same characteristics, on average, as the treatment group in the absence of the program;
+- remains unaffected by the program; and
+- would react to the program in the same way as the treatment group, if given the program.
+
+::: footer
+Source: @gertler_impact_2016
+:::
+
+
+## Two counterfeit estimates of the counterfactual
+
+
+::: columns
+
+::: {.column width="50%"}
+:::{style="font-size: 26px;"}
+- Before-and-after comparisons (also known as pre-post or refl exive comparisons) compare the outcomes of the same group before and after participating in a program.  
+  - Challenge: Variables and conditions change
+- Enrolled-and-nonenrolled (or self-selected) comparisons compare the outcomes of a group that chooses to participate in a program with those of a group that chooses not to participate.
+  - Challenge: Selection bias
+:::
+:::
+
+::: {.column width="50%"}
+![](/images/counterfeit-estimates.png){fig-align="center"}
+::: 
+:::
+
+::: footer
+Source: @gertler_impact_2016
+:::
+
+## Counterfacture, intervention, and effects
+
+::: columns
+
+::: {.column width="50%"}
+
+![](/images/edu-earn-experiment.png){fig-align="center"}
+:::
+
+::: {.column width="50%"}
+
+- Control backdoors
+- Average treatment effect
+- Sub groups (age, race, ethnicity, income, etc.)
+
+:::
+
+:::
+
+::: footer
+Source: [Andrew Wheiss](https://evalsp24.classes.andrewheiss.com/)
+:::
+
+
+## Causal models
+
+- Instrumental variables
+- Randomized controlled trail (RCT)
+- Regressional discontinuity (RD)
+- Diference in difference (DiD)
+- Matching
 
 
 ## Data
@@ -264,6 +344,10 @@ Solution:
 
 :::
 
+::: footer
+Source: [Andrew Wheiss](https://evalsp24.classes.andrewheiss.com/)
+:::
+
 
 ## Causasion example
 
@@ -289,87 +373,6 @@ Should you control job connections?
 Source: [Andrew Wheiss](https://evalsp24.classes.andrewheiss.com/)
 :::
 
-
-
-## Colliders example
-
-::: columns
-
-::: {.column width="50%"}
-
-![](/images/programming-social-skills-dag.png){fig-align="center"}
-:::
-
-::: {.column width="50%"}
-
-Do programming skills reduce social skills?
-
-Hired by a tech company inadvertently connected the two.
-
-:::
-
-:::
-
-
-::: footer
-Source: [Andrew Wheiss](https://evalsp24.classes.andrewheiss.com/)
-:::
-
-
-## Colliders example
-
-::: columns
-
-::: {.column width="50%"}
-
-![](/images/nba-height-dag.png){fig-align="center"}
-:::
-
-::: {.column width="50%"}
-
-Height is unrelated to basketball skill among NBA players
-
-- Colliders can create fake causal effects
-
-- Colliders can hide real causal effects
-
-:::
-
-:::
-
-::: footer
-Source: [Andrew Wheiss](https://evalsp24.classes.andrewheiss.com/)
-:::
-
-
-## Counterfacture, intervention, and effects
-
-::: columns
-
-::: {.column width="50%"}
-
-![](/images/edu-earn-experiment.png){fig-align="center"}
-:::
-
-::: {.column width="50%"}
-
-- Control backdoors
-- Average treatment effect
-- Sub groups (age, race, ethnicity, income, etc.)
-
-:::
-
-:::
-
-
-
-## Causal models
-
-- Instrumental variables
-- Randomized controlled trail (RCT)
-- Regressional discontinuity (RD)
-- Diference in difference (DiD)
-- Matching
 
 
 ------------------------------------------------------------------------
