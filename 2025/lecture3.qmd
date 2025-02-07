@@ -35,8 +35,8 @@ format:
 
 - Theory of change
 - Logic model
+- Counterfactuals and causal models
 - DAG: Directed Acyclic Graphs
-- Causal models
 - Northwest Housing Alternatives
 
 
@@ -49,7 +49,7 @@ flowchart LR
   A(IRA) --> B(Subsidies)
   B --> C(Investment)
   B --> D(Jobs)
-  C <--> D
+  C --> D
   C --> E(Domestic Manufacturing)
   D --> E(Domestic Manufacturing)
 ```
@@ -171,28 +171,7 @@ Source: @gertler_impact_2016
 Source: @gertler_impact_2016
 :::
 
-## Counterfacture, intervention, and effects
 
-::: columns
-
-::: {.column width="50%"}
-
-![](/images/edu-earn-experiment.png){fig-align="center"}
-:::
-
-::: {.column width="50%"}
-
-- Control backdoors
-- Average treatment effect
-- Sub groups (age, race, ethnicity, income, etc.)
-
-:::
-
-:::
-
-::: footer
-Source: [Andrew Wheiss](https://evalsp24.classes.andrewheiss.com/)
-:::
 
 
 ## Causal models
@@ -374,6 +353,105 @@ Source: [Andrew Wheiss](https://evalsp24.classes.andrewheiss.com/)
 :::
 
 
+## Causasion example
+
+::: columns
+
+::: {.column width="50%"}
+
+![](/images/edu-earn-full-dag.png){fig-align="center"}
+:::
+
+::: {.column width="50%"}
+
+Should you control job connections?
+
+- Avoid overcontrolling
+
+:::
+
+:::
+
+
+::: footer
+Source: [Andrew Wheiss](https://evalsp24.classes.andrewheiss.com/)
+:::
+
+
+
+## Colliders example
+
+::: columns
+
+::: {.column width="50%"}
+
+![](/images/programming-social-skills-dag.png){fig-align="center"}
+:::
+
+::: {.column width="50%"}
+
+Do programming skills reduce social skills?
+
+Hired by a tech company inadvertently connected the two.
+
+:::
+
+:::
+
+
+::: footer
+Source: [Andrew Wheiss](https://evalsp24.classes.andrewheiss.com/)
+:::
+
+
+## Colliders example
+
+::: columns
+
+::: {.column width="50%"}
+
+![](/images/nba-height-dag.png){fig-align="center"}
+:::
+
+::: {.column width="50%"}
+
+Height is unrelated to basketball skill among NBA players
+
+- Colliders can create fake causal effects
+
+- Colliders can hide real causal effects
+
+:::
+
+:::
+
+::: footer
+Source: [Andrew Wheiss](https://evalsp24.classes.andrewheiss.com/)
+:::
+
+
+## Counterfacture, intervention, and effects
+
+::: columns
+
+::: {.column width="50%"}
+
+![](/images/edu-earn-experiment.png){fig-align="center"}
+:::
+
+::: {.column width="50%"}
+
+- Control backdoors
+- Average treatment effect
+- Sub groups (age, race, ethnicity, income, etc.)
+
+:::
+
+:::
+
+::: footer
+Source: [Andrew Wheiss](https://evalsp24.classes.andrewheiss.com/)
+:::
 
 ------------------------------------------------------------------------
 

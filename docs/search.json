@@ -2517,14 +2517,14 @@
     "href": "2025/lecture3.html#todays-agenda",
     "title": "Lecture 3 Logic and Causal Models",
     "section": "Today’s agenda",
-    "text": "Today’s agenda\n\nTheory of change\nLogic model\nDAG: Directed Acyclic Graphs\nCausal models\nNorthwest Housing Alternatives"
+    "text": "Today’s agenda\n\nTheory of change\nLogic model\nCounterfactuals and causal models\nDAG: Directed Acyclic Graphs\nNorthwest Housing Alternatives"
   },
   {
     "objectID": "2025/lecture3.html#theory-of-change",
     "href": "2025/lecture3.html#theory-of-change",
     "title": "Lecture 3 Logic and Causal Models",
     "section": "Theory of change",
-    "text": "Theory of change\n\n\n\n\n\n\nflowchart LR\n  A(IRA) --&gt; B(Subsidies)\n  B --&gt; C(Investment)\n  B --&gt; D(Jobs)\n  C &lt;--&gt; D\n  C --&gt; E(Domestic Manufacturing)\n  D --&gt; E(Domestic Manufacturing)"
+    "text": "Theory of change\n\n\n\n\n\n\nflowchart LR\n  A(IRA) --&gt; B(Subsidies)\n  B --&gt; C(Investment)\n  B --&gt; D(Jobs)\n  C --&gt; D\n  C --&gt; E(Domestic Manufacturing)\n  D --&gt; E(Domestic Manufacturing)"
   },
   {
     "objectID": "2025/lecture3.html#elements-of-a-program",
@@ -2700,5 +2700,12 @@
     "title": "Lecture 3 Logic and Causal Models",
     "section": "Two counterfeit estimates of the counterfactual",
     "text": "Two counterfeit estimates of the counterfactual\n\n\n\n\nBefore-and-after comparisons (also known as pre-post or refl exive comparisons) compare the outcomes of the same group before and after participating in a program.\n\nChallenge: Variables and conditions change\n\nEnrolled-and-nonenrolled (or self-selected) comparisons compare the outcomes of a group that chooses to participate in a program with those of a group that chooses not to participate.\n\nChallenge: Selection bias\n\n\n\n\n\n\n\n\n\n\n\nSource: Gertler et al. (2016)"
+  },
+  {
+    "objectID": "2025/lecture3.html#causasion-example-1",
+    "href": "2025/lecture3.html#causasion-example-1",
+    "title": "Lecture 3 Logic and Causal Models",
+    "section": "Causasion example",
+    "text": "Causasion example\n\n\n\n\n\n\n\n\nShould you control job connections?\n\nAvoid overcontrolling\n\n\n\nSource: Andrew Wheiss"
   }
 ]

@@ -199,8 +199,8 @@ Gang He
 <ul>
 <li>Theory of change</li>
 <li>Logic model</li>
+<li>Counterfactuals and causal models</li>
 <li>DAG: Directed Acyclic Graphs</li>
-<li>Causal models</li>
 <li>Northwest Housing Alternatives</li>
 </ul>
 </section>
@@ -216,7 +216,7 @@ Gang He
   A(IRA) --&gt; B(Subsidies)
   B --&gt; C(Investment)
   B --&gt; D(Jobs)
-  C &lt;--&gt; D
+  C --&gt; D
   C --&gt; E(Domestic Manufacturing)
   D --&gt; E(Domestic Manufacturing)
 </pre>
@@ -326,26 +326,6 @@ Gang He
 </div></div>
 <div class="footer">
 <p>Source: <span class="citation" data-cites="gertler_impact_2016">Gertler et al. (<a href="#/references" role="doc-biblioref" onclick="">2016</a>)</span></p>
-</div>
-</section>
-<section id="counterfacture-intervention-and-effects" class="slide level2 center">
-<h2>Counterfacture, intervention, and effects</h2>
-<div class="columns">
-<div class="column" style="width:50%;">
-<div class="quarto-figure quarto-figure-center">
-<figure>
-<p><img data-src="../images/edu-earn-experiment.png" class="quarto-figure quarto-figure-center"></p>
-</figure>
-</div>
-</div><div class="column" style="width:50%;">
-<ul>
-<li>Control backdoors</li>
-<li>Average treatment effect</li>
-<li>Sub groups (age, race, ethnicity, income, etc.)</li>
-</ul>
-</div></div>
-<div class="footer">
-<p>Source: <a href="https://evalsp24.classes.andrewheiss.com/">Andrew Wheiss</a></p>
 </div>
 </section>
 <section id="causal-models" class="slide level2 center">
@@ -494,6 +474,82 @@ Quality is a backdoor</p>
 <p>Should you control job connections?</p>
 <ul>
 <li>Avoid overcontrolling</li>
+</ul>
+</div></div>
+<div class="footer">
+<p>Source: <a href="https://evalsp24.classes.andrewheiss.com/">Andrew Wheiss</a></p>
+</div>
+</section>
+<section id="causasion-example-1" class="slide level2 center">
+<h2>Causasion example</h2>
+<div class="columns">
+<div class="column" style="width:50%;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="../images/edu-earn-full-dag.png" class="quarto-figure quarto-figure-center"></p>
+</figure>
+</div>
+</div><div class="column" style="width:50%;">
+<p>Should you control job connections?</p>
+<ul>
+<li>Avoid overcontrolling</li>
+</ul>
+</div></div>
+<div class="footer">
+<p>Source: <a href="https://evalsp24.classes.andrewheiss.com/">Andrew Wheiss</a></p>
+</div>
+</section>
+<section id="colliders-example" class="slide level2 center">
+<h2>Colliders example</h2>
+<div class="columns">
+<div class="column" style="width:50%;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="../images/programming-social-skills-dag.png" class="quarto-figure quarto-figure-center"></p>
+</figure>
+</div>
+</div><div class="column" style="width:50%;">
+<p>Do programming skills reduce social skills?</p>
+<p>Hired by a tech company inadvertently connected the two.</p>
+</div></div>
+<div class="footer">
+<p>Source: <a href="https://evalsp24.classes.andrewheiss.com/">Andrew Wheiss</a></p>
+</div>
+</section>
+<section id="colliders-example-1" class="slide level2 center">
+<h2>Colliders example</h2>
+<div class="columns">
+<div class="column" style="width:50%;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="../images/nba-height-dag.png" class="quarto-figure quarto-figure-center"></p>
+</figure>
+</div>
+</div><div class="column" style="width:50%;">
+<p>Height is unrelated to basketball skill among NBA players</p>
+<ul>
+<li><p>Colliders can create fake causal effects</p></li>
+<li><p>Colliders can hide real causal effects</p></li>
+</ul>
+</div></div>
+<div class="footer">
+<p>Source: <a href="https://evalsp24.classes.andrewheiss.com/">Andrew Wheiss</a></p>
+</div>
+</section>
+<section id="counterfacture-intervention-and-effects" class="slide level2 center">
+<h2>Counterfacture, intervention, and effects</h2>
+<div class="columns">
+<div class="column" style="width:50%;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="../images/edu-earn-experiment.png" class="quarto-figure quarto-figure-center"></p>
+</figure>
+</div>
+</div><div class="column" style="width:50%;">
+<ul>
+<li>Control backdoors</li>
+<li>Average treatment effect</li>
+<li>Sub groups (age, race, ethnicity, income, etc.)</li>
 </ul>
 </div></div>
 <div class="footer">
