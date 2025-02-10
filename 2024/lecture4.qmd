@@ -225,7 +225,7 @@ Source: [UNEG](https://www.unevaluation.org/document/detail/2046)
 ## Story
 
 :::{style="text-align:center;"}
-[John Muir and the National Park System](/stories/john-muir-and-national-park.qmd)
+[John Muir and the National Park System](john-muir-and-national-park.qmd)
 :::
 
 ![](/images/roosevelt-muir-glacier-point.webp){fig-align="center"}

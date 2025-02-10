@@ -262,7 +262,7 @@ Source: @gertler_impact_2016
 ![](/images/moral-machine-design.png){fig-align="center"}
 
 <center>
-[The Moral Machine and Ethics](/stories/the-moral-machine-and-ethics.qmd)
+[The Moral Machine and Ethics](the-moral-machine-and-ethics.qmd)
 </center>
 
 ::: footer

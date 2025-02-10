@@ -165,7 +165,7 @@ Source: @newcomer_handbook_2015
 
 ## High Line Park Story
 
-[![](/images/high-line-park.jpg){.r-stretch fig-align="center"}](/stories/high-line-park.qmd)
+[![](/images/high-line-park.jpg){.r-stretch fig-align="center"}](high-line-park.qmd)
 
 ::: footer
 Photo credit: Gang He

@@ -216,7 +216,7 @@ Source: @costanza_value_1997
 ![](/images/Bullard-Huston-Race-Waste-School.png){fig-align="center" width=50%}
 
 <center>
-[Robert Bullard and Environmental Justice](/stories/robert-bullard-and-environmental-justice.qmd)
+[Robert Bullard and Environmental Justice](robert-bullard-and-environmental-justice.qmd)
 </center>
 
 ::: footer
