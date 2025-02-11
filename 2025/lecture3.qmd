@@ -103,7 +103,7 @@ flowchart LR
   A(Inputs) --> B(Activities) --> C(Outputs) --> D(Outcomes)
 ```
 
-
+P is for "Produce"
 C is for "Change"
 
 :::
@@ -128,9 +128,9 @@ Source: [Andrew Wheiss](https://evalsp24.classes.andrewheiss.com/)
 
 :::{style="text-align:center;"}
 
-The counterfactual is what would have happened—what the outcome (Y) would have been for a program participant—in the absence of the program (P).
+"The counterfactual is what would have happened—what the outcome (Y) would have been for a program participant—in the absence of the program (P)."
 
-Since we cannot directly observe the counterfactual, we must estimate it.
+"Since we cannot directly observe the counterfactual, we must estimate it."
 :::
 
 ::: footer
@@ -139,9 +139,11 @@ Source: @gertler_impact_2016
 
 ## A valid comparison group
 
+<blockquote>
 - has the same characteristics, on average, as the treatment group in the absence of the program;
 - remains unaffected by the program; and
 - would react to the program in the same way as the treatment group, if given the program.
+</blockquote>
 
 ::: footer
 Source: @gertler_impact_2016
@@ -154,10 +156,13 @@ Source: @gertler_impact_2016
 ::: columns
 
 ::: {.column width="50%"}
-:::{style="font-size: 26px;"}
-- Before-and-after comparisons (also known as pre-post or refl exive comparisons) compare the outcomes of the same group before and after participating in a program.  
+:::{style="font-size: 24px;"}
+>- Before-and-after comparisons (also known as pre-post or refl exive comparisons) compare the outcomes of the same group before and after participating in a program.
+
   - Challenge: Variables and conditions change
-- Enrolled-and-nonenrolled (or self-selected) comparisons compare the outcomes of a group that chooses to participate in a program with those of a group that chooses not to participate.
+
+>- Enrolled-and-nonenrolled (or self-selected) comparisons compare the outcomes of a group that chooses to participate in a program with those of a group that chooses not to participate.
+
   - Challenge: Selection bias
 :::
 :::
@@ -311,11 +316,13 @@ Solution:
 
 :::{style="font-size: 24px;"}
 
+<blockquote>
 - Find the part of campaign money that is explained by quality, remove it. This is the residual part of money.
 
 - Find the part of win margin that is explained by quality, remove it. This is the residual part of win margin.
 
 - Find the relationship between the residual part of money and residual part of win margin. This is the causal effect.
+</blockquote>
 
 :::
 

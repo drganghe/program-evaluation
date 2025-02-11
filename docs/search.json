@@ -2594,7 +2594,7 @@
     "href": "2025/lecture3.html#confounding-example",
     "title": "Lecture 3 Logic and Causal Models",
     "section": "Confounding example",
-    "text": "Confounding example\n\n\nWhat’s the relations between money and win margin?\n\n\n\n\n\n\nMoney \\(\\rightarrow\\) Win\nMoney \\(\\leftarrow\\) Quality \\(\\rightarrow\\) Win\nQuality is a backdoor\nSolution:\n\n\nFind the part of campaign money that is explained by quality, remove it. This is the residual part of money.\nFind the part of win margin that is explained by quality, remove it. This is the residual part of win margin.\nFind the relationship between the residual part of money and residual part of win margin. This is the causal effect.\n\n\n\n\nSource: Andrew Wheiss"
+    "text": "Confounding example\n\n\nWhat’s the relations between money and win margin?\n\n\n\n\n\n\nMoney \\(\\rightarrow\\) Win\nMoney \\(\\leftarrow\\) Quality \\(\\rightarrow\\) Win\nQuality is a backdoor\nSolution:\n\n\n\nFind the part of campaign money that is explained by quality, remove it. This is the residual part of money.\nFind the part of win margin that is explained by quality, remove it. This is the residual part of win margin.\nFind the relationship between the residual part of money and residual part of win margin. This is the causal effect.\n\n\n\n\n\nSource: Andrew Wheiss"
   },
   {
     "objectID": "2025/lecture3.html#causasion-example",
@@ -2671,7 +2671,7 @@
     "href": "2025/lecture3.html#logic-model",
     "title": "Lecture 3 Logic and Causal Models",
     "section": "Logic model",
-    "text": "Logic model\n\n\n\n\n\n\nflowchart LR\n  A(Inputs) --&gt; B(Activities) --&gt; C(Outputs) --&gt; D(Outcomes)\n\n\n\n\n\n\nC is for “Change”\n\n\nLearn more: Logic Model: A Biginner’s Guide"
+    "text": "Logic model\n\n\n\n\n\n\nflowchart LR\n  A(Inputs) --&gt; B(Activities) --&gt; C(Outputs) --&gt; D(Outcomes)\n\n\n\n\n\n\nP is for “Produce” C is for “Change”\n\n\nLearn more: Logic Model: A Biginner’s Guide"
   },
   {
     "objectID": "2025/lecture3.html#build-a-logic-model-for-jobs-plus-in-nyc",
@@ -2685,21 +2685,21 @@
     "href": "2025/lecture3.html#counterfactual",
     "title": "Lecture 3 Logic and Causal Models",
     "section": "Counterfactual",
-    "text": "Counterfactual\n\nThe counterfactual is what would have happened—what the outcome (Y) would have been for a program participant—in the absence of the program (P).\nSince we cannot directly observe the counterfactual, we must estimate it.\n\n\nSource: Gertler et al. (2016)"
+    "text": "Counterfactual\n\n“The counterfactual is what would have happened—what the outcome (Y) would have been for a program participant—in the absence of the program (P).”\n“Since we cannot directly observe the counterfactual, we must estimate it.”\n\n\nSource: Gertler et al. (2016)"
   },
   {
     "objectID": "2025/lecture3.html#a-valid-comparison-group",
     "href": "2025/lecture3.html#a-valid-comparison-group",
     "title": "Lecture 3 Logic and Causal Models",
     "section": "A valid comparison group",
-    "text": "A valid comparison group\n\nhas the same characteristics, on average, as the treatment group in the absence of the program;\nremains unaffected by the program; and\nwould react to the program in the same way as the treatment group, if given the program.\n\n\nSource: Gertler et al. (2016)"
+    "text": "A valid comparison group\n\n\nhas the same characteristics, on average, as the treatment group in the absence of the program;\nremains unaffected by the program; and\nwould react to the program in the same way as the treatment group, if given the program.\n\n\n\nSource: Gertler et al. (2016)"
   },
   {
     "objectID": "2025/lecture3.html#two-counterfeit-estimates-of-the-counterfactual",
     "href": "2025/lecture3.html#two-counterfeit-estimates-of-the-counterfactual",
     "title": "Lecture 3 Logic and Causal Models",
     "section": "Two counterfeit estimates of the counterfactual",
-    "text": "Two counterfeit estimates of the counterfactual\n\n\n\n\nBefore-and-after comparisons (also known as pre-post or refl exive comparisons) compare the outcomes of the same group before and after participating in a program.\n\nChallenge: Variables and conditions change\n\nEnrolled-and-nonenrolled (or self-selected) comparisons compare the outcomes of a group that chooses to participate in a program with those of a group that chooses not to participate.\n\nChallenge: Selection bias\n\n\n\n\n\n\n\n\n\n\n\nSource: Gertler et al. (2016)"
+    "text": "Two counterfeit estimates of the counterfactual\n\n\n\n\n\n\nBefore-and-after comparisons (also known as pre-post or refl exive comparisons) compare the outcomes of the same group before and after participating in a program.\n\n\n\n\nChallenge: Variables and conditions change\n\n\n\n\nEnrolled-and-nonenrolled (or self-selected) comparisons compare the outcomes of a group that chooses to participate in a program with those of a group that chooses not to participate.\n\n\n\n\nChallenge: Selection bias\n\n\n\n\n\n\n\n\n\n\nSource: Gertler et al. (2016)"
   },
   {
     "objectID": "2025/lecture3.html#causasion-example-1",
