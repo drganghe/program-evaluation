@@ -14,17 +14,17 @@ listing:
   feed: false
   fields: [image, date, title, author]
 
-- id: "2024-lectures"
-  contents: 2024/lecture*.qmd
-  page-size: 36
-  grid-columns: 3
-  sort: "date asc"
-  type: table
-  categories: false
-  sort-ui: false
-  filter-ui: false
-  feed: false
-  fields: [image, date, title]
+# - id: "2024-lectures"
+#   contents: 2024/lecture*.qmd
+#   page-size: 36
+#   grid-columns: 3
+#   sort: "date asc"
+#   type: table
+#   categories: false
+#   sort-ui: false
+#   filter-ui: false
+#   feed: false
+#   fields: [image, date, title]
 
 page-layout: full
 toc: false
@@ -35,13 +35,13 @@ repo-actions: false
 ---
 {{< include /files/includes/_msclarity.qmd >}}
 
-## 2025 Lectures
 
 :::{#2025-lectures}
 :::
 
-
+<!--
 ## 2024 Lectures
 
 :::{#2024-lectures}
 :::
+-->

@@ -2,6 +2,7 @@
   {
     "listing": "/stories.html",
     "items": [
+      "/stories/john-muir-and-national-park.html",
       "/stories/bombing-in-vietnam-war-and-development.html",
       "/stories/high-line-park.html",
       "/stories/john-snow-and-evidence-based-analysis.html",
@@ -10,7 +11,6 @@
       "/stories/hans-rosling-data-visualization-and-storystelling.html",
       "/stories/feifei-li-imagenet-and-ai-revolution.html",
       "/stories/esther-duflo-and-rcts.html",
-      "/stories/john-muir-and-national-park.html",
       "/stories/heating-in-china-and-value of-clean-air.html"
     ]
   },
@@ -20,15 +20,7 @@
       "/2025/lecture1.html",
       "/2025/lecture2.html",
       "/2025/lecture3.html",
-      "/2024/lecture1.html",
-      "/2024/lecture2.html",
-      "/2024/lecture3.html",
-      "/2024/lecture4.html",
-      "/2024/lecture5.html",
-      "/2024/lecture6.html",
-      "/2024/lecture7.html",
-      "/2024/lecture8.html",
-      "/2024/lecture9.html"
+      "/2025/lecture4.html"
     ]
   }
 ]

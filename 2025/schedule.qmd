@@ -10,7 +10,7 @@ page-layout: full
 |  2  | 2/4 | Why do evaluation?      | [Goals and Types of Evaluation](lecture2.qmd)  | [High Line Park](/stories/high-line-park.qmd)    |  Jobs Plus in NYC | CR1  |
 |  3  | 2/11 | How to identify causal effects?        | [Logic and Causal Models](lecture3.qmd)  | [Bombing in Vetnam -- War and Development](/stories/bombing-in-vietnam-war-and-development.qmd)     | Northwest Housing Alternatives | CR2 |
 |  4  | 2/18 | Class following Monday schedule - No session |  | |  |   |        
-|  5  | 2/25 | How do I account for everyone involved? | Stakeholder Engagement  | John Muir and National Park System     | NYC Gifted & Talented Program |  CR3 |
+|  5  | 2/25 | How do I account for everyone involved? | [Stakeholder Engagement](lecture4.qmd)  | [John Muir and National Park System](/stories/john-muir-and-national-park.qmd)     | ARPA-E |  CR3 |
 |  6  | 3/4 | How do I use the scientific method in the real world?   | Evaluation Designs: Randomized experiences  | Esther Duflo and RCTs     |   |  |
 |  7  | 3/11 | What if a randomized experiment is not viable?   | Evaluation Designs: Quasi-experiments  |      |   |   |
 |  8  | 3/18 | How to do case study evaluation?   | Evaluation Designs: Qualitative methods  |   |  |   |

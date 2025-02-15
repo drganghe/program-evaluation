@@ -104,6 +104,7 @@ flowchart LR
 ```
 
 P is for "Produce"
+
 C is for "Change"
 
 :::

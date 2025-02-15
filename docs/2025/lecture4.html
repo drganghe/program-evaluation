@@ -10,8 +10,8 @@
   <meta name="generator" content="quarto-1.6.40">
 
   <meta name="author" content="Gang He">
-  <meta name="dcterms.date" content="2024-04-13">
-  <title>Program Evaluation – Lecture 5 Evaluation Designs</title>
+  <meta name="dcterms.date" content="2025-02-28">
+  <title>Program Evaluation – Lecture 4 Stakeholder Analysis, Mapping, and Engagement</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
@@ -153,15 +153,11 @@
       margin-right: 0; 
     }
   </style>
-<meta property="og:title" content="Lecture 5 Evaluation Designs – Program Evaluation">
-<meta property="og:image" content="https://drganghe.github.io/program-evaluation/images/steps-in-rcts.png">
+<meta property="og:title" content="Lecture 4 Stakeholder Analysis, Mapping, and Engagement – Program Evaluation">
+<meta property="og:image" content="https://drganghe.github.io/program-evaluation/images/cdc-framework-stakeholders.webp">
 <meta property="og:site_name" content="Program Evaluation">
-<meta property="og:image:height" content="650">
-<meta property="og:image:width" content="1036">
-<meta name="twitter:title" content="Lecture 5 Evaluation Designs – Program Evaluation">
-<meta name="twitter:image" content="https://drganghe.github.io/program-evaluation/images/steps-in-rcts.png">
-<meta name="twitter:image-height" content="650">
-<meta name="twitter:image-width" content="1036">
+<meta name="twitter:title" content="Lecture 4 Stakeholder Analysis, Mapping, and Engagement – Program Evaluation">
+<meta name="twitter:image" content="https://drganghe.github.io/program-evaluation/images/cdc-framework-stakeholders.webp">
 <meta name="twitter:card" content="summary_large_image">
 </head>
 <body class="quarto-light">
@@ -169,7 +165,7 @@
     <div class="slides">
 
 <section id="title-slide" class="quarto-title-block center">
-  <h1 class="title">Lecture 5 Evaluation Designs</h1>
+  <h1 class="title">Lecture 4 Stakeholder Analysis, Mapping, and Engagement</h1>
 
 <div class="quarto-title-authors">
 <div class="quarto-title-author">
@@ -179,202 +175,267 @@ Gang He
 </div>
 </div>
 
-  <p class="date">April 13, 2024</p>
+  <p class="date">February 28, 2025</p>
 </section>
-<section id="recap-lecture-4" class="slide level2 center">
-<h2>Recap lecture 4</h2>
+<section id="recap-lecture-3" class="slide level2 center">
+<h2>Recap lecture 3</h2>
 <ul>
-<li>Stakeholders</li>
-<li>Identify key stakeholder</li>
-<li>Engaging stakeholders</li>
-<li>ARPR-E case</li>
-<li>Review of logic models and preliminary discussion of student project ideas</li>
+<li>Theory of change</li>
+<li>Logic model</li>
+<li>DAG: Directed Acyclic Graphs</li>
+<li>Causal models</li>
+<li>Case: Northwest Housing Alternatives</li>
 </ul>
 </section>
 <section id="todays-agenda" class="slide level2 center">
 <h2>Today’s agenda</h2>
 <ul>
-<li>Evaluation design</li>
-<li>RCT</li>
-<li>Other strategies</li>
-<li>Proposal</li>
-<li>Progress on evaluation project</li>
+<li>Stakeholders</li>
+<li>Identify key stakeholder</li>
+<li>Engaging stakeholders</li>
+<li>Case: ARPR-E</li>
 </ul>
 </section>
-<section id="evaluation-designs" class="slide level2 smaller center">
-<h2>Evaluation designs</h2>
-<ul>
-<li>Experimental
-<ul>
-<li>Randomised controled trial</li>
-</ul></li>
-<li>Quasi-experimental
-<ul>
-<li>Regression discontinuity</li>
-<li>Difference in differences</li>
-</ul></li>
-<li>Observational (Non-experimental)
-<ul>
-<li>Time–series analysis (Pre- and post-intervention studies)</li>
-<li>Cross-sectional surveys</li>
-<li>Case studies</li>
-</ul></li>
-</ul>
-</section>
-<section id="counterfactural-what-if" class="slide level2 center">
-<h2>Counterfactural: What if?</h2>
-<div style="text-align:center">
-<p>What would have happened in the absence of the program?</p>
-<p>How do we measure what would have happened if the other circumstance had prevailed?</p>
-</div>
-</section>
-<section id="comparison-group" class="slide level2 center scrollable">
-<h2>Comparison group</h2>
-<p>A valid comparison group:</p>
-<ol type="1">
-<li>has the same characteristics, on average, as the treatment group in the absence of the program;</li>
-<li>remains unaffected by the program; and</li>
-<li>would react to the program in the same way as the treatment group, if given the program.</li>
-</ol>
-<p>Note: Individual level effect is impossible to observe. No individual counterfactuals.</p>
-<div class="footer">
-<p>Source: <span class="citation" data-cites="gertler_impact_2016">Gertler et al. (<a href="#/references" role="doc-biblioref" onclick="">2016</a>)</span></p>
-</div>
-</section>
-<section id="naive-design" class="slide level2 center">
-<h2>Naive design</h2>
-<ul>
-<li><strong>Naturally occurring</strong> treated and untreated groups</li>
-<li>Examples
-<ul>
-<li>Students who participated pre-K (test scores)</li>
-<li>Moms who use anesthetic (hospital stays)</li>
-</ul></li>
-<li>Questions to ask: Do we expect that if the program had not been offered, the outcomes of the treated and untreated comparison groups would have been roughly the same?</li>
-</ul>
-</section>
-<section id="challenges" class="slide level2 center">
-<h2>Challenges</h2>
-<ul>
-<li>Self-selection</li>
-<li>Selection bias</li>
-</ul>
-</section>
-<section id="the-power-of-randomized" class="slide level2 center">
-<h2>The power of randomized</h2>
-<p>Comparing average outcomes only works if groups that received/didn’t receive treatment look the same.</p>
+<section id="the-first-step" class="slide level2 center">
+<h2>The first step</h2>
 
-<img data-src="../images/random-sampling-randomized-treatment.png" class="quarto-figure quarto-figure-center r-stretch"><div class="footer">
-<p>Source: <span class="citation" data-cites="gertler_impact_2016">Gertler et al. (<a href="#/references" role="doc-biblioref" onclick="">2016</a>)</span></p>
+<img data-src="../images/cdc-framework-stakeholders.webp" class="quarto-figure quarto-figure-center r-stretch"><div class="footer">
+<p>Source: <a href="https://www.cdc.gov/evaluation/steps/step1/index.htm">CDC</a></p>
 </div>
 </section>
-<section id="random-assignment-methods" class="slide level2 center">
-<h2>Random assignment methods</h2>
+<section id="stakeholder-identification-and-analysis-techniques" class="slide level2 center">
+<h2>Stakeholder Identification and Analysis Techniques</h2>
 <ul>
-<li>Coins</li>
-<li>Dice</li>
-<li>Lottery</li>
-<li>Random numbers</li>
+<li>Conducting basic stakeholder identification and analysis</li>
+<li>Choosing evaluation stakeholder analysis participants</li>
+<li>Creating an engagement plan (approach, frequency, goals)</li>
 </ul>
-<p>Tool: <a href="../files/tools/RandomGenerator.xlsx">Random Generator</a></p>
 </section>
-<section id="steps-in-rcts" class="slide level2 center">
-<h2>Steps in RCTs</h2>
-
-<img data-src="../images/steps-in-rcts.png" class="quarto-figure quarto-figure-center r-stretch"><div class="footer">
-<p>Source: <span class="citation" data-cites="gertler_impact_2016">Gertler et al. (<a href="#/references" role="doc-biblioref" onclick="">2016</a>)</span></p>
-</div>
-</section>
-<section id="what-can-be-randomized" class="slide level2 center">
-<h2>What can be randomized?</h2>
-<p>Different ways to randomize come from three basic elements of a program which can be randomized</p>
+<section id="questions-to-ask" class="slide level2 smaller center">
+<h2>Questions to ask</h2>
 <ul>
-<li><p>Access: which people are offered access to a program</p></li>
-<li><p>Timing: when people are offered access</p></li>
-<li><p>Encouragement: which people are given encouragement to participate</p></li>
+<li>Who the evaluation sponsor(s) is.<br>
+</li>
+<li>Who the day-to-day process champion(s) is, meaning the day-to-day evaluation process manager; this person may be the evaluator, but maybe not.<br>
+</li>
+<li>Who the stakeholders, key stakeholders, and primary intended users are.<br>
+</li>
+<li>What the purpose(s) or intended use(s) of the evaluation is.<br>
+</li>
+<li>Who the members of the evaluation coordinating committee or task force are, if such a group is to be formed.<br>
+</li>
+<li>How the different stakeholders will be involved at different stages in the evaluation process.<br>
+</li>
+<li>Who the evaluator(s) is, or at least what his or her qualifications should be, and who the members of any required evaluation team might be.</li>
 </ul>
 <div class="footer">
-<p>Source: <a href="http://runningres.com/course-details">ECMA 35550</a></p>
+<p>Source: <span class="citation" data-cites="newcomer_handbook_2015">Newcomer, Hatry, and Wholey (<a href="#/references" role="doc-biblioref" onclick="">2015</a>)</span></p>
 </div>
 </section>
-<section id="when-to-use-rcts" class="slide level2 center">
-<h2>When to use RCTs?</h2>
+<section id="types-of-stakeholders" class="slide level2 center">
+<h2>Types of stakeholders</h2>
 <ul>
-<li>Demand for treatment exceeds supply</li>
-<li>Treatment will be phased in over time</li>
-<li>Treatment has uncertainty</li>
-<li>Local culture open to randomization</li>
-<li>When people won’t know and it’s ethical</li>
-<li>When lotteries are going to happen anyway</li>
+<li>Implementers</li>
+<li>Decision makers</li>
+<li>Participants</li>
+<li>Partners</li>
+</ul>
+<div class="footer">
+<p>Source: <a href="https://www.cdc.gov/std/Program/pupestd/Identifying%20and%20Determining%20Stakeholders.pdf">CDC</a></p>
+</div>
+</section>
+<section id="useful-thinking" class="slide level2 center">
+<h2>Useful thinking</h2>
+<ul>
+<li>Internal vs.&nbsp;external</li>
+<li>Primary vs.&nbsp;secondary</li>
+<li>Influential vs.&nbsp;non-influential</li>
+<li>Supportive vs.&nbsp;adversarial</li>
 </ul>
 </section>
-<section id="when-not" class="slide level2 center">
-<h2>When not?</h2>
+<section id="how-to-involve-stakeholders" class="slide level2 center">
+<h2>How to involve stakeholders</h2>
 <ul>
-<li>When you need immediate results</li>
-<li>When it’s unethical or illegal</li>
-<li>When it’s something that happened in the past</li>
-<li>When it involves universal ongoing phenomena</li>
+<li>Invite stakeholders to a meeting</li>
+<li>Involve stateholders in key activities
+<ul>
+<li>Plan</li>
+<li>Implement</li>
+<li>Outcome</li>
+<li>Recommendation</li>
+</ul></li>
+</ul>
+<div class="footer">
+<p>Source: <a href="https://www.cdc.gov/std/Program/pupestd/Identifying%20and%20Determining%20Stakeholders.pdf">CDC</a></p>
+</div>
+</section>
+<section id="engagement-level" class="slide level2 center">
+<h2>Engagement level</h2>
+<ul>
+<li>No engagement</li>
+<li>Engage as data source</li>
+<li>Inform</li>
+<li>Consult</li>
+<li>Involve</li>
+<li>Collaborate</li>
+<li>Empower</li>
 </ul>
 </section>
-<section id="abdul-latif-jameel-poverty-action-lab" class="slide level2 center">
-<h2>Abdul Latif Jameel Poverty Action Lab</h2>
+<section id="mapping-stakeholders" class="slide level2 center">
+<h2>Mapping stakeholders</h2>
+<ul>
+<li>List all potential stakeholders</li>
+<li>Categorize them</li>
+<li>Describe interest and influence</li>
+<li>Note preferred communication channel</li>
+<li>Develop strategies</li>
+<li>Monitor and update</li>
+<li>Share and review</li>
+<li>Develop an action plan</li>
+</ul>
+</section>
+<section id="stateholders-strategies-and-criteria" class="slide level2 center">
+<h2>Stateholders strategies and criteria</h2>
 
-<img data-src="../images/jpal.webp" class="quarto-figure quarto-figure-center r-stretch"><div class="footer">
-<p>Source: <a href="https://www.povertyactionlab.org/">J-PAL</a></p>
+<img data-src="../images/stakeholder-strategies-criteria.png" class="quarto-figure quarto-figure-center r-stretch"><div class="footer">
+<p>Source: A Practical Guide for Engaging Stakeholders in Developing Evaluation Questions</p>
 </div>
+</section>
+<section class="slide level2 center">
+
+<center>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">An auspicious day to witness first power from <a href="https://twitter.com/SouthForkWind?ref_src=twsrc%5Etfw">@SouthForkWind</a> with many dedicated colleagues and friends. For the first time in history, families and businesses on Long Island are using offshore wind! Congrats to <a href="https://twitter.com/OrstedUS?ref_src=twsrc%5Etfw">@OrstedUS</a> <a href="https://twitter.com/EversourceCorp?ref_src=twsrc%5Etfw">@EversourceCorp</a> <a href="https://twitter.com/EHTownTrustees?ref_src=twsrc%5Etfw">@EHTownTrustees</a> and <a href="https://twitter.com/LongIslandPower?ref_src=twsrc%5Etfw">@LongIslandPower</a>! <a href="https://t.co/ughxe03eHK">pic.twitter.com/ughxe03eHK</a></p>— Doreen Harris (@Doreen_M_Harris) <a href="https://twitter.com/Doreen_M_Harris/status/1732864788437356881?ref_src=twsrc%5Etfw">December 7, 2023</a></blockquote> <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</center>
+</section>
+<section id="offshore-wind-example" class="slide level2 center">
+<h2>Offshore wind example</h2>
+<div style="font-size: 18px">
+<table class="caption-top">
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Stakeholders</th>
+<th>Interests and concerns</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Local residents</td>
+<td>Concerned about visual and noise pollution, potential impacts on property value, and benefits to the local community like job opportunities and community facilities.</td>
+</tr>
+<tr class="even">
+<td>Environmental &amp; conservation groups</td>
+<td>Interested in the project’s ecological impact, particularly bird migration and marine life, but also supportive of renewable energy initiatives.</td>
+</tr>
+<tr class="odd">
+<td>Local and national governments</td>
+<td>Interested in sustainable energy goals, economic development, job creation, and regulatory compliance; concerned about residents NIMBY.</td>
+</tr>
+<tr class="even">
+<td>Utility company</td>
+<td>Interested in increasing share of renewables per regulation, concerned about grid reliability.</td>
+</tr>
+<tr class="odd">
+<td>Potential energy consumers</td>
+<td>Interested in reliable, cost-effective, and sustainable energy.</td>
+</tr>
+<tr class="even">
+<td>Company investors and shareholders</td>
+<td>Looking for profitability, sustainable investments, and risk management.</td>
+</tr>
+<tr class="odd">
+<td>Local fishing and maritime industries</td>
+<td>Concerned about potential disruptions to fishing routes and marine ecosystems.</td>
+</tr>
+<tr class="even">
+<td>Nearby tourism businesses</td>
+<td>Concerns about potential impacts on the aesthetics of the landscape and tourist attractions.</td>
+</tr>
+<tr class="odd">
+<td>Renewable energy advocacy groups</td>
+<td>Supportive of clean energy but keen on ensuring it’s done right without unnecessary environmental impacts.</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="footer">
+<p>Adapted from <a href="https://www.boreal-is.com/blog/what-is-stakeholder-analysis/">Patrick Grégoire</a>. Read more: <a href="https://www.nyserda.ny.gov/About/Newsroom/2023-Announcements/2023-12-6-Governor-Hochul-Announces-South-Fork-Wind-Delivers-First-Offshore">South Fork Wind Delivers First Offshore Wind Power to Long Island</a></p>
+</div>
+</section>
+<section id="prioritize-stakeholders" class="slide level2 smaller center">
+<h2>Prioritize stakeholders</h2>
+<p>New York offshore wind delay evaluation example</p>
+<ul>
+<li>Level 1 Stakeholders will include developers, State policy makers, regulators. You decide to in close contact with these groups on a monthly basis.</li>
+<li>Level 2 Stakeholders will include people like local policy makers, utilities who you need to engage with for the same purpose, but not as often. Your team will engage with these people quarterly.</li>
+<li>Level 3 Stakeholders will include people who aren’t directly involved but who need to be kept informed about your efforts, like heads of community organizations and advocacy groups, and committee leaders. You decide to update them half-yearly/annually.</li>
+</ul>
 </section>
 <section id="story" class="slide level2 center">
 <h2>Story</h2>
 <div style="text-align:center;">
-<p><a href="../2024/esther-duflo-and-rcts.html">Esther Duflo and RCTs</a></p>
+<p><a href="../stories/john-muir-and-national-park.html">John Muir and the National Park System</a></p>
 </div>
-</section>
-<section id="quasi-experiment-design" class="slide level2 center">
-<h2>Quasi experiment design</h2>
-<p>Not randomized assignments</p>
-<ul>
-<li>Regression discontinuity design (RDD)</li>
-<li>Difference in differences (DiD)</li>
-<li>Other designs</li>
-</ul>
-</section>
-<section id="regression-discontinuity-design-rdd" class="slide level2 center">
-<h2>Regression discontinuity design (RDD)</h2>
-<p>Programs that have a continuous eligibility index with a clearly defined eligibility threshold (cutoff score) to determine who is eligible and who is not.</p>
-<ul>
-<li>The index must rank people or units in a continuous or “smooth” way.</li>
-<li>The index must have a clearly defined cutoff score.</li>
-<li>The cutoff must be unique to the program of interest.</li>
-<li>The score of a particular individual or unit cannot be manipulated.</li>
-</ul>
-</section>
-<section id="difference-in-differences-did" class="slide level2 center">
-<h2>Difference in differences (DiD)</h2>
-<p>Compares the changes in outcomes over time between a population that is enrolled in a program (the treatment group) and a population that is not (the comparison group).</p>
 
-<img data-src="../images/DiD-visual.png" class="quarto-figure quarto-figure-center r-stretch"><div class="footer">
-<p>Source: <a href="https://bookdown.org/cuborican/RE_STAT/difference-in-differences.html">Econometrics for Business Analysis</a></p>
+<img data-src="../images/roosevelt-muir-glacier-point.webp" class="quarto-figure quarto-figure-center r-stretch"><div class="footer">
+<p>Photo source: <a href="https://www.loc.gov/resource/ppmsca.36413/">Library of Congress</a></p>
 </div>
 </section>
-<section id="rule-of-thumb" class="slide level2 center">
-<h2>Rule of thumb</h2>
+<section id="eisenhower-matrix" class="slide level2 center">
+<h2>Eisenhower Matrix</h2>
+<div class="columns">
+<div class="column" style="width:50%;">
+<blockquote>
+<p>I have two kinds of problems: the urgent and the important. The urgent are not important, and the important are never urgent.</p>
+</blockquote>
+<p>— Dwight D. Eisenhower</p>
+</div><div class="column" style="width:50%;">
+<div class="quarto-figure quarto-figure-center">
+<figure>
+<p><img data-src="../images/eisenhower-matrix.webp" class="quarto-figure quarto-figure-center"></p>
+</figure>
+</div>
+</div></div>
+<div class="footer">
+<p>Image <a href="https://asana.com/resources/eisenhower-matrix">source</a></p>
+</div>
+</section>
+<section id="missing-opportunities" class="slide level2 center">
+<h2>Missing opportunities</h2>
 <ul>
-<li>Correlation is the beginning of understanding what happens to a group</li>
-<li>Correlation does not equal causation</li>
-<li>Evaluation design will depends on possibility, feasibility, and appropriability</li>
+<li>Not engage stakeholders</li>
+<li>Engage stakeholders too late</li>
+<li>Not inform stakeholders</li>
 </ul>
+</section>
+<section id="uneg-principles" class="slide level2 smaller center scrollable">
+<h2>UNEG Principles</h2>
+<ol type="1">
+<li>Identify the stakeholders and the role these will play in the evaluation.</li>
+<li>Promote an inclusive and diverse stakeholder engagement with a tailored approach by stakeholder</li>
+<li>Engage stakeholders early on and throughout the evaluation process</li>
+<li>Seek opportunities to engage with stakeholders in order promote an evaluation culture</li>
+<li>Ensure communication with stakeholders is clear and tailored to their specific needs</li>
+<li>Abide to the highest ethical standards in engaging with evaluation stakeholders, ensuring respect and sensitivity to stakeholder’s diversity and human rights</li>
+<li>Seek and use stakeholders’ feedback on the evaluation process for effective learning and continuous improvement of evaluation practice</li>
+</ol>
+<div class="footer">
+<p>Source: <a href="https://www.unevaluation.org/document/detail/2046">UNEG</a></p>
+</div>
 </section>
 <section class="slide level2 smaller scrollable" id="references">
 
 <h3 id="references">References</h3>
 <div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
-<div id="ref-gertler_impact_2016" class="csl-entry" role="listitem">
-Gertler, Paul J., Sebastian Martinez, Patrick Premand, Laura B. Rawlings, and Christel M. J. Vermeersch. 2016. <em>Impact <span>Evaluation</span> in <span>Practice</span>, <span>Second</span> <span>Edition</span></em>. Washington, DC: World Bank. <a href="https://doi.org/10.1596/978-1-4648-0779-4">https://doi.org/10.1596/978-1-4648-0779-4</a>.
+<div id="ref-newcomer_handbook_2015" class="csl-entry" role="listitem">
+Newcomer, Kathryn E., Harry P. Hatry, and Joseph S. Wholey. 2015. <em>Handbook of <span>Practical</span> <span>Program</span> <span>Evaluation</span></em>. 4th edition. San Francisco: Jossey-Bass.
 </div>
 </div>
 <div class="footer">
-<p>Back to Title <a href="../2024/lecture5.html">Slide</a>, All <a href="../2024/schedule.html">Lectures</a>, Course <a href="https://drganghe.github.io/program-evaluation/">Home</a>, or Learn More About <a href="https://drganghe.github.io">Gang He</a></p>
+<p>Back to Title <a href="../2025/lecture4.html">Slide</a>, All <a href="../2025/schedule.html">Lectures</a>, Course <a href="https://drganghe.github.io/program-evaluation/">Home</a>, or Learn More About <a href="https://drganghe.github.io">Gang He</a></p>
 </div>
 
 
