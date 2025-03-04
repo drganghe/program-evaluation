@@ -1,0 +1,211 @@
+---
+title: "Lecture 5 Evaluation Designs: Randomized Experiments"
+description-meta: "How do I use the scientific method in the real world?"
+author: "Gang He"
+date: March 4, 2025
+date-format: long
+image: "/images/steps-in-rcts.png"
+format:
+  revealjs:
+    theme: white
+ #   embed-resources: true
+    slide-number: true
+    preview-links: auto
+    link-external-newwindow: true
+    citations-hover: true
+    auto-stretch: true
+    r-fit-text: true
+    center: true
+    scrollable: true
+    css: /custom.css
+    footer: <https://drganghe.github.io/program-evaluation/>
+#draft: true
+---
+
+## Recap lecture 4
+
+- Stakeholders
+- Identify key stakeholder
+- Engaging stakeholders
+- ARPR-E case
+
+
+## Today's agenda
+
+- Evaluation design
+- RCT
+- Case: Microfinance and RCT
+- Proposal
+
+
+## Capturing the wedege
+
+![](/images/program-effect.png){fig-align="center"}
+
+::: footer
+Source: [Andrew Wheiss](https://evalsp24.classes.andrewheiss.com/)
+:::
+
+
+## Counterfactural: What if?
+
+:::{style="text-align:center"}
+What would have happened in the absence of the program?
+
+How do we measure what would have happened if the other circumstance had prevailed?
+:::
+
+
+## Comparison group
+
+A valid comparison group:
+
+1. has the same characteristics, on average, as the treatment group in the
+absence of the program;
+1. remains unaffected by the program; and
+1. would react to the program in the same way as the treatment group, if given the program.
+
+Note: Individual level effect is impossible to observe. No individual counterfactuals.
+
+
+::: footer
+Source: @gertler_impact_2016
+:::
+
+
+## Evaluation designs{.smaller}
+
+- Experimental
+  - Randomised controled trial
+
+- Quasi-experimental
+  - Regression discontinuity
+  - Difference in differences
+
+- Observational (Non-experimental)
+  - Time–series analysis (Pre- and post-intervention studies)
+  - Cross-sectional surveys
+  - Case studies
+
+
+## Naive design
+
+- **Naturally occurring** treated and untreated groups
+- Examples
+  - Students who participated pre-K (test scores)
+  - Moms who use anesthetic (hospital stays)
+- Questions to ask: Do we expect that if the program had not been offered, the outcomes of the treated and untreated comparison groups would have been roughly the same?
+
+
+## Challenges: Counterfeits
+
+- Self-selection
+- Selection bias
+
+
+## The power of randomized
+
+Comparing average outcomes only works if groups that received/didn't receive treatment look the same.
+
+![](/images/random-sampling-randomized-treatment.png){fig-align="center"}
+
+::: footer
+Source: @gertler_impact_2016
+:::
+
+
+## Why randomize
+
+- Internal and external validity
+- Fairness
+- Acceptance
+- "Gloden Standard"
+
+
+## Random assignment methods
+
+- Coins
+- Dice
+- Lottery
+- Random numbers
+
+Tool: [Random Generator](/files/tools/RandomGenerator.xlsx)
+
+
+## Steps in RCTs
+
+![](/images/steps-in-rcts.png){fig-align="center"}
+
+::: footer
+Source: @gertler_impact_2016
+:::
+
+
+## What can be randomized?
+
+Different ways to randomize come from three basic elements of a program which can be randomized
+
+- Access: which people are offered access to a program
+
+- Timing: when people are offered access
+
+- Encouragement: which people are given encouragement to participate
+
+
+::: footer
+Source: [ECMA 35550](http://runningres.com/course-details)
+:::
+
+
+## When to use RCTs?
+
+- Demand for treatment exceeds supply
+- Treatment will be phased in over time
+- Treatment has uncertainty
+- Local culture open to randomization
+- When people won't know and it's ethical
+- When lotteries are going to happen anyway
+
+
+## When not?
+
+- When you need immediate results
+- When it's unethical or illegal
+- When it's something that happened in the past
+- When it involves universal ongoing phenomena
+
+
+## Abdul Latif Jameel Poverty Action Lab
+
+![](/images/jpal.webp){fig-align="center"}
+
+::: footer
+Source: [J-PAL](https://www.povertyactionlab.org/)
+:::
+
+
+## Story
+
+:::{style="text-align:center;"}
+[Esther Duflo and RCTs](/stories/esther-duflo-and-rcts.qmd)
+:::
+
+
+
+## Rule of thumb
+
+- Correlation is the beginning of understanding what happens to a group
+- Correlation does not equal causation
+- Evaluation design will depends on possibility, feasibility, and appropriability
+
+
+------
+
+### References
+
+::: {#refs}
+:::
+
+::: footer
+Back to Title [Slide](lecture5.qmd), All [Lectures](schedule.qmd), Course [Home](https://drganghe.github.io/program-evaluation/), or Learn More About [Gang He](https://drganghe.github.io)
+:::

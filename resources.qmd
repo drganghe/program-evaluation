@@ -46,6 +46,8 @@ DAG chart tool: [Dagitty](https://www.dagitty.net/dags.html)
 
 ## Evaluation Report Template
 
+Logic Model [Template](https://docs.google.com/presentation/d/1LnEr6R5wbuk_GOuApBBamLh1XV8-FHGrqgiaTfdkFBE/edit?usp=sharing)
+
 USAID Evaluation Report and Review [Template](https://usaidlearninglab.org/system/files/2022-09/evaluation_report_checklist_and_review_template_final2022.pdf)
 
 Evaluation [Checklists](https://wmich.edu/evaluation/checklists)
