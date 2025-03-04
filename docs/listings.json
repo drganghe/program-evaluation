@@ -2,6 +2,7 @@
   {
     "listing": "/stories.html",
     "items": [
+      "/stories/esther-duflo-and-rcts.html",
       "/stories/john-muir-and-national-park.html",
       "/stories/bombing-in-vietnam-war-and-development.html",
       "/stories/high-line-park.html",
@@ -10,7 +11,6 @@
       "/stories/robert-bullard-and-environmental-justice.html",
       "/stories/hans-rosling-data-visualization-and-storystelling.html",
       "/stories/feifei-li-imagenet-and-ai-revolution.html",
-      "/stories/esther-duflo-and-rcts.html",
       "/stories/heating-in-china-and-value of-clean-air.html"
     ]
   },
