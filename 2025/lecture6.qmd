@@ -1,0 +1,222 @@
+---
+title: "Lecture 6 Evaluation Designs: Quasi Experiments"
+description-meta: "How do I use the scientific method in the real world?"
+author: "Gang He"
+date: March 11, 2025
+date-format: long
+image: "/images/chen-huai-river-tsp.jpeg"
+format:
+  revealjs:
+    theme: white
+ #   embed-resources: true
+    slide-number: true
+    preview-links: auto
+    link-external-newwindow: true
+    citations-hover: true
+    auto-stretch: true
+    r-fit-text: true
+    center: true
+    scrollable: true
+    css: /custom.css
+    footer: <https://drganghe.github.io/program-evaluation/>
+#draft: true
+---
+
+## Recap lecture 5
+
+- Evaluation design
+- RCT
+- Case: Microfinance and RCT
+- Proposal
+
+
+## Today's agenda
+
+- Quasi-experimental design
+  - Regression discontinuity
+  - Difference in differences
+  - Matching
+- Case: Air quality and Life Expectancy
+
+
+## Capturing the wedege
+
+![](/images/program-effect.png){fig-align="center"}
+
+::: footer
+Source: [Andrew Wheiss](https://evalsp24.classes.andrewheiss.com/)
+:::
+
+
+## Evaluation designs{.smaller}
+
+- Experimental   
+  - Randomised controled trial
+
+- Quasi-experimental   
+  - Instrumental variable (IV)
+  - Regression discontinuity (RDD)
+  - Difference in differences (DiD)
+
+- Observational (Non-experimental)  
+  - Time–series analysis (Pre- and post-intervention studies)
+  - Cross-sectional surveys
+  - Case studies
+
+
+## Instrumental variable design
+
+:::{style="font-size: 28px;"}
+An instrumental variable:
+
+- It influences the likelihood of participating in a program  
+- Outside of the participant’s control 
+- Unrelated to the participant’s characteristics
+
+Examples:
+
+- Test scores
+- Geographic proximity
+- Month of birth
+- Rainfall
+:::
+
+
+## RDD design
+
+Application: programs that have a continuous eligibility index with clearly defined eligibility threshold to determine who is eligible and who is not.
+
+- The index must rank people or units in continuous way.
+- The index must have a clearly defined cutoff score.
+- The cutoff must be unique to the program of interest.
+- The score of particular individual or unit cannot be manipulated.
+
+
+## RDD example: Farm baseline
+
+![](/images/rdd-farm-baseline.png){fig-align="center"}
+
+::: footer
+Source: @gertler_impact_2016
+:::
+
+
+## RDD example: Farm followup
+
+![](/images/rdd-farm-followup.png){fig-align="center"}
+
+::: footer
+Source: @gertler_impact_2016
+:::
+
+
+## Heating, air quality, and life-expectancy
+
+:::columns
+
+::: {.column width="50%"}
+![](/images/chen-huai-river-tsp.jpeg){fig-align="center"}
+:::
+
+::: {.column width="50%"}
+![](/images/chen-huai-river-life-expectancy.jpeg){fig-align="center"}
+:::
+
+:::
+
+::: footer
+Source: @chen_evidence_2013
+:::
+
+
+## DiD design
+
+- Compares the CHANGES in outcomes over time between the treatment group the comparison group.
+- First Difference: time-varying factors
+- Second Difference: treatment effects
+- Trend differences
+
+
+## DiD example: Employment
+
+![](/images/did-employment.png){fig-align="center"}
+
+::: footer
+Source: @gertler_impact_2016
+:::
+
+
+## Equal trends in DiD
+
+![](/images/did-employment-trends-differ.png){fig-align="center"}
+
+::: footer
+Source: @gertler_impact_2016
+:::
+
+
+## Testing for equal trends in DiD
+
+- Repeated comparisons: year -2, -1, and 0
+- Placebo test: a fake treatment group
+- Fake treatment group + Fake outcome
+- Different comparison group
+
+
+## Matching
+
+> Matching uses large data sets and statistical techniques to construct the best possible comparison group based on observed characteristics.
+>
+>For every possible unit under treatment, it attempts to fi nd a nontreatment unit (or set of nontreatment units) that has the most similar characteristics possible.
+
+
+## Curse of dimensionality
+
+Increased matching dimensions reduces matching possibilities.
+
+![](/images/exact-matching.png){fig-align="center"}
+
+::: footer
+Source: @gertler_impact_2016
+:::
+
+
+## Propensity score matching
+
+Uses a probability score to find the best possible comparison group.
+
+![](/images/propensity-score-matching.png){fig-align="center"}
+
+::: footer  
+Source: @gertler_impact_2016
+:::
+
+
+## Key issues in matching
+
+- Matching can use only observed characteristics
+- Using only characteristics that are not affected by the program
+- Eesimation are only as good as the characteristics used for matching (understanding the criteria for participation)
+
+
+
+## Story
+
+:::{style="text-align:center;"}
+[Michael Greenstone and Environmental Economics](/stories/michael-greenstone-and-environmental-economics.qmd)
+:::
+
+
+
+
+
+------
+
+### References
+
+::: {#refs}
+:::
+
+::: footer
+Back to Title [Slide](lecture5.qmd), All [Lectures](schedule.qmd), Course [Home](https://drganghe.github.io/program-evaluation/), or Learn More About [Gang He](https://drganghe.github.io)
+:::

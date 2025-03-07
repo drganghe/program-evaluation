@@ -4,7 +4,7 @@
     "href": "stories.html",
     "title": "Stories",
     "section": "",
-    "text": "Date\n\n\nTitle\n\n\n\n\n\n\nMar 4, 2025\n\n\nEsther Duflo and Randomized Controlled Trails\n\n\n\n\nFeb 28, 2025\n\n\nJohn Muir and National Park System\n\n\n\n\nFeb 11, 2025\n\n\nBombing in Vetnam – War and Development\n\n\n\n\nFeb 4, 2025\n\n\nHigh Line Park\n\n\n\n\nJan 28, 2025\n\n\nJohn Snow and Evidence Based Analysis\n\n\n\n\nMay 11, 2024\n\n\nThe Moral Machine and Ethics\n\n\n\n\nMay 4, 2024\n\n\nRobert Bullard and Environmental Justice\n\n\n\n\nApr 27, 2024\n\n\nHans Rosling, Data Visualization, and Storytelling\n\n\n\n\nApr 20, 2024\n\n\nFeifei Li, ImageNet, and the AI Revolution\n\n\n\n\nMar 23, 2024\n\n\nHeating in China and Value of Clean Air\n\n\n\n\n\nNo matching items"
+    "text": "Date\n\n\nTitle\n\n\n\n\n\n\nMar 11, 2025\n\n\nMichael Greenstone and Environmental Economics\n\n\n\n\nMar 4, 2025\n\n\nEsther Duflo and Randomized Controlled Trails\n\n\n\n\nFeb 28, 2025\n\n\nJohn Muir and National Park System\n\n\n\n\nFeb 11, 2025\n\n\nBombing in Vetnam – War and Development\n\n\n\n\nFeb 4, 2025\n\n\nHigh Line Park\n\n\n\n\nJan 28, 2025\n\n\nJohn Snow and Evidence Based Analysis\n\n\n\n\nMay 11, 2024\n\n\nThe Moral Machine and Ethics\n\n\n\n\nMay 4, 2024\n\n\nRobert Bullard and Environmental Justice\n\n\n\n\nApr 27, 2024\n\n\nHans Rosling, Data Visualization, and Storytelling\n\n\n\n\nApr 20, 2024\n\n\nFeifei Li, ImageNet, and the AI Revolution\n\n\n\n\nMar 23, 2024\n\n\nHeating in China and Value of Clean Air\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "project.html",
@@ -46,7 +46,7 @@
     "href": "lectures.html",
     "title": "Lectures",
     "section": "",
-    "text": "Lecture 1 Introduction\n\n\n\nGang He\n\n\nJan 28, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 2 Goals and Types of Evaluation\n\n\n\nGang He\n\n\nFeb 4, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 3 Logic and Causal Models\n\n\n\nGang He\n\n\nFeb 11, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 4 Stakeholder Analysis, Mapping, and Engagement\n\n\n\nGang He\n\n\nFeb 28, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 5 Evaluation Designs: Randomized Experiments\n\n\n\nGang He\n\n\nMar 4, 2025\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Lecture 1 Introduction\n\n\n\nGang He\n\n\nJan 28, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 2 Goals and Types of Evaluation\n\n\n\nGang He\n\n\nFeb 4, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 3 Logic and Causal Models\n\n\n\nGang He\n\n\nFeb 11, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 4 Stakeholder Analysis, Mapping, and Engagement\n\n\n\nGang He\n\n\nFeb 28, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 5 Evaluation Designs: Randomized Experiments\n\n\n\nGang He\n\n\nMar 4, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 6 Evaluation Designs: Quasi Experiments\n\n\n\nGang He\n\n\nMar 11, 2025\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "stories/feifei-li-imagenet-and-ai-revolution.html",
@@ -165,14 +165,14 @@
     "href": "stories/esther-duflo-and-rcts.html",
     "title": "Esther Duflo and Randomized Controlled Trails",
     "section": "",
-    "text": "2019 Nobel Prize in Economics\nProfessor in Economics in MIT"
+    "text": "2019 Nobel Prize in Economics\nProfessor in Economics at MIT"
   },
   {
     "objectID": "stories/esther-duflo-and-rcts.html#esther-duflo",
     "href": "stories/esther-duflo-and-rcts.html#esther-duflo",
     "title": "Esther Duflo and Randomized Controlled Trails",
     "section": "",
-    "text": "2019 Nobel Prize in Economics\nProfessor in Economics in MIT"
+    "text": "2019 Nobel Prize in Economics\nProfessor in Economics at MIT"
   },
   {
     "objectID": "stories/esther-duflo-and-rcts.html#rcts",
@@ -2125,14 +2125,14 @@
     "href": "resources.html",
     "title": "Resources",
     "section": "",
-    "text": "Huntington-Klein, Nick. 2022. The Effect: An Introduction to Research Design and Causality. 1st edition. Boca Raton London New York: Chapman and Hall/CRC.\nCunningham, Scott. 2021. Causal Inference: The Mixtape. New Haven London: Yale University Press.\n\n\n\n\n\nPearl, Judea, and Dana Mackenzie. 2018. The Book of Why: The New Science of Cause and Effect. 1st edition. New York: Basic Books.\n\nAngrist, Joshua, and Jörn-Steffen Pischke. 2009. Mostly Harmless Econometrics. Princeton University Press.\n\nList, John A. 2022. The Voltage Effect: How to Make Good Ideas Great and Great Ideas Scale. New York: Crown Currency."
+    "text": "Huntington-Klein, Nick. 2022. The Effect: An Introduction to Research Design and Causality. 1st edition. Boca Raton London New York: Chapman and Hall/CRC.\nCunningham, Scott. 2021. Causal Inference: The Mixtape. New Haven London: Yale University Press.\nLiam F. Beiser-McGrath. 2020. Impact Evaluation in Practice: Solutions for Second Edition in R.\n\n\n\n\n\nPearl, Judea, and Dana Mackenzie. 2018. The Book of Why: The New Science of Cause and Effect. 1st edition. New York: Basic Books.\n\nAngrist, Joshua, and Jörn-Steffen Pischke. 2009. Mostly Harmless Econometrics. Princeton University Press.\n\nList, John A. 2022. The Voltage Effect: How to Make Good Ideas Great and Great Ideas Scale. New York: Crown Currency."
   },
   {
     "objectID": "resources.html#relevant-texts",
     "href": "resources.html#relevant-texts",
     "title": "Resources",
     "section": "",
-    "text": "Huntington-Klein, Nick. 2022. The Effect: An Introduction to Research Design and Causality. 1st edition. Boca Raton London New York: Chapman and Hall/CRC.\nCunningham, Scott. 2021. Causal Inference: The Mixtape. New Haven London: Yale University Press.\n\n\n\n\n\nPearl, Judea, and Dana Mackenzie. 2018. The Book of Why: The New Science of Cause and Effect. 1st edition. New York: Basic Books.\n\nAngrist, Joshua, and Jörn-Steffen Pischke. 2009. Mostly Harmless Econometrics. Princeton University Press.\n\nList, John A. 2022. The Voltage Effect: How to Make Good Ideas Great and Great Ideas Scale. New York: Crown Currency."
+    "text": "Huntington-Klein, Nick. 2022. The Effect: An Introduction to Research Design and Causality. 1st edition. Boca Raton London New York: Chapman and Hall/CRC.\nCunningham, Scott. 2021. Causal Inference: The Mixtape. New Haven London: Yale University Press.\nLiam F. Beiser-McGrath. 2020. Impact Evaluation in Practice: Solutions for Second Edition in R.\n\n\n\n\n\nPearl, Judea, and Dana Mackenzie. 2018. The Book of Why: The New Science of Cause and Effect. 1st edition. New York: Basic Books.\n\nAngrist, Joshua, and Jörn-Steffen Pischke. 2009. Mostly Harmless Econometrics. Princeton University Press.\n\nList, John A. 2022. The Voltage Effect: How to Make Good Ideas Great and Great Ideas Scale. New York: Crown Currency."
   },
   {
     "objectID": "resources.html#federal-evaluation",
@@ -2174,7 +2174,7 @@
     "href": "2025/schedule.html",
     "title": "Spring 2025 Course Schedule",
     "section": "",
-    "text": "Week\nDate\nGuiding question\nTopic\nStory\nCase Study\nAssignment\n\n\n\n\n1\n1/28\nWhat is program evaluation? Where are we headed in this course?\nIntroduction and Overview\nJohn Snow\n\n\n\n\n2\n2/4\nWhy do evaluation?\nGoals and Types of Evaluation\nHigh Line Park\nJobs Plus in NYC\nCR1\n\n\n3\n2/11\nHow to identify causal effects?\nLogic and Causal Models\nBombing in Vetnam – War and Development\nNorthwest Housing Alternatives\nCR2\n\n\n4\n2/18\nClass following Monday schedule - No session\n\n\n\n\n\n\n5\n2/25\nHow do I account for everyone involved?\nStakeholder Engagement\nJohn Muir and National Park System\nARPA-E\nCR3\n\n\n6\n3/4\nHow do I use the scientific method in the real world?\nEvaluation Designs: Randomized Experiences\nEsther Duflo and RCTs\nMicrofinance and RCT\nCR4\n\n\n7\n3/11\nWhat if a randomized experiment is not viable?\nEvaluation Designs: Quasi-experiments\nMichael Greenstone and Air Quality\nHeating and Life-expectancy\nCR5\n\n\n8\n3/18\nHow to do case study evaluation?\nEvaluation Designs: Qualitative methods\n\n\n\n\n\n9\n3/25\nHow to manage challenges in evaluation?\nOvercome Resistance and Improve Organization Capacity\n\n\n\n\n\n10\n4/1\nWhere does the data come from?\nData Collection: Procedures, instrumentation, practical consideration\nFei-fei Li and ImageNet\n\n\n\n\n11\n4/8\nWhat methods make data tell accurate stories and solve problems?\nData Analysis: Quantitative, qualitative, and mixed analysis\nHans Rosling and Storytelling\n\nProposal\n\n\n12\n4/15\nNo session-Spring Recess\n\n\n\n\n\n\n13\n4/22\nIs the program worthwhile? What happens next?\nEconomic Evaluation and Performance Measurement\nRobert Bullard and Environmental Justice\nCBA of EPA Clean Air Act\nCR\n\n\n14\n4/29\nHow to be an ethical evaluator?\nEthics, Principles, and Standards\nThe Moral Machine\n\n\n\n\n15\n5/6\nPresentation\n\n\n\n\n\n\n16\n5/13\nEvaluation report\n\n\n\n\n\n\n\n\nNote: CR: Case Response"
+    "text": "Week\nDate\nGuiding question\nTopic\nStory\nCase Study\nAssignment\n\n\n\n\n1\n1/28\nWhat is program evaluation? Where are we headed in this course?\nIntroduction and Overview\nJohn Snow\n\n\n\n\n2\n2/4\nWhy do evaluation?\nGoals and Types of Evaluation\nHigh Line Park\nJobs Plus in NYC\nCR1\n\n\n3\n2/11\nHow to identify causal effects?\nLogic and Causal Models\nBombing in Vetnam – War and Development\nNorthwest Housing Alternatives\nCR2\n\n\n4\n2/18\nClass following Monday schedule - No session\n\n\n\n\n\n\n5\n2/25\nHow do I account for everyone involved?\nStakeholder Engagement\nJohn Muir and National Park System\nARPA-E\nCR3\n\n\n6\n3/4\nHow do I use the scientific method in the real world?\nEvaluation Designs: Randomized Experiences\nEsther Duflo and RCTs\nMicrofinance and RCT\nCR4\n\n\n7\n3/11\nWhat if a randomized experiment is not viable?\nEvaluation Designs: Quasi-experiments\nMichael Greenstone and Environmental Economics\nAir Quality and Life-expectancy\nCR5\n\n\n8\n3/18\nHow to do case study evaluation?\nEvaluation Designs: Qualitative methods\n\n\nCR6\n\n\n9\n3/25\nHow to manage challenges in evaluation?\nOvercome Resistance and Improve Organization Capacity\n\nAmerican Red Cross\nCR7\n\n\n10\n4/1\nWhere does the data come from?\nData Collection: Procedures, instrumentation, practical consideration\nFei-fei Li and ImageNet\n\nCR8\n\n\n11\n4/8\nWhat methods make data tell accurate stories and solve problems?\nData Analysis: Quantitative, qualitative, and mixed analysis\nHans Rosling and Storytelling\n\nProposal\n\n\n12\n4/15\nNo session-Spring Recess\n\n\n\n\n\n\n13\n4/22\nIs the program worthwhile? What happens next?\nEconomic Evaluation and Performance Measurement\nRobert Bullard and Environmental Justice\nCBA of EPA Clean Air Act\nCR9\n\n\n14\n4/29\nHow to be an ethical evaluator?\nEthics, Principles, and Standards\nThe Moral Machine\n\nCR10\n\n\n15\n5/6\nPresentation\n\n\n\n\n\n\n16\n5/13\nEvaluation report\n\n\n\n\n\n\n\n\nNote: CR: Case Response"
   },
   {
     "objectID": "2025/lecture1.html#about-me",
@@ -2994,5 +2994,173 @@
     "title": "Lecture 5 Evaluation Designs: Randomized Experiments",
     "section": "Why randomize",
     "text": "Why randomize\n\nInternal and external validity\nFairness\nAcceptance\n“Gloden Standard”"
+  },
+  {
+    "objectID": "2025/lecture6.html#recap-lecture-5",
+    "href": "2025/lecture6.html#recap-lecture-5",
+    "title": "Lecture 6 Evaluation Designs: Quasi Experiments",
+    "section": "Recap lecture 5",
+    "text": "Recap lecture 5\n\nEvaluation design\nRCT\nCase: Microfinance and RCT\nProposal"
+  },
+  {
+    "objectID": "2025/lecture6.html#todays-agenda",
+    "href": "2025/lecture6.html#todays-agenda",
+    "title": "Lecture 6 Evaluation Designs: Quasi Experiments",
+    "section": "Today’s agenda",
+    "text": "Today’s agenda\n\nQuasi-experimental design\n\nRegression discontinuity\nDifference in differences\nMatching\n\nCase: Air quality and Life Expectancy"
+  },
+  {
+    "objectID": "2025/lecture6.html#capturing-the-wedege",
+    "href": "2025/lecture6.html#capturing-the-wedege",
+    "title": "Lecture 6 Evaluation Designs: Quasi Experiments",
+    "section": "Capturing the wedege",
+    "text": "Capturing the wedege\n\n\nSource: Andrew Wheiss"
+  },
+  {
+    "objectID": "2025/lecture6.html#counterfactural-what-if",
+    "href": "2025/lecture6.html#counterfactural-what-if",
+    "title": "Lecture 6 Evaluation Designs: Quasi Experiments",
+    "section": "Counterfactural: What if?",
+    "text": "Counterfactural: What if?\n\nWhat would have happened in the absence of the program?\nHow do we measure what would have happened if the other circumstance had prevailed?"
+  },
+  {
+    "objectID": "2025/lecture6.html#comparison-group",
+    "href": "2025/lecture6.html#comparison-group",
+    "title": "Lecture 6 Evaluation Designs: Quasi Experiments",
+    "section": "Comparison group",
+    "text": "Comparison group\nA valid comparison group:\n\nhas the same characteristics, on average, as the treatment group in the absence of the program;\nremains unaffected by the program; and\nwould react to the program in the same way as the treatment group, if given the program.\n\nNote: Individual level effect is impossible to observe. No individual counterfactuals.\n\nSource: Gertler et al. (2016)"
+  },
+  {
+    "objectID": "2025/lecture6.html#evaluation-designs",
+    "href": "2025/lecture6.html#evaluation-designs",
+    "title": "Lecture 6 Evaluation Designs: Quasi Experiments",
+    "section": "Evaluation designs",
+    "text": "Evaluation designs\n\nExperimental\n\nRandomised controled trial\n\nQuasi-experimental\n\nInstrumental variable (IV)\nRegression discontinuity (RDD)\nDifference in differences (DiD)\n\nObservational (Non-experimental)\n\nTime–series analysis (Pre- and post-intervention studies)\nCross-sectional surveys\nCase studies"
+  },
+  {
+    "objectID": "2025/lecture6.html#story",
+    "href": "2025/lecture6.html#story",
+    "title": "Lecture 6 Evaluation Designs: Quasi Experiments",
+    "section": "Story",
+    "text": "Story\n\nMichael Greenstone and Environmental Economics"
+  },
+  {
+    "objectID": "2025/lecture6.html#references",
+    "href": "2025/lecture6.html#references",
+    "title": "Lecture 6 Evaluation Designs: Quasi Experiments",
+    "section": "",
+    "text": "References\n\n\nChen, Yuyu, Avraham Ebenstein, Michael Greenstone, and Hongbin Li. 2013. “Evidence on the Impact of Sustained Exposure to Air Pollution on Life Expectancy from China’s Huai River Policy.” Proceedings of the National Academy of Sciences, July. https://doi.org/10.1073/pnas.1300018110.\n\n\nGertler, Paul J., Sebastian Martinez, Patrick Premand, Laura B. Rawlings, and Christel M. J. Vermeersch. 2016. Impact Evaluation in Practice, Second Edition. Washington, DC: World Bank. https://doi.org/10.1596/978-1-4648-0779-4.\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He"
+  },
+  {
+    "objectID": "2025/lecture6.html#rdd-design",
+    "href": "2025/lecture6.html#rdd-design",
+    "title": "Lecture 6 Evaluation Designs: Quasi Experiments",
+    "section": "RDD design",
+    "text": "RDD design\nApplication: programs that have a continuous eligibility index with clearly defined eligibility threshold to determine who is eligible and who is not.\n\nThe index must rank people or units in continuous way.\nThe index must have a clearly defined cutoff score.\nThe cutoff must be unique to the program of interest.\nThe score of particular individual or unit cannot be manipulated."
+  },
+  {
+    "objectID": "2025/lecture6.html#rdd-example-farm-baseline",
+    "href": "2025/lecture6.html#rdd-example-farm-baseline",
+    "title": "Lecture 6 Evaluation Designs: Quasi Experiments",
+    "section": "RDD example: Farm baseline",
+    "text": "RDD example: Farm baseline\n\n\nSource: Gertler et al. (2016)"
+  },
+  {
+    "objectID": "2025/lecture6.html#rdd-example-farm-followup",
+    "href": "2025/lecture6.html#rdd-example-farm-followup",
+    "title": "Lecture 6 Evaluation Designs: Quasi Experiments",
+    "section": "RDD example: Farm followup",
+    "text": "RDD example: Farm followup\n\n\nSource: Gertler et al. (2016)"
+  },
+  {
+    "objectID": "2025/lecture6.html#heating-air-quality-and-life-expectancy",
+    "href": "2025/lecture6.html#heating-air-quality-and-life-expectancy",
+    "title": "Lecture 6 Evaluation Designs: Quasi Experiments",
+    "section": "Heating, air quality, and life-expectancy",
+    "text": "Heating, air quality, and life-expectancy\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSource: Chen et al. (2013)"
+  },
+  {
+    "objectID": "2025/lecture6.html#did-design",
+    "href": "2025/lecture6.html#did-design",
+    "title": "Lecture 6 Evaluation Designs: Quasi Experiments",
+    "section": "DiD design",
+    "text": "DiD design\n\nCompares the CHANGES in outcomes over time between the treatment group the comparison group.\nFirst Difference: time-varying factors\nSecond Difference: treatment effects\nTrend differences"
+  },
+  {
+    "objectID": "2025/lecture6.html#did-example-employment",
+    "href": "2025/lecture6.html#did-example-employment",
+    "title": "Lecture 6 Evaluation Designs: Quasi Experiments",
+    "section": "DiD example: Employment",
+    "text": "DiD example: Employment\n\n\nSource: Gertler et al. (2016)"
+  },
+  {
+    "objectID": "2025/lecture6.html#equal-trends-in-did",
+    "href": "2025/lecture6.html#equal-trends-in-did",
+    "title": "Lecture 6 Evaluation Designs: Quasi Experiments",
+    "section": "Equal trends in DiD",
+    "text": "Equal trends in DiD\n\n\nSource: Gertler et al. (2016)"
+  },
+  {
+    "objectID": "2025/lecture6.html#testing-for-equal-trends-in-did",
+    "href": "2025/lecture6.html#testing-for-equal-trends-in-did",
+    "title": "Lecture 6 Evaluation Designs: Quasi Experiments",
+    "section": "Testing for equal trends in DiD",
+    "text": "Testing for equal trends in DiD\n\nRepeated comparisons: year -2, -1, and 0\nPlacebo test: a fake treatment group\nFake treatment group + Fake outcome\nDifferent comparison group"
+  },
+  {
+    "objectID": "2025/lecture6.html#matching",
+    "href": "2025/lecture6.html#matching",
+    "title": "Lecture 6 Evaluation Designs: Quasi Experiments",
+    "section": "Matching",
+    "text": "Matching\n\nMatching uses large data sets and statistical techniques to construct the best possible comparison group based on observed characteristics.\nFor every possible unit under treatment, it attempts to fi nd a nontreatment unit (or set of nontreatment units) that has the most similar characteristics possible."
+  },
+  {
+    "objectID": "2025/lecture6.html#curse-of-dimensionality",
+    "href": "2025/lecture6.html#curse-of-dimensionality",
+    "title": "Lecture 6 Evaluation Designs: Quasi Experiments",
+    "section": "Curse of dimensionality",
+    "text": "Curse of dimensionality\nIncreased matching dimensions reduces matching possibilities.\n\n\nSource: Gertler et al. (2016)"
+  },
+  {
+    "objectID": "2025/lecture6.html#propensity-score-matching",
+    "href": "2025/lecture6.html#propensity-score-matching",
+    "title": "Lecture 6 Evaluation Designs: Quasi Experiments",
+    "section": "Propensity score matching",
+    "text": "Propensity score matching\nUses a probability score to find the best possible comparison group.\n\n\nSource: Gertler et al. (2016)"
+  },
+  {
+    "objectID": "2025/lecture6.html#key-issues-in-matching",
+    "href": "2025/lecture6.html#key-issues-in-matching",
+    "title": "Lecture 6 Evaluation Designs: Quasi Experiments",
+    "section": "Key issues in matching",
+    "text": "Key issues in matching\n\nMatching can use only observed characteristics\nUsing only characteristics that are not affected by the program\nEesimation are only as good as the characteristics used for matching (understanding the criteria for participation)"
+  },
+  {
+    "objectID": "2025/lecture6.html#instrumental-variable-design",
+    "href": "2025/lecture6.html#instrumental-variable-design",
+    "title": "Lecture 6 Evaluation Designs: Quasi Experiments",
+    "section": "Instrumental variable design",
+    "text": "Instrumental variable design\n\nAn instrumental variable:\n\nIt influences the likelihood of participating in a program\n\nOutside of the participant’s control\nUnrelated to the participant’s characteristics\n\nExamples:\n\nTest scores\nGeographic proximity\nMonth of birth\nRainfall"
+  },
+  {
+    "objectID": "stories/michael-greenstone-and-environmental-economics.html",
+    "href": "stories/michael-greenstone-and-environmental-economics.html",
+    "title": "Michael Greenstone and Environmental Economics",
+    "section": "",
+    "text": "Professor in Economics at Univeristy of Chicago"
+  },
+  {
+    "objectID": "stories/michael-greenstone-and-environmental-economics.html#michael-greenstone",
+    "href": "stories/michael-greenstone-and-environmental-economics.html#michael-greenstone",
+    "title": "Michael Greenstone and Environmental Economics",
+    "section": "",
+    "text": "Professor in Economics at Univeristy of Chicago"
+  },
+  {
+    "objectID": "stories/michael-greenstone-and-environmental-economics.html#references",
+    "href": "stories/michael-greenstone-and-environmental-economics.html#references",
+    "title": "Michael Greenstone and Environmental Economics",
+    "section": "References",
+    "text": "References"
   }
 ]

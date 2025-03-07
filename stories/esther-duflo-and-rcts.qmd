@@ -29,7 +29,7 @@ format:
 ## Esther Duflo
 
 - 2019 Nobel Prize in Economics
-- Professor in Economics in MIT
+- Professor in Economics at MIT
 
 ## RCTs
 

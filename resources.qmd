@@ -8,6 +8,7 @@ title: Resources
 
 - Huntington-Klein, Nick. 2022. [The Effect: An Introduction to Research Design and Causality](https://theeffectbook.net/). 1st edition. Boca Raton London New York: Chapman and Hall/CRC.
 - Cunningham, Scott. 2021. [Causal Inference: The Mixtape](https://mixtape.scunning.com/). New Haven London: Yale University Press.
+- Liam F. Beiser-McGrath. 2020.  [Impact Evaluation in Practice: Solutions for Second Edition in R](https://lfbeisermcgrath.github.io/rimpactevaluation/).
 
 
 ### Other
@@ -48,7 +49,7 @@ DAG chart tool: [Dagitty](https://www.dagitty.net/dags.html)
 
 Logic Model [Template](https://docs.google.com/presentation/d/1LnEr6R5wbuk_GOuApBBamLh1XV8-FHGrqgiaTfdkFBE/edit?usp=sharing)
 
-USAID Evaluation Report and Review [Template](https://usaidlearninglab.org/system/files/2022-09/evaluation_report_checklist_and_review_template_final2022.pdf)
+USAID Evaluation Report and Review [Template](/files/tools/ChecklistforAssessingUSAIDEvaluationReports.docx)
 
 Evaluation [Checklists](https://wmich.edu/evaluation/checklists)
 
