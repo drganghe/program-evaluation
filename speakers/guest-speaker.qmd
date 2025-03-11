@@ -1,0 +1,70 @@
+---
+title: "Guest Speaker Name: Presentation title"
+description: "One sentence summary of speaker's sharing."
+image: /files/headshots/you.png
+author: "Guest Speaker"
+date: "2025-01-01"
+#categories: 
+#page-layout: full
+#bibliography: references.bib
+#csl: chicago-syllabus.csl
+#suppress-bibliography: true
+#link-citations: false
+#citations-hover: false
+listing:  #an example of listing external links
+#  template: item-default-external.ejs
+- id: speaker
+  sort: "date asc"
+  type: grid
+  fields: [image, title, subtitle]
+  grid-item-align: center
+  grid-columns: 2
+  image-height: 300px
+#  categories: true
+#  sort-ui: true
+#  filter-ui: true
+  contents:
+    - path: https://linkedin.com  #linkedin profile or personal website
+      image: /files/headshots/you.png
+      title: "Guest Speaker Name"
+#      author: 
+      subtitle: "Affiliation"
+#      date: "2024-03-12"
+#      categories: [] 
+page-navigation: false
+title-block-banner: false
+#toc: false
+---
+
+## Title
+
+Speaker's presentation title
+
+### Time
+
+Tuesday, Date, 6:00PM - 7:00PM
+
+### Venue 
+Online via zoom. Please email for access.
+
+## About
+
+More information about the speaker's session.
+
+## Speaker
+
+:::{#speaker}
+:::
+
+
+### Bio
+
+Speaker's short bio.
+
+## Readings
+
+Background reading or further reading of the speaker's presentation.
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}
