@@ -13,7 +13,7 @@ page-layout: full
 |  5  | 2/25 | How do I account for everyone involved? | [Stakeholder Engagement](lecture4.qmd)  | [John Muir and National Park System](/stories/john-muir-and-national-park.qmd)     | ARPA-E |  CR3 |
 |  6  | 3/4 | How do I use the scientific method in the real world?   | [Evaluation Designs: Randomized Experiences](lecture5.qmd)  | [Esther Duflo and RCTs](/stories/esther-duflo-and-rcts.qmd)     | Microfinance and RCT  | CR4 |
 |  7  | 3/11 | What if a randomized experiment is not viable?   | [Evaluation Designs: Quasi-experiments](lecture6.qmd)  |  [Michael Greenstone and Environmental Economics](/stories/michael-greenstone-and-environmental-economics.qmd)    | Air Quality and Life-expectancy  | CR5  |
-|  8  | 3/18 | How to do case study evaluation?   | Evaluation Designs: Qualitative methods  |   |  |  CR6 |
+|  8  | 3/18 | How to do case study evaluation?   | [Evaluation Designs: Qualitative methods](lecture7.qmd)  | [Elinor Ostrom and Case Studies](/stories/elinor-ostrom-and-case-studies.qmd) | NYC T&G Programs  |  CR6 |
 |  9  | 3/25 | How to manage challenges in evaluation?   | Overcome Resistance and Improve Organization Capacity<br><br>Guest Speaker: Beatrice Teston |  | American Red Cross  | CR7 |
 |  10  | 4/1 | Where does the data come from?   | Data Collection: Procedures, instrumentation, practical consideration  | Fei-fei Li and ImageNet   |  | CR8 |
 |  11  | 4/8 |  What methods make data tell accurate stories and solve problems?  | Data Analysis: Quantitative, qualitative, and mixed analysis  | Hans Rosling and Storytelling  |  | Proposal |

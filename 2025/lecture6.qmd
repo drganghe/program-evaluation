@@ -1,6 +1,6 @@
 ---
 title: "Lecture 6 Evaluation Designs: Quasi Experiments"
-description-meta: "How do I use the scientific method in the real world?"
+description-meta: "What if a randomized experiment is not viable?"
 author: "Gang He"
 date: March 11, 2025
 date-format: long

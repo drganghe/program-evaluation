@@ -2,6 +2,7 @@
   {
     "listing": "/stories.html",
     "items": [
+      "/stories/elinor-ostrom-and-case-studies.html",
       "/stories/michael-greenstone-and-environmental-economics.html",
       "/stories/esther-duflo-and-rcts.html",
       "/stories/john-muir-and-national-park.html",
@@ -23,7 +24,8 @@
       "/2025/lecture3.html",
       "/2025/lecture4.html",
       "/2025/lecture5.html",
-      "/2025/lecture6.html"
+      "/2025/lecture6.html",
+      "/2025/lecture7.html"
     ]
   },
   {

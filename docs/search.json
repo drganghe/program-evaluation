@@ -4,7 +4,7 @@
     "href": "stories.html",
     "title": "Stories",
     "section": "",
-    "text": "Date\n\n\nTitle\n\n\n\n\n\n\nMar 11, 2025\n\n\nMichael Greenstone and Environmental Economics\n\n\n\n\nMar 4, 2025\n\n\nEsther Duflo and Randomized Controlled Trails\n\n\n\n\nFeb 28, 2025\n\n\nJohn Muir and National Park System\n\n\n\n\nFeb 11, 2025\n\n\nBombing in Vetnam – War and Development\n\n\n\n\nFeb 4, 2025\n\n\nHigh Line Park\n\n\n\n\nJan 28, 2025\n\n\nJohn Snow and Evidence Based Analysis\n\n\n\n\nMay 11, 2024\n\n\nThe Moral Machine and Ethics\n\n\n\n\nMay 4, 2024\n\n\nRobert Bullard and Environmental Justice\n\n\n\n\nApr 27, 2024\n\n\nHans Rosling, Data Visualization, and Storytelling\n\n\n\n\nApr 20, 2024\n\n\nFeifei Li, ImageNet, and the AI Revolution\n\n\n\n\nMar 23, 2024\n\n\nHeating in China and Value of Clean Air\n\n\n\n\n\nNo matching items"
+    "text": "Date\n\n\nTitle\n\n\n\n\n\n\nMar 18, 2025\n\n\nElinor Ostrom and Case Studies\n\n\n\n\nMar 11, 2025\n\n\nMichael Greenstone and Environmental Economics\n\n\n\n\nMar 4, 2025\n\n\nEsther Duflo and Randomized Controlled Trails\n\n\n\n\nFeb 28, 2025\n\n\nJohn Muir and National Park System\n\n\n\n\nFeb 11, 2025\n\n\nBombing in Vetnam – War and Development\n\n\n\n\nFeb 4, 2025\n\n\nHigh Line Park\n\n\n\n\nJan 28, 2025\n\n\nJohn Snow and Evidence Based Analysis\n\n\n\n\nMay 11, 2024\n\n\nThe Moral Machine and Ethics\n\n\n\n\nMay 4, 2024\n\n\nRobert Bullard and Environmental Justice\n\n\n\n\nApr 27, 2024\n\n\nHans Rosling, Data Visualization, and Storytelling\n\n\n\n\nApr 20, 2024\n\n\nFeifei Li, ImageNet, and the AI Revolution\n\n\n\n\nMar 23, 2024\n\n\nHeating in China and Value of Clean Air\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "project.html",
@@ -46,7 +46,7 @@
     "href": "lectures.html",
     "title": "Lectures",
     "section": "",
-    "text": "Lecture 1 Introduction\n\n\n\nGang He\n\n\nJan 28, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 2 Goals and Types of Evaluation\n\n\n\nGang He\n\n\nFeb 4, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 3 Logic and Causal Models\n\n\n\nGang He\n\n\nFeb 11, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 4 Stakeholder Analysis, Mapping, and Engagement\n\n\n\nGang He\n\n\nFeb 28, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 5 Evaluation Designs: Randomized Experiments\n\n\n\nGang He\n\n\nMar 4, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 6 Evaluation Designs: Quasi Experiments\n\n\n\nGang He\n\n\nMar 11, 2025\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Lecture 1 Introduction\n\n\n\nGang He\n\n\nJan 28, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 2 Goals and Types of Evaluation\n\n\n\nGang He\n\n\nFeb 4, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 3 Logic and Causal Models\n\n\n\nGang He\n\n\nFeb 11, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 4 Stakeholder Analysis, Mapping, and Engagement\n\n\n\nGang He\n\n\nFeb 28, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 5 Evaluation Designs: Randomized Experiments\n\n\n\nGang He\n\n\nMar 4, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 6 Evaluation Designs: Quasi Experiments\n\n\n\nGang He\n\n\nMar 11, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 7 Evaluation Designs: Qualitative Methods\n\n\n\nGang He\n\n\nMar 18, 2025\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "stories/feifei-li-imagenet-and-ai-revolution.html",
@@ -2174,7 +2174,7 @@
     "href": "2025/schedule.html",
     "title": "Spring 2025 Course Schedule",
     "section": "",
-    "text": "Week\nDate\nGuiding question\nTopic\nStory\nCase Study\nAssignment\n\n\n\n\n1\n1/28\nWhat is program evaluation? Where are we headed in this course?\nIntroduction and Overview\nJohn Snow\n\n\n\n\n2\n2/4\nWhy do evaluation?\nGoals and Types of Evaluation\nHigh Line Park\nJobs Plus in NYC\nCR1\n\n\n3\n2/11\nHow to identify causal effects?\nLogic and Causal Models\nBombing in Vetnam – War and Development\nNorthwest Housing Alternatives\nCR2\n\n\n4\n2/18\nClass following Monday schedule - No session\n\n\n\n\n\n\n5\n2/25\nHow do I account for everyone involved?\nStakeholder Engagement\nJohn Muir and National Park System\nARPA-E\nCR3\n\n\n6\n3/4\nHow do I use the scientific method in the real world?\nEvaluation Designs: Randomized Experiences\nEsther Duflo and RCTs\nMicrofinance and RCT\nCR4\n\n\n7\n3/11\nWhat if a randomized experiment is not viable?\nEvaluation Designs: Quasi-experiments\nMichael Greenstone and Environmental Economics\nAir Quality and Life-expectancy\nCR5\n\n\n8\n3/18\nHow to do case study evaluation?\nEvaluation Designs: Qualitative methods\n\n\nCR6\n\n\n9\n3/25\nHow to manage challenges in evaluation?\nOvercome Resistance and Improve Organization CapacityGuest Speaker: Beatrice Teston\n\nAmerican Red Cross\nCR7\n\n\n10\n4/1\nWhere does the data come from?\nData Collection: Procedures, instrumentation, practical consideration\nFei-fei Li and ImageNet\n\nCR8\n\n\n11\n4/8\nWhat methods make data tell accurate stories and solve problems?\nData Analysis: Quantitative, qualitative, and mixed analysis\nHans Rosling and Storytelling\n\nProposal\n\n\n12\n4/15\nNo session-Spring Recess\n\n\n\n\n\n\n13\n4/22\nIs the program worthwhile? What happens next?\nEconomic Evaluation and Performance Measurement\nRobert Bullard and Environmental Justice\nCBA of EPA Clean Air Act\nCR9\n\n\n14\n4/29\nHow to be an ethical evaluator?\nEthics, Principles, and Standards\nThe Moral Machine\n\nCR10\n\n\n15\n5/6\nPresentation\n\n\n\n\n\n\n16\n5/13\nEvaluation report\n\n\n\n\n\n\n\n\nNote: CR: Case Response"
+    "text": "Week\nDate\nGuiding question\nTopic\nStory\nCase Study\nAssignment\n\n\n\n\n1\n1/28\nWhat is program evaluation? Where are we headed in this course?\nIntroduction and Overview\nJohn Snow\n\n\n\n\n2\n2/4\nWhy do evaluation?\nGoals and Types of Evaluation\nHigh Line Park\nJobs Plus in NYC\nCR1\n\n\n3\n2/11\nHow to identify causal effects?\nLogic and Causal Models\nBombing in Vetnam – War and Development\nNorthwest Housing Alternatives\nCR2\n\n\n4\n2/18\nClass following Monday schedule - No session\n\n\n\n\n\n\n5\n2/25\nHow do I account for everyone involved?\nStakeholder Engagement\nJohn Muir and National Park System\nARPA-E\nCR3\n\n\n6\n3/4\nHow do I use the scientific method in the real world?\nEvaluation Designs: Randomized Experiences\nEsther Duflo and RCTs\nMicrofinance and RCT\nCR4\n\n\n7\n3/11\nWhat if a randomized experiment is not viable?\nEvaluation Designs: Quasi-experiments\nMichael Greenstone and Environmental Economics\nAir Quality and Life-expectancy\nCR5\n\n\n8\n3/18\nHow to do case study evaluation?\nEvaluation Designs: Qualitative methods\nElinor Ostrom and Case Studies\nNYC T&G Programs\nCR6\n\n\n9\n3/25\nHow to manage challenges in evaluation?\nOvercome Resistance and Improve Organization CapacityGuest Speaker: Beatrice Teston\n\nAmerican Red Cross\nCR7\n\n\n10\n4/1\nWhere does the data come from?\nData Collection: Procedures, instrumentation, practical consideration\nFei-fei Li and ImageNet\n\nCR8\n\n\n11\n4/8\nWhat methods make data tell accurate stories and solve problems?\nData Analysis: Quantitative, qualitative, and mixed analysis\nHans Rosling and Storytelling\n\nProposal\n\n\n12\n4/15\nNo session-Spring Recess\n\n\n\n\n\n\n13\n4/22\nIs the program worthwhile? What happens next?\nEconomic Evaluation and Performance Measurement\nRobert Bullard and Environmental Justice\nCBA of EPA Clean Air Act\nCR9\n\n\n14\n4/29\nHow to be an ethical evaluator?\nEthics, Principles, and Standards\nThe Moral Machine\n\nCR10\n\n\n15\n5/6\nPresentation\n\n\n\n\n\n\n16\n5/13\nEvaluation report\n\n\n\n\n\n\n\n\nNote: CR: Case Response"
   },
   {
     "objectID": "2025/lecture1.html#about-me",
@@ -3239,5 +3239,110 @@
     "title": "Michael Greenstone and Environmental Economics",
     "section": "Thoughts for Evaluation",
     "text": "Thoughts for Evaluation\n\nEconomic shock and natural experience\nMake use of regulatory and climate data\nCommunication for policy change"
+  },
+  {
+    "objectID": "2025/lecture7.html#recap-lecture-6",
+    "href": "2025/lecture7.html#recap-lecture-6",
+    "title": "Lecture 7 Evaluation Designs: Qualitative Methods",
+    "section": "Recap lecture 6",
+    "text": "Recap lecture 6\n\nQuasi-experimental design\n\nRegression discontinuity\nDifference in differences\nMatching\n\nCase: Air quality and Life Expectancy"
+  },
+  {
+    "objectID": "2025/lecture7.html#todays-agenda",
+    "href": "2025/lecture7.html#todays-agenda",
+    "title": "Lecture 7 Evaluation Designs: Qualitative Methods",
+    "section": "Today’s agenda",
+    "text": "Today’s agenda\n\nCase Study\nCase: NYC Gifted and Talented (G&T) Program"
+  },
+  {
+    "objectID": "2025/lecture7.html#capturing-the-wedege",
+    "href": "2025/lecture7.html#capturing-the-wedege",
+    "title": "Lecture 7 Evaluation Designs: Qualitative Methods",
+    "section": "Capturing the wedege",
+    "text": "Capturing the wedege\n\n\nSource: Andrew Wheiss"
+  },
+  {
+    "objectID": "2025/lecture7.html#evaluation-designs",
+    "href": "2025/lecture7.html#evaluation-designs",
+    "title": "Lecture 7 Evaluation Designs: Qualitative Methods",
+    "section": "Evaluation designs",
+    "text": "Evaluation designs\n\nExperimental\n\nRandomised controled trial\n\nQuasi-experimental\n\nInstrumental variable (IV)\nRegression discontinuity (RDD)\nDifference in differences (DiD)\n\nObservational (Non-experimental)\n\nTime–series analysis (Pre- and post-intervention studies)\nCross-sectional surveys\nCase studies"
+  },
+  {
+    "objectID": "2025/lecture7.html#case-study",
+    "href": "2025/lecture7.html#case-study",
+    "title": "Lecture 7 Evaluation Designs: Qualitative Methods",
+    "section": "Case study",
+    "text": "Case study\n\nThe “Why” and “How” questions\nExam program implementation\nProgram must adapt to organizational context and local conditions\n\n\nSource: Newcomer, Hatry, and Wholey (2015)"
+  },
+  {
+    "objectID": "2025/lecture7.html#three-categories",
+    "href": "2025/lecture7.html#three-categories",
+    "title": "Lecture 7 Evaluation Designs: Qualitative Methods",
+    "section": "Three categories",
+    "text": "Three categories\n\nExploratory: defining the questions and hypotheses\nDescriptive: what is happening\nExplanatory: local cause-and-effect relationships\n\n\nSource: Newcomer, Hatry, and Wholey (2015)"
+  },
+  {
+    "objectID": "2025/lecture7.html#steps-in-case-studies",
+    "href": "2025/lecture7.html#steps-in-case-studies",
+    "title": "Lecture 7 Evaluation Designs: Qualitative Methods",
+    "section": "Steps in case studies",
+    "text": "Steps in case studies\n\n\nDesigning the Case Study.\n\nDefine the research questions.\n\nDevelop a framework to identify study dimensions.\n\nDetermine the unit of analysis.\n\nEstablish a single-case or multiple-case design.\n\nConducting the Case Study.\n\nDevelop protocols.\n\nSelect qualified staff and provide training.\n\nImplement strategies for collecting data, typically from multiple sources.\n\nAnalyzing the Data.\n\nCreate a database.\nUse specific techniques to analyze the data.\n\nPreparing the Report.\n\nDetermine the audience and the organizational structure for the report.\n\nInclude context and data collection strategies in addition to findings.\n\nOutline limitations or cautions.\n\n\n\n\n\nSource: Newcomer, Hatry, and Wholey (2015)"
+  },
+  {
+    "objectID": "2025/lecture7.html#example-case-study-of-a-food-assistance-program",
+    "href": "2025/lecture7.html#example-case-study-of-a-food-assistance-program",
+    "title": "Lecture 7 Evaluation Designs: Qualitative Methods",
+    "section": "Example: Case study of a food assistance program",
+    "text": "Example: Case study of a food assistance program\n\n\nSource: Newcomer, Hatry, and Wholey (2015)"
+  },
+  {
+    "objectID": "2025/lecture7.html#designing-case-study",
+    "href": "2025/lecture7.html#designing-case-study",
+    "title": "Lecture 7 Evaluation Designs: Qualitative Methods",
+    "section": "Designing case study",
+    "text": "Designing case study\n\nDefine the research questions\nDevelop a framework to identify study dimensions\nDetermine the unit of analysis\nEstablish a single-case or multiple-case design\nSelect cases or sites"
+  },
+  {
+    "objectID": "2025/lecture7.html#avoiding-common-pitfalls",
+    "href": "2025/lecture7.html#avoiding-common-pitfalls",
+    "title": "Lecture 7 Evaluation Designs: Qualitative Methods",
+    "section": "Avoiding common pitfalls",
+    "text": "Avoiding common pitfalls\n\n\n\n\n\n\n\n\nProblem\nSolution\n\n\n\n\nLimited generalization\nSites selection  Acknowledge limitation\n\n\nToo much data\nResearch framework  Protocols\n\n\nImpartiality\nReview interview  Multiple data collection  Supervision and training\n\n\nPremature conclusions\nMultiple data analysis  Rival hypotheses\n\n\nNarrative bias\nUnderstand audience  Explicit interpretation"
+  },
+  {
+    "objectID": "2025/lecture7.html#story",
+    "href": "2025/lecture7.html#story",
+    "title": "Lecture 7 Evaluation Designs: Qualitative Methods",
+    "section": "Story",
+    "text": "Story\n\nEliot Ostrom and Case Studies"
+  },
+  {
+    "objectID": "2025/lecture7.html#references",
+    "href": "2025/lecture7.html#references",
+    "title": "Lecture 7 Evaluation Designs: Qualitative Methods",
+    "section": "",
+    "text": "References\n\n\nNewcomer, Kathryn E., Harry P. Hatry, and Joseph S. Wholey. 2015. Handbook of Practical Program Evaluation. 4th edition. San Francisco: Jossey-Bass.\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He"
+  },
+  {
+    "objectID": "stories/elinor-ostrom-and-case-studies.html",
+    "href": "stories/elinor-ostrom-and-case-studies.html",
+    "title": "Elinor Ostrom and Case Studies",
+    "section": "",
+    "text": "Professor in University of Mininesota\nNobel Prize in Economics (1987)"
+  },
+  {
+    "objectID": "stories/elinor-ostrom-and-case-studies.html#elinor-ostrom",
+    "href": "stories/elinor-ostrom-and-case-studies.html#elinor-ostrom",
+    "title": "Elinor Ostrom and Case Studies",
+    "section": "",
+    "text": "Professor in University of Mininesota\nNobel Prize in Economics (1987)"
+  },
+  {
+    "objectID": "stories/elinor-ostrom-and-case-studies.html#references",
+    "href": "stories/elinor-ostrom-and-case-studies.html#references",
+    "title": "Elinor Ostrom and Case Studies",
+    "section": "References",
+    "text": "References"
   }
 ]
