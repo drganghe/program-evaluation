@@ -150,9 +150,6 @@ Source: @newcomer_handbook_2015
 :::
 
 
-
-
-
 ------
 
 ### References
