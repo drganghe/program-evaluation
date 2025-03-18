@@ -62,6 +62,30 @@ Source: [Andrew Wheiss](https://evalsp24.classes.andrewheiss.com/)
   - Case studies
 
 
+## Case study questions
+
+:::{style="font-size:24px;"}
+| Item                   | Assignment                                                    |
+| :--------------------- | :--------------------------------------------------------------|
+| Exercise| Suppose you are working for GAO and have been asked whether the informed consent requirements for experimentation with human subjects are being properly implemented. Suppose further that we visit three sites where humans are used as subjects for research— a hospital, a university, and a clinic— and that we review the informed consent procedures at each site.   |
+| Question 1         | Is this an application of the case study method? Why?    |
+| Question 2          | If not, would case studies be appropriate for answering the question we were asked? Why? |
+| Question 3          | What is your definition of “case study”? |
+:::
+
+:::footer
+Source: Adapted from GAO, [Case Study Evaluations](https://www.gao.gov/assets/pemd-10.1.9.pdf)
+:::
+
+## What is a case study?
+
+>A case study is a method for learning about a complex instance, based on a comprehensive understanding of that instance obtained by extensive description and analysis of that instance taken as a whole and in its context.
+
+:::footer
+Source: GAO, [Case Study Evaluations](https://www.gao.gov/assets/pemd-10.1.9.pdf)
+:::
+
+
 ## Case study
 
 - The "Why" and "How" questions
@@ -73,14 +97,19 @@ Source: @newcomer_handbook_2015
 :::
 
 
-## Three categories
+## Categories
 
-- Exploratory: defining the questions and hypotheses 
-- Descriptive: what is happening
-- Explanatory: local cause-and-effect relationships
+::: {style="font-size:32px;"}
+- Illustrative: descritpive, add realism and in-depth examples
+- Exploratory: descritpive, defining the questions and hypotheses for later investigation
+- Critical instance: critical test of an assertion about program, probelem or strategy
+- Program implementation: operation and norms about implementation
+- Program effects: cause-and-effect relationships, involve multiple sites and multiple methods
+- Cumulative: brings together findings from many case studies
+:::
 
 :::footer
-Source: @newcomer_handbook_2015
+Source: @newcomer_handbook_2015, GAO, [Case Study Evaluations](https://www.gao.gov/assets/pemd-10.1.9.pdf)
 :::
 
 
@@ -146,8 +175,15 @@ Source: @newcomer_handbook_2015
 ## Story
 
 :::{style="text-align:center;"}
-[Eliot Ostrom and Case Studies](/stories/elinor-ostrom-and-case-studies.qmd)
+[Elinor Ostrom and Case Studies](/stories/elinor-ostrom-and-case-studies.qmd)
 :::
+
+
+## Summary
+
+- Objectivities
+
+- Generalization and replication
 
 
 ------
