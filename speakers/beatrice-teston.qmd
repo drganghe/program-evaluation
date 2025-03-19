@@ -1,0 +1,77 @@
+---
+title: "Beatrice Teston: Evaluation in Citywide Emergency Response"
+description: "Evaluation in Citywide Emergency Response"
+image: /files/headshots/beatrice-teston.jpg
+author: "Guest Speaker"
+date: "2025-03-25"
+#categories: 
+#page-layout: full
+#bibliography: references.bib
+#csl: chicago-syllabus.csl
+#suppress-bibliography: true
+#link-citations: false
+#citations-hover: false
+listing:  #an example of listing external links
+#  template: item-default-external.ejs
+- id: speaker
+  sort: "date asc"
+  type: grid
+  fields: [image, title, subtitle]
+  grid-item-align: center
+  grid-columns: 2
+  image-height: 350px
+#  categories: true
+#  sort-ui: true
+#  filter-ui: true
+  contents:
+    - path: https://www.linkedin.com/in/testonb/    #linkedin profile or personal website
+      image: /files/headshots/beatrice-teston.jpg
+      title: "Beatrice Teston, MPA"
+#      author: 
+      subtitle: "Monitoring and Evaluation Program Manager,NYC Emergency Management"
+#      date: "2024-03-12"
+#      categories: [] 
+page-navigation: false
+title-block-banner: false
+#toc: false
+---
+
+## Title
+
+Evaluation in Citywide Emergency Response
+
+### Time
+
+Tuesday, March 25, 2025
+
+6:00PM - 7:00PM
+
+
+### Venue 
+
+Online via zoom. Please email for access.
+
+## About
+
+Evaluation in the field of emergency management involves analyzing emergency response operations through after-action reviews. An After-Action Report (AAR) is a structured analysis conducted after an event/incident to identify best practices, challenges, and formulate corrective actions that can be integrated into future operations to support continuous improvement efforts.
+
+This presentation will cover the after-action process, methods for evaluation
+(quantitative and qualitative), and evaluation challenges we face in the field of
+emergency management.
+
+## Speaker
+
+:::{#speaker}
+:::
+
+
+### Bio
+
+Beatrice is currently the Monitoring and Evaluation Program Manager at New York City Emergency Management (NYCEM) with professional experience in public administration, policy analysis, and emergency management. In her role, she works across city agencies and community-based organizations to identify areas of improvement in citywide emergency operations. She also formerly served on the planning team at NYCEM to support the emergency planning process in different hazard and emergency capability areas.  
+ 
+Beatrice received her Bachelor of Science from American University in Washington, DC and her Master of Public Administration from Baruch College in 2021. 
+
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

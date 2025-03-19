@@ -6,8 +6,11 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Guest Speaker">
+<meta name="dcterms.date" content="2025-03-25">
+<meta name="description" content="Evaluation in Citywide Emergency Response">
 
-<title>Spring 2025 Course Schedule – Program Evaluation</title>
+<title>Beatrice Teston: Evaluation in Citywide Emergency Response – Program Evaluation</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,6 +33,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-listing/list.min.js"></script>
+<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="../site_libs/quarto-html/quarto.js"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -65,6 +70,35 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-speaker .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-image','listing-title','listing-subtitle',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-image","listing-title","listing-subtitle"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-speaker'] = new List('listing-speaker', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-8H8JSB1VP7"></script>
 
 <script type="text/javascript">
@@ -75,14 +109,45 @@ gtag('js', new Date());
 gtag('config', 'G-8H8JSB1VP7', { 'anonymize_ip': true});
 </script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="../styles.css">
-<meta property="og:title" content="Spring 2025 Course Schedule – Program Evaluation">
-<meta property="og:description" content="Program Evaluation open course developed by Dr.&nbsp;Gang He.">
+<meta property="og:title" content="Beatrice Teston: Evaluation in Citywide Emergency Response – Program Evaluation">
+<meta property="og:description" content="Evaluation in Citywide Emergency Response">
+<meta property="og:image" content="https://drganghe.github.io/program-evaluation/files/headshots/beatrice-teston.jpg">
 <meta property="og:site_name" content="Program Evaluation">
-<meta name="twitter:title" content="Spring 2025 Course Schedule – Program Evaluation">
-<meta name="twitter:description" content="Program Evaluation open course developed by Dr.&nbsp;Gang He.">
-<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Beatrice Teston: Evaluation in Citywide Emergency Response – Program Evaluation">
+<meta name="twitter:description" content="Evaluation in Citywide Emergency Response">
+<meta name="twitter:image" content="https://drganghe.github.io/program-evaluation/files/headshots/beatrice-teston.jpg">
+<meta name="twitter:card" content="summary_large_image">
 </head>
 
 <body class="nav-fixed">
@@ -107,7 +172,7 @@ gtag('config', 'G-8H8JSB1VP7', { 'anonymize_ip': true});
 <span class="menu-text">Syllabus</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="../2025/schedule.html" aria-current="page"> 
+    <a class="nav-link" href="../2025/schedule.html"> 
 <span class="menu-text">Schedule</span></a>
   </li>  
   <li class="nav-item">
@@ -161,25 +226,57 @@ gtag('config', 'G-8H8JSB1VP7', { 'anonymize_ip': true});
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#title" id="toc-title" class="nav-link active" data-scroll-target="#title">Title</a>
+  <ul class="collapse">
+  <li><a href="#time" id="toc-time" class="nav-link" data-scroll-target="#time">Time</a></li>
+  <li><a href="#venue" id="toc-venue" class="nav-link" data-scroll-target="#venue">Venue</a></li>
+  </ul></li>
+  <li><a href="#about" id="toc-about" class="nav-link" data-scroll-target="#about">About</a></li>
+  <li><a href="#speaker" id="toc-speaker" class="nav-link" data-scroll-target="#speaker">Speaker</a>
+  <ul class="collapse">
+  <li><a href="#bio" id="toc-bio" class="nav-link" data-scroll-target="#bio">Bio</a></li>
+  </ul></li>
+  </ul>
+<div class="toc-actions"><ul><li><a href="https://github.com/drganghe/program-evaluation/edit/main/speakers/beatrice-teston.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/drganghe/program-evaluation/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li><li><a href="https://github.com/drganghe/program-evaluation/blob/main/speakers/beatrice-teston.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li></ul></div></nav>
     </div>
 <!-- main -->
-<main class="content column-page" id="quarto-document-content">
+<main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Spring 2025 Course Schedule</h1>
+<h1 class="title">Beatrice Teston: Evaluation in Citywide Emergency Response</h1>
+</div>
+
+<div>
+  <div class="description">
+    Evaluation in Citywide Emergency Response
+  </div>
 </div>
 
 
+<div class="quarto-title-meta">
 
-<div class="quarto-title-meta column-page">
-
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>Guest Speaker </p>
+          </div>
+  </div>
     
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">March 25, 2025</p>
+    </div>
+  </div>
   
     
   </div>
@@ -189,170 +286,69 @@ gtag('config', 'G-8H8JSB1VP7', { 'anonymize_ip': true});
 </header>
 
 
-<div class="table-responsive">
-<table class="table-striped caption-top table">
-<thead>
-<tr class="header">
-<th>Week</th>
-<th>Date</th>
-<th>Guiding question</th>
-<th>Topic</th>
-<th>Story</th>
-<th>Case Study</th>
-<th>Assignment</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>1</td>
-<td>1/28</td>
-<td>What is program evaluation? Where are we headed in this course?</td>
-<td><a href="../2025/lecture1.html">Introduction and Overview</a></td>
-<td><a href="../stories/john-snow-and-evidence-based-analysis.html">John Snow</a></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td>2</td>
-<td>2/4</td>
-<td>Why do evaluation?</td>
-<td><a href="../2025/lecture2.html">Goals and Types of Evaluation</a></td>
-<td><a href="../stories/high-line-park.html">High Line Park</a></td>
-<td>Jobs Plus in NYC</td>
-<td>CR1</td>
-</tr>
-<tr class="odd">
-<td>3</td>
-<td>2/11</td>
-<td>How to identify causal effects?</td>
-<td><a href="../2025/lecture3.html">Logic and Causal Models</a></td>
-<td><a href="../stories/bombing-in-vietnam-war-and-development.html">Bombing in Vetnam – War and Development</a></td>
-<td>Northwest Housing Alternatives</td>
-<td>CR2</td>
-</tr>
-<tr class="even">
-<td>4</td>
-<td>2/18</td>
-<td>Class following Monday schedule - No session</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>5</td>
-<td>2/25</td>
-<td>How do I account for everyone involved?</td>
-<td><a href="../2025/lecture4.html">Stakeholder Engagement</a></td>
-<td><a href="../stories/john-muir-and-national-park.html">John Muir and National Park System</a></td>
-<td>ARPA-E</td>
-<td>CR3</td>
-</tr>
-<tr class="even">
-<td>6</td>
-<td>3/4</td>
-<td>How do I use the scientific method in the real world?</td>
-<td><a href="../2025/lecture5.html">Evaluation Designs: Randomized Experiences</a></td>
-<td><a href="../stories/esther-duflo-and-rcts.html">Esther Duflo and RCTs</a></td>
-<td>Microfinance and RCT</td>
-<td>CR4</td>
-</tr>
-<tr class="odd">
-<td>7</td>
-<td>3/11</td>
-<td>What if a randomized experiment is not viable?</td>
-<td><a href="../2025/lecture6.html">Evaluation Designs: Quasi-experiments</a></td>
-<td><a href="../stories/michael-greenstone-and-environmental-economics.html">Michael Greenstone and Environmental Economics</a></td>
-<td>Air Quality and Life-expectancy</td>
-<td>CR5</td>
-</tr>
-<tr class="even">
-<td>8</td>
-<td>3/18</td>
-<td>How to do case study evaluation?</td>
-<td><a href="../2025/lecture7.html">Evaluation Designs: Qualitative methods</a></td>
-<td><a href="../stories/elinor-ostrom-and-case-studies.html">Elinor Ostrom and Case Studies</a></td>
-<td>NYC T&amp;G Programs</td>
-<td>CR6</td>
-</tr>
-<tr class="odd">
-<td>9</td>
-<td>3/25</td>
-<td>How to manage challenges in evaluation?</td>
-<td>Overcome Resistance and Improve Organization Capacity<br><br>Guest Speaker: <a href="../speakers/beatrice-teston.html">Beatrice Teston</a></td>
-<td></td>
-<td>American Red Cross</td>
-<td>CR7</td>
-</tr>
-<tr class="even">
-<td>10</td>
-<td>4/1</td>
-<td>Where does the data come from?</td>
-<td>Data Collection: Procedures, instrumentation, practical consideration</td>
-<td>Fei-fei Li and ImageNet</td>
-<td></td>
-<td>CR8</td>
-</tr>
-<tr class="odd">
-<td>11</td>
-<td>4/8</td>
-<td>What methods make data tell accurate stories and solve problems?</td>
-<td>Data Analysis: Quantitative, qualitative, and mixed analysis</td>
-<td>Hans Rosling and Storytelling</td>
-<td></td>
-<td>Proposal</td>
-</tr>
-<tr class="even">
-<td>12</td>
-<td>4/15</td>
-<td>No session-Spring Recess</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>13</td>
-<td>4/22</td>
-<td>Is the program worthwhile? What happens next?</td>
-<td>Economic Evaluation and Performance Measurement</td>
-<td>Robert Bullard and Environmental Justice</td>
-<td>CBA of EPA Clean Air Act</td>
-<td>CR9</td>
-</tr>
-<tr class="even">
-<td>14</td>
-<td>4/29</td>
-<td>How to be an ethical evaluator?</td>
-<td>Ethics, Principles, and Standards</td>
-<td>The Moral Machine</td>
-<td></td>
-<td>CR10</td>
-</tr>
-<tr class="odd">
-<td>15</td>
-<td>5/6</td>
-<td>Presentation</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td>16</td>
-<td>5/13</td>
-<td>Evaluation report</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+<section id="title" class="level2">
+<h2 class="anchored" data-anchor-id="title">Title</h2>
+<p>Evaluation in Citywide Emergency Response</p>
+<section id="time" class="level3">
+<h3 class="anchored" data-anchor-id="time">Time</h3>
+<p>Tuesday, March 25, 2025</p>
+<p>6:00PM - 7:00PM</p>
+</section>
+<section id="venue" class="level3">
+<h3 class="anchored" data-anchor-id="venue">Venue</h3>
+<p>Online via zoom. Please email for access.</p>
+</section>
+</section>
+<section id="about" class="level2">
+<h2 class="anchored" data-anchor-id="about">About</h2>
+<p>Evaluation in the field of emergency management involves analyzing emergency response operations through after-action reviews. An After-Action Report (AAR) is a structured analysis conducted after an event/incident to identify best practices, challenges, and formulate corrective actions that can be integrated into future operations to support continuous improvement efforts.</p>
+<p>This presentation will cover the after-action process, methods for evaluation (quantitative and qualitative), and evaluation challenges we face in the field of emergency management.</p>
+</section>
+<section id="speaker" class="level2">
+<h2 class="anchored" data-anchor-id="speaker">Speaker</h2>
+<div id="listing-speaker" class="quarto-listing quarto-listing-container-grid">
+<div class="list grid quarto-listing-cols-2">
+<div class="g-col-1" data-index="0">
+<a href="https://www.linkedin.com/in/testonb/" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-center">
+<p class="card-img-top">
+<img loading="lazy" src="../files/headshots/beatrice-teston.jpg" class="thumbnail-image card-img" style="height: 350px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Beatrice Teston, MPA
+</h5>
+<div class="card-subtitle listing-subtitle">
+Monitoring and Evaluation Program Manager,NYC Emergency Management
 </div>
-<p>Note: CR: Case Response</p>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div>
+<section id="bio" class="level3">
+<h3 class="anchored" data-anchor-id="bio">Bio</h3>
+<p>Beatrice is currently the Monitoring and Evaluation Program Manager at New York City Emergency Management (NYCEM) with professional experience in public administration, policy analysis, and emergency management. In her role, she works across city agencies and community-based organizations to identify areas of improvement in citywide emergency operations. She also formerly served on the planning team at NYCEM to support the emergency planning process in different hazard and emergency capability areas.</p>
+<p>Beatrice received her Bachelor of Science from American University in Washington, DC and her Master of Public Administration from Baruch College in 2021.</p>
+<!--Include social share buttons-->
+<!-- 
+AddToAny check more: https://www.addtoany.com/buttons/for/website 
+Using includes will make edits easier, will only need to add or remove button here if needed.
+https://quarto.org/docs/authoring/includes.html
+-->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_bluesky"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
+</div>
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
 
 
+
+</section>
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -786,7 +782,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </div>   
     <div class="nav-footer-center">
       &nbsp;
-    </div>
+    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/drganghe/program-evaluation/edit/main/speakers/beatrice-teston.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/drganghe/program-evaluation/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li><li><a href="https://github.com/drganghe/program-evaluation/blob/main/speakers/beatrice-teston.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li></ul></div></div>
     <div class="nav-footer-right">
       <ul class="footer-items list-unstyled">
     <li class="nav-item compact">

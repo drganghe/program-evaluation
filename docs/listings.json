@@ -31,5 +31,15 @@
   {
     "listing": "/speakers/guest-speaker.html",
     "items": []
+  },
+  {
+    "listing": "/speakers/beatrice-teston.html",
+    "items": []
+  },
+  {
+    "listing": "/speakers.html",
+    "items": [
+      "/speakers/beatrice-teston.html"
+    ]
   }
 ]

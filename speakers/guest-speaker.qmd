@@ -2,7 +2,7 @@
 title: "Guest Speaker Name: Presentation title"
 description: "One sentence summary of speaker's sharing."
 image: /files/headshots/you.png
-author: "Guest Speaker"
+author: "Example Author"
 date: "2025-01-01"
 #categories: 
 #page-layout: full

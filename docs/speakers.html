@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Spring 2025 Course Schedule – Program Evaluation</title>
+<title>Guest Speakers – Program Evaluation</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,22 +23,24 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="../site_libs/quarto-nav/headroom.min.js"></script>
-<script src="../site_libs/clipboard/clipboard.min.js"></script>
-<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="../site_libs/quarto-search/fuse.min.js"></script>
-<script src="../site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="../">
-<script src="../site_libs/quarto-html/quarto.js"></script>
-<script src="../site_libs/quarto-html/popper.min.js"></script>
-<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="../site_libs/quarto-html/anchor.min.js"></script>
-<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-549806ee2085284f45b00abea8c6df48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-0be10a02aa56032eb6fe331f79f59765.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
+<script src="site_libs/quarto-html/quarto.js"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-549806ee2085284f45b00abea8c6df48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap-0be10a02aa56032eb6fe331f79f59765.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -65,6 +67,35 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-all-speakers .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-image','listing-title','listing-subtitle','listing-description','listing-author','listing-date',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description","listing-categories"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-all-speakers'] = new List('listing-all-speakers', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-8H8JSB1VP7"></script>
 
 <script type="text/javascript">
@@ -75,13 +106,41 @@ gtag('js', new Date());
 gtag('config', 'G-8H8JSB1VP7', { 'anonymize_ip': true});
 </script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
-<link rel="stylesheet" href="../styles.css">
-<meta property="og:title" content="Spring 2025 Course Schedule – Program Evaluation">
-<meta property="og:description" content="Program Evaluation open course developed by Dr.&nbsp;Gang He.">
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
+<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="./custom.css">
+<meta property="og:title" content="Guest Speakers – Program Evaluation">
 <meta property="og:site_name" content="Program Evaluation">
-<meta name="twitter:title" content="Spring 2025 Course Schedule – Program Evaluation">
-<meta name="twitter:description" content="Program Evaluation open course developed by Dr.&nbsp;Gang He.">
+<meta name="twitter:title" content="Guest Speakers – Program Evaluation">
 <meta name="twitter:card" content="summary">
 </head>
 
@@ -92,7 +151,7 @@ gtag('config', 'G-8H8JSB1VP7', { 'anonymize_ip': true});
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="../index.html">
+    <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">Program Evaluation</span>
     </a>
   </div>
@@ -103,27 +162,27 @@ gtag('config', 'G-8H8JSB1VP7', { 'anonymize_ip': true});
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../syllabus.html"> 
+    <a class="nav-link" href="./syllabus.html"> 
 <span class="menu-text">Syllabus</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="../2025/schedule.html" aria-current="page"> 
+    <a class="nav-link" href="./2025/schedule.html"> 
 <span class="menu-text">Schedule</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../lectures.html"> 
+    <a class="nav-link" href="./lectures.html"> 
 <span class="menu-text">Lectures</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../stories.html"> 
+    <a class="nav-link" href="./stories.html"> 
 <span class="menu-text">Stories</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../project.html"> 
+    <a class="nav-link" href="./project.html"> 
 <span class="menu-text">Project</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../resources.html"> 
+    <a class="nav-link" href="./resources.html"> 
 <span class="menu-text">Resources</span></a>
   </li>  
   <li class="nav-item dropdown ">
@@ -132,7 +191,7 @@ gtag('config', 'G-8H8JSB1VP7', { 'anonymize_ip': true});
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-archive">    
         <li>
-    <a class="dropdown-item" href="../2024/schedule.html">
+    <a class="dropdown-item" href="./2024/schedule.html">
  <span class="dropdown-text">Spring 2024</span></a>
   </li>  
     </ul>
@@ -164,20 +223,20 @@ gtag('config', 'G-8H8JSB1VP7', { 'anonymize_ip': true});
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    </div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
-<main class="content column-page" id="quarto-document-content">
+<main class="content column-page-left" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Spring 2025 Course Schedule</h1>
+<h1 class="title">Guest Speakers</h1>
 </div>
 
 
 
-<div class="quarto-title-meta column-page">
+<div class="quarto-title-meta column-page-left">
 
     
   
@@ -189,168 +248,88 @@ gtag('config', 'G-8H8JSB1VP7', { 'anonymize_ip': true});
 </header>
 
 
-<div class="table-responsive">
-<table class="table-striped caption-top table">
-<thead>
-<tr class="header">
-<th>Week</th>
-<th>Date</th>
-<th>Guiding question</th>
-<th>Topic</th>
-<th>Story</th>
-<th>Case Study</th>
-<th>Assignment</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>1</td>
-<td>1/28</td>
-<td>What is program evaluation? Where are we headed in this course?</td>
-<td><a href="../2025/lecture1.html">Introduction and Overview</a></td>
-<td><a href="../stories/john-snow-and-evidence-based-analysis.html">John Snow</a></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td>2</td>
-<td>2/4</td>
-<td>Why do evaluation?</td>
-<td><a href="../2025/lecture2.html">Goals and Types of Evaluation</a></td>
-<td><a href="../stories/high-line-park.html">High Line Park</a></td>
-<td>Jobs Plus in NYC</td>
-<td>CR1</td>
-</tr>
-<tr class="odd">
-<td>3</td>
-<td>2/11</td>
-<td>How to identify causal effects?</td>
-<td><a href="../2025/lecture3.html">Logic and Causal Models</a></td>
-<td><a href="../stories/bombing-in-vietnam-war-and-development.html">Bombing in Vetnam – War and Development</a></td>
-<td>Northwest Housing Alternatives</td>
-<td>CR2</td>
-</tr>
-<tr class="even">
-<td>4</td>
-<td>2/18</td>
-<td>Class following Monday schedule - No session</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>5</td>
-<td>2/25</td>
-<td>How do I account for everyone involved?</td>
-<td><a href="../2025/lecture4.html">Stakeholder Engagement</a></td>
-<td><a href="../stories/john-muir-and-national-park.html">John Muir and National Park System</a></td>
-<td>ARPA-E</td>
-<td>CR3</td>
-</tr>
-<tr class="even">
-<td>6</td>
-<td>3/4</td>
-<td>How do I use the scientific method in the real world?</td>
-<td><a href="../2025/lecture5.html">Evaluation Designs: Randomized Experiences</a></td>
-<td><a href="../stories/esther-duflo-and-rcts.html">Esther Duflo and RCTs</a></td>
-<td>Microfinance and RCT</td>
-<td>CR4</td>
-</tr>
-<tr class="odd">
-<td>7</td>
-<td>3/11</td>
-<td>What if a randomized experiment is not viable?</td>
-<td><a href="../2025/lecture6.html">Evaluation Designs: Quasi-experiments</a></td>
-<td><a href="../stories/michael-greenstone-and-environmental-economics.html">Michael Greenstone and Environmental Economics</a></td>
-<td>Air Quality and Life-expectancy</td>
-<td>CR5</td>
-</tr>
-<tr class="even">
-<td>8</td>
-<td>3/18</td>
-<td>How to do case study evaluation?</td>
-<td><a href="../2025/lecture7.html">Evaluation Designs: Qualitative methods</a></td>
-<td><a href="../stories/elinor-ostrom-and-case-studies.html">Elinor Ostrom and Case Studies</a></td>
-<td>NYC T&amp;G Programs</td>
-<td>CR6</td>
-</tr>
-<tr class="odd">
-<td>9</td>
-<td>3/25</td>
-<td>How to manage challenges in evaluation?</td>
-<td>Overcome Resistance and Improve Organization Capacity<br><br>Guest Speaker: <a href="../speakers/beatrice-teston.html">Beatrice Teston</a></td>
-<td></td>
-<td>American Red Cross</td>
-<td>CR7</td>
-</tr>
-<tr class="even">
-<td>10</td>
-<td>4/1</td>
-<td>Where does the data come from?</td>
-<td>Data Collection: Procedures, instrumentation, practical consideration</td>
-<td>Fei-fei Li and ImageNet</td>
-<td></td>
-<td>CR8</td>
-</tr>
-<tr class="odd">
-<td>11</td>
-<td>4/8</td>
-<td>What methods make data tell accurate stories and solve problems?</td>
-<td>Data Analysis: Quantitative, qualitative, and mixed analysis</td>
-<td>Hans Rosling and Storytelling</td>
-<td></td>
-<td>Proposal</td>
-</tr>
-<tr class="even">
-<td>12</td>
-<td>4/15</td>
-<td>No session-Spring Recess</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td>13</td>
-<td>4/22</td>
-<td>Is the program worthwhile? What happens next?</td>
-<td>Economic Evaluation and Performance Measurement</td>
-<td>Robert Bullard and Environmental Justice</td>
-<td>CBA of EPA Clean Air Act</td>
-<td>CR9</td>
-</tr>
-<tr class="even">
-<td>14</td>
-<td>4/29</td>
-<td>How to be an ethical evaluator?</td>
-<td>Ethics, Principles, and Standards</td>
-<td>The Moral Machine</td>
-<td></td>
-<td>CR10</td>
-</tr>
-<tr class="odd">
-<td>15</td>
-<td>5/6</td>
-<td>Presentation</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td>16</td>
-<td>5/13</td>
-<td>Evaluation report</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+<!--Please delete or replace with your own clarity-->
+<!-- 
+https://learn.microsoft.com/en-us/clarity/setup-and-installation/clarity-setup
+-->
+<script type="text/javascript">
+    (function(c,l,a,r,i,t,y){
+        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "ktfar1v3c9");
+</script>
+<div id="listing-all-speakers" class="quarto-listing quarto-listing-container-grid">
+<div class="listing-actions-group">
+   <div class="input-group input-group-sm quarto-listing-sort">
+     <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
+     <select id="listing-all-speakers-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-all-speakers'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
+       <option value="" disabled="" selected="" hidden="">Order By</option>
+       <option value="index" data-direction="asc">Default</option>
+         <option value="listing-title" data-direction="asc">
+          Title
+        </option>
+         <option value="listing-date-sort" data-direction="asc">
+          Date - Oldest
+        </option>
+         <option value="listing-date-sort" data-direction="desc">
+          Date - Newest
+        </option>
+         <option value="listing-author" data-direction="asc">
+          Author
+        </option>
+     </select>
+  </div>
+    <div class="input-group input-group-sm quarto-listing-filter">
+      <span class="input-group-text"><i class="bi bi-search"></i></span>
+      <input type="text" class="search form-control" placeholder="Filter">
+    </div>
 </div>
-<p>Note: CR: Case Response</p>
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-listing-date-sort="1742875200000" data-listing-file-modified-sort="1742387112084" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="191">
+<a href="./speakers/beatrice-teston.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" data-src="./files/headshots/beatrice-teston.jpg" class="thumbnail-image card-img" style="height: 200px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Beatrice Teston: Evaluation in Citywide Emergency Response
+</h5>
+<div class="card-text listing-description">
+Evaluation in Citywide Emergency Response
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+Guest Speaker
+</div>
+<div class="listing-date">
+Mar 25, 2025
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+<nav id="all-speakers-pagination" class="listing-pagination" aria-label="Page Navigation">
+  <ul class="pagination"></ul>
+</nav>
+</div>
+<!--Include social share buttons-->
+<!-- 
+AddToAny check more: https://www.addtoany.com/buttons/for/website 
+Using includes will make edits easier, will only need to add or remove button here if needed.
+https://quarto.org/docs/authoring/includes.html
+-->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_bluesky"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
+</div>
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
+
 
 
 
@@ -786,7 +765,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </div>   
     <div class="nav-footer-center">
       &nbsp;
-    </div>
+    <div class="toc-actions"><ul><li><a href="https://github.com/drganghe/program-evaluation/edit/main/speakers.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/drganghe/program-evaluation/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li><li><a href="https://github.com/drganghe/program-evaluation/blob/main/speakers.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li></ul></div></div>
     <div class="nav-footer-right">
       <ul class="footer-items list-unstyled">
     <li class="nav-item compact">

@@ -1,0 +1,34 @@
+---
+title: "Guest Speakers"
+css: /custom.css
+#image: files/logo.jpeg
+page-layout: full
+
+listing:
+ - id: all-speakers
+   contents: /speakers
+   exclude: 
+    author: "Example Author"
+   type: grid
+   image-height: 200px
+   max-items: 100
+   categories: true
+   fields: [image, title, subtitle, description, author, date]
+   sort-ui: true
+   filter-ui: true
+   page-size: 0 #set as 0 will remove the page setting
+   sort: 
+     - "date desc"
+     - "title asc"
+---
+
+<!--Please delete or replace with your own clarity-->
+{{< include /files/includes/_msclarity.qmd >}}
+
+:::{#all-speakers}
+:::
+
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}
