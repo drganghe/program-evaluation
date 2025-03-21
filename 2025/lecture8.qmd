@@ -1,0 +1,148 @@
+---
+title: "Lecture 7 Overcome Resistance and Improve Organization Capacity"
+description-meta: "How to manage challenges in evaluation?"
+author: "Gang He"
+date: March 25, 2025
+date-format: long
+image: "/images/delphi-method.png"
+format:
+  revealjs:
+    theme: white
+ #   embed-resources: true
+    slide-number: true
+    preview-links: auto
+    link-external-newwindow: true
+    citations-hover: true
+    auto-stretch: true
+    r-fit-text: true
+    center: true
+    scrollable: true
+    css: /custom.css
+    footer: <https://drganghe.github.io/program-evaluation/>
+#draft: true
+---
+
+## Recap lecture 7
+
+- Case Study Evaluation
+- Story: Elinor Ostrom and Case Studies
+- Case: NYC Gifted and Talented (G&T) Program
+
+
+## Today's agenda
+
+- Guest Speaker: Beatrice Teston
+- Overcome Resistance and Improve Organization Capacity
+- Story: James March and Organization Theory
+- Case: American Red Cross (ARC) Haiti Relief Program
+
+
+## Who cases about evaluation
+
+- Funders
+- Policy makers
+- Organization 
+
+
+## Managing an evaluation
+
+A partnership between the research team and policy team 
+
+
+## Research team
+
+Technical quality and scientific integrarity
+
+- PI, evaluation manager
+- Sampling/interview/survey exert
+- Data collection team
+
+
+## Policy team
+
+- Policy makers
+- Program implementers
+
+
+## Research-Policy team models
+
+- Oursoucing evaluation (third party)
+- Integration (Innovations for Poverty Action)
+- Parnership models (World Bank)
+
+
+## General outline of an impact evaluation plan
+
+:::columns
+
+::: {.column width="50%"}
+
+:::{style="font-size: 20px;"}
+1. Introduction
+2. Description of the intervention
+3. Objectives of the evaluation   
+  3.1 Hypotheses, theory of change, results chain  
+  3.2 Policy questions  
+  3.3 Key outcome indicators  
+  3.4 Risks  
+4. Evaluation design
+5. Sampling and data  
+  5.1 Sampling strategy  
+  5.2 Power calculations  
+6. Preanalysis plan overview
+7. Data collection plan  
+  7.1 Baseline survey  
+  7.2 Follow-up survey(s) 
+:::
+
+:::
+
+::: {.column width="50%"}
+
+:::{style="font-size: 20px;"}
+8. Products to be delivered  
+  8.1 Baseline report  
+  8.2 Impact evaluation report  
+  8.3 Policy brief  
+  8.4 Fully documented data sets, design and analysis protocols  
+9. Dissemination plan
+10. Ethical protocols on protection of human subjects  
+  10.1 Ensuring informed consent  
+  10.2 Obtaining approval from the Institutional Review Board (IRB)  
+11. Timeline
+12. Budget and funding
+13. Composition and roles of evaluation team
+:::
+
+:::
+
+:::
+
+:::footer
+Source: @gertler_impact_2016
+:::
+
+## Summary
+
+- Building partnership
+
+- Capacity building
+
+
+## Story
+
+:::{style="text-align:center;"}
+[James March and Organization Theory](/stories/james-march-and-organization-theory.qmd)
+:::
+
+
+------
+
+### References
+
+::: {#refs}
+:::
+
+::: footer
+Back to Title [Slide](lecture8.qmd), All [Lectures](schedule.qmd), Course [Home](https://drganghe.github.io/program-evaluation/), or Learn More About [Gang He](https://drganghe.github.io)
+:::

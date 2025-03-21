@@ -28,7 +28,7 @@ listing:  #an example of listing external links
       image: /files/headshots/beatrice-teston.jpg
       title: "Beatrice Teston, MPA"
 #      author: 
-      subtitle: "Monitoring and Evaluation Program Manager,NYC Emergency Management"
+      subtitle: "Monitoring and Evaluation Program Manager, NYC Emergency Management"
 #      date: "2024-03-12"
 #      categories: [] 
 page-navigation: false

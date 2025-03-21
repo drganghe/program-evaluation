@@ -1,0 +1,75 @@
+---
+title: James March and Organization Theory
+author: Gang He
+date: March 25, 2025
+bibliography: ../readings.bib
+format: 
+  html: 
+    theme: cosmo
+    css: /styles.css
+    toc: true
+#   link-external-icon: true
+    link-external-newwindow: true
+  
+  pdf: 
+    documentclass: article
+    #classoption: [landscape]
+    lof: false
+    lot: false
+    geometry:
+      - top=1in
+      - bottom=1in
+      - left=1in
+      - right=1in
+      - heightrounded
+    #fontfamily: xelatex
+    colorlinks: true
+#draft: true
+---
+
+## James March
+
+- Professor at Stanford University
+- Founding father of Organization Theory
+
+## Organization Theory
+
+- Taylor and Gilbreth: scientific management
+- Administrative management school: effective organization
+- Challenge: untested, motivational assumption, intraorganizational conflict, cognition.
+
+
+## March and Simon Organization Theory
+
+The organization is a system of interrelated social behavior of participants.
+
+- Memory: values, perceptions, beliefs, experiences, programs, alternatives, and knowledges in the psychological bank.
+- Individual act on memroy.
+- Stimuli are perceived by the individual.
+- Behavior resllts from a stimulus.
+
+
+## Organization equilibrium
+
+1. The organization is a system of interrelated social behavior of participants. 
+2. Each participant and group receives inducements from the organization for their contribution. 
+3. The individual continues to participate so long as the inducements he or she receives are greater than his or her contribution. This evaluation is measured by the individual in terms of his or her own values, which may reflect or include those other than economic. 
+4. The contributions of various groups are sources from which the organization creates inducements to pay the others. 
+5. Equilibrium (or solvency) occurs when the organization can continue to provide inducement to members to obtain their contributions. 
+
+
+## Thoughts for Evaluation
+
+- Understanding the logic of organization 
+- Overcome resistance and improve organization capacity
+
+
+## References
+
+::: {#refs}
+:::
+
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

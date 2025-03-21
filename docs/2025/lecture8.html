@@ -10,8 +10,8 @@
   <meta name="generator" content="quarto-1.6.40">
 
   <meta name="author" content="Gang He">
-  <meta name="dcterms.date" content="2025-03-11">
-  <title>Program Evaluation – Lecture 6 Evaluation Designs: Quasi Experiments</title>
+  <meta name="dcterms.date" content="2025-03-25">
+  <title>Program Evaluation – Lecture 7 Overcome Resistance and Improve Organization Capacity</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
@@ -153,11 +153,15 @@
       margin-right: 0; 
     }
   </style>
-<meta property="og:title" content="Lecture 6 Evaluation Designs: Quasi Experiments – Program Evaluation">
-<meta property="og:image" content="https://drganghe.github.io/program-evaluation/images/chen-huai-river-tsp.jpeg">
+<meta property="og:title" content="Lecture 7 Overcome Resistance and Improve Organization Capacity – Program Evaluation">
+<meta property="og:image" content="https://drganghe.github.io/program-evaluation/images/delphi-method.png">
 <meta property="og:site_name" content="Program Evaluation">
-<meta name="twitter:title" content="Lecture 6 Evaluation Designs: Quasi Experiments – Program Evaluation">
-<meta name="twitter:image" content="https://drganghe.github.io/program-evaluation/images/chen-huai-river-tsp.jpeg">
+<meta property="og:image:height" content="1024">
+<meta property="og:image:width" content="1024">
+<meta name="twitter:title" content="Lecture 7 Overcome Resistance and Improve Organization Capacity – Program Evaluation">
+<meta name="twitter:image" content="https://drganghe.github.io/program-evaluation/images/delphi-method.png">
+<meta name="twitter:image-height" content="1024">
+<meta name="twitter:image-width" content="1024">
 <meta name="twitter:card" content="summary_large_image">
 </head>
 <body class="quarto-light">
@@ -165,7 +169,7 @@
     <div class="slides">
 
 <section id="title-slide" class="quarto-title-block center">
-  <h1 class="title">Lecture 6 Evaluation Designs: Quasi Experiments</h1>
+  <h1 class="title">Lecture 7 Overcome Resistance and Improve Organization Capacity</h1>
 
 <div class="quarto-title-authors">
 <div class="quarto-title-author">
@@ -175,202 +179,133 @@ Gang He
 </div>
 </div>
 
-  <p class="date">March 11, 2025</p>
+  <p class="date">March 25, 2025</p>
 </section>
-<section id="recap-lecture-5" class="slide level2 center">
-<h2>Recap lecture 5</h2>
+<section id="recap-lecture-7" class="slide level2 center">
+<h2>Recap lecture 7</h2>
 <ul>
-<li>Evaluation design</li>
-<li>RCT</li>
-<li>Case: Microfinance and RCT</li>
-<li>Proposal</li>
+<li>Case Study Evaluation</li>
+<li>Story: Elinor Ostrom and Case Studies</li>
+<li>Case: NYC Gifted and Talented (G&amp;T) Program</li>
 </ul>
 </section>
 <section id="todays-agenda" class="slide level2 center">
 <h2>Today’s agenda</h2>
 <ul>
-<li>Quasi-experimental design
-<ul>
-<li>Regression discontinuity</li>
-<li>Difference in differences</li>
-<li>Matching</li>
-</ul></li>
-<li>Case: Air quality and Life Expectancy</li>
+<li>Guest Speaker: Beatrice Teston</li>
+<li>Overcome Resistance and Improve Organization Capacity</li>
+<li>Story: James March and Organization Theory</li>
+<li>Case: American Red Cross (ARC) Haiti Relief Program</li>
 </ul>
 </section>
-<section id="capturing-the-wedege" class="slide level2 center">
-<h2>Capturing the wedege</h2>
-
-<img data-src="../images/program-effect.png" class="quarto-figure quarto-figure-center r-stretch"><div class="footer">
-<p>Source: <a href="https://evalsp24.classes.andrewheiss.com/">Andrew Wheiss</a></p>
-</div>
-</section>
-<section id="evaluation-designs" class="slide level2 smaller center">
-<h2>Evaluation designs</h2>
+<section id="who-cases-about-evaluation" class="slide level2 center">
+<h2>Who cases about evaluation</h2>
 <ul>
-<li>Experimental
-<ul>
-<li>Randomised controled trial</li>
-</ul></li>
-<li>Quasi-experimental
-<ul>
-<li>Instrumental variable (IV)</li>
-<li>Regression discontinuity (RDD)</li>
-<li>Difference in differences (DiD)</li>
-</ul></li>
-<li>Observational (Non-experimental)
-<ul>
-<li>Time–series analysis (Pre- and post-intervention studies)</li>
-<li>Cross-sectional surveys</li>
-<li>Case studies</li>
-</ul></li>
+<li>Funders</li>
+<li>Policy makers</li>
+<li>Organization</li>
 </ul>
 </section>
-<section id="instrumental-variable-design" class="slide level2 center">
-<h2>Instrumental variable design</h2>
-<div style="font-size: 28px;">
-<p>An instrumental variable:</p>
-<ul>
-<li>It influences the likelihood of participating in a program<br>
-</li>
-<li>Outside of the participant’s control</li>
-<li>Unrelated to the participant’s characteristics</li>
-</ul>
-<p>Examples:</p>
-<ul>
-<li>Test scores</li>
-<li>Geographic proximity</li>
-<li>Month of birth</li>
-<li>Rainfall</li>
-</ul>
-</div>
+<section id="managing-an-evaluation" class="slide level2 center">
+<h2>Managing an evaluation</h2>
+<p>A partnership between the research team and policy team</p>
 </section>
-<section id="rdd-design" class="slide level2 center">
-<h2>RDD design</h2>
-<p>Application: programs that have a continuous eligibility index with clearly defined eligibility threshold to determine who is eligible and who is not.</p>
+<section id="research-team" class="slide level2 center">
+<h2>Research team</h2>
+<p>Technical quality and scientific integrarity</p>
 <ul>
-<li>The index must rank people or units in continuous way.</li>
-<li>The index must have a clearly defined cutoff score.</li>
-<li>The cutoff must be unique to the program of interest.</li>
-<li>The score of particular individual or unit cannot be manipulated.</li>
+<li>PI, evaluation manager</li>
+<li>Sampling/interview/survey exert</li>
+<li>Data collection team</li>
 </ul>
 </section>
-<section id="rdd-example-farm-baseline" class="slide level2 center">
-<h2>RDD example: Farm baseline</h2>
-
-<img data-src="../images/rdd-farm-baseline.png" class="quarto-figure quarto-figure-center r-stretch"><div class="footer">
-<p>Source: <span class="citation" data-cites="gertler_impact_2016">Gertler et al. (<a href="#/references" role="doc-biblioref" onclick="">2016</a>)</span></p>
-</div>
+<section id="policy-team" class="slide level2 center">
+<h2>Policy team</h2>
+<ul>
+<li>Policy makers</li>
+<li>Program implementers</li>
+</ul>
 </section>
-<section id="rdd-example-farm-followup" class="slide level2 center">
-<h2>RDD example: Farm followup</h2>
-
-<img data-src="../images/rdd-farm-followup.png" class="quarto-figure quarto-figure-center r-stretch"><div class="footer">
-<p>Source: <span class="citation" data-cites="gertler_impact_2016">Gertler et al. (<a href="#/references" role="doc-biblioref" onclick="">2016</a>)</span></p>
-</div>
+<section id="research-policy-team-models" class="slide level2 center">
+<h2>Research-Policy team models</h2>
+<ul>
+<li>Oursoucing evaluation (third party)</li>
+<li>Integration (Innovations for Poverty Action)</li>
+<li>Parnership models (World Bank)</li>
+</ul>
 </section>
-<section id="heating-air-quality-and-life-expectancy" class="slide level2 center">
-<h2>Heating, air quality, and life-expectancy</h2>
+<section id="general-outline-of-an-impact-evaluation-plan" class="slide level2 center scrollable">
+<h2>General outline of an impact evaluation plan</h2>
 <div class="columns">
 <div class="column" style="width:50%;">
-<div class="quarto-figure quarto-figure-center">
-<figure>
-<p><img data-src="../images/chen-huai-river-tsp.jpeg" class="quarto-figure quarto-figure-center"></p>
-</figure>
+<div style="font-size: 20px;">
+<ol type="1">
+<li>Introduction</li>
+<li>Description of the intervention</li>
+<li>Objectives of the evaluation<br>
+3.1 Hypotheses, theory of change, results chain<br>
+3.2 Policy questions<br>
+3.3 Key outcome indicators<br>
+3.4 Risks<br>
+</li>
+<li>Evaluation design</li>
+<li>Sampling and data<br>
+5.1 Sampling strategy<br>
+5.2 Power calculations<br>
+</li>
+<li>Preanalysis plan overview</li>
+<li>Data collection plan<br>
+7.1 Baseline survey<br>
+7.2 Follow-up survey(s)</li>
+</ol>
 </div>
 </div><div class="column" style="width:50%;">
-<div class="quarto-figure quarto-figure-center">
-<figure>
-<p><img data-src="../images/chen-huai-river-life-expectancy.jpeg" class="quarto-figure quarto-figure-center"></p>
-</figure>
+<div style="font-size: 20px;">
+<ol start="8" type="1">
+<li>Products to be delivered<br>
+8.1 Baseline report<br>
+8.2 Impact evaluation report<br>
+8.3 Policy brief<br>
+8.4 Fully documented data sets, design and analysis protocols<br>
+</li>
+<li>Dissemination plan</li>
+<li>Ethical protocols on protection of human subjects<br>
+10.1 Ensuring informed consent<br>
+10.2 Obtaining approval from the Institutional Review Board (IRB)<br>
+</li>
+<li>Timeline</li>
+<li>Budget and funding</li>
+<li>Composition and roles of evaluation team</li>
+</ol>
 </div>
 </div></div>
 <div class="footer">
-<p>Source: <span class="citation" data-cites="chen_evidence_2013">Chen et al. (<a href="#/references" role="doc-biblioref" onclick="">2013</a>)</span></p>
+<p>Source: <span class="citation" data-cites="gertler_impact_2016">Gertler et al. (<a href="#/references" role="doc-biblioref" onclick="">2016</a>)</span></p>
 </div>
 </section>
-<section id="did-design" class="slide level2 center">
-<h2>DiD design</h2>
+<section id="summary" class="slide level2 center">
+<h2>Summary</h2>
 <ul>
-<li>Compares the CHANGES in outcomes over time between the treatment group the comparison group.</li>
-<li>First Difference: time-varying factors</li>
-<li>Second Difference: treatment effects</li>
-<li>Trend differences</li>
-</ul>
-</section>
-<section id="did-example-employment" class="slide level2 center">
-<h2>DiD example: Employment</h2>
-
-<img data-src="../images/did-employment.png" class="quarto-figure quarto-figure-center r-stretch"><div class="footer">
-<p>Source: <span class="citation" data-cites="gertler_impact_2016">Gertler et al. (<a href="#/references" role="doc-biblioref" onclick="">2016</a>)</span></p>
-</div>
-</section>
-<section id="equal-trends-in-did" class="slide level2 center">
-<h2>Equal trends in DiD</h2>
-
-<img data-src="../images/did-employment-trends-differ.png" class="quarto-figure quarto-figure-center r-stretch"><div class="footer">
-<p>Source: <span class="citation" data-cites="gertler_impact_2016">Gertler et al. (<a href="#/references" role="doc-biblioref" onclick="">2016</a>)</span></p>
-</div>
-</section>
-<section id="testing-for-equal-trends-in-did" class="slide level2 center">
-<h2>Testing for equal trends in DiD</h2>
-<ul>
-<li>Repeated comparisons: year -2, -1, and 0</li>
-<li>Placebo test: a fake treatment group</li>
-<li>Fake treatment group + Fake outcome</li>
-<li>Different comparison group</li>
-</ul>
-</section>
-<section id="matching" class="slide level2 center">
-<h2>Matching</h2>
-<blockquote>
-<p>Matching uses large data sets and statistical techniques to construct the best possible comparison group based on observed characteristics.</p>
-<p>For every possible unit under treatment, it attempts to fi nd a nontreatment unit (or set of nontreatment units) that has the most similar characteristics possible.</p>
-</blockquote>
-</section>
-<section id="curse-of-dimensionality" class="slide level2 center">
-<h2>Curse of dimensionality</h2>
-<p>Increased matching dimensions reduces matching possibilities.</p>
-
-<img data-src="../images/exact-matching.png" class="quarto-figure quarto-figure-center r-stretch"><div class="footer">
-<p>Source: <span class="citation" data-cites="gertler_impact_2016">Gertler et al. (<a href="#/references" role="doc-biblioref" onclick="">2016</a>)</span></p>
-</div>
-</section>
-<section id="propensity-score-matching" class="slide level2 center">
-<h2>Propensity score matching</h2>
-<p>Uses a probability score to find the best possible comparison group.</p>
-
-<img data-src="../images/propensity-score-matching.png" class="quarto-figure quarto-figure-center r-stretch"><div class="footer">
-<p>Source: <span class="citation" data-cites="gertler_impact_2016">Gertler et al. (<a href="#/references" role="doc-biblioref" onclick="">2016</a>)</span></p>
-</div>
-</section>
-<section id="key-issues-in-matching" class="slide level2 center">
-<h2>Key issues in matching</h2>
-<ul>
-<li>Matching can use only observed characteristics</li>
-<li>Using only characteristics that are not affected by the program</li>
-<li>Eesimation are only as good as the characteristics used for matching (understanding the criteria for participation)</li>
+<li><p>Building partnership</p></li>
+<li><p>Capacity building</p></li>
 </ul>
 </section>
 <section id="story" class="slide level2 center">
 <h2>Story</h2>
 <div style="text-align:center;">
-<p><a href="../stories/michael-greenstone-and-environmental-economics.html">Michael Greenstone and Environmental Economics</a></p>
+<p><a href="../stories/james-march-and-organization-theory.html">James March and Organization Theory</a></p>
 </div>
 </section>
 <section class="slide level2 smaller scrollable" id="references">
 
 <h3 id="references">References</h3>
 <div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
-<div id="ref-chen_evidence_2013" class="csl-entry" role="listitem">
-Chen, Yuyu, Avraham Ebenstein, Michael Greenstone, and Hongbin Li. 2013. <span>“Evidence on the Impact of Sustained Exposure to Air Pollution on Life Expectancy from <span>China</span>’s <span>Huai</span> <span>River</span> Policy.”</span> <em>Proceedings of the National Academy of Sciences</em>, July. <a href="https://doi.org/10.1073/pnas.1300018110">https://doi.org/10.1073/pnas.1300018110</a>.
-</div>
 <div id="ref-gertler_impact_2016" class="csl-entry" role="listitem">
 Gertler, Paul J., Sebastian Martinez, Patrick Premand, Laura B. Rawlings, and Christel M. J. Vermeersch. 2016. <em>Impact <span>Evaluation</span> in <span>Practice</span>, <span>Second</span> <span>Edition</span></em>. Washington, DC: World Bank. <a href="https://doi.org/10.1596/978-1-4648-0779-4">https://doi.org/10.1596/978-1-4648-0779-4</a>.
 </div>
 </div>
 <div class="footer">
-<p>Back to Title <a href="../2025/lecture6.html">Slide</a>, All <a href="../2025/schedule.html">Lectures</a>, Course <a href="https://drganghe.github.io/program-evaluation/">Home</a>, or Learn More About <a href="https://drganghe.github.io">Gang He</a></p>
+<p>Back to Title <a href="../2025/lecture8.html">Slide</a>, All <a href="../2025/schedule.html">Lectures</a>, Course <a href="https://drganghe.github.io/program-evaluation/">Home</a>, or Learn More About <a href="https://drganghe.github.io">Gang He</a></p>
 </div>
 
 

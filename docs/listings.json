@@ -2,6 +2,7 @@
   {
     "listing": "/stories.html",
     "items": [
+      "/stories/james-march-and-organization-theory.html",
       "/stories/elinor-ostrom-and-case-studies.html",
       "/stories/michael-greenstone-and-environmental-economics.html",
       "/stories/esther-duflo-and-rcts.html",
@@ -25,21 +26,12 @@
       "/2025/lecture4.html",
       "/2025/lecture5.html",
       "/2025/lecture6.html",
-      "/2025/lecture7.html"
+      "/2025/lecture7.html",
+      "/2025/lecture8.html"
     ]
-  },
-  {
-    "listing": "/speakers/guest-speaker.html",
-    "items": []
   },
   {
     "listing": "/speakers/beatrice-teston.html",
     "items": []
-  },
-  {
-    "listing": "/speakers.html",
-    "items": [
-      "/speakers/beatrice-teston.html"
-    ]
   }
 ]

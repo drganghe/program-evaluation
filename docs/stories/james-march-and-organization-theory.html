@@ -2,14 +2,14 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.6.30">
+<meta name="generator" content="quarto-1.6.40">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="Gang He">
-<meta name="dcterms.date" content="2024-03-23">
+<meta name="dcterms.date" content="2025-03-25">
 
-<title>Bombing, Heating, and Causal Models – Program Evaluation</title>
+<title>James March and Organization Theory – Program Evaluation</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -22,7 +22,26 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="../site_libs/quarto-nav/quarto-nav.js"></script>
@@ -37,10 +56,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="../site_libs/quarto-html/anchor.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-3a01e2046221230fdceeea94b1ec5d67.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-549806ee2085284f45b00abea8c6df48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-6624fc4ef4d1f4a1f4431250b81bd195.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-0be10a02aa56032eb6fe331f79f59765.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -80,9 +99,11 @@ gtag('config', 'G-8H8JSB1VP7', { 'anonymize_ip': true});
 
 <link rel="stylesheet" href="../styles.css">
 <link rel="stylesheet" href="../styles.css">
-<meta property="og:title" content="Bombing, Heating, and Causal Models – Program Evaluation">
+<meta property="og:title" content="James March and Organization Theory – Program Evaluation">
+<meta property="og:description" content="Program Evaluation open course developed by Dr.&nbsp;Gang He.">
 <meta property="og:site_name" content="Program Evaluation">
-<meta name="twitter:title" content="Bombing, Heating, and Causal Models – Program Evaluation">
+<meta name="twitter:title" content="James March and Organization Theory – Program Evaluation">
+<meta name="twitter:description" content="Program Evaluation open course developed by Dr.&nbsp;Gang He.">
 <meta name="twitter:card" content="summary">
 </head>
 
@@ -108,7 +129,7 @@ gtag('config', 'G-8H8JSB1VP7', { 'anonymize_ip': true});
 <span class="menu-text">Syllabus</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../2024/schedule.html"> 
+    <a class="nav-link" href="../2025/schedule.html"> 
 <span class="menu-text">Schedule</span></a>
   </li>  
   <li class="nav-item">
@@ -170,19 +191,21 @@ gtag('config', 'G-8H8JSB1VP7', { 'anonymize_ip': true});
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#bombing-strategy-in-vietnam" id="toc-bombing-strategy-in-vietnam" class="nav-link active" data-scroll-target="#bombing-strategy-in-vietnam">Bombing strategy in Vietnam</a></li>
-  <li><a href="#heating-differences-between-the-north-and-south-in-china" id="toc-heating-differences-between-the-north-and-south-in-china" class="nav-link" data-scroll-target="#heating-differences-between-the-north-and-south-in-china">Heating differences between the North and South in China</a></li>
-  <li><a href="#thoughts-for-evaluation" id="toc-thoughts-for-evaluation" class="nav-link" data-scroll-target="#thoughts-for-evaluation">Thoughts for evaluation</a></li>
+  <li><a href="#james-march" id="toc-james-march" class="nav-link active" data-scroll-target="#james-march">James March</a></li>
+  <li><a href="#organization-theory" id="toc-organization-theory" class="nav-link" data-scroll-target="#organization-theory">Organization Theory</a></li>
+  <li><a href="#march-and-simon-organization-theory" id="toc-march-and-simon-organization-theory" class="nav-link" data-scroll-target="#march-and-simon-organization-theory">March and Simon Organization Theory</a></li>
+  <li><a href="#organization-equilibrium" id="toc-organization-equilibrium" class="nav-link" data-scroll-target="#organization-equilibrium">Organization equilibrium</a></li>
+  <li><a href="#thoughts-for-evaluation" id="toc-thoughts-for-evaluation" class="nav-link" data-scroll-target="#thoughts-for-evaluation">Thoughts for Evaluation</a></li>
   <li><a href="#references" id="toc-references" class="nav-link" data-scroll-target="#references">References</a></li>
   </ul>
-<div class="toc-actions"><ul><li><a href="https://github.com/drganghe/program-evaluation/edit/main/stories/bombing-heating-and-causal-models.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/drganghe/program-evaluation/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li><li><a href="https://github.com/drganghe/program-evaluation/blob/main/stories/bombing-heating-and-causal-models.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li></ul></div><div class="quarto-alternate-formats"><h2>Other Formats</h2><ul><li><a href="bombing-heating-and-causal-models.pdf"><i class="bi bi-file-pdf"></i>PDF</a></li></ul></div></nav>
+<div class="quarto-alternate-formats"><h2>Other Formats</h2><ul><li><a href="james-march-and-organization-theory.pdf"><i class="bi bi-file-pdf"></i>PDF</a></li></ul></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Bombing, Heating, and Causal Models</h1>
+<h1 class="title">James March and Organization Theory</h1>
 </div>
 
 
@@ -199,7 +222,7 @@ gtag('config', 'G-8H8JSB1VP7', { 'anonymize_ip': true});
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">March 23, 2024</p>
+      <p class="date">March 25, 2025</p>
     </div>
   </div>
   
@@ -211,42 +234,53 @@ gtag('config', 'G-8H8JSB1VP7', { 'anonymize_ip': true});
 </header>
 
 
-<section id="bombing-strategy-in-vietnam" class="level2">
-<h2 class="anchored" data-anchor-id="bombing-strategy-in-vietnam">Bombing strategy in Vietnam</h2>
+<section id="james-march" class="level2">
+<h2 class="anchored" data-anchor-id="james-march">James March</h2>
 <ul>
-<li>Discontinuities in U.S. strategies employed during the Vietnam War to estimate their causal impacts.</li>
-<li>Rounding thresholds in an algorithm used to target air strikes</li>
-<li>Bombing increased the military and political activities of the communist insurgency, weakened local governance, and reduced noncommunist civic engagement.</li>
-<li>Spatial discontinuity across neighboring military regions that pursued different counterinsurgency strategies.</li>
-<li>A strategy emphasizing overwhelming firepower plausibly increased insurgent attacks and worsened attitudes toward the U.S. and South Vietnamese government, relative to a more hearts-and-minds-oriented approach.</li>
+<li>Professor at Stanford University</li>
+<li>Founding father of Organization Theory</li>
 </ul>
 </section>
-<section id="heating-differences-between-the-north-and-south-in-china" class="level2">
-<h2 class="anchored" data-anchor-id="heating-differences-between-the-north-and-south-in-china">Heating differences between the North and South in China</h2>
+<section id="organization-theory" class="level2">
+<h2 class="anchored" data-anchor-id="organization-theory">Organization Theory</h2>
 <ul>
-<li>China’s Huai River policy: free winter heating via the provision of coal for boilers in cities north of the Huai River but denied heat to the south.</li>
-<li>Regression discontinuity design based on distance from the Huai River</li>
-<li>Ambient concentrations of TSPs are about 184 μg/m3 [95% confidence interval (CI): 61, 307] or 55% higher in the north.</li>
-<li>Life expectancies are about 5.5 y (95% CI: 0.8, 10.2) lower in the north owing to an increased incidence of cardiorespiratory mortality.</li>
-<li>Long-term exposure to an additional 100 μg/m3 of TSPs is associated with a reduction in life expectancy at birth of about 3.0 y (95% CI: 0.4, 5.6).</li>
+<li>Taylor and Gilbreth: scientific management</li>
+<li>Administrative management school: effective organization</li>
+<li>Challenge: untested, motivational assumption, intraorganizational conflict, cognition.</li>
 </ul>
+</section>
+<section id="march-and-simon-organization-theory" class="level2">
+<h2 class="anchored" data-anchor-id="march-and-simon-organization-theory">March and Simon Organization Theory</h2>
+<p>The organization is a system of interrelated social behavior of participants.</p>
+<ul>
+<li>Memory: values, perceptions, beliefs, experiences, programs, alternatives, and knowledges in the psychological bank.</li>
+<li>Individual act on memroy.</li>
+<li>Stimuli are perceived by the individual.</li>
+<li>Behavior resllts from a stimulus.</li>
+</ul>
+</section>
+<section id="organization-equilibrium" class="level2">
+<h2 class="anchored" data-anchor-id="organization-equilibrium">Organization equilibrium</h2>
+<ol type="1">
+<li>The organization is a system of interrelated social behavior of participants.</li>
+<li>Each participant and group receives inducements from the organization for their contribution.</li>
+<li>The individual continues to participate so long as the inducements he or she receives are greater than his or her contribution. This evaluation is measured by the individual in terms of his or her own values, which may reflect or include those other than economic.</li>
+<li>The contributions of various groups are sources from which the organization creates inducements to pay the others.</li>
+<li>Equilibrium (or solvency) occurs when the organization can continue to provide inducement to members to obtain their contributions.</li>
+</ol>
 </section>
 <section id="thoughts-for-evaluation" class="level2">
-<h2 class="anchored" data-anchor-id="thoughts-for-evaluation">Thoughts for evaluation</h2>
+<h2 class="anchored" data-anchor-id="thoughts-for-evaluation">Thoughts for Evaluation</h2>
 <ul>
-<li>Natural experiments<br>
-</li>
-<li>Causal identification strategies</li>
-<li>Regression discountinuity</li>
+<li>Understanding the logic of organization</li>
+<li>Overcome resistance and improve organization capacity</li>
 </ul>
 </section>
 <section id="references" class="level2">
 <h2 class="anchored" data-anchor-id="references">References</h2>
-<ul>
-<li>Dell M, Querubin P. Nation Building Through Foreign Intervention: Evidence from Discontinuities in Military Strategies. <em>The Quarterly Journal of Economics</em> 2018;133:701–64. <a href="https://doi.org/10.1093/qje/qjx037" class="uri">https://doi.org/10.1093/qje/qjx037</a>.<br>
-</li>
-<li>Chen Y, Ebenstein A, Greenstone M, Li H. Evidence on the impact of sustained exposure to air pollution on life expectancy from China’s Huai River policy. <em>PNAS</em> 2013. <a href="https://doi.org/10.1073/pnas.1300018110" class="uri">https://doi.org/10.1073/pnas.1300018110</a>.</li>
-</ul>
+<div id="refs" role="list">
+
+</div>
 <!--Include social share buttons-->
 <!-- 
 AddToAny check more: https://www.addtoany.com/buttons/for/website 
@@ -344,8 +378,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -461,7 +493,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {
@@ -696,7 +727,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </div>   
     <div class="nav-footer-center">
       &nbsp;
-    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/drganghe/program-evaluation/edit/main/stories/bombing-heating-and-causal-models.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/drganghe/program-evaluation/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li><li><a href="https://github.com/drganghe/program-evaluation/blob/main/stories/bombing-heating-and-causal-models.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li></ul></div></div>
+    </div>
     <div class="nav-footer-right">
       <ul class="footer-items list-unstyled">
     <li class="nav-item compact">
