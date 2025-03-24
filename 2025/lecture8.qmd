@@ -122,6 +122,127 @@ Technical quality and scientific integrarity
 Source: @gertler_impact_2016
 :::
 
+
+## Organization challenges
+
+- Aligning incentives
+- Making tradeoffs
+- Asking the right questions
+- Finding the right timing
+
+
+## Challenge 1: Aligning incentives
+
+:::{style="font-size: 28px;"} 
+- Program implementers
+- Donors
+
+Stategies:
+
+- Separate accountability from learning and impact
+- Focus impact evaluation on important strategic questions
+- Consider impact evaluation as an opportunity for R&D
+- Reframe donor expectations: help donor make decision about supporting similar programs
+:::
+
+:::footer
+Source: IPA, [Organizational Challenges of Impact Evaluation](https://poverty-action.org/sites/default/files/publications/Goldilocks-Deep-Dive-Organizational-Challenges-of-Impact-Evaluation_1.pdf)
+:::
+
+
+## Challenge 2: Making tradeoffs
+
+:::{style="font-size: 28px;"} 
+
+- Resources for evalution or intervention
+- Data collection costs
+- Program staff evaluation requirements
+
+Stategies:
+
+- Senior management buy-in
+- Outside resources to support evaluation
+- Targetd evaluation support
+- Training 
+
+:::
+
+:::footer
+Source: IPA, [Organizational Challenges of Impact Evaluation](https://poverty-action.org/sites/default/files/publications/Goldilocks-Deep-Dive-Organizational-Challenges-of-Impact-Evaluation_1.pdf)
+:::
+
+
+## Challenge 3: Asking the right questions
+
+:::{style="font-size: 28px;"} 
+>A good evaluation questioon is one that seeks to confirm or bettter understand the program's theory of change and generate actionale information for decision makers.
+
+- Clear thory of change
+- Generate transportable knowledge
+
+Stategies:
+
+- Senior management buy-in
+- Internal analytical capacity and other relevant resources
+- Systematic review
+:::
+
+:::footer
+Source: IPA, [Organizational Challenges of Impact Evaluation](https://poverty-action.org/sites/default/files/publications/Goldilocks-Deep-Dive-Organizational-Challenges-of-Impact-Evaluation_1.pdf)
+:::
+
+
+## Challenge 4: Find the right timing
+
+:::{style="font-size: 28px;"} 
+>The evaluation results will be most useful in making decisions about expanding or replicating a program, or changing important aspects of how the program is delivered.
+
+- Time to make decision about program design
+- Delays
+
+Stategies:
+
+- Project maturity
+- Consistent implementation
+- Timing of decision
+:::
+
+:::footer
+Source: IPA, [Organizational Challenges of Impact Evaluation](https://poverty-action.org/sites/default/files/publications/Goldilocks-Deep-Dive-Organizational-Challenges-of-Impact-Evaluation_1.pdf)
+:::
+
+
+## Overcome challenges
+
+:::{style="font-size: 28px;"} 
+- High-priority questions to the organization, with a strong organizational consensus around the need for impact evidence;
+- A review of available evidence should demonstrate that there are knowledge gaps worth filling;
+- A commitment to acting on the results of the evaluation;
+- The program should be sufficiently mature with a strong M&E system in place;
+- The costs of conducting an evaluation should be justified relative to its benefits and both costs as well as benefits should be clearly defined.
+:::
+
+:::footer
+Source: IPA, [Organizational Challenges of Impact Evaluation](https://poverty-action.org/sites/default/files/publications/Goldilocks-Deep-Dive-Organizational-Challenges-of-Impact-Evaluation_1.pdf)
+:::
+
+
+## Capacity building
+
+- Who: evaluators, managers, program implementers  
+- What: technical, organization, data, analysis, communication  
+- How: training, mentoring, coaching, collaboration, dialogue, peer led approach, community of practice
+
+
+## World Bank Framework
+
+![](/images/world-bank-capacity-deveplopment.png){fig-align="center"}
+
+:::footer
+Source: World Bank, [The capacity development results framework](https://documents.worldbank.org/en/publication/documents-reports/documentdetail/482971468188374127/the-capacity-development-results-framework-a-strategic-and-results-oriented-approach-to-learning-for-capacity-development)
+:::
+
+
 ## Summary
 
 - Building partnership

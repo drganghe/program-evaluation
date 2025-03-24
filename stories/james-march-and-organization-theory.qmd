@@ -27,10 +27,11 @@ format:
 #draft: true
 ---
 
-## James March
+## James March (1928--2018)
 
 - Professor at Stanford University
 - Founding father of Organization Theory
+
 
 ## Organization Theory
 
