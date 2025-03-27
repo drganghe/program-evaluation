@@ -4,7 +4,7 @@
     "href": "stories.html",
     "title": "Stories",
     "section": "",
-    "text": "Date\n\n\nTitle\n\n\n\n\n\n\nApr 1, 2025\n\n\nFeifei Li, ImageNet, and the AI Revolution\n\n\n\n\nMar 25, 2025\n\n\nJames March and Organization Theory\n\n\n\n\nMar 18, 2025\n\n\nElinor Ostrom and Case Studies\n\n\n\n\nMar 11, 2025\n\n\nMichael Greenstone and Environmental Economics\n\n\n\n\nMar 4, 2025\n\n\nEsther Duflo and Randomized Controlled Trails\n\n\n\n\nFeb 28, 2025\n\n\nJohn Muir and National Park System\n\n\n\n\nFeb 11, 2025\n\n\nBombing in Vetnam – War and Development\n\n\n\n\nFeb 4, 2025\n\n\nHigh Line Park\n\n\n\n\nJan 28, 2025\n\n\nJohn Snow and Evidence Based Analysis\n\n\n\n\nMay 11, 2024\n\n\nThe Moral Machine and Ethics\n\n\n\n\nMay 4, 2024\n\n\nRobert Bullard and Environmental Justice\n\n\n\n\nApr 27, 2024\n\n\nHans Rosling, Data Visualization, and Storytelling\n\n\n\n\nMar 23, 2024\n\n\nHeating in China and Value of Clean Air\n\n\n\n\n\nNo matching items"
+    "text": "Date\n\n\nTitle\n\n\n\n\n\n\nApr 8, 2025\n\n\nHans Rosling, Data Visualization, and Storytelling\n\n\n\n\nApr 1, 2025\n\n\nFeifei Li, ImageNet, and the AI Revolution\n\n\n\n\nMar 25, 2025\n\n\nJames March and Organization Theory\n\n\n\n\nMar 18, 2025\n\n\nElinor Ostrom and Case Studies\n\n\n\n\nMar 11, 2025\n\n\nMichael Greenstone and Environmental Economics\n\n\n\n\nMar 4, 2025\n\n\nEsther Duflo and Randomized Controlled Trails\n\n\n\n\nFeb 28, 2025\n\n\nJohn Muir and National Park System\n\n\n\n\nFeb 11, 2025\n\n\nBombing in Vetnam – War and Development\n\n\n\n\nFeb 4, 2025\n\n\nHigh Line Park\n\n\n\n\nJan 28, 2025\n\n\nJohn Snow and Evidence Based Analysis\n\n\n\n\nMay 11, 2024\n\n\nThe Moral Machine and Ethics\n\n\n\n\nMay 4, 2024\n\n\nRobert Bullard and Environmental Justice\n\n\n\n\nMar 23, 2024\n\n\nHeating in China and Value of Clean Air\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "project.html",
@@ -158,14 +158,14 @@
     "href": "stories/feifei-li-imagenet-and-ai-revolution.html#fei-fei-li",
     "title": "Feifei Li, ImageNet, and the AI Revolution",
     "section": "Fei-Fei Li",
-    "text": "Fei-Fei Li\n\nProfessor of Computer Sciences at Stanford University\nDirect of Human-centered AI Institute\nBoo: The Worlds I See"
+    "text": "Fei-Fei Li\n\nProfessor of Computer Sciences at Stanford University\nDirect of Human-centered AI Institute\nBook: The Worlds I See"
   },
   {
     "objectID": "stories/feifei-li-imagenet-and-ai-revolution.html#thoughts-for-evaluation",
     "href": "stories/feifei-li-imagenet-and-ai-revolution.html#thoughts-for-evaluation",
     "title": "Feifei Li, ImageNet, and the AI Revolution",
     "section": "Thoughts for evaluation",
-    "text": "Thoughts for evaluation\n\nData\nVision\n\nEthics"
+    "text": "Thoughts for evaluation\n\nData\nVision\nEthics"
   },
   {
     "objectID": "stories/feifei-li-imagenet-and-ai-revolution.html#further-readings",
@@ -627,7 +627,7 @@
     "href": "2025/lecture9.html#existing-data",
     "title": "Lecture 9 Data Collection: Procedures, Instrumentation, Practical Considerations",
     "section": "Existing data",
-    "text": "Existing data\n\nEconomic, census statistics\nOpen data platforms (NYC Open Data, Open Data NY, data.gov)\n\nProgram data\n\nExample: Prof. MacBride’s Queens Curbside Recycling study"
+    "text": "Existing data\n\nEconomic, census statistics\nOpen data platforms (NYC Open Data, Open Data NY, data.gov)\n\nProgram data"
   },
   {
     "objectID": "2025/lecture9.html#collecting-program-data",
@@ -648,7 +648,7 @@
     "href": "2025/lecture9.html#sample-size-power-calculations",
     "title": "Lecture 9 Data Collection: Procedures, Instrumentation, Practical Considerations",
     "section": "Sample size: Power calculations",
-    "text": "Sample size: Power calculations\n“Smallest sample (lowest budget)” to possibly measure program impact."
+    "text": "Sample size: Power calculations\n\n“Smallest sample (lowest budget)” to possibly measure program impact."
   },
   {
     "objectID": "2025/lecture9.html#survey-challenges",
@@ -733,5 +733,12 @@
     "title": "Lecture 9 Data Collection: Procedures, Instrumentation, Practical Considerations",
     "section": "",
     "text": "References\n\n\nNewcomer, Kathryn E., Harry P. Hatry, and Joseph S. Wholey. 2015. Handbook of Practical Program Evaluation. 4th edition. San Francisco: Jossey-Bass.\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He"
+  },
+  {
+    "objectID": "2025/lecture9.html#survey-and-interview-simulation",
+    "href": "2025/lecture9.html#survey-and-interview-simulation",
+    "title": "Lecture 9 Data Collection: Procedures, Instrumentation, Practical Considerations",
+    "section": "Survey and interview simulation",
+    "text": "Survey and interview simulation\n\nNYCHA Energy Burden Project Example"
   }
 ]

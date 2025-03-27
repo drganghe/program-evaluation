@@ -71,10 +71,6 @@ The organization is a system of interrelated social behavior of participants.
 - March, James G., and Herbert A. Simon. 1993. Organizations. 2nd edition. Cambridge, Mass.: Wiley-Blackwell.
 
 
-::: {#refs}
-:::
-
-
 <!--Include social share buttons-->
 
 {{< include /files/includes/_socialshare.qmd >}}

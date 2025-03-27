@@ -53,8 +53,6 @@ format:
 - Open data platforms ([NYC Open Data](https://opendata.cityofnewyork.us/), [Open Data NY](https://data.ny.gov/), [data.gov](https://data.gov/))  
 - Program data
 
-Example: Prof. MacBride's Queens Curbside Recycling study
-
 
 ## Collecting program data
 
@@ -74,8 +72,9 @@ Example: Prof. MacBride's Queens Curbside Recycling study
 
 ## Sample size: Power calculations
 
+:::{style="text-align: center"}
 "Smallest sample (lowest budget)" to possibly measure program impact.
-
+:::
 
 ## Survey Challenges
 
@@ -174,6 +173,12 @@ institutional features, outcomes.
 
 Ready for a full implementation.
 
+
+## Survey and interview simulation
+
+:::{style="text-align: center"}
+NYCHA Energy Burden Project Example
+:::
 
 ------
 
