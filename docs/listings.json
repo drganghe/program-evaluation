@@ -2,6 +2,7 @@
   {
     "listing": "/stories.html",
     "items": [
+      "/stories/feifei-li-imagenet-and-ai-revolution.html",
       "/stories/james-march-and-organization-theory.html",
       "/stories/elinor-ostrom-and-case-studies.html",
       "/stories/michael-greenstone-and-environmental-economics.html",
@@ -13,7 +14,6 @@
       "/stories/the-moral-machine-and-ethics.html",
       "/stories/robert-bullard-and-environmental-justice.html",
       "/stories/hans-rosling-data-visualization-and-storystelling.html",
-      "/stories/feifei-li-imagenet-and-ai-revolution.html",
       "/stories/heating-in-china-and-value of-clean-air.html"
     ]
   },
@@ -27,7 +27,8 @@
       "/2025/lecture5.html",
       "/2025/lecture6.html",
       "/2025/lecture7.html",
-      "/2025/lecture8.html"
+      "/2025/lecture8.html",
+      "/2025/lecture9.html"
     ]
   },
   {

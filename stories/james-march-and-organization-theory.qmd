@@ -67,6 +67,10 @@ The organization is a system of interrelated social behavior of participants.
 
 ## References
 
+- Cyert, Richard Michael, and James G. March. 2013. A Behavioral Theory of the Firm. Mansfield Centre, Conn: Martino Fine Books. 
+- March, James G., and Herbert A. Simon. 1993. Organizations. 2nd edition. Cambridge, Mass.: Wiley-Blackwell.
+
+
 ::: {#refs}
 :::
 
