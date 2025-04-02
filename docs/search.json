@@ -46,7 +46,7 @@
     "href": "lectures.html",
     "title": "Lectures",
     "section": "",
-    "text": "Lecture 1 Introduction\n\n\n\nGang He\n\n\nJan 28, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 2 Goals and Types of Evaluation\n\n\n\nGang He\n\n\nFeb 4, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 3 Logic and Causal Models\n\n\n\nGang He\n\n\nFeb 11, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 4 Stakeholder Analysis, Mapping, and Engagement\n\n\n\nGang He\n\n\nFeb 28, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 5 Evaluation Designs: Randomized Experiments\n\n\n\nGang He\n\n\nMar 4, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 6 Evaluation Designs: Quasi Experiments\n\n\n\nGang He\n\n\nMar 11, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 7 Evaluation Designs: Qualitative Methods\n\n\n\nGang He\n\n\nMar 18, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 8 Overcome Resistance and Improve Organization Capacity\n\n\n\nGang He\n\n\nMar 25, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 9 Data Collection: Procedures, Instrumentation, Practical Considerations\n\n\n\nGang He\n\n\nApr 1, 2025\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Lecture 1 Introduction\n\n\n\nGang He\n\n\nJan 28, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 2 Goals and Types of Evaluation\n\n\n\nGang He\n\n\nFeb 4, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 3 Logic and Causal Models\n\n\n\nGang He\n\n\nFeb 11, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 4 Stakeholder Analysis, Mapping, and Engagement\n\n\n\nGang He\n\n\nFeb 28, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 5 Evaluation Designs: Randomized Experiments\n\n\n\nGang He\n\n\nMar 4, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 6 Evaluation Designs: Quasi Experiments\n\n\n\nGang He\n\n\nMar 11, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 7 Evaluation Designs: Qualitative Methods\n\n\n\nGang He\n\n\nMar 18, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 8 Overcome Resistance and Improve Organization Capacity\n\n\n\nGang He\n\n\nMar 25, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 9 Data Collection: Procedures, Instrumentation, Practical Considerations\n\n\n\nGang He\n\n\nApr 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 10 Data Analysis: Quantitative, Qualitative, and Mixed Analysis\n\n\n\nGang He\n\n\nApr 8, 2025\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "stories/elinor-ostrom-and-case-studies.html",
@@ -158,7 +158,7 @@
     "href": "stories/feifei-li-imagenet-and-ai-revolution.html#fei-fei-li",
     "title": "Feifei Li, ImageNet, and the AI Revolution",
     "section": "Fei-Fei Li",
-    "text": "Fei-Fei Li\n\nProfessor of Computer Sciences at Stanford University\nDirect of Human-centered AI Institute\nBook: The Worlds I See"
+    "text": "Fei-Fei Li\n\nProfessor of Computer Sciences at Stanford University\nDirector of Human-centered AI Institute\nBook: The Worlds I See"
   },
   {
     "objectID": "stories/feifei-li-imagenet-and-ai-revolution.html#thoughts-for-evaluation",
@@ -312,7 +312,7 @@
     "href": "resources.html#tools",
     "title": "Resources",
     "section": "Tools",
-    "text": "Tools\nDAG chart tool: Dagitty\nRandom Generator\nFEMA Benefit‐Cost Analysis (BCA) Toolkit 6.0 Release Notes"
+    "text": "Tools\nDAG chart tool: Dagitty\nRandom Generator\nSample Size Calculator\nFEMA Benefit‐Cost Analysis (BCA) Toolkit 6.0 Release Notes"
   },
   {
     "objectID": "resources.html#evaluation-report-template",
@@ -494,7 +494,7 @@
     "href": "2025/schedule.html",
     "title": "Spring 2025 Course Schedule",
     "section": "",
-    "text": "Week\nDate\nGuiding question\nTopic\nStory\nCase Study\nAssignment\n\n\n\n\n1\n1/28\nWhat is program evaluation? Where are we headed in this course?\nIntroduction and Overview\nJohn Snow\n\n\n\n\n2\n2/4\nWhy do evaluation?\nGoals and Types of Evaluation\nHigh Line Park\nJobs Plus in NYC\nCR1\n\n\n3\n2/11\nHow to identify causal effects?\nLogic and Causal Models\nBombing in Vetnam – War and Development\nNorthwest Housing Alternatives\nCR2\n\n\n4\n2/18\nClass following Monday schedule - No session\n\n\n\n\n\n\n5\n2/25\nHow do I account for everyone involved?\nStakeholder Engagement\nJohn Muir and National Park System\nARPA-E\nCR3\n\n\n6\n3/4\nHow do I use the scientific method in the real world?\nEvaluation Designs: Randomized Experiences\nEsther Duflo and RCTs\nMicrofinance and RCT\nCR4\n\n\n7\n3/11\nWhat if a randomized experiment is not viable?\nEvaluation Designs: Quasi-experiments\nMichael Greenstone and Environmental Economics\nAir Quality and Life-expectancy\nCR5\n\n\n8\n3/18\nHow to do case study evaluation?\nEvaluation Designs: Qualitative methods\nElinor Ostrom and Case Studies\nNYC T&G Programs\nCR6\n\n\n9\n3/25\nHow to manage challenges in evaluation?\nOvercome Resistance and Improve Organization CapacityGuest Speaker: Beatrice Teston\nJames March and Organization Theory\nAmerican Red Cross Haiti Relief By Cristian Morales\nCR7\n\n\n10\n4/1\nWhere does the data come from?\nData Collection: Procedures, instrumentation, practical consideration\nFei-fei Li and ImageNet\nAI and Big Data in Development Evaluation\nCR8\n\n\n11\n4/8\nWhat methods make data tell accurate stories and solve problems?\nData Analysis: Quantitative, qualitative, and mixed analysis\nHans Rosling and Storytelling\n\nProposal\n\n\n12\n4/15\nNo session-Spring Recess\n\n\n\n\n\n\n13\n4/22\nIs the program worthwhile? What happens next?\nEconomic Evaluation and Performance Measurement\nRobert Bullard and Environmental Justice\nCBA of EPA Clean Air Act\nCR9\n\n\n14\n4/29\nHow to be an ethical evaluator?\nEthics, Principles, and Standards\nThe Moral Machine\n\nCR10\n\n\n15\n5/6\nPresentation\n\n\n\n\n\n\n16\n5/13\nEvaluation report\n\n\n\n\n\n\n\n\nNote: CR: Case Response"
+    "text": "Week\nDate\nGuiding question\nTopic\nStory\nCase Study\nAssignment\n\n\n\n\n1\n1/28\nWhat is program evaluation? Where are we headed in this course?\nIntroduction and Overview\nJohn Snow\n\n\n\n\n2\n2/4\nWhy do evaluation?\nGoals and Types of Evaluation\nHigh Line Park\nJobs Plus in NYC\nCR1\n\n\n3\n2/11\nHow to identify causal effects?\nLogic and Causal Models\nBombing in Vetnam – War and Development\nNorthwest Housing Alternatives\nCR2\n\n\n4\n2/18\nClass following Monday schedule - No session\n\n\n\n\n\n\n5\n2/25\nHow do I account for everyone involved?\nStakeholder Engagement\nJohn Muir and National Park System\nARPA-E\nCR3\n\n\n6\n3/4\nHow do I use the scientific method in the real world?\nEvaluation Designs: Randomized Experiences\nEsther Duflo and RCTs\nMicrofinance and RCT\nCR4\n\n\n7\n3/11\nWhat if a randomized experiment is not viable?\nEvaluation Designs: Quasi-experiments\nMichael Greenstone and Environmental Economics\nAir Quality and Life-expectancy\nCR5\n\n\n8\n3/18\nHow to do case study evaluation?\nEvaluation Designs: Qualitative methods\nElinor Ostrom and Case Studies\nNYC T&G Programs\nCR6\n\n\n9\n3/25\nHow to manage challenges in evaluation?\nOvercome Resistance and Improve Organization CapacityGuest Speaker: Beatrice Teston\nJames March and Organization Theory\nAmerican Red Cross Haiti Relief By Cristian Morales\nCR7\n\n\n10\n4/1\nWhere does the data come from?\nData Collection: Procedures, instrumentation, practical consideration\nFei-fei Li and ImageNet\nAI and Big Data in Development Evaluation\nCR8\n\n\n11\n4/8\nWhat methods make data tell accurate stories and solve problems?\nData Analysis: Quantitative, qualitative, and mixed analysis\nHans Rosling and Storytelling\nCUNY SEEK Program\nCR9\n\n\n12\n4/15\nNo session-Spring Recess\n\n\n\n\n\n\n13\n4/22\nIs the program worthwhile? What happens next?\nEconomic Evaluation and Performance Measurement\nRobert Bullard and Environmental Justice\nCBA of EPA Clean Air Act\nProposal, CR10\n\n\n14\n4/29\nHow to be an ethical evaluator?\nEthics, Principles, and Standards\nThe Moral Machine\n\n\n\n\n15\n5/6\nPresentation\n\n\n\n\n\n\n16\n5/13\nEvaluation report\n\n\n\n\n\n\n\n\nNote: CR: Case Response"
   },
   {
     "objectID": "speakers/beatrice-teston.html",
@@ -613,7 +613,7 @@
     "href": "2025/lecture9.html#todays-agenda",
     "title": "Lecture 9 Data Collection: Procedures, Instrumentation, Practical Considerations",
     "section": "Today’s agenda",
-    "text": "Today’s agenda\n\nData sources\nStatistical data\nSurvey\nInterview\nEvaluation project consultation"
+    "text": "Today’s agenda\n\nData sources\nStatistical data\nSurvey\nInterview\nEvaluation project consultation\nCase: AI and Big Data for Development Evaluation"
   },
   {
     "objectID": "2025/lecture9.html#literature-review",
@@ -740,5 +740,131 @@
     "title": "Lecture 9 Data Collection: Procedures, Instrumentation, Practical Considerations",
     "section": "Survey and interview simulation",
     "text": "Survey and interview simulation\n\nNYCHA Energy Burden Project Example"
+  },
+  {
+    "objectID": "2025/lecture10.html#recap-lecture-9",
+    "href": "2025/lecture10.html#recap-lecture-9",
+    "title": "Lecture 10 Data Analysis: Quantitative, Qualitative, and Mixed Analysis",
+    "section": "Recap lecture 9",
+    "text": "Recap lecture 9\n\nData sources\nStatistical data\nSurvey\nInterview\nEvaluation project consultation\nCase: AI and Big Data for Development Evaluation"
+  },
+  {
+    "objectID": "2025/lecture10.html#todays-agenda",
+    "href": "2025/lecture10.html#todays-agenda",
+    "title": "Lecture 10 Data Analysis: Quantitative, Qualitative, and Mixed Analysis",
+    "section": "Today’s agenda",
+    "text": "Today’s agenda\n\nData analysis\nQualitative methods\nQuantitative methods\nVisualization\nStory telling\nCase: CUNY SEEK Program"
+  },
+  {
+    "objectID": "2025/lecture10.html#qualitative-data",
+    "href": "2025/lecture10.html#qualitative-data",
+    "title": "Lecture 10 Data Analysis: Quantitative, Qualitative, and Mixed Analysis",
+    "section": "Qualitative data",
+    "text": "Qualitative data\n\n\n\n\n\n\n\n\nPrimary purpose\nMethods\n\n\n\n\nEnumerative\nClassical Content Analysis; Word count; Cultural domain analysis; Ethnographic decision models\n\n\nDescriptive\nMatrix displays; Timelines; Concept maps/mind maps; Template/framework analysis\n\n\nHermeneutic\nThematic analysis; Constant comparative method; Thematic narrative analysis; Framework analysis; Discourse analysis; Qualitative content analysis\n\n\nExplannatory\nQualitative comparative analysis; Process tracing\n\n\n\n\n\nSource: Newcomer, Hatry, and Wholey (2015)"
+  },
+  {
+    "objectID": "2025/lecture10.html#coding-and-categorizing",
+    "href": "2025/lecture10.html#coding-and-categorizing",
+    "title": "Lecture 10 Data Analysis: Quantitative, Qualitative, and Mixed Analysis",
+    "section": "Coding and categorizing",
+    "text": "Coding and categorizing\n\n\nSource: Dodds et al. (2011)"
+  },
+  {
+    "objectID": "2025/lecture10.html#matrix-displays",
+    "href": "2025/lecture10.html#matrix-displays",
+    "title": "Lecture 10 Data Analysis: Quantitative, Qualitative, and Mixed Analysis",
+    "section": "Matrix displays",
+    "text": "Matrix displays\n\n\n\nI have two kinds of problems: the urgent and the important. The urgent are not important, and the important are never urgent.\n\n— Dwight D. Eisenhower\n\n\n\n\n\n\n\n\nImage source"
+  },
+  {
+    "objectID": "2025/lecture10.html#delphi-methodtechnique",
+    "href": "2025/lecture10.html#delphi-methodtechnique",
+    "title": "Lecture 10 Data Analysis: Quantitative, Qualitative, and Mixed Analysis",
+    "section": "Delphi method/technique",
+    "text": "Delphi method/technique\n\n\nSource: Image created by Bing with DALL-E 3"
+  },
+  {
+    "objectID": "2025/lecture10.html#word-counting",
+    "href": "2025/lecture10.html#word-counting",
+    "title": "Lecture 10 Data Analysis: Quantitative, Qualitative, and Mixed Analysis",
+    "section": "Word counting",
+    "text": "Word counting\n\n2,406: Number of words in President Obama’s inaugural speech\n4: Number of times the president said “crisis”\n3: Number of times he said “economy”\n2: Number of times he said “war”\n67: Number of times he said “our”\n2: Number of times he said “my”\n1: Number of times he said “change”\n11: Number of times he said “new”\n\nDiscuss the limitations of word counting\n\nSource: U.S. News"
+  },
+  {
+    "objectID": "2025/lecture10.html#mindmap",
+    "href": "2025/lecture10.html#mindmap",
+    "title": "Lecture 10 Data Analysis: Quantitative, Qualitative, and Mixed Analysis",
+    "section": "Mindmap",
+    "text": "Mindmap\n\n\nOpen source options: Markmap"
+  },
+  {
+    "objectID": "2025/lecture10.html#descriptive-statistics",
+    "href": "2025/lecture10.html#descriptive-statistics",
+    "title": "Lecture 10 Data Analysis: Quantitative, Qualitative, and Mixed Analysis",
+    "section": "Descriptive statistics",
+    "text": "Descriptive statistics\n\nDistribution\nMeasures of central tendency\n\nMean\nMedian\nMode\n\nMeasures of variability\n\nRange\nStandard deviation\nVariance\nInterquartile range"
+  },
+  {
+    "objectID": "2025/lecture10.html#statistical-tests",
+    "href": "2025/lecture10.html#statistical-tests",
+    "title": "Lecture 10 Data Analysis: Quantitative, Qualitative, and Mixed Analysis",
+    "section": "Statistical tests",
+    "text": "Statistical tests\n\n\nSource: Scribbr; Learn more: Data Analysis and Statistics with R, R for Data Science"
+  },
+  {
+    "objectID": "2025/lecture10.html#r-squared",
+    "href": "2025/lecture10.html#r-squared",
+    "title": "Lecture 10 Data Analysis: Quantitative, Qualitative, and Mixed Analysis",
+    "section": "R squared",
+    "text": "R squared\n“The proportion of the variation in the dependent variable that is predictable from the independent variable(s).”\n\\(R^2\\) does not indicate whether:\n\nthe independent variables are a cause of the changes in the dependent variable;\nomitted-variable bias exists;\nthe correct regression was used;\nthe most appropriate set of independent variables has been chosen;\nthere is collinearity present in the data on the explanatory variables;\nthe model might be improved by using transformed versions of the existing set of independent variables;\nthere are enough data points to make a solid conclusion.\n\n\nSource: Wikipedia"
+  },
+  {
+    "objectID": "2025/lecture10.html#summary-of-statistics",
+    "href": "2025/lecture10.html#summary-of-statistics",
+    "title": "Lecture 10 Data Analysis: Quantitative, Qualitative, and Mixed Analysis",
+    "section": "Summary of statistics",
+    "text": "Summary of statistics\n\n\n\n\n\n\n\n\n\n\n\n\nUnited States\nChina\nGermany\n\n\n\n\n\nEst. (Std. Err.)\nEst. (Std. Err.)\nEst. (Std. Err.)\n\n\n(Intercept)\n15 (1.04)***\n18 (1.58)***\n12 (0.96)***\n\n\nlog(cum_capacity_kw)\n-0.44 (0.045)***\n-0.57 (0.070)***\n-0.33 (0.042)***\n\n\nlog(price_si)\n0.15 (0.058)*\n0.23 (0.079)\n0.21 (0.054)\n\n\n\n\n\nAsterisks indicate the level of significance: *5%; **1%; ***0.1%.\n\n\nSource: Helveston, He, and Davidson (2022)"
+  },
+  {
+    "objectID": "2025/lecture10.html#statiscal-significance",
+    "href": "2025/lecture10.html#statiscal-significance",
+    "title": "Lecture 10 Data Analysis: Quantitative, Qualitative, and Mixed Analysis",
+    "section": "Statiscal significance",
+    "text": "Statiscal significance\np value: “The lower the p-value is, the lower the probability of getting that result if the null hypothesis were true.”\n\n\nSource: Wikipedia; Read more: Leek et al. (2017), Benjamin et al. (2018)"
+  },
+  {
+    "objectID": "2025/lecture10.html#stories",
+    "href": "2025/lecture10.html#stories",
+    "title": "Lecture 10 Data Analysis: Quantitative, Qualitative, and Mixed Analysis",
+    "section": "Stories",
+    "text": "Stories\n\nData story\nMethod story\nPattens and trends\nOrganization and instution vision, mission, and efforts\nMotivate changes"
+  },
+  {
+    "objectID": "2025/lecture10.html#climate-strips",
+    "href": "2025/lecture10.html#climate-strips",
+    "title": "Lecture 10 Data Analysis: Quantitative, Qualitative, and Mixed Analysis",
+    "section": "Climate Strips",
+    "text": "Climate Strips\n\n\nSource: https://www.reading.ac.uk/planet/climate-resources/climate-stripes"
+  },
+  {
+    "objectID": "2025/lecture10.html#duck-curve",
+    "href": "2025/lecture10.html#duck-curve",
+    "title": "Lecture 10 Data Analysis: Quantitative, Qualitative, and Mixed Analysis",
+    "section": "Duck curve",
+    "text": "Duck curve\n\n\nSource: EIA"
+  },
+  {
+    "objectID": "2025/lecture10.html#story",
+    "href": "2025/lecture10.html#story",
+    "title": "Lecture 10 Data Analysis: Quantitative, Qualitative, and Mixed Analysis",
+    "section": "Story",
+    "text": "Story\n\nHans Rosling, Data Visulization, and Storytelling"
+  },
+  {
+    "objectID": "2025/lecture10.html#references",
+    "href": "2025/lecture10.html#references",
+    "title": "Lecture 10 Data Analysis: Quantitative, Qualitative, and Mixed Analysis",
+    "section": "",
+    "text": "References\n\n\nBenjamin, Daniel J., James O. Berger, Magnus Johannesson, Brian A. Nosek, E.-J. Wagenmakers, Richard Berk, Kenneth A. Bollen, et al. 2018. “Redefine Statistical Significance.” Nature Human Behaviour 2 (1): 6–10. https://doi.org/10.1038/s41562-017-0189-z.\n\n\nDodds, Peter Sheridan, Kameron Decker Harris, Isabel M. Kloumann, Catherine A. Bliss, and Christopher M. Danforth. 2011. “Temporal Patterns of Happiness and Information in a Global Social Network: Hedonometrics and Twitter.” PLOS ONE 6 (12): e26752. https://doi.org/10.1371/journal.pone.0026752.\n\n\nHelveston, John Paul, Gang He, and Michael R. Davidson. 2022. “Quantifying the Cost Savings of Global Solar Photovoltaic Supply Chains.” Nature 612 (7938): 83–87. https://doi.org/10.1038/s41586-022-05316-6.\n\n\nLeek, Jeff, Blakeley B. McShane, Andrew Gelman, David Colquhoun, Michèle B. Nuijten, and Steven N. Goodman. 2017. “Five Ways to Fix Statistics.” Nature 551 (7682): 557–59. https://doi.org/10.1038/d41586-017-07522-z.\n\n\nNewcomer, Kathryn E., Harry P. Hatry, and Joseph S. Wholey. 2015. Handbook of Practical Program Evaluation. 4th edition. San Francisco: Jossey-Bass.\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He"
   }
 ]

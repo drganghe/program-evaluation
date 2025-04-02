@@ -16,10 +16,10 @@ page-layout: full
 |  8  | 3/18 | How to do case study evaluation?   | [Evaluation Designs: Qualitative methods](lecture7.qmd)  | [Elinor Ostrom and Case Studies](/stories/elinor-ostrom-and-case-studies.qmd) | NYC T&G Programs  |  CR6 |
 |  9  | 3/25 | How to manage challenges in evaluation?   | [Overcome Resistance and Improve Organization Capacity](lecture8.qmd)<br><br>Guest Speaker: [Beatrice Teston](/speakers/beatrice-teston.qmd) | [James March and Organization Theory](/stories/james-march-and-organization-theory.qmd) | American Red Cross Haiti Relief<br><br> By Cristian Morales  | CR7 |
 |  10  | 4/1 | Where does the data come from?   | [Data Collection: Procedures, instrumentation, practical consideration](lecture9.qmd)  | [Fei-fei Li and ImageNet](/stories/feifei-li-imagenet-and-ai-revolution.qmd)   | AI and Big Data in Development Evaluation | CR8 |
-|  11  | 4/8 |  What methods make data tell accurate stories and solve problems?  | Data Analysis: Quantitative, qualitative, and mixed analysis  | Hans Rosling and Storytelling  |  | Proposal |
+|  11  | 4/8 |  What methods make data tell accurate stories and solve problems?  | [Data Analysis: Quantitative, qualitative, and mixed analysis](lecture10.qmd)  | [Hans Rosling and Storytelling](/stories/hans-rosling-data-visualization-and-storystelling.qmd)  | CUNY SEEK Program | CR9 |
 |  12  | 4/15 | No session-Spring Recess   |   |   |  |  |
-|  13  | 4/22 | Is the program worthwhile? What happens next?   | Economic Evaluation and Performance Measurement  | Robert Bullard and Environmental Justice  | CBA of EPA Clean Air Act | CR9 |
-|  14  | 4/29 | How to be an ethical evaluator?   | Ethics, Principles, and Standards  | The Moral Machine  |  | CR10 |
+|  13  | 4/22 | Is the program worthwhile? What happens next?   | Economic Evaluation and Performance Measurement  | Robert Bullard and Environmental Justice  | CBA of EPA Clean Air Act | Proposal, CR10 |
+|  14  | 4/29 | How to be an ethical evaluator?   | Ethics, Principles, and Standards  | The Moral Machine  |  |  |
 |  15  | 5/6 | Presentation   |   |   |  |  |
 |  16  | 5/13 | Evaluation report   |   |   |  |  |
 

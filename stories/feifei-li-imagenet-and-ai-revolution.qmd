@@ -36,7 +36,7 @@ format:
 ## Fei-Fei Li
 
 - Professor of Computer Sciences at Stanford University
-- Direct of Human-centered AI Institute 
+- Director of Human-centered AI Institute 
 - Book: *The Worlds I See*
 
 ## Thoughts for evaluation

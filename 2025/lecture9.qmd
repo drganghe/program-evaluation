@@ -37,6 +37,7 @@ format:
 - Survey
 - Interview
 - Evaluation project consultation
+- Case: AI and Big Data for Development Evaluation
 
 
 ## Literature review

@@ -42,6 +42,8 @@ DAG chart tool: [Dagitty](https://www.dagitty.net/dags.html)
 
 [Random Generator](/files/tools/RandomGenerator.xlsx)
 
+[Sample Size Calculator](https://www.qualtrics.com/blog/calculating-sample-size/)
+
 [FEMA Benefit‐Cost Analysis (BCA) Toolkit 6.0 Release Notes](https://www.fema.gov/sites/default/files/2020-08/fema_bca_toolkit_release-notes-july-2020.pdf)
 
 
