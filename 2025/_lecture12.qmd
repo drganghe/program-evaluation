@@ -1,0 +1,281 @@
+---
+title: "Lecture 12 Ethics, Principles, and Standards"
+description-meta: "How can I be an ethical evaluator?"
+author: "Gang He"
+date: April 29, 2025
+date-format: long
+image: "/images/program-evaluation-ethics-featured.webp"
+format:
+  revealjs:
+    theme: white
+ #   embed-resources: true
+    slide-number: true
+    preview-links: auto
+    link-external-newwindow: true
+    citations-hover: true
+    auto-stretch: true
+    r-fit-text: true
+    center: true
+    scrollable: true
+    css: /custom.css
+    footer: <https://drganghe.github.io/program-evaluation/>
+#draft: true
+---
+
+## Today's agenda
+
+- Course evaluation (<http://baruch.cuny.edu/EVALS>)
+- Review the class
+- Ethic considerations
+- Q&A for presentation and project
+
+
+## Your evaluation is important to us
+
+
+<center>
+<http://baruch.cuny.edu/EVALS>
+</center>
+
+
+
+## Mindmap of class
+
+
+<iframe width="980" height="600" src="/images/program-evaluation-markmap.html" title="Program Evaluation Mindmap"></iframe>
+
+
+::: footer
+Refresh page to see the mindmap or click [here](/images/program-evaluation-markmap.html){.external target="_blank"}, [download](/images/program-evaluation-markmap.svg).
+:::
+
+:::{.content-hidden}
+<!--
+## Recap lecture 1
+
+- Get to know each other
+- John Snow and evidence based analysis
+- Evidence based policy
+  - Global clean energy supply chain
+  - Queens curb side organics
+- Capturing the wedage
+- Governers Island and other cases
+
+
+## Recap lecture 2
+
+- Types and applications of evaluation
+- Exploratory evaluation
+- High Line Park
+- Cultural responsive evaluation
+- Case: Northwest Housing Alternatives
+
+
+## Recap lecture 3
+
+- Theory of change
+- Logic model
+- DAG: Directed Acyclic Graphs
+- Causal models
+- Case: Jobs Plus in NYC case
+- Ask a good question game
+
+
+## Recap lecture 4
+
+- Stakeholders
+- Identify key stakeholder
+- Engaging stakeholders
+- Case: ARPR-E 
+- Review of logic models and preliminary discussion of student project ideas
+
+
+## Recap lecture 5
+
+- Evaluation design
+- RCT
+- Quasi-experimental (RD, DiD)
+- Observational
+- Proposal
+- Progress on evaluation project
+
+
+## Recap lecture 6
+
+- Data sources
+- Statistical data
+- Survey
+- Interview
+- Evaluation project consultation
+
+
+## Recap lecture 7
+
+- Data analysis
+- Qualitative methods
+- Quantitative methods
+- Visualization
+- Story telling
+- Case: NYC G&T Program
+
+
+## Recap lecture 8
+
+- CBA: Cost-benefit analysis
+- Challenges
+- Beyond costs
+- Story: Robert Bullard and Environmental Justice
+- Case: CBA of EPA Clean Air Act
+-->
+:::
+
+
+## Critics/pitfalls in evaluations
+
+- Data
+- Sampling
+- Design/causal models
+- Implementation
+- Visulization/Presentation
+- Generalization
+
+
+## Recommendations and suggestions
+
+- Evidence-based (findings)
+- Compliance
+- Problem solving (causes)
+- Consider options
+- Best practices
+
+::: footer
+Source: @newcomer_handbook_2015
+:::
+
+
+## Writing
+
+- Report
+- Abstract (200 words)
+- Executive summary (2 pages)
+- Poster/presentation/social media post
+
+::: footer
+Source: @newcomer_handbook_2015
+:::
+
+
+## Hippocratic Oath: First do no harm
+
+>I will use those dietary regimens which will benefit my patients according to my greatest ability and judgment, and I will do no harm or injustice to them. Neither will I administer a poison to anybody when asked to do so, nor will I suggest such a course. Similarly I will not give to a woman a pessary to cause abortion. But I will keep pure and holy both my life and my art. I will not use the knife, not even, verily, on sufferers from stone, but I will give place to such as are craftsmen therein.
+
+::: footer
+Source: [Wikipedia](https://en.wikipedia.org/wiki/Hippocratic_Oath)
+:::
+
+---
+
+- "A fundamental principle is that groups should not be excluded from an intervention that is known to be beneficial solely for the purpose of conducting an evaluation."
+- "if an evaluation shows that a program is cost effective, the funders of the program—whether governments, donors, or nongovernmental organizations—should make reasonable efforts to expand the program to include the comparison groups once the impact evaluation has been completed."
+- "evaluations should not dictate how programs are assigned; instead, evaluations should be fitted to program assignment rules to the extent that those are clear and fair."
+
+::: footer
+Source: @gertler_impact_2016
+:::
+
+
+## WHO protecting human subjects
+
+- The rights and welfare of the subjects involved in the impact evaluation should be adequately protected.
+- The researchers should obtain freely given, informed consent from the participants.
+- The balance between risk and potential benefits involved should be assessed and deemed acceptable by a panel of independent experts.
+
+
+## Belmont Report
+
+- Respect for persons. How will the researchers obtain informed consent from their research subjects?
+- Beneficence. How will the researchers ensure that the research (1) does not harm and (2) maximizes potential benefits and minimizes potential harm?
+- Justice. How will the researchers ensure that the benefits and burdens of research are fairly and equitably shared?
+
+::: footer
+Source: [The Belmont Report: Ethical Principles and Guidelines for the Protection of Human Subjects of Research](https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/read-the-belmont-report/index.html)
+:::
+
+
+## AEA Guiding Principles for Evaluators{.smaller}
+
+- Systematic Inquiry: Evaluators conduct data-based inquiries that are thorough, methodical, and contextually relevant.
+- Competence: Evaluators provide skilled professional services to stakeholders.
+- Integrity: Evaluators behave with honesty and transparency in order to ensure the integrity of the evaluation.
+- Respect for People: Evaluators honor the dignity, well-being, and self-worth of individuals and acknowledge the influence of culture within and across groups.
+- Common Good and Equity: Evaluators strive to contribute to the common good and advancement of an equitable and just society.
+
+::: footer
+Source: [Guiding Principles](https://www.eval.org/About/Guiding-Principles)
+:::
+
+
+## Conflict of interest
+
+- Family, friendships, financial, or social factors 
+- Impact independent judgement and decision
+- Disclose and transparent
+
+
+## Managing ethical and credible evaluations
+
+- Protecting the individuals, or human subjects, who participate in the evaluation
+- Transparency of methods/data
+- Unbiased, reliable, and credible evaluation
+
+::: footer
+Source: @gertler_impact_2016
+:::
+
+
+## Transparent: Open science
+
+- Publication bias
+- Data mining
+- Multiple hypothesis testing
+- $R^2$/t-test (p-hacking)
+- Lack of replication
+
+
+## Checklist
+
+:::{style="font-size:24px"}
+- Is assignment to the treatment and comparison groups fair? Are there any groups with particularly high need that should receive the program in any case? Who will be excluded from the impact evaluation?
+- Has the research team identified the relevant Institutional Review Board(IRB) or National Ethics Review Committee?
+- Does the impact evaluation schedule allow sufficient time to prepare and submit the research protocol to the IRB and obtain consent before data collection from human subjects begins?
+- Did the research team submit the research protocol and preanalysis plan to a social science trial registry?
+- Is a procedure in place to ensure that the key elements of the intervention are documented as they happen, and not only as they are planned?
+- Do policymakers understand that evaluation results might show that the intervention was not effective, and do they agree that such results will be published and not held back?
+:::
+
+::: footer
+Source: @gertler_impact_2016
+:::
+
+## Story
+
+![](/images/moral-machine-design.png){fig-align="center"}
+
+<center>
+[The Moral Machine and Ethics](the-moral-machine-and-ethics.qmd)
+</center>
+
+::: footer
+Source: <http://moralmachine.mit.edu>
+:::
+
+------
+
+### References
+
+::: {#refs}
+:::
+
+::: footer
+Back to Title [Slide](#/title), All [Lectures](schedule.qmd), Course [Home](../index.qmd), or Learn More About [Gang He](https://drganghe.github.io)
+:::
