@@ -106,7 +106,7 @@ Price the priceless
 </center>
 
 
-## Monitization
+## Monetization
 
 - Budget and accounting
 - Cost of capital
@@ -147,20 +147,21 @@ Price the priceless
 Source: [Harvard Business School](https://online.hbs.edu/blog/post/willingness-to-pay)
 :::
 
+
 ## Value of statistical life{.smaller}
 
-- FEMA: 7.5 million, 2020
-- DOT: 12.5 million, 2022
+- FEMA/DOT: 13.2 million (2023); 12.5 million (2022)
 
-Other FEMA numbers:
+Other FEMA numbers (2023):
 
-- Value of lost time (per hour) (used in the Roads/Bridges detour cost): $34.72
-- Value of electrical service (per person per day): $174
-- Value of wastewater service (per person per day): $58
-- Value of potable water service (per person per day): $114
+- Value of lost time (per hour): $43.11
+- Traffic Delays for Roads and Bridges: $36.63
+- Loss of electrical service (per person per day): $213
+- Loss of wastewater service (per person per day): $71
+- Loss of potable water service (per person per day): $150
 
 ::: footer
-Source: [FEMA](https://www.fema.gov/sites/default/files/2020-08/fema_bca_toolkit_release-notes-july-2020.pdf); [DOT](https://www.transportation.gov/office-policy/transportation-policy/revised-departmental-guidance-on-valuation-of-a-statistical-life-in-economic-analysis)
+Source: [FEMA](https://www.fema.gov/sites/default/files/documents/fema-standard-economic-values-methodology-report-v13-2024.pdf.pdf); [DOT](https://www.transportation.gov/office-policy/transportation-policy/revised-departmental-guidance-on-valuation-of-a-statistical-life-in-economic-analysis)
 :::
 
 
@@ -233,6 +234,4 @@ Source: @bullard_solid_1983
 ::: {#refs}
 :::
 
-::: footer
-Back to Title [Slide](#/title), All [Lectures](schedule.qmd), Course [Home](../index.qmd), or Learn More About [Gang He](https://drganghe.github.io)
-:::
+{{< include /files/includes/_lastslidefooter.qmd >}}

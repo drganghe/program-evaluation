@@ -21,7 +21,8 @@ page-layout: full
 |  13  | 4/22 | Is the program worthwhile? What happens next?   | [Economic Evaluation and Performance Measurement](lecture11.qmd)  | [Robert Bullard and Environmental Justice](/stories/robert-bullard-and-environmental-justice.qmd)  | CBA of EPA Clean Air Act | Proposal, CR10 |
 |  14  | 4/29 | How to be an ethical evaluator?   | Ethics, Principles, and Standards  | The Moral Machine  |  |  |
 |  15  | 5/6 | Presentation   |   |   |  |  |
-|  16  | 5/13 | Evaluation report   |   |   |  |  |
+|  16  | 5/13 | Presentation   |   |   |  |  |
+|  17  | 5/20 | Evaluation report   |   |   |  |  |
 
 : {.striped .responsive}
 
