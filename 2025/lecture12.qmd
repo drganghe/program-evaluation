@@ -24,109 +24,17 @@ format:
 
 ## Today's agenda
 
-- Course evaluation (<http://baruch.cuny.edu/EVALS>)
-- Review the class
 - Ethic considerations
+- Review the class
 - Q&A for presentation and project
 
 
-## Your evaluation is important to us
+## Mindmap of the class
 
-
-<center>
-<http://baruch.cuny.edu/EVALS>
-</center>
-
-
-
-## Mindmap of class
-
-
-<iframe width="980" height="600" src="/images/program-evaluation-markmap.html" title="Program Evaluation Mindmap"></iframe>
-
+![](/images/program-evaluation-markmap-2025.png){fig-align="center"}
 
 ::: footer
-Refresh page to see the mindmap or click [here](/images/program-evaluation-markmap.html){.external target="_blank"}, [download](/images/program-evaluation-markmap.svg).
-:::
-
-:::{.content-hidden}
-<!--
-## Recap lecture 1
-
-- Get to know each other
-- John Snow and evidence based analysis
-- Evidence based policy
-  - Global clean energy supply chain
-  - Queens curb side organics
-- Capturing the wedage
-- Governers Island and other cases
-
-
-## Recap lecture 2
-
-- Types and applications of evaluation
-- Exploratory evaluation
-- High Line Park
-- Cultural responsive evaluation
-- Case: Northwest Housing Alternatives
-
-
-## Recap lecture 3
-
-- Theory of change
-- Logic model
-- DAG: Directed Acyclic Graphs
-- Causal models
-- Case: Jobs Plus in NYC case
-- Ask a good question game
-
-
-## Recap lecture 4
-
-- Stakeholders
-- Identify key stakeholder
-- Engaging stakeholders
-- Case: ARPR-E 
-- Review of logic models and preliminary discussion of student project ideas
-
-
-## Recap lecture 5
-
-- Evaluation design
-- RCT
-- Quasi-experimental (RD, DiD)
-- Observational
-- Proposal
-- Progress on evaluation project
-
-
-## Recap lecture 6
-
-- Data sources
-- Statistical data
-- Survey
-- Interview
-- Evaluation project consultation
-
-
-## Recap lecture 7
-
-- Data analysis
-- Qualitative methods
-- Quantitative methods
-- Visualization
-- Story telling
-- Case: NYC G&T Program
-
-
-## Recap lecture 8
-
-- CBA: Cost-benefit analysis
-- Challenges
-- Beyond costs
-- Story: Robert Bullard and Environmental Justice
-- Case: CBA of EPA Clean Air Act
--->
+Check the mindmap in [html](/images/program-evaluation-markmap-2025.html){.external target="_blank"}, or download [svg](/images/program-evaluation-markmap-2025.svg).
 :::
 
 
@@ -136,7 +44,7 @@ Refresh page to see the mindmap or click [here](/images/program-evaluation-markm
 - Sampling
 - Design/causal models
 - Implementation
-- Visulization/Presentation
+- Visualization/Presentation
 - Generalization
 
 
@@ -262,11 +170,133 @@ Source: @gertler_impact_2016
 ![](/images/moral-machine-design.png){fig-align="center"}
 
 <center>
-[The Moral Machine and Ethics](the-moral-machine-and-ethics.qmd)
+[The Moral Machine and Ethics](/stories/the-moral-machine-and-ethics.qmd)
 </center>
 
 ::: footer
-Source: <http://moralmachine.mit.edu>
+Source: <https://www.moralmachine.net/>
+:::
+
+
+## Effective evaluation at reasoanable costs
+
+
+## Mindmap of the class
+
+![](/images/program-evaluation-markmap-2025.png){fig-align="center"}
+
+::: footer
+Check the mindmap in [html](/images/program-evaluation-markmap-2025.html){.external target="_blank"}, or download [svg](/images/program-evaluation-markmap-2025.svg).
+:::
+
+
+:::{.content-hidden}
+
+## Recap lecture 1
+
+- Get to know each other
+- John Snow and evidence based analysis
+- Evidence based policy
+  - Global clean energy supply chain
+  - Rand Health Insurance Experiment
+- Capturing the wedage
+- Not all policies are based on evidence
+
+
+## Recap lecture 2
+
+- Types and applications of evaluation
+- Exploratory evaluation
+- High Line Park
+- Cultural responsive evaluation
+- Case: Jobs Plus in NYC
+
+
+## Recap lecture 3
+
+- Theory of change
+- Logic model
+- DAG: Directed Acyclic Graphs
+- Causal models
+- Case: Northwest Housing Alternatives
+
+
+## Recap lecture 4
+
+- Stakeholders
+- Identify key stakeholder
+- Engaging stakeholders
+- ARPR-E case
+
+
+## Recap lecture 5
+
+- Evaluation design
+- RCT
+- Case: Microfinance and RCT
+- Proposal
+
+
+## Recap lecture 6
+
+- Quasi-experimental design
+  - Regression discontinuity
+  - Difference in differences
+  - Matching
+- Case: Air quality and Life Expectancy
+
+
+## Recap lecture 7
+
+- Case Study Evaluation
+- Story: Elinor Ostrom and Case Studies
+- Case: NYC Gifted and Talented (G&T) Program
+
+
+## Recap lecture 8
+
+- Guest Speaker: Beatrice Teston
+- Overcome Resistance and Improve Organization Capacity
+- Story: James March and Organization Theory
+- Case: American Red Cross (ARC) Haiti Relief Program (By Cristian Morales)
+
+
+## Recap lecture 9
+
+- Data sources
+- Statistical data
+- Survey
+- Interview
+- Evaluation project consultation
+- Case: AI and Big Data for Development Evaluation
+
+
+## Recap lecture 10
+
+- Data analysis
+- Qualitative methods
+- Quantitative methods
+- Visualization
+- Story telling
+- Case: CUNY SEEK Program
+
+
+## Recap lecture 11
+
+- CBA: Cost-benefit analysis
+- Challenges
+- Beyond costs
+- Story: Robert Bullard and Environmental Justice
+- Case: CBA of EPA Clean Air Act
+
+:::
+
+## Capturing the wedege
+
+![](/images/program-effect.png){fig-align="center"}
+
+::: footer
+Source: [Andrew Wheiss](https://evalsp24.classes.andrewheiss.com/)
 :::
 
 ------
@@ -276,6 +306,4 @@ Source: <http://moralmachine.mit.edu>
 ::: {#refs}
 :::
 
-::: footer
-Back to Title [Slide](#/title), All [Lectures](schedule.qmd), Course [Home](../index.qmd), or Learn More About [Gang He](https://drganghe.github.io)
-:::
+{{< include /files/includes/_lastslidefooter.qmd >}}

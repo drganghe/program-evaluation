@@ -2,6 +2,7 @@
   {
     "listing": "/stories.html",
     "items": [
+      "/stories/the-moral-machine-and-ethics.html",
       "/stories/robert-bullard-and-environmental-justice.html",
       "/stories/hans-rosling-data-visualization-and-storystelling.html",
       "/stories/feifei-li-imagenet-and-ai-revolution.html",
@@ -13,7 +14,6 @@
       "/stories/bombing-in-vietnam-war-and-development.html",
       "/stories/high-line-park.html",
       "/stories/john-snow-and-evidence-based-analysis.html",
-      "/stories/the-moral-machine-and-ethics.html",
       "/stories/heating-in-china-and-value of-clean-air.html"
     ]
   },
@@ -30,7 +30,8 @@
       "/2025/lecture8.html",
       "/2025/lecture9.html",
       "/2025/lecture10.html",
-      "/2025/lecture11.html"
+      "/2025/lecture11.html",
+      "/2025/lecture12.html"
     ]
   },
   {

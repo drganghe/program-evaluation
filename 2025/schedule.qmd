@@ -19,7 +19,7 @@ page-layout: full
 |  11  | 4/8 |  What methods make data tell accurate stories and solve problems?  | [Data Analysis: Quantitative, qualitative, and mixed analysis](lecture10.qmd)  | [Hans Rosling and Storytelling](/stories/hans-rosling-data-visualization-and-storystelling.qmd)  | CUNY SEEK Program | CR9 |
 |  12  | 4/15 | No session-Spring Recess   |   |   |  |  |
 |  13  | 4/22 | Is the program worthwhile? What happens next?   | [Economic Evaluation and Performance Measurement](lecture11.qmd)  | [Robert Bullard and Environmental Justice](/stories/robert-bullard-and-environmental-justice.qmd)  | CBA of EPA Clean Air Act | Proposal, CR10 |
-|  14  | 4/29 | How to be an ethical evaluator?   | Ethics, Principles, and Standards  | The Moral Machine  |  |  |
+|  14  | 4/29 | How to be an ethical evaluator?   | [Ethics, Principles, and Standards](lecture12.qmd)  | [The Moral Machine](/stories/the-moral-machine-and-ethics.qmd)  |  |  |
 |  15  | 5/6 | Presentation   |   |   |  |  |
 |  16  | 5/13 | Presentation   |   |   |  |  |
 |  17  | 5/20 | Evaluation report   |   |   |  |  |
