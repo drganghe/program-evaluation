@@ -18,7 +18,7 @@ page-layout: full
 |  8  | May 4 | Is the program worthwhile? What happens next?   | [Economic Evaluation and Performance Measurement](lecture8.qmd)  | [Robert Bullard and Environmental Justice](robert-bullard-and-environmental-justice.qmd)  | Case 5: CBA of EPA Clean Air Act | Case Response 5 |
 |  9  | May 11 | How to be an ethical evaluator?   | [Ethics, Principles, and Standards](lecture9.qmd)  | [The Moral Machine](the-moral-machine-and-ethics.qmd)  |  |  |
 |  10  | May 18 | What we have learned in the class?   | Final presentation  |   |  | Presentation |
-|  11  | May 25 | How to do a sensible evaluation at reasonable costs?   |   |   |  | Evaluation Report |
+|  11  | May 25 | How to do a sensible evaluation at reasonable costs?   | [Student Projects](students.qmd)  |   |  | Evaluation Report |
 
 :::{.content-hidden}
 :::

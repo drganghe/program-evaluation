@@ -31,7 +31,7 @@ format:
 
 ## Today's agenda
 
-- Guest Speaker: Beatrice Teston
+- Guest Speaker: [Beatrice Teston](/speakers/beatrice-teston.qmd)
 - Overcome Resistance and Improve Organization Capacity
 - Story: James March and Organization Theory
 - Case: American Red Cross (ARC) Haiti Relief Program

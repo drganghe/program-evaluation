@@ -1,17 +1,20 @@
 ---
-title: "Stories"
+title: "Evaluation Stories"
+subtitle: "People, ideas, and evidence that have changed the field"
 image: "/files/images/hex-Program-Evaluation.png"
 listing:
   contents: stories
   page-size: 36
   sort: "date desc"
-  type: table
+  type: grid
+  fields: [title, date, image]
+  grid-columns: 3
+  image-height: 250px
   categories: false
   sort-ui: false
   filter-ui: false
   feed: false
-  fields: [date, title]
-#page-layout: full
+page-layout: full
 draft-mode: unlinked
 page-navigation: false
 title-block-banner: false

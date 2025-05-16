@@ -2,6 +2,7 @@
 title: Bombing in Vetnam -- War and Development
 author: Gang He
 date: February 11, 2025
+image: "/images/Melissa-Dell.jpg"
 format: 
   html: 
     theme: cosmo

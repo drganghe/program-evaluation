@@ -2,6 +2,7 @@
 title: Michael Greenstone and Environmental Economics
 author: Gang He
 date: March 11, 2025
+image: "/images/Michael-Greenstone.jpg"
 bibliography: ../readings.bib
 format: 
   html: 

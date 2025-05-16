@@ -1,0 +1,102 @@
+    - path: https://marxe.baruch.cuny.edu/homepage/our-community/spotlight-archive/november-2024-alumni-spotlight/
+      image: /files/headshots/Nina-LoSchiavo.jpg
+      title: "November 2024 Alumni Spotlight: Nina LoSchiavo"
+      description: "In this month’s alumni spotlight we spoke with Nina LoSchiavo about her role as COO at the Lower East Side Partnership, her advocacy for New York public schools, her Executive MPA experience at Marxe, and more."
+      date: "2024-11-01"
+      categories: [story] 
+
+    - path: https://marxe.baruch.cuny.edu/homepage/our-community/spotlight-archive/may-2024-student-spotlight/
+      image: /files/headshots/Michelle-Ragoo.jpg
+      title: "May 2024 Student Spotlight: Michelle Ragoo"
+      description: "This month we spotlight EMPA student and Director of School Based Early Support Programs at NYC Administration for Children’s Services, Michelle Ragoo. She tells us about her role, her EMPA experience, and more."
+      date: "2024-05-01"
+      categories: [story] 
+
+    - path: https://www.cityandstateny.com/power-lists/2024/07/2024-brooklyn-power-100/397675/
+      image: /files/headshots/Somia-El-Rowmeim.jpg
+      title: "EMPA Student Somia El-Rowmeim Named to City & State's 2023 Brooklyn Power 100 list"
+      description: "Somia El-Rowmeim has dedicated her life to engaging her community in Brooklyn civic life, mobilizing voters and stamping out anti-Muslim hatred. She founded the Women’s Empowerment Coalition of NYC four years ago with an aim of organizing the borough’s immigrant women across cultures and was a David Prize finalist for her idea. El-Rowmeim has since raised awareness about women facing discrimination for wearing keffiyehs and hijabs in public and pushed for a new legislation ordering the state to disaggregate data for Middle Eastern and North African New Yorkers."
+      date: "2024-07-01"
+      categories: [story]     
+
+    - path:    #LinkedIn page
+      image:   # profile picture
+      name: "Shyola L."
+      project: "Youth Beyond Ball Inc. Program Evaluation Report"
+#      author: 
+#      subtitle: ""
+      semester: "Spring 2024"
+      categories: [project] 
+
+    - path:    #LinkedIn page
+      image:   # profile picture
+      name: "Gina L."
+      project: "Evaluation Plan for the Unaccompanied Minors Program (UMP) at Catholic Charities in New York"
+#      author: 
+#      subtitle: ""
+      semester: "Spring 2024"
+      categories: [project] 
+
+    - path:    #LinkedIn page
+      image:   # profile picture
+      name: "Liz L."
+      project: "The Alexander Jewish Leadership Institute: A Mixed-Methods Evaluation"
+#      author: 
+#      subtitle: ""
+      semester: "Spring 2024"
+      categories: [project]       
+
+    - path:    #LinkedIn page
+      image:   # profile picture
+      name: "Nina L."
+      project: "Fresh Bites Cooking at Essex Market Evaluation"
+#      author: 
+#      subtitle: ""
+      semester: "Spring 2024"
+      categories: [project] 
+
+    - path:    #LinkedIn page
+      image:   # profile picture
+      name: "Somia E."
+      project: "Childcare Initiative for Adult English Learning and Job Training in the Women's Empowerment Coalition of NYC"
+#      author: 
+#      subtitle: ""
+      semester: "Spring 2024"
+      categories: [project] 
+
+
+    - path:    #LinkedIn page
+      image:   # profile picture
+      name: "Julie B."
+      project: "Drug Intelligence and Intervention Group (DIIG): An Evaluation"
+#      author: 
+#      subtitle: ""
+      semester: "Spring 2024"
+      categories: [project] 
+
+    - path:    #LinkedIn page
+      image:   # profile picture
+      name: "Michelle R."
+      project: "The Comprehensive After-School System of New York City Impact Evaluation"
+#      author: 
+#      subtitle: ""
+      semester: "Spring 2024"
+      categories: [project] 
+
+    - path:    #LinkedIn page
+      image:   # profile picture
+      name: "Brandon G."
+      project: "Downtown Revitalization Initiative (DRI) Evaluation"
+#      author: 
+#      subtitle: ""
+      semester: "Spring 2024"
+      categories: [project] 
+
+    - path:    #LinkedIn page
+      image:   # profile picture
+      name: "Jamila D."
+      project: "The New York City Department of Small Business Services (SBS) Evaluation"
+#      author: 
+#      subtitle: ""
+      semester: "Spring 2024"
+      categories: [project]

@@ -2,6 +2,7 @@
 title: High Line Park
 author: Gang He
 date: Feb 4, 2025
+image: "/images/Joel-Sternfeld.jpg"
 format: 
   html: 
     theme: cosmo

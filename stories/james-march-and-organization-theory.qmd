@@ -2,6 +2,7 @@
 title: James March and Organization Theory
 author: Gang He
 date: March 25, 2025
+image: "/images/James-March.jpg"
 bibliography: ../readings.bib
 format: 
   html: 

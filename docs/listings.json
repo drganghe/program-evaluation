@@ -35,13 +35,25 @@
     ]
   },
   {
-    "listing": "/speakers/beatrice-teston.html",
-    "items": []
-  },
-  {
     "listing": "/speakers.html",
     "items": [
       "/speakers/beatrice-teston.html"
     ]
+  },
+  {
+    "listing": "/speakers/beatrice-teston.html",
+    "items": []
+  },
+  {
+    "listing": "/2024/students.html",
+    "items": []
+  },
+  {
+    "listing": "/2025/students.html",
+    "items": []
+  },
+  {
+    "listing": "/speakers/guest-speaker.html",
+    "items": []
   }
 ]
