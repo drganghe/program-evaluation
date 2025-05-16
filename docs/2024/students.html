@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Student Projects – Program Evaluation</title>
+<title>Student Stories &amp; Projects – Program Evaluation</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -71,7 +71,35 @@ ul.task-list li input[type="checkbox"] {
 <script>
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-students .list');
+    const listingTargetEl = window.document.querySelector('#listing-stories .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-image','listing-title','listing-subtitle','listing-description','listing-date',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-image","listing-title","listing-description","listing-date","listing-categories"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-stories'] = new List('listing-stories', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-projects .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
       return; 
@@ -80,11 +108,11 @@ ul.task-list li input[type="checkbox"] {
     const options = {
       valueNames: ['listing-name','listing-project','listing-semester',{ data: ['index'] },{ data: ['categories'] }],
       
-      searchColumns: ["listing-image","listing-name","listing-project","listing-semester"],
+      searchColumns: ["listing-image","listing-name","listing-project","listing-semester","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-students'] = new List('listing-students', options);
+    window['quarto-listings']['listing-projects'] = new List('listing-projects', options);
 
     if (window['quarto-listing-loaded']) {
       window['quarto-listing-loaded']();
@@ -138,11 +166,11 @@ window.Quarto = {
 </script>
 
 <link rel="stylesheet" href="../styles.css">
-<meta property="og:title" content="Student Projects – Program Evaluation">
-<meta property="og:description" content="Projects by students">
+<meta property="og:title" content="Student Stories &amp; Projects – Program Evaluation">
+<meta property="og:description" content="Stories about Students and Projects by students">
 <meta property="og:site_name" content="Program Evaluation">
-<meta name="twitter:title" content="Student Projects – Program Evaluation">
-<meta name="twitter:description" content="Projects by students">
+<meta name="twitter:title" content="Student Stories &amp; Projects – Program Evaluation">
+<meta name="twitter:description" content="Stories about Students and Projects by students">
 <meta name="twitter:card" content="summary">
 </head>
 
@@ -225,16 +253,14 @@ window.Quarto = {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
-    </div>
+    
 <!-- main -->
 <main class="content column-page" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Student Projects</h1>
-<p class="subtitle lead">Projects by students</p>
+<h1 class="title">Student Stories &amp; Projects</h1>
+<p class="subtitle lead">Stories about Students and Projects by students</p>
 </div>
 
 
@@ -262,11 +288,63 @@ https://learn.microsoft.com/en-us/clarity/setup-and-installation/clarity-setup
         y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
     })(window, document, "clarity", "script", "ktfar1v3c9");
 </script>
-<div id="listing-students" class="quarto-listing quarto-listing-container-table">
+<section id="student-stories" class="level2">
+<h2 class="anchored" data-anchor-id="student-stories">Student Stories</h2>
+<div id="listing-stories" class="quarto-listing quarto-listing-container-grid">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-categories="c3Rvcnk=" data-listing-date-sort="1730433600000">
+<a href="https://marxe.baruch.cuny.edu/homepage/our-community/spotlight-archive/november-2024-alumni-spotlight/" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="https://marxe.baruch.cuny.edu/wp-content/uploads/sites/7/2024/10/240725-Niles-Headshots-244-3.jpg" class="thumbnail-image card-img" style="height: 200px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+November 2024 Alumni Spotlight: Nina LoSchiavo
+</h5>
+<div class="card-text listing-description delink">
+<p>In this month’s alumni spotlight we spoke with Nina LoSchiavo about her role as COO at the Lower East Side Partnership, her advocacy for New York public schools, her…</p>
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Nov 1, 2024
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="1" data-categories="c3Rvcnk=" data-listing-date-sort="1714536000000">
+<a href="https://marxe.baruch.cuny.edu/homepage/our-community/spotlight-archive/may-2024-student-spotlight/" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="https://marxe.baruch.cuny.edu/wp-content/uploads/sites/7/2024/04/Michelle-Ragoo.jpg" class="thumbnail-image card-img" style="height: 200px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+May 2024 Student Spotlight: Michelle Ragoo
+</h5>
+<div class="card-text listing-description delink">
+<p>This month we spotlight EMPA student and Director of School Based Early Support Programs at NYC Administration for Children’s Services, Michelle Ragoo. She tells us about…</p>
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+May 1, 2024
+</div>
+</div>
+</div>
+</div></a>
+</div>
+</div>
+<div class="listing-no-matching d-none">No matching items</div>
+</div>
+</section>
+<section id="student-projects" class="level2">
+<h2 class="anchored" data-anchor-id="student-projects">Student Projects</h2>
+<div id="listing-projects" class="quarto-listing quarto-listing-container-table">
 <div class="listing-actions-group">
    <div class="input-group input-group-sm quarto-listing-sort">
     <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
-    <select id="listing-students-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-students'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
+    <select id="listing-projects-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-projects'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
       <option value="" disabled="" selected="" hidden="">Order By</option>
       <option value="index" data-direction="asc">Default</option>
       <option value="listing-name" data-direction="asc">
@@ -305,7 +383,7 @@ https://learn.microsoft.com/en-us/clarity/setup-and-installation/clarity-setup
 </thead>
 <tbody class="list">
 
-<tr data-index="0">
+<tr data-index="0" data-categories="cHJvamVjdA==">
 <td>
 <span class="listing-name">Brandon G.</span>
 </td>
@@ -318,7 +396,7 @@ https://learn.microsoft.com/en-us/clarity/setup-and-installation/clarity-setup
 
 </tr>
 
-<tr data-index="1">
+<tr data-index="1" data-categories="cHJvamVjdA==">
 <td>
 <span class="listing-name">Gina L.</span>
 </td>
@@ -331,7 +409,7 @@ https://learn.microsoft.com/en-us/clarity/setup-and-installation/clarity-setup
 
 </tr>
 
-<tr data-index="2">
+<tr data-index="2" data-categories="cHJvamVjdA==">
 <td>
 <span class="listing-name">Jamila D.</span>
 </td>
@@ -344,7 +422,7 @@ https://learn.microsoft.com/en-us/clarity/setup-and-installation/clarity-setup
 
 </tr>
 
-<tr data-index="3">
+<tr data-index="3" data-categories="cHJvamVjdA==">
 <td>
 <span class="listing-name">Julie B.</span>
 </td>
@@ -357,7 +435,7 @@ https://learn.microsoft.com/en-us/clarity/setup-and-installation/clarity-setup
 
 </tr>
 
-<tr data-index="4">
+<tr data-index="4" data-categories="cHJvamVjdA==">
 <td>
 <span class="listing-name">Liz L.</span>
 </td>
@@ -370,7 +448,7 @@ https://learn.microsoft.com/en-us/clarity/setup-and-installation/clarity-setup
 
 </tr>
 
-<tr data-index="5">
+<tr data-index="5" data-categories="cHJvamVjdA==">
 <td>
 <span class="listing-name">Michelle R.</span>
 </td>
@@ -383,7 +461,7 @@ https://learn.microsoft.com/en-us/clarity/setup-and-installation/clarity-setup
 
 </tr>
 
-<tr data-index="6">
+<tr data-index="6" data-categories="cHJvamVjdA==">
 <td>
 <span class="listing-name">Nina L.</span>
 </td>
@@ -396,7 +474,7 @@ https://learn.microsoft.com/en-us/clarity/setup-and-installation/clarity-setup
 
 </tr>
 
-<tr data-index="7">
+<tr data-index="7" data-categories="cHJvamVjdA==">
 <td>
 <span class="listing-name">Shyola L.</span>
 </td>
@@ -409,7 +487,7 @@ https://learn.microsoft.com/en-us/clarity/setup-and-installation/clarity-setup
 
 </tr>
 
-<tr data-index="8">
+<tr data-index="8" data-categories="cHJvamVjdA==">
 <td>
 <span class="listing-name">Somia E.</span>
 </td>
@@ -439,6 +517,7 @@ https://quarto.org/docs/authoring/includes.html
 
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

@@ -1,9 +1,23 @@
 ---
-title: "Student Projects"
-subtitle: "Projects by students"
+title: "Student Stories & Projects"
+subtitle: "Stories about Students and Projects by students"
+toc: false
 page-layout: full
 listing: 
-- id: students
+- id: stories
+  sort: "date desc"
+  type: grid
+  fields: [image, title, subtitle, description, date]
+  grid-item-align: left
+  grid-columns: 3
+  image-height: 200px
+#  categories: true
+#  sort-ui: true
+#  filter-ui: true
+  contents: students.yml
+  include: 
+    categories: "story"   #only include students with this category
+- id: projects
   sort: "name asc"
   type: table
   fields: [name, project, semester]
@@ -19,14 +33,18 @@ listing:
   filter-ui: true
   contents: 
     - students.yml
-#  include: 
-#    categories: "featured"   #only include students with this category
+  include: 
+    categories: "project"   #only include students with this category
 ---
 
 <!--Please delete or replace with your own clarity-->
 {{< include /files/includes/_msclarity.qmd >}}
+## Student Stories
+:::{#stories}
+:::
 
-:::{#students}
+## Student Projects
+:::{#projects}
 :::
 
 <!--Include social share buttons-->
