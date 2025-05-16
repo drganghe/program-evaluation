@@ -2,6 +2,7 @@
 title: Esther Duflo and Randomized Controlled Trails
 author: Gang He
 date: March 4, 2025
+image: "/images/Esther-Duflo.jpg"
 format: 
   html: 
     theme: cosmo

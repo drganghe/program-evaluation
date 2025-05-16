@@ -2,6 +2,7 @@
 title: John Muir and National Park System
 author: Gang He
 date: February 28, 2025
+image: "/images/John-Muir.jpg"
 format: 
   html: 
     theme: cosmo

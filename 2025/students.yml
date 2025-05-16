@@ -1,0 +1,176 @@
+    - path: https://www.linkedin.com/in/brittanytuwamo/
+      image: /files/headshots/Brittany-Tuwamo.jpeg
+      title: "Brittany Tuwamo"
+      subtitle: "Quantitative Methods for Policy and Equity Analysis"
+#      date: "2025-05-01"
+      categories: [profile] 
+
+    - path: https://www.linkedin.com/in/fernando-rojas-nyc/
+      image: /files/headshots/Fernando-Rojas.jpg
+      title: "Fernando Rojas"
+      subtitle: "Masters of Public Administration - Nonprofit Administration"
+#      date: "2025-05-01"
+      categories: [profile] 
+
+    - path:    #LinkedIn page
+      image:   # profile picture
+      name: "Catherine B."
+      project: "Ellis Island Immigration Station -- A Historical Program Evaluation"
+#      author: 
+#      subtitle: ""
+      semester: "Spring 2025"
+      categories: [project] 
+
+    - path:    #LinkedIn page
+      image:   # profile picture
+      name: "Kyle H. & Brittany T."
+      project: "[Colorado SNAP (Supplemental Nutrition Assistance Program) -- Evaluations of Program Operations & Outcomes](https://docs.google.com/document/d/15hHYMzNpKmztY_ZSaECZjXjHgUVOf7fpme8tlHTxsMM/edit?usp=drivesdk)"
+#      author: 
+#      subtitle: ""
+      semester: "Spring 2025"
+      categories: [project] 
+
+    - path:    #LinkedIn page
+      image:   # profile picture
+      name: "D. A.O."
+      project: "Impact of NYC Summer Youth Employment Program on Crime"
+#      author: 
+#      subtitle: ""
+      semester: "Spring 2025"
+      categories: [project]       
+
+    - path:    #LinkedIn page
+      image:   # profile picture
+      name: "Juan M. & Sabestian E."
+      project: "Boomerang Gag Rule Impact on Domestic NGOs"
+#      author: 
+#      subtitle: ""
+      semester: "Spring 2025"
+      categories: [project] 
+
+    - path:    #LinkedIn page
+      image:   # profile picture
+      name: "Brenda H."
+      project: "Evaluation of the NYC Health + Hospitals’ - NYC Care Diabetes Program"
+#      author: 
+#      subtitle: ""
+      semester: "Spring 2025"
+      categories: [project] 
+
+
+    - path:    #LinkedIn page
+      image:   # profile picture
+      name: "Neil S."
+      project: "Program Evaluation of NYC's B-Heard Program"
+#      author: 
+#      subtitle: ""
+      semester: "Spring 2025"
+      categories: [project] 
+
+    - path:    #LinkedIn page
+      image:   # profile picture
+      name: "Justin A."
+      project: "A Cost/Benefit Analysis of the NYC Mayor’s Office of Urban Agriculture"
+#      author: 
+#      subtitle: ""
+      semester: "Spring 2025"
+      categories: [project] 
+
+    - path:    #LinkedIn page
+      image:   # profile picture
+      name: "Fernando R."
+      project: "[Nurturing Global Citizens through Grant-Making: An Evaluation of the Japan ICU Foundation's Grants Program](https://drive.google.com/file/d/1VEUeyyHjurkhoODAWg7XOg_dMa-R8jDh/view?usp=sharing)"
+#      author: 
+#      subtitle: ""
+      semester: "Spring 2025"
+      categories: [project] 
+
+    - path:    #LinkedIn page
+      image:   # profile picture
+      name: "Sebastian Y."
+      project: "BIPOC Power Building Program Evaluation"
+#      author: 
+#      subtitle: ""
+      semester: "Spring 2025"      
+      categories: [project] 
+
+    - path:    #LinkedIn page
+      image:   # profile picture
+      name: "Natzinet G."
+      project: "Assessing Accessibility and Equity Across Career and Technical Education (CTE) High School Programs"
+#      author: 
+#      subtitle: ""
+      semester: "Spring 2025"          
+      categories: [project] 
+
+    - path:    #LinkedIn page
+      image:   # profile picture
+      name: "Mamadou B."
+      project: "Evaluation of the NYC Open Data Ambassador Program"
+#      author: 
+#      subtitle: ""
+      semester: "Spring 2025"          
+      categories: [project] 
+
+    - path:    #LinkedIn page
+      image:   # profile picture
+      name: "Thomas D."
+      project: "10-Year Performance Evaluation of the Job Corps Program"
+#      author: 
+#      subtitle: ""
+      semester: "Spring 2025"
+      categories: [project] 
+
+    - path:    #LinkedIn page
+      image:   # profile picture
+      name: "Gabrielle B."
+      project: "ICAN Helpline Program Evaluation"
+#      author: 
+#      subtitle: ""
+      semester: "Spring 2025"
+      categories: [project]
+
+    - path:    #LinkedIn page
+      image:   # profile picture
+      name: "Bryant R."
+      project: "NYC 3-K Program Evaluation"
+#      author: 
+#      subtitle: ""
+      semester: "Spring 2025"
+      categories: [project]
+
+    - path:    #LinkedIn page
+      image:   # profile picture
+      name: "Ann K."
+      project: "Evaluation of the U.S. Retirement System Toward Securing a Stable Future for Retirees"
+#      author: 
+#      subtitle: ""
+      semester: "Spring 2025"
+      categories: [project]
+
+    - path:    #LinkedIn page
+      image:   # profile picture
+      name: "Binghong L."
+      project: "The Impact of the New York Cares Program on the Well-Being of New Yorkers"
+#      author: 
+#      subtitle: ""
+      semester: "Spring 2025"
+      categories: [project]
+
+    - path:    #LinkedIn page
+      image:   # profile picture
+      name: "Articia M."
+      project: "Admissions & Enrollment Processes at New York City College of Technology"
+#      author: 
+#      subtitle: ""
+      semester: "Spring 2025"
+      categories: [project]
+
+    - path:    #LinkedIn page
+      image:   # profile picture
+      name: "Kiara C."
+      project: "Why Do Some Afterschool Sites Outperform Others?"
+#      author: 
+#      subtitle: ""
+      semester: "Spring 2025"
+      categories: [project]

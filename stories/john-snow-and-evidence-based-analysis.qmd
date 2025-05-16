@@ -2,6 +2,7 @@
 title: John Snow and Evidence Based Analysis
 author: Gang He
 date: Jan 28, 2025
+image: "/images/John_Snow.jpg"
 csl: chicago-syllabus.csl
 bibliography: ../readings.bib
 suppress-bibliography: true

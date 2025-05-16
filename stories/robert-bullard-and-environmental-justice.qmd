@@ -2,6 +2,7 @@
 title: Robert Bullard and Environmental Justice
 author: Gang He
 date: April 22, 2025
+image: "/images/Robert-Bullard.jpg"
 format: 
   html: 
     theme: cosmo

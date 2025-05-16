@@ -2,6 +2,7 @@
 title: Elinor Ostrom and Case Studies
 author: Gang He
 date: March 18, 2025
+image: "/images/Elinor-Ostrom.webp"
 bibliography: ../readings.bib
 format: 
   html: 

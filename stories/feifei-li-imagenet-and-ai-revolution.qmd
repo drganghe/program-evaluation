@@ -2,6 +2,7 @@
 title: Feifei Li, ImageNet, and the AI Revolution
 author: Gang He
 date: April 1, 2025
+image: "/images/Feifei-Li.webp"
 format: 
   html: 
     theme: cosmo

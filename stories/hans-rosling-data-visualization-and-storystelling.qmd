@@ -2,6 +2,7 @@
 title: Hans Rosling, Data Visualization, and Storytelling
 author: Gang He
 date: April 8, 2025
+image: "/images/Hans-Rosling.avif"
 format: 
   html: 
     theme: cosmo

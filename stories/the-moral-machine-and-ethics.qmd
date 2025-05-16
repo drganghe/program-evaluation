@@ -2,6 +2,7 @@
 title: The Moral Machine and Ethics
 author: Gang He
 date: April 29, 2025
+image: "/images/moral-machine-design.png"
 format: 
   html: 
     theme: cosmo
