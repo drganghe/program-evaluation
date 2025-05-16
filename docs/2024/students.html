@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Lectures – Program Evaluation</title>
+<title>Student Projects – Program Evaluation</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,25 +23,25 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-7b4406b7675125bc2ba204020e191172.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-02caa798fa7aa68ffffba7ba840ce97b.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-listing/list.min.js"></script>
+<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
+<script src="../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-7b4406b7675125bc2ba204020e191172.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap-02caa798fa7aa68ffffba7ba840ce97b.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -71,20 +71,20 @@ ul.task-list li input[type="checkbox"] {
 <script>
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-2025-lectures .list');
+    const listingTargetEl = window.document.querySelector('#listing-students .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
       return; 
     }
 
     const options = {
-      valueNames: ['listing-image','listing-date','listing-title','listing-author',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-name','listing-project','listing-semester',{ data: ['index'] },{ data: ['categories'] }],
       
-      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
+      searchColumns: ["listing-image","listing-name","listing-project","listing-semester"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-2025-lectures'] = new List('listing-2025-lectures', options);
+    window['quarto-listings']['listing-students'] = new List('listing-students', options);
 
     if (window['quarto-listing-loaded']) {
       window['quarto-listing-loaded']();
@@ -137,17 +137,13 @@ window.Quarto = {
 };
 </script>
 
-<link rel="stylesheet" href="styles.css">
-<meta property="og:title" content="Lectures – Program Evaluation">
-<meta property="og:image" content="https://drganghe.github.io/program-evaluation/files/images/hex-Program-Evaluation.png">
+<link rel="stylesheet" href="../styles.css">
+<meta property="og:title" content="Student Projects – Program Evaluation">
+<meta property="og:description" content="Projects by students">
 <meta property="og:site_name" content="Program Evaluation">
-<meta property="og:image:height" content="1200">
-<meta property="og:image:width" content="1037">
-<meta name="twitter:title" content="Lectures – Program Evaluation">
-<meta name="twitter:image" content="https://drganghe.github.io/program-evaluation/files/images/hex-Program-Evaluation.png">
-<meta name="twitter:image-height" content="1200">
-<meta name="twitter:image-width" content="1037">
-<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Student Projects – Program Evaluation">
+<meta name="twitter:description" content="Projects by students">
+<meta name="twitter:card" content="summary">
 </head>
 
 <body class="nav-fixed quarto-light">
@@ -157,7 +153,7 @@ window.Quarto = {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">Program Evaluation</span>
     </a>
   </div>
@@ -168,27 +164,27 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./syllabus.html"> 
+    <a class="nav-link" href="../syllabus.html"> 
 <span class="menu-text">Syllabus</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./2025/schedule.html"> 
+    <a class="nav-link" href="../2025/schedule.html"> 
 <span class="menu-text">Schedule</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./lectures.html" aria-current="page"> 
+    <a class="nav-link" href="../lectures.html"> 
 <span class="menu-text">Lectures</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./stories.html"> 
+    <a class="nav-link" href="../stories.html"> 
 <span class="menu-text">Stories</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./project.html"> 
+    <a class="nav-link" href="../project.html"> 
 <span class="menu-text">Project</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./resources.html"> 
+    <a class="nav-link" href="../resources.html"> 
 <span class="menu-text">Resources</span></a>
   </li>  
   <li class="nav-item dropdown ">
@@ -197,7 +193,7 @@ window.Quarto = {
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-archive">    
         <li>
-    <a class="dropdown-item" href="./2024/schedule.html">
+    <a class="dropdown-item" href="../2024/schedule.html">
  <span class="dropdown-text">Spring 2024</span></a>
   </li>  
     </ul>
@@ -229,13 +225,16 @@ window.Quarto = {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
+        
+    </div>
 <!-- main -->
 <main class="content column-page" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Lectures</h1>
+<h1 class="title">Student Projects</h1>
+<p class="subtitle lead">Projects by students</p>
 </div>
 
 
@@ -252,6 +251,7 @@ window.Quarto = {
 </header>
 
 
+<!--Please delete or replace with your own clarity-->
 <!-- 
 https://learn.microsoft.com/en-us/clarity/setup-and-installation/clarity-setup
 -->
@@ -262,269 +262,180 @@ https://learn.microsoft.com/en-us/clarity/setup-and-installation/clarity-setup
         y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
     })(window, document, "clarity", "script", "ktfar1v3c9");
 </script>
-<div id="listing-2025-lectures" class="quarto-listing quarto-listing-container-grid">
-<div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-listing-date-sort="1738040400000" data-listing-file-modified-sort="1737557798553" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="654">
-<a href="./2025/lecture1.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./images/Stargate.webp" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Lecture 1 Introduction
-</h5>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Gang He
+<div id="listing-students" class="quarto-listing quarto-listing-container-table">
+<div class="listing-actions-group">
+   <div class="input-group input-group-sm quarto-listing-sort">
+    <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
+    <select id="listing-students-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-students'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
+      <option value="" disabled="" selected="" hidden="">Order By</option>
+      <option value="index" data-direction="asc">Default</option>
+      <option value="listing-name" data-direction="asc">
+        Name
+      </option>
+      <option value="listing-project" data-direction="asc">
+        Project
+      </option>
+      <option value="listing-semester" data-direction="asc">
+        Semester
+      </option>
+    </select>
+  </div>
+    <div class="input-group input-group-sm quarto-listing-filter">
+      <span class="input-group-text"><i class="bi bi-search"></i></span>
+      <input type="text" class="search form-control" placeholder="Filter">
+    </div>
 </div>
-<div class="listing-date">
-Jan 28, 2025
-</div>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="1" data-listing-date-sort="1738645200000" data-listing-file-modified-sort="1738683769263" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1108">
-<a href="./2025/lecture2.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./images/high-line-park.jpg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Lecture 2 Goals and Types of Evaluation
-</h5>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Gang He
-</div>
-<div class="listing-date">
-Feb 4, 2025
-</div>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="2" data-listing-date-sort="1739250000000" data-listing-file-modified-sort="1739314089744" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="743">
-<a href="./2025/lecture3.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./images/program-effect.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Lecture 3 Logic and Causal Models
-</h5>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Gang He
-</div>
-<div class="listing-date">
-Feb 11, 2025
-</div>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="3" data-listing-date-sort="1740718800000" data-listing-file-modified-sort="1739629953053" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="824">
-<a href="./2025/lecture4.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./images/cdc-framework-stakeholders.webp" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Lecture 4 Stakeholder Analysis, Mapping, and Engagement
-</h5>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Gang He
-</div>
-<div class="listing-date">
-Feb 28, 2025
-</div>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="4" data-listing-date-sort="1741064400000" data-listing-file-modified-sort="1741099664231" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="409">
-<a href="./2025/lecture5.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./images/steps-in-rcts.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Lecture 5 Evaluation Designs: Randomized Experiments
-</h5>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Gang He
-</div>
-<div class="listing-date">
-Mar 4, 2025
-</div>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="5" data-listing-date-sort="1741665600000" data-listing-file-modified-sort="1742412891106" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="403">
-<a href="./2025/lecture6.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./images/chen-huai-river-tsp.jpeg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Lecture 6 Evaluation Designs: Quasi Experiments
-</h5>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Gang He
-</div>
-<div class="listing-date">
-Mar 11, 2025
-</div>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="6" data-listing-date-sort="1742270400000" data-listing-file-modified-sort="1742412882789" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="954">
-<a href="./2025/lecture7.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./images/case-study-food-assistance-program.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Lecture 7 Evaluation Designs: Qualitative Methods
-</h5>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Gang He
-</div>
-<div class="listing-date">
-Mar 18, 2025
-</div>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="7" data-listing-date-sort="1742875200000" data-listing-file-modified-sort="1742921960825" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="630">
-<a href="./2025/lecture8.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./images/delphi-method.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Lecture 8 Overcome Resistance and Improve Organization Capacity
-</h5>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Gang He
-</div>
-<div class="listing-date">
-Mar 25, 2025
-</div>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="8" data-listing-date-sort="1743480000000" data-listing-file-modified-sort="1743605891666" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="338">
-<a href="./2025/lecture9.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./images/datagov.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Lecture 9 Data Collection: Procedures, Instrumentation, Practical Considerations
-</h5>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Gang He
-</div>
-<div class="listing-date">
-Apr 1, 2025
-</div>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="9" data-listing-date-sort="1744084800000" data-listing-file-modified-sort="1745443775477" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="634">
-<a href="./2025/lecture10.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./images/eisenhower-matrix.webp" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Lecture 10 Data Analysis: Quantitative, Qualitative, and Mixed Analysis
-</h5>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Gang He
-</div>
-<div class="listing-date">
-Apr 8, 2025
-</div>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="10" data-listing-date-sort="1745294400000" data-listing-file-modified-sort="1745335372056" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="373">
-<a href="./2025/lecture11.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./images/cost-benefit-analysis.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Lecture 11 Economic Evaluation and Performance Measurement
-</h5>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Gang He
-</div>
-<div class="listing-date">
-Apr 22, 2025
-</div>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="11" data-listing-date-sort="1745899200000" data-listing-file-modified-sort="1746037100703" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="948">
-<a href="./2025/lecture12.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./images/program-evaluation-ethics-featured.webp" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Lecture 12 Ethics, Principles, and Standards
-</h5>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Gang He
-</div>
-<div class="listing-date">
-Apr 29, 2025
-</div>
-</div>
-</div>
-</div></a>
-</div>
-</div>
+<table class="quarto-listing-table table">
+<thead>
+<tr>
+
+<th>
+<a class="sort" data-sort="listing-name" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Name</a>
+</th>
+
+<th>
+<a class="sort" data-sort="listing-project" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Project</a>
+</th>
+
+<th>
+<a class="sort" data-sort="listing-semester" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Semester</a>
+</th>
+
+</tr>
+</thead>
+<tbody class="list">
+
+<tr data-index="0">
+<td>
+<span class="listing-name">Brandon G.</span>
+</td>
+<td>
+<span class="listing-project">Downtown Revitalization Initiative (DRI) Evaluation</span>
+</td>
+<td>
+<span class="listing-semester">Spring 2024</span>
+</td>
+
+</tr>
+
+<tr data-index="1">
+<td>
+<span class="listing-name">Gina L.</span>
+</td>
+<td>
+<span class="listing-project">Evaluation Plan for the Unaccompanied Minors Program (UMP) at Catholic Charities in New York</span>
+</td>
+<td>
+<span class="listing-semester">Spring 2024</span>
+</td>
+
+</tr>
+
+<tr data-index="2">
+<td>
+<span class="listing-name">Jamila D.</span>
+</td>
+<td>
+<span class="listing-project">The New York City Department of Small Business Services (SBS) Evaluation</span>
+</td>
+<td>
+<span class="listing-semester">Spring 2024</span>
+</td>
+
+</tr>
+
+<tr data-index="3">
+<td>
+<span class="listing-name">Julie B.</span>
+</td>
+<td>
+<span class="listing-project">Drug Intelligence and Intervention Group (DIIG): An Evaluation</span>
+</td>
+<td>
+<span class="listing-semester">Spring 2024</span>
+</td>
+
+</tr>
+
+<tr data-index="4">
+<td>
+<span class="listing-name">Liz L.</span>
+</td>
+<td>
+<span class="listing-project">The Alexander Jewish Leadership Institute: A Mixed-Methods Evaluation</span>
+</td>
+<td>
+<span class="listing-semester">Spring 2024</span>
+</td>
+
+</tr>
+
+<tr data-index="5">
+<td>
+<span class="listing-name">Michelle R.</span>
+</td>
+<td>
+<span class="listing-project">The Comprehensive After-School System of New York City Impact Evaluation</span>
+</td>
+<td>
+<span class="listing-semester">Spring 2024</span>
+</td>
+
+</tr>
+
+<tr data-index="6">
+<td>
+<span class="listing-name">Nina L.</span>
+</td>
+<td>
+<span class="listing-project">Fresh Bites Cooking at Essex Market Evaluation</span>
+</td>
+<td>
+<span class="listing-semester">Spring 2024</span>
+</td>
+
+</tr>
+
+<tr data-index="7">
+<td>
+<span class="listing-name">Shyola L.</span>
+</td>
+<td>
+<span class="listing-project">Youth Beyond Ball Inc.&nbsp;Program Evaluation Report</span>
+</td>
+<td>
+<span class="listing-semester">Spring 2024</span>
+</td>
+
+</tr>
+
+<tr data-index="8">
+<td>
+<span class="listing-name">Somia E.</span>
+</td>
+<td>
+<span class="listing-project">Childcare Initiative for Adult English Learning and Job Training in the Women’s Empowerment Coalition of NYC</span>
+</td>
+<td>
+<span class="listing-semester">Spring 2024</span>
+</td>
+
+</tr>
+
+</tbody>
+</table>
 <div class="listing-no-matching d-none">No matching items</div>
 </div>
-<!--
-## 2024 Lectures
-
-:::{#2024-lectures}
-:::
+<!--Include social share buttons-->
+<!-- 
+AddToAny check more: https://www.addtoany.com/buttons/for/website 
+Using includes will make edits easier, will only need to add or remove button here if needed.
+https://quarto.org/docs/authoring/includes.html
 -->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_bluesky"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
+</div>
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
 
 
 

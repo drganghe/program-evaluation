@@ -63,3 +63,10 @@ Your evaluation report will be graded by the following criteria:
 4. Overall impression [5pt]
 
 
+## Student projects
+
+- [Spring 2024](/2024/students.qmd)
+- [Spring 2025](/2025/students.qmd)
+
+
+
