@@ -22,7 +22,7 @@ page-layout: full
 |  14  | 4/29 | How to be an ethical evaluator?   | [Ethics, Principles, and Standards](lecture12.qmd)  | [The Moral Machine](/stories/the-moral-machine-and-ethics.qmd)  |  |  |
 |  15  | 5/6 | Presentation   |   |   |  |  |
 |  16  | 5/13 | Presentation   |   |   |  |  |
-|  17  | 5/20 | Evaluation report   |   |   |  |  |
+|  17  | 5/20 | Evaluation report   | [Student Projects](students.qmd)  |   |  |  |
 
 : {.striped .responsive}
 
