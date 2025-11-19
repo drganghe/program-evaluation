@@ -300,6 +300,5 @@ Data Science + Causal Inference
 ::: {#refs}
 :::
 
-::: footer
-Back to Title [Slide](lecture1.qmd), All [Lectures](schedule.qmd), Course [Home](https://drganghe.github.io/program-evaluation/), or Learn More About [Gang He](https://drganghe.github.io)
-:::
+
+{{< include /files/includes/_lastslidefooter.qmd >}}

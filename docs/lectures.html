@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.22">
+<meta name="generator" content="quarto-1.8.25">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -34,14 +34,15 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-7b4406b7675125bc2ba204020e191172.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-02caa798fa7aa68ffffba7ba840ce97b.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-35155b22413c9ef7a79a96887d465071.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -121,7 +122,7 @@ const typesetMath = (el) => {
     var macros = [];
     for (var i = 0; i < mathElements.length; i++) {
       var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
         window.katex.render(texText.data, mathElements[i], {
           displayMode: mathElements[i].classList.contains('display'),
           throwOnError: false,
@@ -157,6 +158,8 @@ window.Quarto = {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
+    <a href="./index.html" class="navbar-brand navbar-brand-logo">
+    </a>
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">Program Evaluation</span>
     </a>
@@ -264,7 +267,7 @@ https://learn.microsoft.com/en-us/clarity/setup-and-installation/clarity-setup
 </script>
 <div id="listing-2025-lectures" class="quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-listing-date-sort="1738040400000" data-listing-file-modified-sort="1737557798553" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="654">
+<div class="g-col-1" data-index="0" data-listing-date-sort="1738040400000" data-listing-file-modified-sort="1763566729437" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="643">
 <a href="./2025/lecture1.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -285,7 +288,7 @@ Jan 28, 2025
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="1" data-listing-date-sort="1738645200000" data-listing-file-modified-sort="1738683769263" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1108">
+<div class="g-col-1" data-index="1" data-listing-date-sort="1738645200000" data-listing-file-modified-sort="1763566739823" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1097">
 <a href="./2025/lecture2.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -306,7 +309,7 @@ Feb 4, 2025
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="2" data-listing-date-sort="1739250000000" data-listing-file-modified-sort="1739314089744" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="743">
+<div class="g-col-1" data-index="2" data-listing-date-sort="1739250000000" data-listing-file-modified-sort="1763566747565" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="732">
 <a href="./2025/lecture3.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -327,7 +330,7 @@ Feb 11, 2025
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="3" data-listing-date-sort="1740718800000" data-listing-file-modified-sort="1739629953053" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="824">
+<div class="g-col-1" data-index="3" data-listing-date-sort="1740718800000" data-listing-file-modified-sort="1763566754098" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="813">
 <a href="./2025/lecture4.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -348,7 +351,7 @@ Feb 28, 2025
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="4" data-listing-date-sort="1741064400000" data-listing-file-modified-sort="1741099664231" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="409">
+<div class="g-col-1" data-index="4" data-listing-date-sort="1741064400000" data-listing-file-modified-sort="1763566760243" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="398">
 <a href="./2025/lecture5.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -369,7 +372,7 @@ Mar 4, 2025
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="5" data-listing-date-sort="1741665600000" data-listing-file-modified-sort="1742412891106" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="403">
+<div class="g-col-1" data-index="5" data-listing-date-sort="1741665600000" data-listing-file-modified-sort="1763566778416" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="392">
 <a href="./2025/lecture6.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -390,7 +393,7 @@ Mar 11, 2025
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="6" data-listing-date-sort="1742270400000" data-listing-file-modified-sort="1742412882789" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="954">
+<div class="g-col-1" data-index="6" data-listing-date-sort="1742270400000" data-listing-file-modified-sort="1763566783688" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="943">
 <a href="./2025/lecture7.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -411,7 +414,7 @@ Mar 18, 2025
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="7" data-listing-date-sort="1742875200000" data-listing-file-modified-sort="1748781594413" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="630">
+<div class="g-col-1" data-index="7" data-listing-date-sort="1742875200000" data-listing-file-modified-sort="1763566789298" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="619">
 <a href="./2025/lecture8.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -432,7 +435,7 @@ Mar 25, 2025
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="8" data-listing-date-sort="1743480000000" data-listing-file-modified-sort="1748781601650" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="338">
+<div class="g-col-1" data-index="8" data-listing-date-sort="1743480000000" data-listing-file-modified-sort="1763566794430" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="327">
 <a href="./2025/lecture9.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -453,7 +456,7 @@ Apr 1, 2025
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="9" data-listing-date-sort="1744084800000" data-listing-file-modified-sort="1745443775477" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="634">
+<div class="g-col-1" data-index="9" data-listing-date-sort="1744084800000" data-listing-file-modified-sort="1763566713829" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="623">
 <a href="./2025/lecture10.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -581,13 +584,14 @@ Apr 29, 2025
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy

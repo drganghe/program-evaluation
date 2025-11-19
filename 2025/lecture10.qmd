@@ -50,7 +50,7 @@ format:
 | Enumerative	| Classical Content Analysis; Word count; Cultural domain analysis; Ethnographic decision models |
 | Descriptive | Matrix displays; Timelines; Concept maps/mind maps; Template/framework analysis |
 | Hermeneutic | Thematic analysis; Constant comparative method; Thematic narrative analysis; Framework analysis; Discourse analysis; Qualitative content analysis|
-| Explannatory | Qualitative comparative analysis; Process tracing |
+| Explanatory | Qualitative comparative analysis; Process tracing |
 :::
 
 ::: footer
@@ -242,6 +242,4 @@ Source: [EIA](https://www.eia.gov/todayinenergy/detail.php?id=56880)
 ::: {#refs}
 :::
 
-::: footer
-Back to Title [Slide](lecture10.qmd), All [Lectures](schedule.qmd), Course [Home](https://drganghe.github.io/program-evaluation/), or Learn More About [Gang He](https://drganghe.github.io)
-:::
+{{< include /files/includes/_lastslidefooter.qmd >}}

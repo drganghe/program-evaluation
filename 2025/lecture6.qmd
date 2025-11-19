@@ -217,6 +217,4 @@ Source: @gertler_impact_2016
 ::: {#refs}
 :::
 
-::: footer
-Back to Title [Slide](lecture6.qmd), All [Lectures](schedule.qmd), Course [Home](https://drganghe.github.io/program-evaluation/), or Learn More About [Gang He](https://drganghe.github.io)
-:::
+{{< include /files/includes/_lastslidefooter.qmd >}}

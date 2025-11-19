@@ -6,8 +6,8 @@
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="../site_libs/quarto-html/light-border.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-7b4406b7675125bc2ba204020e191172.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
-  <meta name="generator" content="quarto-1.7.22">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
+  <meta name="generator" content="quarto-1.8.25">
 
   <meta name="author" content="Gang He">
   <meta name="dcterms.date" content="2025-02-04">
@@ -50,7 +50,7 @@
     div.csl-indent {
       margin-left: 2em;
     }  </style>
-  <link rel="stylesheet" href="../site_libs/revealjs/dist/theme/quarto-00ac2f6af1389919a18f42df5b7c0002.css">
+  <link rel="stylesheet" href="../site_libs/revealjs/dist/theme/quarto-534cd8e3a96973385dffff3f4709048d.css">
   <link rel="stylesheet" href="../custom.css">
   <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-8H8JSB1VP7"></script>
 
@@ -496,7 +496,7 @@ Skivington, Kathryn, Lynsay Matthews, Sharon Anne Simpson, Peter Craig, Janis Ba
 </div>
 </div>
 <div class="footer">
-<p>Back to Title <a href="../2025/lecture2.html">Slide</a>, All <a href="../2025/schedule.html">Lectures</a>, Course <a href="https://drganghe.github.io/program-evaluation/">Home</a>, or Learn More About <a href="https://drganghe.github.io">Gang He</a></p>
+<p>Back to Title <a href="#//title">Slide</a>, All <a href="../2025/schedule.html">Lectures</a>, Course <a href="../index.html">Home</a>, or Learn More About <a href="https://drganghe.github.io">Gang He</a></p>
 </div>
 
 
@@ -690,7 +690,7 @@ Skivington, Kathryn, Lynsay Matthews, Sharon Anne Simpson, Peter Craig, Janis Ba
         margin: 0.1,
 
         math: {
-          mathjax: 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.9/MathJax.js',
+          mathjax: 'https://cdn.jsdelivr.net/npm/mathjax@2.7.9/MathJax.js',
           config: 'TeX-AMS_HTML-full',
           tex2jax: {
             inlineMath: [['\\(','\\)']],
@@ -764,13 +764,14 @@ Skivington, Kathryn, Lynsay Matthews, Sharon Anne Simpson, Peter Craig, Janis Ba
           e.clearSelection();
         }
         const getTextToCopy = function(trigger) {
-            const codeEl = trigger.previousElementSibling.cloneNode(true);
-            for (const childEl of codeEl.children) {
-              if (isCodeAnnotation(childEl)) {
-                childEl.remove();
-              }
+          const outerScaffold = trigger.parentElement.cloneNode(true);
+          const codeEl = outerScaffold.querySelector('code');
+          for (const childEl of codeEl.children) {
+            if (isCodeAnnotation(childEl)) {
+              childEl.remove();
             }
-            return codeEl.innerText;
+          }
+          return codeEl.innerText;
         }
         const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
           text: getTextToCopy
