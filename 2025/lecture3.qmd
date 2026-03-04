@@ -27,7 +27,7 @@ format:
 - Types and applications of evaluation
 - Exploratory evaluation
 - High Line Park
-- Cultural responsive evaluation
+- Culturally responsive evaluation
 - Case: Jobs Plus in NYC
 
 
@@ -116,7 +116,7 @@ Learn more: [Logic Model: A Biginner's Guide](https://www.michigan.gov/-/media/P
 
 ## Build a logic model for Jobs Plus in NYC
 
-## Capturing the wedege
+## Capturing the wedge
 
 ![](/images/program-effect.png){fig-align="center"}
 
@@ -158,7 +158,7 @@ Source: @gertler_impact_2016
 
 ::: {.column width="50%"}
 :::{style="font-size: 24px;"}
->- Before-and-after comparisons (also known as pre-post or refl exive comparisons) compare the outcomes of the same group before and after participating in a program.
+>- Before-and-after comparisons (also known as pre-post or reflexive comparisons) compare the outcomes of the same group before and after participating in a program.
 
   - Challenge: Variables and conditions change
 
@@ -183,9 +183,9 @@ Source: @gertler_impact_2016
 ## Causal models
 
 - Instrumental variables
-- Randomized controlled trail (RCT)
-- Regressional discontinuity (RD)
-- Diference in difference (DiD)
+- Randomized controlled trial (RCT)
+- Regression discontinuity (RD)
+- Difference in differences (DiD)
 - Matching
 
 
@@ -259,7 +259,7 @@ Source: [Andrew Wheiss](https://evalsp24.classes.andrewheiss.com/)
 
 ## Causal identification
 
-A causal effect is identified if the association between treatment and outcome is propertly stripped and isolated.
+A causal effect is identified if the association between treatment and outcome is properly stripped and isolated.
 
 - Arrows in a DAG transmit associations  
 - We can redirect and control those paths by "adjusting" or "conditioning"
@@ -336,7 +336,7 @@ Source: [Andrew Wheiss](https://evalsp24.classes.andrewheiss.com/)
 :::
 
 
-## Causasion example
+## Causation example
 
 ::: columns
 
@@ -361,7 +361,7 @@ Source: [Andrew Wheiss](https://evalsp24.classes.andrewheiss.com/)
 :::
 
 
-## Causasion example
+## Causation example
 
 ::: columns
 
@@ -438,7 +438,7 @@ Source: [Andrew Wheiss](https://evalsp24.classes.andrewheiss.com/)
 :::
 
 
-## Counterfacture, intervention, and effects
+## Counterfactual, intervention, and effects
 
 ::: columns
 

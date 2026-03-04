@@ -49,7 +49,7 @@ format:
 
 - Natural experiments   
 - Causal identification strategies
-- Regression discountinuity
+- Regression discontinuity
 
 
 ## References

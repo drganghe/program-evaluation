@@ -29,8 +29,8 @@ format:
 - Evidence based policy
   - Global clean energy supply chain
   - Queens curb side organics
-- Capturing the wedage
-- Governers Island and other cases
+- Capturing the wedge
+- Governors Island and other cases
 
 ## Program & Program Evaluation{.smaller}
 

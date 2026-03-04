@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 # meta
-meta-description: "Program Evaluation open course developed by Dr. Gang He. Key words: program evaluation, program evaluation class, program evaluation course, progream evaluation open course, program, logic models, exploratory evaluation, randomized controlled trials, case studies, community change, responsive evaluation, data collection, data validation, qualitative data analysis, statistics, cost benefit analysis, recommendations, impact, ethics"
+meta-description: "Program Evaluation open course developed by Dr. Gang He. Key words: program evaluation, program evaluation class, program evaluation course, program evaluation open course, program, logic models, exploratory evaluation, randomized controlled trials, case studies, community change, responsive evaluation, data collection, data validation, qualitative data analysis, statistics, cost benefit analysis, recommendations, impact, ethics"
 meta-author: "Gang He"
 
 
@@ -37,18 +37,12 @@ website:
         target: _blank
   page-navigation: true
   page-footer: 
-    left: "[Gang He](http://drganghe.github.io) &copy; <script>document.write(new Date().getFullYear())</script>" 
-    right: 
-      - icon: github
-        href: https://github.com/drganghe/program-evaluation
-        target: _blank
-      - icon: twitter 
-        href: https://twitter.com/DrGangHe
-        target: _blank
+    center: "[Program Evaluation](https://drganghe.github.io/program-evaluation) open course taught by [Gang He](http://drganghe.github.io) &copy; <script>document.write(new Date().getFullYear())</script>" 
+
   search:
     location: navbar
     type: textbox
-  reader-mode: true
+  reader-mode: false
   draft-mode: unlinked
   repo-url: https://github.com/drganghe/program-evaluation
 #  repo-actions: [edit, issue, source]

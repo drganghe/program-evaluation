@@ -121,7 +121,7 @@ Program Evaluation:
 Source: @newcomer_handbook_2015
 :::
 
-## Capturing the wedege
+## Capturing the wedge
 
 ![](/images/program-effect.png){fig-align="center"}
 
@@ -243,7 +243,7 @@ Data science
 ## Causal Revolution
 
 ::: {style="text-align:center; font-size: 36px;"}
-Evidence based medecine
+Evidence based medicine
 :::
 
 ## Evidence based policy

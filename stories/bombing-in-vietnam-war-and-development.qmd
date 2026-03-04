@@ -1,5 +1,5 @@
 ---
-title: Bombing in Vetnam -- War and Development
+title: Bombing in Vietnam -- War and Development
 author: Gang He
 date: February 11, 2025
 image: "/images/Melissa-Dell.jpg"
@@ -28,8 +28,8 @@ format:
 ---
 ## Melissa Dell
 
-- Harvard Professor of Economics
-- Recipant of Clark Medal
+- Harvard professor of economics
+- Recipient of the Clark Medal
 - Economic growth and political economy
   - Poverty
   - Trade-induced job loss on crime
@@ -49,7 +49,7 @@ format:
 
 - Natural experiments   
 - Causal identification strategies
-- Regression discountinuity
+- Regression discontinuity
 
 
 ## References

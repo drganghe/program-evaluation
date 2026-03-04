@@ -40,7 +40,7 @@ format:
 
 ### Two theories
 
-- Miasma theroy
+- Miasma theory  
   - Particles in the air
   - Dr William Farr, commissioner for the 1851 London census and a member of the General Register's Office, 
   - Miasma arose from the soil surrounding the River Thames
@@ -61,12 +61,12 @@ format:
 
 ## Evidence is power
 
-- John Snow's invetigation  
-  - Government officals replaced the Broad Street pump  
+- John Snow's investigation  
+  - Government officials replaced the Broad Street pump  
   - He convinced William Farr, his opponent, to accept the germ theory  
-- The power of data visulization  
-- The create of double-blind experiment  
-- Founding of epedimiology  
+- The power of data visualization  
+- The creation of the double-blind experiment  
+- Founding of epidemiology  
 
 ## Further readings
 

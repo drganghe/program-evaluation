@@ -27,7 +27,7 @@ format:
 - Types and applications of evaluation
 - Exploratory evaluation
 - High Line Park
-- Cultural responsive evaluation
+- Culturally responsive evaluation
 - Northwest Housing Alternatives
 
 
@@ -96,7 +96,7 @@ Source: @gertler_impact_2016
 :::
 
 
-## Capturing the wedege
+## Capturing the wedge
 
 ![](/images/program-effect.png){fig-align="center"}
 

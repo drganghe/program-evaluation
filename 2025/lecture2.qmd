@@ -29,7 +29,7 @@ format:
 - Evidence based policy
   - Global clean energy supply chain
   - Rand Health Insurance Experiment
-- Capturing the wedage
+- Capturing the wedge
 - Not all policies are based on evidence
 
 ## Goal

@@ -110,7 +110,7 @@ Program Evaluation:
 Source: @newcomer_handbook_2015
 :::
 
-## Capturing the wedege
+## Capturing the wedge
 
 ![](/images/program-effect.png){fig-align="center"}
 
@@ -232,7 +232,7 @@ Data science
 ## Causal Revolution
 
 ::: {style="text-align:center; font-size: 36px;"}
-Evidence based medecine
+Evidence based medicine
 :::
 
 ## Evidence based policy
@@ -275,7 +275,7 @@ Data Science + Causal Inference
 
 ## Case studies
 
--   Food service resuse system for Governor's Island
+-   Food service reuse system for Governors Island
 -   Northwest Housing Associates
 -   Jobs Plus in New York City
 -   Advanced Research Projects Agency-Energy

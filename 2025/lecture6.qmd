@@ -39,7 +39,7 @@ format:
 - Case: Air quality and Life Expectancy
 
 
-## Capturing the wedege
+## Capturing the wedge
 
 ![](/images/program-effect.png){fig-align="center"}
 
@@ -51,7 +51,7 @@ Source: [Andrew Wheiss](https://evalsp24.classes.andrewheiss.com/)
 ## Evaluation designs{.smaller}
 
 - Experimental   
-  - Randomised controled trial
+  - Randomized controlled trial
 
 - Quasi-experimental   
   - Instrumental variable (IV)
@@ -196,7 +196,7 @@ Source: @gertler_impact_2016
 
 - Matching can use only observed characteristics
 - Using only characteristics that are not affected by the program
-- Eesimation are only as good as the characteristics used for matching (understanding the criteria for participation)
+- Estimates are only as good as the characteristics used for matching (understanding the criteria for participation)
 
 
 

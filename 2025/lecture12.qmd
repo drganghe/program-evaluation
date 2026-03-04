@@ -24,7 +24,7 @@ format:
 
 ## Today's agenda
 
-- Ethic considerations
+- Ethical considerations
 - Review the class
 - Q&A for presentation and project
 
@@ -178,7 +178,7 @@ Source: <https://www.moralmachine.net/>
 :::
 
 
-## Effective evaluation at reasoanable costs
+## Effective evaluation at reasonable costs
 
 
 ## Mindmap of the class
@@ -199,7 +199,7 @@ Check the mindmap in [html](/images/program-evaluation-markmap-2025.html){.exter
 - Evidence based policy
   - Global clean energy supply chain
   - Rand Health Insurance Experiment
-- Capturing the wedage
+- Capturing the wedge
 - Not all policies are based on evidence
 
 
@@ -208,7 +208,7 @@ Check the mindmap in [html](/images/program-evaluation-markmap-2025.html){.exter
 - Types and applications of evaluation
 - Exploratory evaluation
 - High Line Park
-- Cultural responsive evaluation
+- Culturally responsive evaluation
 - Case: Jobs Plus in NYC
 
 
@@ -291,7 +291,7 @@ Check the mindmap in [html](/images/program-evaluation-markmap-2025.html){.exter
 
 :::
 
-## Capturing the wedege
+## Capturing the wedge
 
 ![](/images/program-effect.png){fig-align="center"}
 

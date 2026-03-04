@@ -27,12 +27,12 @@ format:
 #draft: true
 ---
 
-## Who is John Muir
+## Who is John Muir?
 
 - Naturalist, author, environmental philosopher (1838-1914)
 - "John of the Mountains"
 
-## Muir and national park
+## Muir and the National Parks
 
 - "Father of the National Parks"
 
@@ -43,11 +43,11 @@ format:
 ## Stakeholders
 
 - The president (Theodore Roosevelt)
-- Public support via books, popular magazine article, and the Sierra Club
+- Public support via books, popular magazine articles, and the Sierra Club
 
 ## Outcomes
 
-- US Congress, 1890, establising the Yosemite National Park
+- US Congress, 1890, establishing Yosemite National Park
 - The start of National Park System
 
 

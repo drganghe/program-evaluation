@@ -30,7 +30,7 @@ format:
 
 ## Michael Greenstone
 
-- Professor in Economics at Univeristy of Chicago
+- Professor of economics at the University of Chicago
 - Director of the Energy Policy Institute at Chicago (EPIC)
 
 
@@ -51,7 +51,7 @@ format:
 
 ## Thoughts for Evaluation
 
-- Economic shock and natural experience
+- Economic shocks and natural experiments
 - Make use of regulatory and climate data
 - Communication for policy change
 

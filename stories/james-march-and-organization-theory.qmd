@@ -28,27 +28,27 @@ format:
 #draft: true
 ---
 
-## James March (1928--2018)
+## James March (1928–2018)
 
 - Professor at Stanford University
-- Founding father of Organization Theory
+- Founding father of organization theory
 
 
 ## Organization Theory
 
 - Taylor and Gilbreth: scientific management
 - Administrative management school: effective organization
-- Challenge: untested, motivational assumption, intraorganizational conflict, cognition.
+- Challenge: untested motivational assumptions, intraorganizational conflict, cognition
 
 
 ## March and Simon Organization Theory
 
 The organization is a system of interrelated social behavior of participants.
 
-- Memory: values, perceptions, beliefs, experiences, programs, alternatives, and knowledges in the psychological bank.
-- Individual act on memroy.
+- Memory: values, perceptions, beliefs, experiences, programs, alternatives, and knowledge in the psychological bank.
+- Individuals act on memory.
 - Stimuli are perceived by the individual.
-- Behavior resllts from a stimulus.
+- Behavior results from a stimulus.
 
 
 ## Organization equilibrium
@@ -60,7 +60,7 @@ The organization is a system of interrelated social behavior of participants.
 5. Equilibrium (or solvency) occurs when the organization can continue to provide inducement to members to obtain their contributions. 
 
 
-## Thoughts for Evaluation
+## Thoughts for evaluation
 
 - Understanding the logic of organization 
 - Overcome resistance and improve organization capacity

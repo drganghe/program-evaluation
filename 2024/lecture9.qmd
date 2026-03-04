@@ -26,7 +26,7 @@ format:
 
 - Course evaluation (<http://baruch.cuny.edu/EVALS>)
 - Review the class
-- Ethic considerations
+- Ethical considerations
 - Q&A for presentation and project
 
 
@@ -58,7 +58,7 @@ Refresh page to see the mindmap or click [here](/images/program-evaluation-markm
 - Evidence based policy
   - Global clean energy supply chain
   - Queens curb side organics
-- Capturing the wedage
+- Capturing the wedge
 - Governers Island and other cases
 
 
@@ -67,7 +67,7 @@ Refresh page to see the mindmap or click [here](/images/program-evaluation-markm
 - Types and applications of evaluation
 - Exploratory evaluation
 - High Line Park
-- Cultural responsive evaluation
+- Culturally responsive evaluation
 - Case: Northwest Housing Alternatives
 
 
@@ -136,7 +136,7 @@ Refresh page to see the mindmap or click [here](/images/program-evaluation-markm
 - Sampling
 - Design/causal models
 - Implementation
-- Visulization/Presentation
+- Visualization/Presentation
 - Generalization
 
 

@@ -37,7 +37,7 @@ format:
 - Case: NYC Gifted and Talented (G&T) Program
 
 
-## Capturing the wedege
+## Capturing the wedge
 
 ![](/images/program-effect.png){fig-align="center"}
 
@@ -49,7 +49,7 @@ Source: [Andrew Wheiss](https://evalsp24.classes.andrewheiss.com/)
 ## Evaluation designs{.smaller}
 
 - Experimental   
-  - Randomised controled trial
+  - Randomized controlled trial
 
 - Quasi-experimental   
   - Instrumental variable (IV)

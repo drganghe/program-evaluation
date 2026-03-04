@@ -38,7 +38,7 @@ format:
 - Proposal
 
 
-## Capturing the wedege
+## Capturing the wedge
 
 ![](/images/program-effect.png){fig-align="center"}
 
@@ -47,7 +47,7 @@ Source: [Andrew Wheiss](https://evalsp24.classes.andrewheiss.com/)
 :::
 
 
-## Counterfactural: What if?
+## Counterfactual: What if?
 
 :::{style="text-align:center"}
 What would have happened in the absence of the program?
@@ -76,7 +76,7 @@ Source: @gertler_impact_2016
 ## Evaluation designs{.smaller}
 
 - Experimental
-  - Randomised controled trial
+  - Randomized controlled trial
 
 - Quasi-experimental
   - Regression discontinuity
@@ -119,7 +119,7 @@ Source: @gertler_impact_2016
 - Internal and external validity
 - Fairness
 - Acceptance
-- "Gloden Standard"
+- "Gold standard"
 
 
 ## Random assignment methods

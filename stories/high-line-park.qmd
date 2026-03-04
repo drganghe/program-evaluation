@@ -29,9 +29,9 @@ format:
 
 ## Background
 
-- The High Line is a 1.45-mile-long elevated linear park, greenway, which was created on an abandoned rail trail
-- Used to be a big headache for the city, and property nearby 
-- Now a success story of urban planning, landscape design, and human recreation
+- The High Line is a 1.45-mile-long elevated linear park and greenway created on an abandoned rail trail
+- It used to be a big headache for the city and nearby property owners 
+- Now it's a success story of urban planning, landscape design, and human recreation
 - Attracts 5 million visitors yearly
 
 
