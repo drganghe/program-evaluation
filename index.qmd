@@ -1,5 +1,5 @@
 ---
-title: "Program Evaluation (Spring 2025)"
+title: "Program Evaluation (Fall 2026)"
 image: "/files/images/hex-Program-Evaluation.png"
 sidebar: false
 toc: false

@@ -1,0 +1,32 @@
+---
+title: Fall 2026 Course Schedule
+repo-actions: false
+page-layout: full
+---
+
+| Week | Date   | Guiding question   | Topic     | Story    | Case Study    | Assignment    |
+|---|---|-----------|-----------|-----------|-----------|---|
+|  1  | 9/1  | What is program evaluation? Where are we headed in this course? | Introduction and Overview | John Snow |                                        |               |
+|  2  | 9/8 | Why do evaluation?      | Goals and Types of Evaluation  | High Line Park    |  Jobs Plus in NYC | CR1  |
+|  3  | 9/15 | How to identify causal effects?        | Logic and Causal Models  | Bombing in Vietnam -- War and Development     | Northwest Housing Alternatives | CR2 |
+|  4  | 9/22 | How do I account for everyone involved? | Stakeholder Engagement  | John Muir and National Park System     | ARPA-E |  CR3 |
+|  5  | 9/29 | How do I use the scientific method in the real world?   | Evaluation Designs: Randomized Experiences  | Esther Duflo and RCTs     | Microfinance and RCT  | CR4 |
+|  6  | 10/6 | What if a randomized experiment is not viable?   | Evaluation Designs: Quasi-experiments  |  Michael Greenstone and Environmental Economics    | Air Quality and Life-expectancy  | CR5  |
+|  7  | 10/13 | Class following Monday schedule - No session |  | |  |   |        
+|  8  | 10/20 | How to do case study evaluation?   | Evaluation Designs: Qualitative Methods  | Elinor Ostrom and Case Studies | NYC G&T Programs  |  CR6 |
+|  9  | 10/27 | How to manage challenges in evaluation?   | Overcome Resistance and Improve Organization Capacity | James March and Organization Theory | American Red Cross Haiti Relief  | CR7 |
+|  10  | 11/3 | Where does the data come from?   | Data Collection: Procedures, Instrumentation, Practical Considerations  | Fei-fei Li and ImageNet   | AI and Big Data in Development Evaluation | CR8 |
+|  11  | 11/10 |  What methods make data tell accurate stories and solve problems?  | Data Analysis: Quantitative, qualitative, and mixed analysis  | Hans Rosling and Storytelling  | CUNY SEEK Program | CR9 |
+|  12  | 11/17 | Is the program worthwhile? What happens next?   | Economic Evaluation and Performance Measurement  | Robert Bullard and Environmental Justice  | CBA of EPA Clean Air Act | Proposal, CR10 |
+|  13  | 11/24 | How to be an ethical evaluator?   | Ethics, Principles, and Standards  | The Moral Machine  |  |  |
+|  14  | 12/1 | Presentation   |   |   |  |  |
+|  15  | 12/8 | Presentation   |   |   |  |  |
+|  16  | 12/15 | Presentation   |   |   |  |  |
+|  17  | 12/22 | Evaluation report   | Student Projects  |   |  |  |
+
+: {.striped .responsive}
+
+Note: CR: Case Response
+
+:::{.content-hidden}
+:::

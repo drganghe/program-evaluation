@@ -4,7 +4,7 @@ title: Resources
 
 ## Relevant texts
 
-### Open source 
+### Open source texts
 
 - Huntington-Klein, Nick. 2022. [The Effect: An Introduction to Research Design and Causality](https://theeffectbook.net/). 1st edition. Boca Raton London New York: Chapman and Hall/CRC.
 - Cunningham, Scott. 2021. [Causal Inference: The Mixtape](https://mixtape.scunning.com/). New Haven London: Yale University Press.
@@ -12,10 +12,12 @@ title: Resources
 - Bret Zeldow, Thomas Leavitt and Laura Hatfield. [Difference-in-differences Website](https://diff.healthpolicydatascience.org/).
 
 
-### Other
+### Other texts
 - Pearl, Judea, and Dana Mackenzie. 2018. The Book of Why: The New Science of Cause and Effect. 1st edition. New York: Basic Books.  
 - Angrist, Joshua, and Jörn-Steffen Pischke. 2009. Mostly Harmless Econometrics. Princeton University Press.  
 - List, John A. 2022. The Voltage Effect: How to Make Good Ideas Great and Great Ideas Scale. New York: Crown Currency.  
+- Remler, Dahlia K., and Gregg G. Van Ryzin. 2022. Research Methods in Practice: Strategies for Description and Causation. SAGE Publications, Inc.
+
 
 
 ## Federal evaluation
