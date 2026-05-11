@@ -1,0 +1,126 @@
+---
+title: "Evaluation Report Examples"
+subtitle: "Curated exemplar reports for program evaluation methods"
+format:
+  html:
+    toc: false
+    page-layout: full
+    css: report-examples.css
+    include-in-header:
+      text: |
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=DM+Mono:wght@400;500&family=Instrument+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+execute:
+  echo: false
+---
+
+```{=html}
+<!-- Load the reports data file — edit reports-data.js to add/update reports -->
+<script src="reports-data.js"></script>
+
+<div id="rdb-root">
+
+  <!-- ── HERO ─────────────────────────────────────── -->
+  <div class="rdb-hero">
+    <div class="rdb-hero-text">
+      <p class="rdb-eyebrow">PAF 9174 · Program Evaluation</p>
+      <h1>Evaluation<br><em>Report Examples</em></h1>
+      <p class="rdb-lead">Exemplar evaluations spanning causal methods, sectors, and geographies. Use the filters to find reports that match your methods or topic of interest.</p>
+    </div>
+    <div class="rdb-stats" id="rdb-stats">
+      <!-- filled by JS -->
+    </div>
+  </div>
+
+  <!-- ── SEARCH + FILTERS ──────────────────────────── -->
+  <div class="rdb-controls">
+
+    <div class="rdb-search-wrap">
+      <svg class="rdb-search-icon" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="2">
+        <circle cx="8.5" cy="8.5" r="5.5"/><path d="M13.5 13.5L18 18"/>
+      </svg>
+      <input id="rdb-search" class="rdb-search" type="text" placeholder="Search titles, organizations, topics…">
+      <button id="rdb-clear-search" class="rdb-clear-btn" title="Clear search" style="display:none">✕</button>
+    </div>
+
+    <div class="rdb-filter-grid">
+
+      <div class="rdb-filter-group">
+        <label class="rdb-filter-label">Evaluation Type</label>
+        <div class="rdb-pill-group" id="filter-eval-type"></div>
+      </div>
+
+      <div class="rdb-filter-group">
+        <label class="rdb-filter-label">Causal Inference Method</label>
+        <div class="rdb-pill-group" id="filter-causal"></div>
+      </div>
+
+      <div class="rdb-filter-group">
+        <label class="rdb-filter-label">Data Collection</label>
+        <div class="rdb-pill-group" id="filter-data"></div>
+      </div>
+
+      <div class="rdb-filter-group">
+        <label class="rdb-filter-label">Organization Type</label>
+        <div class="rdb-pill-group" id="filter-org"></div>
+      </div>
+
+      <div class="rdb-filter-group">
+        <label class="rdb-filter-label">Evaluation Timeframe</label>
+        <div class="rdb-pill-group" id="filter-timeframe"></div>
+      </div>
+
+      <div class="rdb-filter-group rdb-filter-group--topics">
+        <label class="rdb-filter-label">Topics & Tags</label>
+        <div class="rdb-pill-group" id="filter-topics"></div>
+      </div>
+
+    </div>
+
+    <div class="rdb-active-filters" id="rdb-active-filters" style="display:none">
+      <span class="rdb-active-label">Active filters:</span>
+      <div id="rdb-active-chips"></div>
+      <button id="rdb-clear-all" class="rdb-clear-all-btn">Clear all</button>
+    </div>
+
+  </div>
+
+  <!-- ── RESULTS BAR ────────────────────────────────── -->
+  <div class="rdb-results-bar">
+    <span id="rdb-count"></span>
+    <div class="rdb-sort-wrap">
+      <label for="rdb-sort" class="rdb-sort-label">Sort:</label>
+      <select id="rdb-sort" class="rdb-sort">
+        <option value="year-desc">Year (newest)</option>
+        <option value="year-asc">Year (oldest)</option>
+        <option value="title-asc">Title A–Z</option>
+      </select>
+    </div>
+  </div>
+
+  <!-- ── CARDS GRID ─────────────────────────────────── -->
+  <div class="rdb-grid" id="rdb-grid"></div>
+
+  <!-- ── EMPTY STATE ───────────────────────────────── -->
+  <div class="rdb-empty" id="rdb-empty" style="display:none">
+    <svg viewBox="0 0 60 60" fill="none" stroke="currentColor" stroke-width="1.5">
+      <circle cx="30" cy="30" r="26"/><path d="M22 22l16 16M38 22L22 38"/>
+    </svg>
+    <p>No reports match your current filters.</p>
+    <button onclick="clearAllFilters()" class="rdb-clear-all-btn">Reset filters</button>
+  </div>
+
+</div><!-- /rdb-root -->
+
+<!-- ── MODAL ─────────────────────────────────────────── -->
+<div id="rdb-modal-backdrop" class="rdb-modal-backdrop" style="display:none" onclick="closeModal(event)">
+  <div class="rdb-modal" id="rdb-modal" role="dialog" aria-modal="true">
+    <button class="rdb-modal-close" onclick="closeModal()" aria-label="Close">✕</button>
+    <div id="rdb-modal-content"></div>
+  </div>
+</div>
+
+<script src="report-examples.js"></script>
+```
+
+This is an ongoing project to curate a database of evaluation report examples. Welcome to contributing to the database! Please use the [form](https://forms.gle/dXLbx29XnSDN2WoB6) to submit your recommendations for evaluation reports to include in the database.

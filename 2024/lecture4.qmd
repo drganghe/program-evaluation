@@ -46,7 +46,7 @@ format:
 ![](/images/cdc-framework-stakeholders.webp){fig-align="center"}
 
 ::: footer
-Source: [CDC](https://www.cdc.gov/evaluation/steps/step1/index.htm)
+Source: [CDC](https://www.cdc.gov/evaluation/php/about/index.html)
 :::
 
 

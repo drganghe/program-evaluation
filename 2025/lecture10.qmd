@@ -122,7 +122,7 @@ Source: [U.S. News](https://www.usnews.com/opinion/articles/2009/01/21/word-coun
 ![](/images/research-mindmap.png){fig-align="center"}
 
 ::: footer
-Open source options: [Markmap](markmap.js.org/)
+Open source options: [Markmap](https://markmap.js.org/)
 :::
 
 
@@ -231,7 +231,7 @@ Source: [EIA](https://www.eia.gov/todayinenergy/detail.php?id=56880)
 
 <center>
 
-[Hans Rosling, Data Visulization, and Storytelling](/stories/hans-rosling-data-visualization-and-storystelling.qmd)
+[Hans Rosling, Data Visulization, and Storytelling](/stories/hans-rosling-data-visualization-and-storytelling.qmd)
 
 </center>
 

@@ -72,11 +72,6 @@ format:
 - Evaluation indicators: visitors, property value, awards, what else?
 
 
-## Further readings
-
-- Mohammadsaeid Mahmoodabadi Arani, 2021. [Towards a Cost-Benefit Analysis of the High Line in New York City](https://www.politesi.polimi.it/retrieve/df90f35f-1f14-49f8-a3e0-4d2590e57f9d/Thesis%2C%20Mahmoodabadi%20Arani%2C%20High%20Line%20in%20NYC.pdf). 
-
-
 <!--Include social share buttons-->
 
 {{< include /files/includes/_socialshare.qmd >}}

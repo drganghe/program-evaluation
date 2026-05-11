@@ -55,5 +55,9 @@
   {
     "listing": "/speakers/guest-speaker.html",
     "items": []
+  },
+  {
+    "listing": "/reports/index.html",
+    "items": []
   }
 ]

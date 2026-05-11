@@ -6,10 +6,8 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="Gang He">
-<meta name="dcterms.date" content="2024-03-16">
 
-<title>High Line Park – Program Evaluation</title>
+<title>integration-readme – Program Evaluation</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -24,6 +22,41 @@ ul.task-list li input[type="checkbox"] {
   width: 0.8em;
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
+}
+/* CSS for syntax highlighting */
+html { -webkit-text-size-adjust: 100%; }
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
 }
 </style>
 
@@ -83,10 +116,9 @@ gtag('config', 'G-8H8JSB1VP7', { 'anonymize_ip': true});
 
 
 <link rel="stylesheet" href="../styles.css">
-<link rel="stylesheet" href="../styles.css">
-<meta property="og:title" content="High Line Park – Program Evaluation">
+<meta property="og:title" content="Program Evaluation">
 <meta property="og:site_name" content="Program Evaluation">
-<meta name="twitter:title" content="High Line Park – Program Evaluation">
+<meta name="twitter:title" content="Program Evaluation">
 <meta name="twitter:card" content="summary">
 </head>
 
@@ -173,120 +205,191 @@ gtag('config', 'G-8H8JSB1VP7', { 'anonymize_ip': true});
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#background" id="toc-background" class="nav-link active" data-scroll-target="#background">Background</a></li>
-  <li><a href="#brief-history" id="toc-brief-history" class="nav-link" data-scroll-target="#brief-history">Brief history</a></li>
-  <li><a href="#stakeholders" id="toc-stakeholders" class="nav-link" data-scroll-target="#stakeholders">Stakeholders</a></li>
-  <li><a href="#resources" id="toc-resources" class="nav-link" data-scroll-target="#resources">Resources</a></li>
-  <li><a href="#impact" id="toc-impact" class="nav-link" data-scroll-target="#impact">Impact</a></li>
-  <li><a href="#thoughts-for-evaluation" id="toc-thoughts-for-evaluation" class="nav-link" data-scroll-target="#thoughts-for-evaluation">Thoughts for evaluation</a></li>
+  <li><a href="#evaluation-report-database-quarto-custom-listing" id="toc-evaluation-report-database-quarto-custom-listing" class="nav-link active" data-scroll-target="#evaluation-report-database-quarto-custom-listing">Evaluation Report Database — Quarto Custom Listing</a>
+  <ul class="collapse">
+  <li><a href="#integration-guide" id="toc-integration-guide" class="nav-link" data-scroll-target="#integration-guide">Integration Guide</a></li>
+  <li><a href="#how-it-works" id="toc-how-it-works" class="nav-link" data-scroll-target="#how-it-works">How it works</a></li>
+  <li><a href="#file-structure" id="toc-file-structure" class="nav-link" data-scroll-target="#file-structure">File structure</a></li>
+  <li><a href="#step-1-copy-folder-into-your-project" id="toc-step-1-copy-folder-into-your-project" class="nav-link" data-scroll-target="#step-1-copy-folder-into-your-project">Step 1 — Copy folder into your project</a></li>
+  <li><a href="#step-2-add-to-_quarto.yml-navigation" id="toc-step-2-add-to-_quarto.yml-navigation" class="nav-link" data-scroll-target="#step-2-add-to-_quarto.yml-navigation">Step 2 — Add to _quarto.yml navigation</a></li>
+  <li><a href="#step-3-render" id="toc-step-3-render" class="nav-link" data-scroll-target="#step-3-render">Step 3 — Render</a></li>
+  <li><a href="#adding-a-new-report" id="toc-adding-a-new-report" class="nav-link" data-scroll-target="#adding-a-new-report">Adding a new report</a></li>
+  <li><a href="#valid-field-values" id="toc-valid-field-values" class="nav-link" data-scroll-target="#valid-field-values">Valid field values</a></li>
+  <li><a href="#customizing-the-card-design" id="toc-customizing-the-card-design" class="nav-link" data-scroll-target="#customizing-the-card-design">Customizing the card design</a></li>
+  <li><a href="#customizing-styles" id="toc-customizing-styles" class="nav-link" data-scroll-target="#customizing-styles">Customizing styles</a></li>
+  <li><a href="#quarto-listing-documentation" id="toc-quarto-listing-documentation" class="nav-link" data-scroll-target="#quarto-listing-documentation">Quarto listing documentation</a></li>
+  </ul></li>
   </ul>
-<div class="quarto-alternate-formats"><h2>Other Formats</h2><ul><li><a href="high-line-park.pdf"><i class="bi bi-file-pdf"></i>PDF</a></li></ul></div></nav>
+</nav>
     </div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
-
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">High Line Park</h1>
-</div>
+<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
 
 
 
-<div class="quarto-title-meta">
 
-    <div>
-    <div class="quarto-title-meta-heading">Author</div>
-    <div class="quarto-title-meta-contents">
-             <p>Gang He </p>
-          </div>
-  </div>
-    
-    <div>
-    <div class="quarto-title-meta-heading">Published</div>
-    <div class="quarto-title-meta-contents">
-      <p class="date">March 16, 2024</p>
-    </div>
-  </div>
-  
-    
-  </div>
-  
-
-
-</header>
-
-
-<section id="background" class="level2">
-<h2 class="anchored" data-anchor-id="background">Background</h2>
-<ul>
-<li>The High Line is a 1.45-mile-long elevated linear park, greenway, which was created on an abandoned rail trail</li>
-<li>Used to be a big headache for the city, and property nearby</li>
-<li>Now a success story of urban planning, landscape design, and human recreation</li>
-<li>Attracts 5 million visitors yearly</li>
-</ul>
+<section id="evaluation-report-database-quarto-custom-listing" class="level1">
+<h1>Evaluation Report Database — Quarto Custom Listing</h1>
+<section id="integration-guide" class="level2">
+<h2 class="anchored" data-anchor-id="integration-guide">Integration Guide</h2>
+<hr>
 </section>
-<section id="brief-history" class="level2">
-<h2 class="anchored" data-anchor-id="brief-history">Brief history</h2>
-<ul>
-<li>“1934: As part of the West Side Improvement Project, the High Line opens to trains. It runs from 34th Street to St John’s Park Terminal, at Spring Street. It is designed to go through the center of blocks, rather than over the avenue, carrying goods to and from Manhattan’s largest industrial district.”</li>
-<li>“1980s: Following decades-long growth in the interstate trucking industry, the last train runs on the High Line in 1980, pulling three carloads of frozen turkeys. A group of property owners lobbies for demolition while Peter Obletz, a Chelsea resident, activist, and railroad enthusiast, challenges demolition efforts in court.”</li>
-<li>“1999: Friends of the High Line is founded by Joshua David and Robert Hammond, residents of the High Line neighborhood, to advocate for the High Line’s preservation and reuse as public open space.”</li>
-<li>Section 1 opened in 2009; Section 2 in 2011; Section 3 in 2014; The Spur in 2018.</li>
-</ul>
+<section id="how-it-works" class="level2">
+<h2 class="anchored" data-anchor-id="how-it-works">How it works</h2>
+<p>This uses <strong>Quarto’s native listing system</strong> (<code>type: custom</code>) — no external JavaScript database or custom filter engine. Everything is Quarto-native:</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 34%">
+<col style="width: 65%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Feature</th>
+<th>How it’s powered</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Search box</td>
+<td>Quarto’s built-in <code>filter-ui: true</code> (uses list.js)</td>
+</tr>
+<tr class="even">
+<td>Sort control</td>
+<td>Quarto’s built-in <code>sort-ui: true</code></td>
+</tr>
+<tr class="odd">
+<td>Category filter pills</td>
+<td>Quarto’s <code>categories: true</code> + each item’s <code>categories:</code> YAML</td>
+</tr>
+<tr class="even">
+<td>Card layout</td>
+<td>Custom EJS template (<code>_report-card.ejs</code>)</td>
+</tr>
+<tr class="odd">
+<td>Expandable detail panel</td>
+<td>Native HTML <code>&lt;details&gt;</code>/<code>&lt;summary&gt;</code> — no JS</td>
+</tr>
+<tr class="even">
+<td>Pagination</td>
+<td>Quarto’s built-in <code>page-size:</code></td>
+</tr>
+</tbody>
+</table>
+<hr>
 </section>
-<section id="stakeholders" class="level2">
-<h2 class="anchored" data-anchor-id="stakeholders">Stakeholders</h2>
-<ul>
-<li>The movement to save the High Line was catalyzed by iconic photographs taken by Joel Sternfeld in 2000, nine years before the park would open to the public<br>
-</li>
-<li>Friends of the High Line and the City of New York conduct a process to select a design team for the High Line. The selected team is James Corner Field Operations, a landscape architecture firm, Diller Scofidio + Renfro, and Piet Oudolf, planting designer<br>
-</li>
-<li>The City accepts ownership of the High Line which is donated by CSX Transportation, Inc.&nbsp;in November 2005; Groundbreaking is celebrated in April 2006<br>
-</li>
-<li>The High Line is maintained by Friends of the High Line, which was founded by area residents Joshua David and Robert Hammond in 1999<br>
-</li>
-<li>The public support: donation and support<br>
-</li>
-<li>Mayor Michael Bloomberg administration</li>
-</ul>
+<section id="file-structure" class="level2">
+<h2 class="anchored" data-anchor-id="file-structure">File structure</h2>
+<pre><code>reports/
+├── index.qmd              ← listing page (edit to change layout/fields)
+├── _report-card.ejs       ← EJS card template (edit to change card design)
+├── reports-listing.css    ← styles (edit to retheme)
+├── items/                 ← one .qmd per report — THIS is the "database"
+│   ├── head-start.qmd
+│   ├── progresa.qmd
+│   └── ... (15 total)
+└── _quarto-snippet.yml    ← paste into your _quarto.yml</code></pre>
+<p>Place the entire <code>reports/</code> folder inside your Quarto project root.</p>
+<hr>
 </section>
-<section id="resources" class="level2">
-<h2 class="anchored" data-anchor-id="resources">Resources</h2>
-<ul>
-<li>Permit: Rallying public support for the park and convincing Mayor Michael Bloomberg’s administration in 2002 to support the project by filing a request with the United States Surface Transportation Board to create a public trail on the site.</li>
-<li>Funding:
-<ul>
-<li>licensing agreement with the New York City Department of Parks &amp; Recreation: $5 million a year daily operation and maintenance of the park</li>
-<li>Friends of the High Line has raised more than $150 million in public and private funds</li>
-</ul></li>
-</ul>
+<section id="step-1-copy-folder-into-your-project" class="level2">
+<h2 class="anchored" data-anchor-id="step-1-copy-folder-into-your-project">Step 1 — Copy folder into your project</h2>
+<pre><code>my-course-site/
+├── _quarto.yml
+├── index.qmd
+└── reports/           ← drop this whole folder here
+    ├── index.qmd
+    ├── _report-card.ejs
+    ├── reports-listing.css
+    └── items/</code></pre>
 </section>
-<section id="impact" class="level2">
-<h2 class="anchored" data-anchor-id="impact">Impact</h2>
-<ul>
-<li>Property prices increase by 10% on average, developers and residents are happy, the City is happy.</li>
-<li>Won numerous urban/landscape awards, a must go place in NYC</li>
-</ul>
+<section id="step-2-add-to-_quarto.yml-navigation" class="level2">
+<h2 class="anchored" data-anchor-id="step-2-add-to-_quarto.yml-navigation">Step 2 — Add to _quarto.yml navigation</h2>
+<p>Merge the nav entry from <code>_quarto-snippet.yml</code> into your existing <code>_quarto.yml</code>:</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb3"><pre class="sourceCode yaml code-with-copy"><code class="sourceCode yaml"><span id="cb3-1"><a href="#cb3-1" aria-hidden="true" tabindex="-1"></a><span class="fu">website</span><span class="kw">:</span></span>
+<span id="cb3-2"><a href="#cb3-2" aria-hidden="true" tabindex="-1"></a><span class="at">  </span><span class="fu">navbar</span><span class="kw">:</span></span>
+<span id="cb3-3"><a href="#cb3-3" aria-hidden="true" tabindex="-1"></a><span class="at">    </span><span class="fu">left</span><span class="kw">:</span></span>
+<span id="cb3-4"><a href="#cb3-4" aria-hidden="true" tabindex="-1"></a><span class="at">      </span><span class="kw">-</span><span class="at"> </span><span class="fu">href</span><span class="kw">:</span><span class="at"> reports/index.qmd</span></span>
+<span id="cb3-5"><a href="#cb3-5" aria-hidden="true" tabindex="-1"></a><span class="at">        </span><span class="fu">text</span><span class="kw">:</span><span class="at"> Report Database</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
 </section>
-<section id="thoughts-for-evaluation" class="level2">
-<h2 class="anchored" data-anchor-id="thoughts-for-evaluation">Thoughts for evaluation</h2>
+<section id="step-3-render" class="level2">
+<h2 class="anchored" data-anchor-id="step-3-render">Step 3 — Render</h2>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb4"><pre class="sourceCode bash code-with-copy"><code class="sourceCode bash"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a><span class="ex">quarto</span> render</span>
+<span id="cb4-2"><a href="#cb4-2" aria-hidden="true" tabindex="-1"></a><span class="co"># or live preview:</span></span>
+<span id="cb4-3"><a href="#cb4-3" aria-hidden="true" tabindex="-1"></a><span class="ex">quarto</span> preview</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<hr>
+</section>
+<section id="adding-a-new-report" class="level2">
+<h2 class="anchored" data-anchor-id="adding-a-new-report">Adding a new report</h2>
+<p>Create a new <code>.qmd</code> file in <code>reports/items/</code>. Copy any existing item file and update the YAML front matter fields. The report appears automatically on the next render — no edits to <code>index.qmd</code> or the EJS template needed.</p>
+<p><strong>Minimum required fields:</strong></p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb5"><pre class="sourceCode yaml code-with-copy"><code class="sourceCode yaml"><span id="cb5-1"><a href="#cb5-1" aria-hidden="true" tabindex="-1"></a><span class="pp">---</span></span>
+<span id="cb5-2"><a href="#cb5-2" aria-hidden="true" tabindex="-1"></a><span class="fu">title</span><span class="kw">:</span><span class="at"> </span><span class="st">"Your Report Title"</span></span>
+<span id="cb5-3"><a href="#cb5-3" aria-hidden="true" tabindex="-1"></a><span class="fu">organization</span><span class="kw">:</span><span class="at"> </span><span class="st">"Author Organization"</span></span>
+<span id="cb5-4"><a href="#cb5-4" aria-hidden="true" tabindex="-1"></a><span class="fu">org-type</span><span class="kw">:</span><span class="at"> </span><span class="st">"Federal Government"</span><span class="co">        # see list below</span></span>
+<span id="cb5-5"><a href="#cb5-5" aria-hidden="true" tabindex="-1"></a><span class="fu">year</span><span class="kw">:</span><span class="at"> </span><span class="dv">2023</span></span>
+<span id="cb5-6"><a href="#cb5-6" aria-hidden="true" tabindex="-1"></a><span class="fu">country</span><span class="kw">:</span><span class="at"> </span><span class="st">"United States"</span></span>
+<span id="cb5-7"><a href="#cb5-7" aria-hidden="true" tabindex="-1"></a><span class="fu">evaluation-type</span><span class="kw">:</span></span>
+<span id="cb5-8"><a href="#cb5-8" aria-hidden="true" tabindex="-1"></a><span class="at">  </span><span class="kw">-</span><span class="at"> Impact Evaluation</span></span>
+<span id="cb5-9"><a href="#cb5-9" aria-hidden="true" tabindex="-1"></a><span class="fu">causal-methods</span><span class="kw">:</span></span>
+<span id="cb5-10"><a href="#cb5-10" aria-hidden="true" tabindex="-1"></a><span class="at">  </span><span class="kw">-</span><span class="at"> Randomized Controlled Trial</span></span>
+<span id="cb5-11"><a href="#cb5-11" aria-hidden="true" tabindex="-1"></a><span class="fu">data-collection</span><span class="kw">:</span></span>
+<span id="cb5-12"><a href="#cb5-12" aria-hidden="true" tabindex="-1"></a><span class="at">  </span><span class="kw">-</span><span class="at"> Survey</span></span>
+<span id="cb5-13"><a href="#cb5-13" aria-hidden="true" tabindex="-1"></a><span class="fu">timeframe</span><span class="kw">:</span><span class="at"> </span><span class="st">"Medium-term (1–3 years)"</span><span class="co">  # see list below</span></span>
+<span id="cb5-14"><a href="#cb5-14" aria-hidden="true" tabindex="-1"></a><span class="fu">topics</span><span class="kw">:</span></span>
+<span id="cb5-15"><a href="#cb5-15" aria-hidden="true" tabindex="-1"></a><span class="at">  </span><span class="kw">-</span><span class="at"> Education</span></span>
+<span id="cb5-16"><a href="#cb5-16" aria-hidden="true" tabindex="-1"></a><span class="at">  </span><span class="kw">-</span><span class="at"> Low-Income Populations</span></span>
+<span id="cb5-17"><a href="#cb5-17" aria-hidden="true" tabindex="-1"></a><span class="fu">summary</span><span class="kw">:</span><span class="at"> </span><span class="st">"One or two sentence description shown on the card."</span></span>
+<span id="cb5-18"><a href="#cb5-18" aria-hidden="true" tabindex="-1"></a><span class="fu">download-url</span><span class="kw">:</span><span class="at"> </span><span class="st">"https://example.com/report"</span></span>
+<span id="cb5-19"><a href="#cb5-19" aria-hidden="true" tabindex="-1"></a><span class="fu">open-access</span><span class="kw">:</span><span class="at"> </span><span class="ch">true</span></span>
+<span id="cb5-20"><a href="#cb5-20" aria-hidden="true" tabindex="-1"></a><span class="fu">categories</span><span class="kw">:</span><span class="co">                           # IMPORTANT: repeat all values here</span></span>
+<span id="cb5-21"><a href="#cb5-21" aria-hidden="true" tabindex="-1"></a><span class="at">  </span><span class="kw">-</span><span class="at"> Impact Evaluation</span><span class="co">                 # so Quarto's category pills work</span></span>
+<span id="cb5-22"><a href="#cb5-22" aria-hidden="true" tabindex="-1"></a><span class="at">  </span><span class="kw">-</span><span class="at"> Randomized Controlled Trial</span></span>
+<span id="cb5-23"><a href="#cb5-23" aria-hidden="true" tabindex="-1"></a><span class="at">  </span><span class="kw">-</span><span class="at"> Survey</span></span>
+<span id="cb5-24"><a href="#cb5-24" aria-hidden="true" tabindex="-1"></a><span class="at">  </span><span class="kw">-</span><span class="at"> Federal Government</span></span>
+<span id="cb5-25"><a href="#cb5-25" aria-hidden="true" tabindex="-1"></a><span class="at">  </span><span class="kw">-</span><span class="at"> </span><span class="st">"Medium-term (1–3 years)"</span></span>
+<span id="cb5-26"><a href="#cb5-26" aria-hidden="true" tabindex="-1"></a><span class="at">  </span><span class="kw">-</span><span class="at"> Education</span></span>
+<span id="cb5-27"><a href="#cb5-27" aria-hidden="true" tabindex="-1"></a><span class="at">  </span><span class="kw">-</span><span class="at"> Low-Income Populations</span></span>
+<span id="cb5-28"><a href="#cb5-28" aria-hidden="true" tabindex="-1"></a><span class="pp">---</span></span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<blockquote class="blockquote">
+<p><strong>Why repeat in <code>categories:</code>?</strong><br>
+Quarto’s category pill filter reads from the <code>categories:</code> field. By listing every filter-relevant value there, clicking any pill (e.g.&nbsp;“Randomized Controlled Trial”) correctly shows all matching reports.</p>
+</blockquote>
+<hr>
+</section>
+<section id="valid-field-values" class="level2">
+<h2 class="anchored" data-anchor-id="valid-field-values">Valid field values</h2>
+<p><strong>org-type</strong> (choose one): - Federal Government - State/Local Government - Academic / University - Research Organization / Think Tank - NGO / International Development - International Organization - Consulting / Nonprofit</p>
+<p><strong>timeframe</strong> (choose one): - Short-term (&lt; 1 year) - Medium-term (1–3 years) - Longitudinal (3+ years)</p>
+<p><strong>evaluation-type</strong> (one or more): - Impact Evaluation · Process Evaluation · Outcome Evaluation - Formative · Summative · Needs Assessment - Cost-Benefit Analysis · Policy Analysis</p>
+<p><strong>causal-methods</strong> (one or more): - Randomized Controlled Trial · Difference-in-Differences - Regression Discontinuity · Instrumental Variables - Propensity Score Matching · Synthetic Control · Event Study - Interrupted Time Series · Descriptive Analysis - Developmental Evaluation · Pre-Post Comparison - Lottery-Based Assignment</p>
+<p><strong>data-collection</strong> (one or more): - Survey · Administrative Data · Interviews · Focus Groups - Observations · Direct Assessment · Biometric Data - Clinical Measurements · Standardized Tests - Home Visit Records · Case File Review · Household Panel Data</p>
+<p><strong>topics</strong>: free-form tags — reuse existing values when possible so pills group correctly.</p>
+<hr>
+</section>
+<section id="customizing-the-card-design" class="level2">
+<h2 class="anchored" data-anchor-id="customizing-the-card-design">Customizing the card design</h2>
+<p>Edit <code>_report-card.ejs</code>. It receives a JavaScript <code>items</code> array where each element has every YAML field as a property (hyphenated keys become camelCase in EJS: <code>open-access</code> → <code>item['open-access']</code>).</p>
+<p>Quarto’s EJS docs: https://quarto.org/docs/websites/website-listings-custom.html</p>
+<hr>
+</section>
+<section id="customizing-styles" class="level2">
+<h2 class="anchored" data-anchor-id="customizing-styles">Customizing styles</h2>
+<p>All visual variables are CSS custom properties at the top of <code>reports-listing.css</code>. Override them in your global stylesheet to match your site theme:</p>
+<div class="code-copy-outer-scaffold"><div class="sourceCode" id="cb6"><pre class="sourceCode css code-with-copy"><code class="sourceCode css"><span id="cb6-1"><a href="#cb6-1" aria-hidden="true" tabindex="-1"></a><span class="in">:root</span> {</span>
+<span id="cb6-2"><a href="#cb6-2" aria-hidden="true" tabindex="-1"></a>  <span class="va">--rdb-navy</span><span class="ch">:</span> <span class="cn">#1a3a2a</span><span class="op">;</span>   <span class="co">/* swap navy for your brand color */</span></span>
+<span id="cb6-3"><a href="#cb6-3" aria-hidden="true" tabindex="-1"></a>  <span class="va">--rdb-gold</span><span class="ch">:</span> <span class="cn">#e07b39</span><span class="op">;</span></span>
+<span id="cb6-4"><a href="#cb6-4" aria-hidden="true" tabindex="-1"></a>}</span></code></pre></div><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></div>
+<hr>
+</section>
+<section id="quarto-listing-documentation" class="level2">
+<h2 class="anchored" data-anchor-id="quarto-listing-documentation">Quarto listing documentation</h2>
 <ul>
-<li>Not all about costs: public space, history, vision, and creative ideas<br>
-</li>
-<li>Evaluation indicators: visitors, property value, awards, what else?</li>
+<li>Custom listings: https://quarto.org/docs/websites/website-listings-custom.html</li>
+<li>Listing options: https://quarto.org/docs/reference/projects/websites.html#listing</li>
 </ul>
-<!--Include social share buttons-->
-<!-- 
-AddToAny check more: https://www.addtoany.com/buttons/for/website 
-Using includes will make edits easier, will only need to add or remove button here if needed.
-https://quarto.org/docs/authoring/includes.html
--->
-<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
-<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_bluesky"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
-</div>
-<script async="" src="https://static.addtoany.com/menu/page.js"></script>
 
 
+</section>
 </section>
 
 </main> <!-- /main -->

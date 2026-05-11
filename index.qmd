@@ -18,7 +18,7 @@ repo-actions: false
 
 This class benefits from similar classes and I cannot credit them enough below:  
 
-- PAF9174 taught by Prof. [George Mitchell](https://www.baruch.cuny.edu/profiles/faculty/George-E.-Mitchell)  
+- PAF9174 taught by Prof. [George Mitchell](https://www.baruch.cuny.edu/profiles/faculty/George-E.-Mitchell) and Prof. [Sanders Korenman](https://www.baruch.cuny.edu/profiles/faculty/Sanders-D-Korenman)
 - Dr. Andrew Heiss, [Program Evaluation](https://evalsp24.classes.andrewheiss.com/)
 
 
