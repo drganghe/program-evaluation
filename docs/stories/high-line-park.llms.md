@@ -1,0 +1,49 @@
+# High Line Park
+
+Author
+
+Gang He
+
+Published
+
+February 4, 2025
+
+## Background
+
+- The High Line is a 1.45-mile-long elevated linear park and greenway created on an abandoned rail trail
+- It used to be a big headache for the city and nearby property owners
+- Now it’s a success story of urban planning, landscape design, and human recreation
+- Attracts 5 million visitors yearly
+
+## Brief history
+
+- “1934: As part of the West Side Improvement Project, the High Line opens to trains. It runs from 34th Street to St John’s Park Terminal, at Spring Street. It is designed to go through the center of blocks, rather than over the avenue, carrying goods to and from Manhattan’s largest industrial district.”
+- “1980s: Following decades-long growth in the interstate trucking industry, the last train runs on the High Line in 1980, pulling three carloads of frozen turkeys. A group of property owners lobbies for demolition while Peter Obletz, a Chelsea resident, activist, and railroad enthusiast, challenges demolition efforts in court.”
+- “1999: Friends of the High Line is founded by Joshua David and Robert Hammond, residents of the High Line neighborhood, to advocate for the High Line’s preservation and reuse as public open space.”
+- Section 1 opened in 2009; Section 2 in 2011; Section 3 in 2014; The Spur in 2018.
+
+## Stakeholders
+
+- The movement to save the High Line was catalyzed by iconic photographs taken by Joel Sternfeld in 2000, nine years before the park would open to the public  
+- Friends of the High Line and the City of New York conduct a process to select a design team for the High Line. The selected team is James Corner Field Operations, a landscape architecture firm, Diller Scofidio + Renfro, and Piet Oudolf, planting designer  
+- The City accepts ownership of the High Line which is donated by CSX Transportation, Inc. in November 2005; Groundbreaking is celebrated in April 2006  
+- The High Line is maintained by Friends of the High Line, which was founded by area residents Joshua David and Robert Hammond in 1999  
+- The public support: donation and support  
+- Mayor Michael Bloomberg administration
+
+## Resources
+
+- Permit: Rallying public support for the park and convincing Mayor Michael Bloomberg’s administration in 2002 to support the project by filing a request with the United States Surface Transportation Board to create a public trail on the site.
+- Funding:
+  - licensing agreement with the New York City Department of Parks & Recreation: \$5 million a year daily operation and maintenance of the park
+  - Friends of the High Line has raised more than \$150 million in public and private funds
+
+## Impact
+
+- Property prices increase by 10% on average, developers and residents are happy, the City is happy.
+- Won numerous urban/landscape awards, a must go place in NYC
+
+## Thoughts for evaluation
+
+- Not all about costs: public space, history, vision, and creative ideas  
+- Evaluation indicators: visitors, property value, awards, what else?

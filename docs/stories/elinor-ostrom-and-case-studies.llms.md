@@ -1,0 +1,69 @@
+# Elinor Ostrom and Case Studies
+
+Author
+
+Gang He
+
+Published
+
+March 18, 2025
+
+## Elinor Ostrom
+
+- Professor in Indiana University Bloomington
+- Nobel Prize in Economics (2009)
+
+## Governing the Commons
+
+- Garrett Hardin (1968): Tragedy of the commons
+- Workshop in Political Theory and Policy Analysis
+- Institutional analysis and development framework
+
+> It was long unanimously held among economists that natural resources that were collectively used by their users would be over-exploited and destroyed in the long-term. Elinor Ostrom disproved this idea by conducting field studies on how people in small, local communities manage shared natural resources, such as pastures, fishing waters, and forests. She showed that when natural resources are jointly used by their users, in time, rules are established for how these are to be cared for and used in a way that is both economically and ecologically sustainable.
+
+— The Nobel Prize, Elinor Ostrom Facts[^1]
+
+## Eight principles for sustainable common pool resources
+
+1.  Clearly defined boundaries
+
+2.  Congruence between appropriation and provision rules and local conditions
+
+3.  Collective-choice arrangements
+
+4.  Monitoring
+
+5.  Graduated sanctions
+
+6.  Conflict-resolution mechanisms
+
+7.  Minimal recognition of rights to organize
+
+8.  Nested enterprises
+
+## Case Studies
+
+- Swiss Village: She found that a Swiss village, Törbel, with a communal meadow had no problems with overgrazing because of a common agreement among villagers that no one was allowed to graze more cows on the meadow than they could care for over the winter.
+- Japanese Villages: She also investigated common lands in the Japanese villages of Hirano, Nagaike, and Yamanoka.
+- Irrigation Systems in Western Nepal: Ostrom studied how communities in western Nepal managed irrigation systems, finding that they had developed effective self-governance mechanisms.
+- Pasture Management in Africa: She also examined how communities in Africa managed pasturelands, again finding examples of successful self-governance.
+- Huerta Irrigation Mechanism: Ostrom looked at the huerta irrigation mechanism between Valencia (rotation scheme), Murcia and Alicante (tanda, a fixed time period they may withdraw water) in Spain.
+- Zanjera Irrigation Community: She studied the zanjera irrigation community in the Philippines.
+
+— Ostrom ([1990](#ref-ostromGoverningCommonsEvolution1990))
+
+## Messages for an era of crisis
+
+> Through her life and research, she has left us with an important message – community and cooperativity are bigger contributors to global well-being rather than large scale governments.
+
+— Padmini Rangamani[^2]
+
+## References
+
+Ostrom, Elinor. 1990. *Governing the Commons: The Evolution of Institutions for Collective Action*. Political Economy of Institutions and Decisions. Cambridge University Press. <https://doi.org/10.1017/CBO9780511807763>.
+
+## Footnotes
+
+[^1]: Elinor Ostrom – Facts. NobelPrize.org. Nobel Prize Outreach 2025. Sat. 15 Mar 2025. <https://www.nobelprize.org/prizes/economic-sciences/2009/ostrom/facts/>
+
+[^2]: How people collaborate – a tribute to Elinor Ostrom, <https://www.aaas.org/taxonomy/term/7/how-people-collaborate-tribute-elinor-ostrom>

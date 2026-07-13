@@ -1,0 +1,43 @@
+# Project
+
+## Introduction
+
+Your final project is a demonstration of your mastery of the concepts and skills discussed in the class. You can choose a program evaluation topic of your own interest. I also post below some sample topics.
+
+### Sample evaluation topics
+
+- What are the impacts of ARPA-E programs?
+- Is the EPA’s Clean Air Act worth it?
+- How can we prepare for Governors Island development projects to be evaluable?
+
+## Proposal
+
+Please submit a one-page proposal briefly explaining why you chose the topic, what data and analytic methods you plan to use, and any potential challenges and how you would address them.
+
+## Presentation
+
+Your presentation should be about 15–20 minutes long summarizing your work.
+
+Your presentation will be graded by the following criteria:
+
+1.  Nice presence \[4pt\]
+2.  Clear presentation of project ideas and insights \[4pt\]
+3.  Mastery of the subject \[4pt\]
+4.  Presentation design and style \[4pt\]
+5.  Overall impression \[4pt\]
+
+## Final project
+
+A typical program evaluation report includes an introduction of the program, scope of evaluation, **proposed approach and evidence**, and conclusions and recommendations. Your evaluation report should be double spaced, 10 pages long, excluding appropriately cited references.
+
+Your evaluation report will be graded by the following criteria:
+
+1.  Clear description of the program for evaluation \[5pt\]
+2.  Rigorous analysis \[5pt\]
+3.  Clear writing, presentation, visualization \[5pt\]
+4.  Overall impression \[5pt\]
+
+## Student projects
+
+- [Spring 2025](2025/students.llms.md)
+- [Spring 2024](2024/students.llms.md)

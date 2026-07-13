@@ -1,0 +1,54 @@
+# Resources
+
+## Relevant texts
+
+### Open source texts
+
+- Huntington-Klein, Nick. 2022. [The Effect: An Introduction to Research Design and Causality](https://theeffectbook.net/). 1st edition. Boca Raton London New York: Chapman and Hall/CRC.
+- Cunningham, Scott. 2021. [Causal Inference: The Mixtape](https://mixtape.scunning.com/). New Haven London: Yale University Press.
+- Liam F. Beiser-McGrath. 2020. [Impact Evaluation in Practice: Solutions for Second Edition in R](https://lfbeisermcgrath.github.io/rimpactevaluation/).
+- Bret Zeldow, Thomas Leavitt and Laura Hatfield. [Difference-in-differences Website](https://diff.healthpolicydatascience.org/).
+
+### Other texts
+
+- List, John A. 2026. Experimental Economics: Theory and Practice. University of Chicago Press.  
+- Pearl, Judea, and Dana Mackenzie. 2018. The Book of Why: The New Science of Cause and Effect. 1st edition. New York: Basic Books.  
+- Angrist, Joshua, and Jörn-Steffen Pischke. 2009. Mostly Harmless Econometrics. Princeton University Press.  
+- List, John A. 2022. The Voltage Effect: How to Make Good Ideas Great and Great Ideas Scale. New York: Crown Currency.  
+- Remler, Dahlia K., and Gregg G. Van Ryzin. 2022. Research Methods in Practice: Strategies for Description and Causation. SAGE Publications, Inc.
+
+## Federal evaluation
+
+[Evaluation.gov](https://www.evaluation.gov/)
+
+[Federal Evaluators](https://fedeval.net/about/)
+
+## NYC
+
+NYC Opportunities [Evaluation](https://www.nyc.gov/site/opportunity/reports/evaluations.page)
+
+## Organizations
+
+[American Evaluation Association](https://www.eval.org/)
+
+[UN Evaluation Group](https://www.unevaluation.org/)
+
+## Tools
+
+DAG chart tool: [Dagitty](https://www.dagitty.net/dags.html)
+
+[Random Generator](./files/tools/RandomGenerator.xlsx)
+
+[Sample Size Calculator](https://www.qualtrics.com/blog/calculating-sample-size/)
+
+[FEMA Benefit‐Cost Analysis (BCA) Toolkit 6.0 Release Notes](https://www.fema.gov/sites/default/files/2020-08/fema_bca_toolkit_release-notes-july-2020.pdf)
+
+## Evaluation Report Templates and Examples
+
+[Evaluation Report Examples](report-examples/index.llms.md)
+
+Logic Model [Template](https://docs.google.com/presentation/d/1LnEr6R5wbuk_GOuApBBamLh1XV8-FHGrqgiaTfdkFBE/edit?usp=sharing)
+
+USAID Evaluation Report and Review [Template](./files/tools/ChecklistforAssessingUSAIDEvaluationReports.docx)
+
+Evaluation [Checklists](https://wmich.edu/evaluation/checklists)

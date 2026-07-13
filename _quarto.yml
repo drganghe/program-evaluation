@@ -10,6 +10,7 @@ meta-author: "Gang He"
 website:
   title: "Program Evaluation"
   description: "Program Evaluation open course developed by Dr. Gang He."
+  llms-txt: true
   navbar:
     background: light
     left:

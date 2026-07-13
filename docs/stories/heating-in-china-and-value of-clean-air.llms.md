@@ -1,0 +1,27 @@
+# Heating in China and Value of Clean Air
+
+Author
+
+Gang He
+
+Published
+
+March 23, 2024
+
+## Heating differences between the North and South in China
+
+- China’s Huai River policy: free winter heating via the provision of coal for boilers in cities north of the Huai River but denied heat to the south.
+- Regression discontinuity design based on distance from the Huai River
+- Ambient concentrations of TSPs are about 184 μg/m3 \[95% confidence interval (CI): 61, 307\] or 55% higher in the north.
+- Life expectancies are about 5.5 y (95% CI: 0.8, 10.2) lower in the north owing to an increased incidence of cardiorespiratory mortality.
+- Long-term exposure to an additional 100 μg/m3 of TSPs is associated with a reduction in life expectancy at birth of about 3.0 y (95% CI: 0.4, 5.6).
+
+## Thoughts for evaluation
+
+- Natural experiments  
+- Causal identification strategies
+- Regression discontinuity
+
+## References
+
+- Chen Y, Ebenstein A, Greenstone M, Li H. Evidence on the impact of sustained exposure to air pollution on life expectancy from China’s Huai River policy. *PNAS* 2013. <https://doi.org/10.1073/pnas.1300018110>.
