@@ -2,8 +2,8 @@
 title: "Lectures"
 image: "/files/images/hex-Program-Evaluation.png"
 listing:
-- id: "2025-lectures"
-  contents: 2025/lecture*.qmd
+- id: "2026-lectures"
+  contents: 2026/lecture*.qmd
   page-size: 36
   grid-columns: 3
   sort: "date asc"
@@ -36,7 +36,7 @@ repo-actions: false
 {{< include /files/includes/_msclarity.qmd >}}
 
 
-:::{#2025-lectures}
+:::{#2026-lectures}
 :::
 
 <!--

@@ -2,6 +2,12 @@
 
 People, ideas, and evidence that have changed the field
 
+![](./images/John_Snow.jpg)
+
+##### John Snow and Evidence Based Analysis
+
+Sep 2, 2026
+
 ![](./images/moral-machine-design.png)
 
 ##### The Moral Machine and Ethics
@@ -67,12 +73,6 @@ Feb 11, 2025
 ##### High Line Park
 
 Feb 4, 2025
-
-![](./images/John_Snow.jpg)
-
-##### John Snow and Evidence Based Analysis
-
-Jan 28, 2025
 
 ![](./images/Yuyu-Chen.jpeg)
 
