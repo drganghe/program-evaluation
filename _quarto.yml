@@ -25,7 +25,11 @@ website:
       - text: Project
         href: project.qmd        
       - text: Resources
-        href: resources.qmd
+        menu:
+          - text: Report Examples
+            href: report-examples/index.qmd
+          - text: Texts and Links
+            href: resources.qmd
       - text: Archive
         menu:
           - text: Spring 2025
