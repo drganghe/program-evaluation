@@ -2,6 +2,12 @@
 
 People, ideas, and evidence that have changed the field
 
+![](./images/Joel-Sternfeld.jpg)
+
+##### High Line Park
+
+Sep 8, 2026
+
 ![](./images/John_Snow.jpg)
 
 ##### John Snow and Evidence Based Analysis
@@ -67,12 +73,6 @@ Feb 28, 2025
 ##### Bombing in Vietnam – War and Development
 
 Feb 11, 2025
-
-![](./images/Joel-Sternfeld.jpg)
-
-##### High Line Park
-
-Feb 4, 2025
 
 ![](./images/Yuyu-Chen.jpeg)
 

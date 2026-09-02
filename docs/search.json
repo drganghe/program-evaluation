@@ -4,7 +4,7 @@
     "href": "stories.html",
     "title": "Evaluation Stories",
     "section": "",
-    "text": "John Snow and Evidence Based Analysis\n\n\n\nSep 2, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe Moral Machine and Ethics\n\n\n\nApr 29, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nRobert Bullard and Environmental Justice\n\n\n\nApr 22, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nHans Rosling, Data Visualization, and Storytelling\n\n\n\nApr 8, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nFeifei Li, ImageNet, and the AI Revolution\n\n\n\nApr 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nJames March and Organization Theory\n\n\n\nMar 25, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nElinor Ostrom and Case Studies\n\n\n\nMar 18, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nMichael Greenstone and Environmental Economics\n\n\n\nMar 11, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nEsther Duflo and Randomized Controlled Trials\n\n\n\nMar 4, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nJohn Muir and National Park System\n\n\n\nFeb 28, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nBombing in Vietnam – War and Development\n\n\n\nFeb 11, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nHigh Line Park\n\n\n\nFeb 4, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nHeating in China and Value of Clean Air\n\n\n\nMar 23, 2024\n\n\n\n\n\n\nNo matching items"
+    "text": "High Line Park\n\n\n\nSep 8, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nJohn Snow and Evidence Based Analysis\n\n\n\nSep 2, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe Moral Machine and Ethics\n\n\n\nApr 29, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nRobert Bullard and Environmental Justice\n\n\n\nApr 22, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nHans Rosling, Data Visualization, and Storytelling\n\n\n\nApr 8, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nFeifei Li, ImageNet, and the AI Revolution\n\n\n\nApr 1, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nJames March and Organization Theory\n\n\n\nMar 25, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nElinor Ostrom and Case Studies\n\n\n\nMar 18, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nMichael Greenstone and Environmental Economics\n\n\n\nMar 11, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nEsther Duflo and Randomized Controlled Trials\n\n\n\nMar 4, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nJohn Muir and National Park System\n\n\n\nFeb 28, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nBombing in Vietnam – War and Development\n\n\n\nFeb 11, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nHeating in China and Value of Clean Air\n\n\n\nMar 23, 2024\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "project.html",
@@ -53,7 +53,7 @@
     "href": "lectures.html",
     "title": "Lectures",
     "section": "",
-    "text": "Lecture 1 Introduction\n\n\n\nGang He\n\n\nSep 1, 2026\n\n\n\n\n\n\nNo matching items"
+    "text": "Lecture 1 Introduction\n\n\n\nGang He\n\n\nSep 1, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nLecture 2 Goals and Types of Evaluation\n\n\n\nGang He\n\n\nSep 8, 2026\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "stories/elinor-ostrom-and-case-studies.html",
@@ -4240,5 +4240,138 @@
     "title": "Lecture 1 Introduction",
     "section": "",
     "text": "References\n\n\nHelveston, John Paul, Gang He, and Michael R. Davidson. 2022. “Quantifying the Cost Savings of Global Solar Photovoltaic Supply Chains.” Nature 612 (7938): 83–87. https://doi.org/10.1038/s41586-022-05316-6.\n\n\nNewcomer, Kathryn E., Harry P. Hatry, and Joseph S. Wholey. 2015. Handbook of Practical Program Evaluation. 4th edition. Jossey-Bass.\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He"
+  },
+  {
+    "objectID": "2026/lecture2.html#recap-lecture-1",
+    "href": "2026/lecture2.html#recap-lecture-1",
+    "title": "Lecture 2 Goals and Types of Evaluation",
+    "section": "Recap lecture 1",
+    "text": "Recap lecture 1\n\nGet to know each other\nJohn Snow and evidence based analysis\nEvidence based policy\n\nGlobal clean energy supply chain\nRand Health Insurance Experiment\n\nCapturing the wedge\nNot all policies are based on evidence"
+  },
+  {
+    "objectID": "2026/lecture2.html#goal",
+    "href": "2026/lecture2.html#goal",
+    "title": "Lecture 2 Goals and Types of Evaluation",
+    "section": "Goal",
+    "text": "Goal\nSensible program evaluation at reasonable cost\n\nFunder\nGovernment/NGO/Public Institutions/Citizens\nProgram manager/staff\nExecutives\nEvidence-based policy and management decisions"
+  },
+  {
+    "objectID": "2026/lecture2.html#program-program-evaluation",
+    "href": "2026/lecture2.html#program-program-evaluation",
+    "title": "Lecture 2 Goals and Types of Evaluation",
+    "section": "Program & Program Evaluation",
+    "text": "Program & Program Evaluation\n\n\nProgram:\n\nA program is a set of resources and activities directed toward one or more common goals, typically under the direction of a single manager or management team.\n\n\nProgram Evaluation:\n\nProgram evaluation is the application of systematic methods to address questions about program operations and results. It may include ongoing monitoring of a program as well as one-shot studies of program processes or program impact. The approaches used are based on social science research methodologies and professional standards.\n\n\n\nSource: Newcomer et al. (2015)"
+  },
+  {
+    "objectID": "2026/lecture2.html#five-questions-to-ask",
+    "href": "2026/lecture2.html#five-questions-to-ask",
+    "title": "Lecture 2 Goals and Types of Evaluation",
+    "section": "Five questions to ask",
+    "text": "Five questions to ask\n\nCan the results of the evaluation influence decisions about the program?\nCan the evaluation be done in time to be useful?\nIs the program significant enough to merit evaluation?\nIs program performance viewed as problematic?\nWhere is the program in its development?\n\n\nSource: Newcomer et al. (2015)"
+  },
+  {
+    "objectID": "2026/lecture2.html#type-of-evaluation",
+    "href": "2026/lecture2.html#type-of-evaluation",
+    "title": "Lecture 2 Goals and Types of Evaluation",
+    "section": "Type of evaluation",
+    "text": "Type of evaluation\n\nFormative ↔︎ Summative\nOngoing ↔︎ One-Shot\nObjective ↔︎ Observers Participatory\nGoal-Oriented ↔︎ “Goal-Free”\nQuantitative ↔︎ Qualitative\nEx Ante ↔︎ Post Program\nProblem Orientation ↔︎ Non-Problem\n\n\nSource: Newcomer et al. (2015)"
+  },
+  {
+    "objectID": "2026/lecture2.html#types-and-uses-of-evaluation",
+    "href": "2026/lecture2.html#types-and-uses-of-evaluation",
+    "title": "Lecture 2 Goals and Types of Evaluation",
+    "section": "Types and uses of evaluation",
+    "text": "Types and uses of evaluation\n\n\n\n\n\n\n\n\n\n\nEvaluation Types\nWhen to use\nWhat it shows\nWhy it is useful\n\n\n\n\nFormative Evaluation Evaluability Assessment Needs Assessment\n- During the development of a new program.  - When an existing program being modified or is being used in a new setting or with a new population.\n- Whether the proposed program elements are likely to be needed, understood, and accepted by the population you want to reach. - The extent to which an evaluation is possible, based on the goals and objectives.\n- It allows for modification to be made to the plan before full implementation begins.- Maximizes the likelihood that the program will succeed\n\n\nProcess EvaluationProgram Monitoring\n- As soon as program implementation begins.- During operation of an existing program.\n- How well the program is working- The extent to which the program is being implemented as designed- Whether the program is accessible and acceptable to its target population\n- Provides an early warning for any problems that may occur- Allows programs to monitor how well their program plans and activities are working\n\n\nOutcome Evaluation Objectives-Based Evaluation\n- After the program has made contact with at least one person or group in the target population\n- The degree to which the program is having an effect on the target population’s behaviors.\n- Tells whether the program is being effective in meeting its objectives.\n\n\nEconomic Evaluation: Cost Analysis, Cost-Effectiveness Evaluation, Cost-Benefit Analysis, Cost-Utility Analysis\n- At the beginning of a program- During the operation of an existing program.\n- What resources are being used in a program and their costs (direct and indirect) compared to outcome\n- Provides program managers and funders a way to assess cost relative to effects. “How much bang for your buck.\n\n\nImpact Evaluation\n- During the operation of an existing program at appropriate intervals. - At the end of a program.\n- The degree to which the program meets its ultimate goal on an overall rate of STD transmission (how much has program X decreased the morbidity of an STD beyond the study population).\n- Provides evidence for use in policy and funding decisions\n\n\n\n\n\nSource: CDC"
+  },
+  {
+    "objectID": "2026/lecture2.html#process-evaluation-can-be-very-useful",
+    "href": "2026/lecture2.html#process-evaluation-can-be-very-useful",
+    "title": "Lecture 2 Goals and Types of Evaluation",
+    "section": "Process evaluation can be very useful",
+    "text": "Process evaluation can be very useful\n\n\nSource: Limbani et al. (2019)"
+  },
+  {
+    "objectID": "2026/lecture2.html#kirkpatrick-model-for-training-programs",
+    "href": "2026/lecture2.html#kirkpatrick-model-for-training-programs",
+    "title": "Lecture 2 Goals and Types of Evaluation",
+    "section": "Kirkpatrick Model for training programs",
+    "text": "Kirkpatrick Model for training programs\n\n\nSource: Kirkpatrick Model"
+  },
+  {
+    "objectID": "2026/lecture2.html#uk-mrc-framework",
+    "href": "2026/lecture2.html#uk-mrc-framework",
+    "title": "Lecture 2 Goals and Types of Evaluation",
+    "section": "UK MRC Framework",
+    "text": "UK MRC Framework\n\n\nSource: Skivington et al. (2021)"
+  },
+  {
+    "objectID": "2026/lecture2.html#prism-and-re-aim",
+    "href": "2026/lecture2.html#prism-and-re-aim",
+    "title": "Lecture 2 Goals and Types of Evaluation",
+    "section": "PRISM and RE-AIM",
+    "text": "PRISM and RE-AIM\n\n\nSource: Feldstein and Glasgow (2008)"
+  },
+  {
+    "objectID": "2026/lecture2.html#exploratory-evaluation",
+    "href": "2026/lecture2.html#exploratory-evaluation",
+    "title": "Lecture 2 Goals and Types of Evaluation",
+    "section": "Exploratory evaluation",
+    "text": "Exploratory evaluation\n\n\n\n\n\n\n\n\n\nApproach\nPurpose\nTime\n\n\n\n\nEvaluability assessment\nAssess whether programs are ready for useful evaluation; get agreement on program goals and evaluation criteria; clarify the focus and intended use of further evaluation.\n1 to 6 months; 2 staff-weeks to 3 staff-months\n\n\nRapid feedback evaluation\nEstimate program effectiveness in terms of agreed-on program goals; indicate the range of uncertainty in the estimates; produce tested designs for more definitive evaluation; clarify the focus and intended use of further evaluation.\n3 to 6 months; 3 to 12 staff-months\n\n\nEvaluation synthesis\nSynthesize findings of prior research and evaluation studies.\n1 to 4 months; 1 to 3 staff-months\n\n\nSmall-sample studies\nEstimate program effectiveness in terms of agreed-on program goals; produce tested measures of program performance.\n1 week to 6 months; 1 staff-week to 12 staff-month\n\n\n\n\n\nSource: Newcomer et al. (2015)"
+  },
+  {
+    "objectID": "2026/lecture2.html#evaluability-standards-readiness-for-useful-evaluation",
+    "href": "2026/lecture2.html#evaluability-standards-readiness-for-useful-evaluation",
+    "title": "Lecture 2 Goals and Types of Evaluation",
+    "section": "Evaluability Standards: Readiness for Useful Evaluation",
+    "text": "Evaluability Standards: Readiness for Useful Evaluation\n\nProgram goals are agreed on and realistic.\nInformation needs are well defined.\nEvaluation data are obtainable.\nIntended users are willing and able to use evaluation information.\n\n\nSource: Newcomer et al. (2015)"
+  },
+  {
+    "objectID": "2026/lecture2.html#selecting-an-exploratory-evaluation-approach",
+    "href": "2026/lecture2.html#selecting-an-exploratory-evaluation-approach",
+    "title": "Lecture 2 Goals and Types of Evaluation",
+    "section": "Selecting an exploratory evaluation approach",
+    "text": "Selecting an exploratory evaluation approach\n\n\n\n\n\n\n\n\nApproach\nWhen Appropriate\n\n\n\n\nEvaluability assessment\nLarge, decentralized program; unclear evaluation criteria.\n\n\nRapid feedback evaluation\nAgreement exists on the goals in terms of which a program is to be evaluated; need for evaluation information “right quick”; potential need for more definitive evaluation.\n\n\nEvaluation synthesis\nNeed for evaluation information “right quick”; potential need for more definitive evaluation.\n\n\nSmall-sample studies\nAgreement exists on the goals in terms of which a program is to be evaluated; collection of evaluation data will require sampling.\n\n\n\n\n\nSource: Newcomer et al. (2015)"
+  },
+  {
+    "objectID": "2026/lecture2.html#high-line-park-story",
+    "href": "2026/lecture2.html#high-line-park-story",
+    "title": "Lecture 2 Goals and Types of Evaluation",
+    "section": "High Line Park Story",
+    "text": "High Line Park Story\n\n\nPhoto credit: Gang He; High Line Observation Deck@10th Ave & W 17th St"
+  },
+  {
+    "objectID": "2026/lecture2.html#culturally-responsive-evaluation",
+    "href": "2026/lecture2.html#culturally-responsive-evaluation",
+    "title": "Lecture 2 Goals and Types of Evaluation",
+    "section": "Culturally responsive evaluation",
+    "text": "Culturally responsive evaluation\n\nCulture of the program that is being evaluated\nCultural parameters\nIncluding equity"
+  },
+  {
+    "objectID": "2026/lecture2.html#cre-framework",
+    "href": "2026/lecture2.html#cre-framework",
+    "title": "Lecture 2 Goals and Types of Evaluation",
+    "section": "CRE framework",
+    "text": "CRE framework\n\n\nSource: Newcomer et al. (2015)"
+  },
+  {
+    "objectID": "2026/lecture2.html#evaluation-process-and-feedback",
+    "href": "2026/lecture2.html#evaluation-process-and-feedback",
+    "title": "Lecture 2 Goals and Types of Evaluation",
+    "section": "Evaluation process and feedback",
+    "text": "Evaluation process and feedback\n\n\nSource: Newcomer et al. (2015)"
+  },
+  {
+    "objectID": "2026/lecture2.html#gaos-evaluation-design-process",
+    "href": "2026/lecture2.html#gaos-evaluation-design-process",
+    "title": "Lecture 2 Goals and Types of Evaluation",
+    "section": "GAO’s Evaluation Design Process",
+    "text": "GAO’s Evaluation Design Process\n\nClarify the study objectives;\nObtain background information on the issue and design options;\nDevelop and test the proposed approach;\nReach agreement on the proposed approach.\n\n\nRead more: Designing Evaluations: 2012 Revision"
+  },
+  {
+    "objectID": "2026/lecture2.html#references",
+    "href": "2026/lecture2.html#references",
+    "title": "Lecture 2 Goals and Types of Evaluation",
+    "section": "",
+    "text": "References\n\n\nFeldstein, Adrianne C., and Russell E. Glasgow. 2008. “A Practical, Robust Implementation and Sustainability Model (PRISM) for Integrating Research Findings into Practice.” The Joint Commission Journal on Quality and Patient Safety 34 (4): 228–43. https://doi.org/10.1016/S1553-7250(08)34030-6.\n\n\nLimbani, Felix, Jane Goudge, Rohina Joshi, et al. 2019. “Process Evaluation in the Field: Global Learnings from Seven Implementation Research Hypertension Projects in Low-and Middle-Income Countries.” BMC Public Health 19 (1): 953. https://doi.org/10.1186/s12889-019-7261-8.\n\n\nNewcomer, Kathryn E., Harry P. Hatry, and Joseph S. Wholey. 2015. Handbook of Practical Program Evaluation. 4th edition. Jossey-Bass.\n\n\nSkivington, Kathryn, Lynsay Matthews, Sharon Anne Simpson, et al. 2021. “A New Framework for Developing and Evaluating Complex Interventions: Update of Medical Research Council Guidance.” BMJ 374 (September): n2061. https://doi.org/10.1136/bmj.n2061.\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He"
   }
 ]
