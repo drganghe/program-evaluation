@@ -19,16 +19,16 @@ website:
       - text: Schedule
         href: 2026/schedule.qmd
       - text: Lectures
-        href: lectures.qmd
-      - text: Stories
-        href: stories.qmd             
-      - text: Project
-        href: project.qmd        
+        href: lectures.qmd                  
       - text: Resources
         menu:
+          - text: Evaluation Stories
+            href: stories.qmd       
           - text: Report Examples
             href: report-examples/index.qmd
-          - text: Texts and Links
+          - text: Final Projects
+            href: project.qmd           
+          - text: Texts & Links
             href: resources.qmd
       - text: Archive
         menu:
