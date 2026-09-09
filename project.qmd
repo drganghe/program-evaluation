@@ -53,7 +53,7 @@ Your presentation will be graded by the following criteria:
 
 ## Final project
 
-A typical program evaluation report includes an introduction of the program, scope of evaluation, **proposed approach and evidence**, and conclusions and recommendations. Your evaluation report should be double spaced, 10 pages long, excluding appropriately cited references. 
+A typical program evaluation report includes an introduction of the program, scope of evaluation, **proposed approach and evidence**, and conclusions and recommendations. Learn more from [evaluation report examples](/report-examples/index.qmd). Your evaluation report should be double spaced, 10 pages long, excluding appropriately cited references. 
 
 Your evaluation report will be graded by the following criteria:
 

@@ -15,3 +15,11 @@ Sep 1, 2026
 Gang He
 
 Sep 8, 2026
+
+![](./images/program-effect.png)
+
+##### Lecture 3 Logic and Causal Models
+
+Gang He
+
+Sep 15, 2026

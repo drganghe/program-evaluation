@@ -4,7 +4,7 @@
 |----|----|----|----|----|----|----|
 | 1 | 9/1 | What is program evaluation? Where are we headed in this course? | [Introduction and Overview](../2026/lecture1.llms.md) | [John Snow](../stories/john-snow-and-evidence-based-analysis.llms.md) |  |  |
 | 2 | 9/8 | Why do evaluation? | [Goals and Types of Evaluation](../2026/lecture2.llms.md) | [High Line Park](../stories/high-line-park.llms.md) | Jobs Plus in NYC | CR1 |
-| 3 | 9/15 | How to identify causal effects? | Logic and Causal Models | Bombing in Vietnam – War and Development | Northwest Housing Alternatives | CR2 |
+| 3 | 9/15 | How to identify causal effects? | [Logic and Causal Models](../2026/lecture3.llms.md) | [Bombing in Vietnam – War and Development](../stories/bombing-in-vietnam-war-and-development.llms.md) | Northwest Housing Alternatives | CR2 |
 | 4 | 9/22 | How do I account for everyone involved? | Stakeholder Engagement | John Muir and National Park System | ARPA-E | CR3 |
 | 5 | 9/29 | How do I use the scientific method in the real world? | Evaluation Designs: Randomized Experiences | Esther Duflo and RCTs | Microfinance and RCT | CR4 |
 | 6 | 10/6 | What if a randomized experiment is not viable? | Evaluation Designs: Quasi-experiments | Michael Greenstone and Environmental Economics | Air Quality and Life-expectancy | CR5 |

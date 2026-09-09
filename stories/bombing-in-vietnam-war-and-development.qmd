@@ -1,7 +1,7 @@
 ---
 title: Bombing in Vietnam -- War and Development
 author: Gang He
-date: February 11, 2025
+date: September 15, 2026
 image: "/images/Melissa-Dell.jpg"
 format: 
   html: 

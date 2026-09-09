@@ -2,6 +2,12 @@
 
 People, ideas, and evidence that have changed the field
 
+![](./images/Melissa-Dell.jpg)
+
+##### Bombing in Vietnam – War and Development
+
+Sep 15, 2026
+
 ![](./images/Joel-Sternfeld.jpg)
 
 ##### High Line Park
@@ -67,12 +73,6 @@ Mar 4, 2025
 ##### John Muir and National Park System
 
 Feb 28, 2025
-
-![](./images/Melissa-Dell.jpg)
-
-##### Bombing in Vietnam – War and Development
-
-Feb 11, 2025
 
 ![](./images/Yuyu-Chen.jpeg)
 

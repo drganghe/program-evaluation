@@ -2,6 +2,7 @@
   {
     "listing": "/stories.html",
     "items": [
+      "/stories/bombing-in-vietnam-war-and-development.html",
       "/stories/high-line-park.html",
       "/stories/john-snow-and-evidence-based-analysis.html",
       "/stories/the-moral-machine-and-ethics.html",
@@ -13,7 +14,6 @@
       "/stories/michael-greenstone-and-environmental-economics.html",
       "/stories/esther-duflo-and-rcts.html",
       "/stories/john-muir-and-national-park.html",
-      "/stories/bombing-in-vietnam-war-and-development.html",
       "/stories/heating-in-china-and-value of-clean-air.html"
     ]
   },
@@ -21,7 +21,8 @@
     "listing": "/lectures.html",
     "items": [
       "/2026/lecture1.html",
-      "/2026/lecture2.html"
+      "/2026/lecture2.html",
+      "/2026/lecture3.html"
     ]
   },
   {

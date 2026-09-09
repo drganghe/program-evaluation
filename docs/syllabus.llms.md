@@ -12,7 +12,7 @@
 
 **Email**: <gang.he@baruch.cuny.edu>
 
-**Time**: Tuesday 6-9pm
+**Time**: Tuesday 6:05-9:00pm
 
 **Location**: Online
 
