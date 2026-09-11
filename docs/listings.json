@@ -26,17 +26,7 @@
     ]
   },
   {
-    "listing": "/speakers.html",
-    "items": [
-      "/speakers/beatrice-teston.html"
-    ]
-  },
-  {
-    "listing": "/speakers/beatrice-teston.html",
-    "items": []
-  },
-  {
-    "listing": "/2025/students.html",
+    "listing": "/speakers/guest-speaker.html",
     "items": []
   },
   {
@@ -44,7 +34,17 @@
     "items": []
   },
   {
-    "listing": "/speakers/guest-speaker.html",
+    "listing": "/2025/students.html",
     "items": []
+  },
+  {
+    "listing": "/speakers/beatrice-teston.html",
+    "items": []
+  },
+  {
+    "listing": "/speakers.html",
+    "items": [
+      "/speakers/beatrice-teston.html"
+    ]
   }
 ]
