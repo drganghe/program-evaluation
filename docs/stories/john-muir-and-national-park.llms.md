@@ -6,7 +6,7 @@ Gang He
 
 Published
 
-February 28, 2025
+September 22, 2026
 
 ## Who is John Muir?
 

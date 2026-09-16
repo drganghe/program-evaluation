@@ -2,6 +2,7 @@
   {
     "listing": "/stories.html",
     "items": [
+      "/stories/john-muir-and-national-park.html",
       "/stories/bombing-in-vietnam-war-and-development.html",
       "/stories/high-line-park.html",
       "/stories/john-snow-and-evidence-based-analysis.html",
@@ -13,7 +14,6 @@
       "/stories/elinor-ostrom-and-case-studies.html",
       "/stories/michael-greenstone-and-environmental-economics.html",
       "/stories/esther-duflo-and-rcts.html",
-      "/stories/john-muir-and-national-park.html",
       "/stories/heating-in-china-and-value of-clean-air.html"
     ]
   },
@@ -22,7 +22,8 @@
     "items": [
       "/2026/lecture1.html",
       "/2026/lecture2.html",
-      "/2026/lecture3.html"
+      "/2026/lecture3.html",
+      "/2026/lecture4.html"
     ]
   },
   {

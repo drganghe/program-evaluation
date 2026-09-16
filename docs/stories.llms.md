@@ -2,6 +2,12 @@
 
 People, ideas, and evidence that have changed the field
 
+![](./images/John-Muir.jpg)
+
+##### John Muir and National Park System
+
+Sep 22, 2026
+
 ![](./images/Melissa-Dell.jpg)
 
 ##### Bombing in Vietnam – War and Development
@@ -67,12 +73,6 @@ Mar 11, 2025
 ##### Esther Duflo and Randomized Controlled Trials
 
 Mar 4, 2025
-
-![](./images/John-Muir.jpg)
-
-##### John Muir and National Park System
-
-Feb 28, 2025
 
 ![](./images/Yuyu-Chen.jpeg)
 

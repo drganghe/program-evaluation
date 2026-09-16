@@ -23,3 +23,11 @@ Sep 8, 2026
 Gang He
 
 Sep 15, 2026
+
+![](./images/cdc-framework-stakeholders.webp)
+
+##### Lecture 4 Stakeholder Analysis, Mapping, and Engagement
+
+Gang He
+
+Sep 22, 2026
