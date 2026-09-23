@@ -1,7 +1,7 @@
 ---
 title: Esther Duflo and Randomized Controlled Trials
 author: Gang He
-date: March 4, 2025
+date: September 29, 2026
 image: "/images/Esther-Duflo.jpg"
 format: 
   html: 
@@ -17,7 +17,7 @@ format:
 ## Esther Duflo
 
 - 2019 Nobel Prize in Economics
-- Professor in Economics at MIT
+- Professor in Economics at University of Zurich (previously at MIT)
 
 ## RCTs
 

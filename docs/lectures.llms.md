@@ -31,3 +31,11 @@ Sep 15, 2026
 Gang He
 
 Sep 22, 2026
+
+![](./images/steps-in-rcts.png)
+
+##### Lecture 5 Evaluation Designs: Randomized Experiments
+
+Gang He
+
+Sep 29, 2026

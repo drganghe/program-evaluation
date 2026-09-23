@@ -6,12 +6,12 @@ Gang He
 
 Published
 
-March 4, 2025
+September 29, 2026
 
 ## Esther Duflo
 
 - 2019 Nobel Prize in Economics
-- Professor in Economics at MIT
+- Professor in Economics at University of Zurich (previously at MIT)
 
 ## RCTs
 

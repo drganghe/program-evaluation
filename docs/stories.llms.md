@@ -2,6 +2,12 @@
 
 People, ideas, and evidence that have changed the field
 
+![](./images/Esther-Duflo.jpg)
+
+##### Esther Duflo and Randomized Controlled Trials
+
+Sep 29, 2026
+
 ![](./images/John-Muir.jpg)
 
 ##### John Muir and National Park System
@@ -67,12 +73,6 @@ Mar 18, 2025
 ##### Michael Greenstone and Environmental Economics
 
 Mar 11, 2025
-
-![](./images/Esther-Duflo.jpg)
-
-##### Esther Duflo and Randomized Controlled Trials
-
-Mar 4, 2025
 
 ![](./images/Yuyu-Chen.jpeg)
 
