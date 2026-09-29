@@ -22,6 +22,13 @@ format:
 #draft: true
 ---
 
+![](/images/CUNY-Free-OMNY-cards.webp){fig-align="center"}
+
+::: footer
+Source: [CUNY News](https://www.cuny.edu/news/new-york-city-council-and-cuny-announce-launch-of-new-pilot-program-giving-free-unlimited-omny-cards-to-students//)
+:::
+
+
 ## Recap lecture 4
 
 - Stakeholders
