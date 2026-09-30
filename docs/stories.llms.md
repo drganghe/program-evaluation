@@ -2,6 +2,12 @@
 
 People, ideas, and evidence that have changed the field
 
+![](./images/Michael-Greenstone.jpg)
+
+##### Michael Greenstone and Environmental Economics
+
+Oct 6, 2026
+
 ![](./images/Esther-Duflo.jpg)
 
 ##### Esther Duflo and Randomized Controlled Trials
@@ -67,12 +73,6 @@ Mar 25, 2025
 ##### Elinor Ostrom and Case Studies
 
 Mar 18, 2025
-
-![](./images/Michael-Greenstone.jpg)
-
-##### Michael Greenstone and Environmental Economics
-
-Mar 11, 2025
 
 ![](./images/Yuyu-Chen.jpeg)
 

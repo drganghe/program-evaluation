@@ -7,7 +7,7 @@
 | 3 | 9/15 | How to identify causal effects? | [Logic and Causal Models](../2026/lecture3.llms.md) | [Bombing in Vietnam – War and Development](../stories/bombing-in-vietnam-war-and-development.llms.md) | Northwest Housing Alternatives | CR2 |
 | 4 | 9/22 | How do I account for everyone involved? | [Stakeholder Engagement](../2026/lecture4.llms.md) | [John Muir and National Park System](../stories/john-muir-and-national-park.llms.md) | ARPA-E | CR3 |
 | 5 | 9/29 | How do I use the scientific method in the real world? | [Evaluation Designs: Randomized Experiences](../2026/lecture5.llms.md) | [Esther Duflo and RCTs](../stories/esther-duflo-and-rcts.llms.md) | Microfinance and RCT | CR4 |
-| 6 | 10/6 | What if a randomized experiment is not viable? | Evaluation Designs: Quasi-experiments | Michael Greenstone and Environmental Economics | Air Quality and Life-expectancy | CR5 |
+| 6 | 10/6 | What if a randomized experiment is not viable? | [Evaluation Designs: Quasi-experiments](../2026/lecture6.llms.md) | [Michael Greenstone and Environmental Economics](../stories/michael-greenstone-and-environmental-economics.llms.md) | Air Quality / Alcohol Access and Health | CR5 |
 | 7 | 10/13 | Class following Monday schedule - No session |  |  |  |  |
 | 8 | 10/20 | How to do case study evaluation? | Evaluation Designs: Qualitative Methods | Elinor Ostrom and Case Studies | NYC G&T Programs | CR6 |
 | 9 | 10/27 | How to manage challenges in evaluation? | Overcome Resistance and Improve Organization Capacity | James March and Organization Theory | American Red Cross Haiti Relief | CR7 |

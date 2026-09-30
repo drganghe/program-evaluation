@@ -39,3 +39,11 @@ Sep 22, 2026
 Gang He
 
 Sep 29, 2026
+
+![](./images/chen-huai-river-tsp.jpeg)
+
+##### Lecture 6 Evaluation Designs: Quasi Experiments
+
+Gang He
+
+Oct 6, 2026

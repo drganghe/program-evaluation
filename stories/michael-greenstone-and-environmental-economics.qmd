@@ -1,7 +1,7 @@
 ---
 title: Michael Greenstone and Environmental Economics
 author: Gang He
-date: March 11, 2025
+date: October 6, 2026
 image: "/images/Michael-Greenstone.jpg"
 bibliography: ../readings.bib
 format: 
@@ -26,14 +26,14 @@ format:
 - 1-percent reduction in TSPs results in a 0.35 percent decline in the infant mortality rate at the county level
 - 2500 fewer infants died from 1980–1982 recession than would have in the absence of the TSPs reductions
 
-- [@chayImpactAirPollution2003]
+- @chayImpactAirPollution2003
 
 
 ## Effects of Climate Change
 
 - By the end of the century climate change will lead to increases of 3 percent in the age-adjusted mortality rate and 11 percent in annual residential energy consumption.
 
-- [@deschenesClimateChangeMortality2011a]
+- @deschenesClimateChangeMortality2011a
 
 
 ## Thoughts for Evaluation

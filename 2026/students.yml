@@ -1,0 +1,17 @@
+    - path: https://marxe.baruch.cuny.edu/homepage/our-community/spotlight-archive/december-2025-student-spotlight/
+      image: /files/headshots/Milcah-Slater.png
+      title: "December 2025 Student Spotlight: Milcah Slater"
+      description: "In this month’s spotlight we spoke with Milcah Slater about her work with unhoused individuals across New York City as a Supervisor for an outreach agency through Manhattan Outreach Consortium and more."
+      date: "2025-12-01"
+      categories: [story] 
+ 
+
+    - path:    #LinkedIn page
+      image:   # profile picture
+      name: " "
+      project: " "
+#      author: 
+#      subtitle: ""
+      semester: "Fall 2026"
+      categories: [project] 
+

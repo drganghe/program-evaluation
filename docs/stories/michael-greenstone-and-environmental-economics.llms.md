@@ -6,7 +6,7 @@ Gang He
 
 Published
 
-March 11, 2025
+October 6, 2026
 
 ## Michael Greenstone
 
@@ -19,13 +19,13 @@ March 11, 2025
 
 - 2500 fewer infants died from 1980–1982 recession than would have in the absence of the TSPs reductions
 
-- ([Chay and Greenstone 2003](#ref-chayImpactAirPollution2003))
+- Chay and Greenstone ([2003](#ref-chayImpactAirPollution2003))
 
 ## Effects of Climate Change
 
 - By the end of the century climate change will lead to increases of 3 percent in the age-adjusted mortality rate and 11 percent in annual residential energy consumption.
 
-- ([Deschênes and Greenstone 2011](#ref-deschenesClimateChangeMortality2011a))
+- Deschênes and Greenstone ([2011](#ref-deschenesClimateChangeMortality2011a))
 
 ## Thoughts for Evaluation
 
