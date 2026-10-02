@@ -4961,5 +4961,19 @@
     "title": "Lecture 6 Evaluation Designs: Quasi Experiments",
     "section": "",
     "text": "References\n\n\nChen, Yuyu, Avraham Ebenstein, Michael Greenstone, and Hongbin Li. 2013. “Evidence on the Impact of Sustained Exposure to Air Pollution on Life Expectancy from China’s Huai River Policy.” Proceedings of the National Academy of Sciences, ahead of print, July. https://doi.org/10.1073/pnas.1300018110.\n\n\nGertler, Paul J., Sebastian Martinez, Patrick Premand, Laura B. Rawlings, and Christel M. J. Vermeersch. 2016. Impact Evaluation in Practice, Second Edition. World Bank. https://doi.org/10.1596/978-1-4648-0779-4.\n\n\n\nBack to Title Slide, All Lectures, Course Home, or Learn More About Gang He"
+  },
+  {
+    "objectID": "2026/lecture6.html#where-does-the-counterfactual-come-from",
+    "href": "2026/lecture6.html#where-does-the-counterfactual-come-from",
+    "title": "Lecture 6 Evaluation Designs: Quasi Experiments",
+    "section": "Where does the counterfactual come from?",
+    "text": "Where does the counterfactual come from?\n\n\n\n\n\n\n\n\n\nMethod\nSource of Counterfactual\nKey Assumption\n\n\n\n\nRandomized Experiment (RCT)\nRandomly assigned control group\nRandom assignment creates comparable treatment and control groups\n\n\nRegression Discontinuity (RD)\nUnits immediately on opposite sides of a cutoff\nOutcomes would change smoothly at the cutoff in the absence of treatment\n\n\nDifference-in-Differences (DiD)\nChange over time in a comparison group\nTreatment and comparison groups would have followed parallel trends without treatment\n\n\nMatching\nObservationally similar untreated units\nNo important unobserved confounders after conditioning on observed characteristics"
+  },
+  {
+    "objectID": "2026/lecture6.html#comparing-evaluation-designs",
+    "href": "2026/lecture6.html#comparing-evaluation-designs",
+    "title": "Lecture 6 Evaluation Designs: Quasi Experiments",
+    "section": "Comparing evaluation designs",
+    "text": "Comparing evaluation designs\n\n\n\n\n\n\n\n\n\nMethod\nSource of Counterfactual\nKey Assumption\n\n\n\n\nRandomized Experiment (RCT)\nRandomly assigned control group\nRandom assignment creates comparable treatment and control groups\n\n\nRegression Discontinuity (RD)\nUnits immediately on opposite sides of a cutoff\nOutcomes would change smoothly at the cutoff in the absence of treatment\n\n\nDifference-in-Differences (DiD)\nChange over time in a comparison group\nTreatment and comparison groups would have followed parallel trends without treatment\n\n\nMatching\nObservationally similar untreated units\nNo important unobserved confounders after conditioning on observed characteristics"
   }
 ]
