@@ -1,0 +1,199 @@
+---
+title: "Lecture 7 Evaluation Designs: Qualitative Methods"
+description-meta: "How to do case study evaluation?"
+author: "Gang He"
+date: October 22, 2026
+date-format: long
+image: "/images/case-study-food-assistance-program.png"
+format:
+  revealjs:
+    theme: white
+ #   embed-resources: true
+    slide-number: true
+    preview-links: auto
+    link-external-newwindow: true
+    citations-hover: true
+    auto-stretch: true
+    r-fit-text: true
+    center: true
+    scrollable: true
+    css: /custom.css
+    footer: <https://drganghe.github.io/program-evaluation/>
+#draft: true
+---
+
+## Recap lecture 6
+
+- Quasi-experimental design
+  - Instrumental variable (IV)
+  - Regression discontinuity
+  - Difference in differences
+  - Matching
+- Case: 
+  - Air quality and Life Expectancy
+  - Alcohol access and mortality
+
+
+## Today's agenda
+
+- Case Study
+- Case: NYC Gifted and Talented (G&T) Program
+
+
+## Capturing the wedge
+
+![](/images/program-effect.png){fig-align="center"}
+
+::: footer
+Source: [Andrew Wheiss](https://evalsp24.classes.andrewheiss.com/)
+:::
+
+
+## Evaluation designs{.smaller}
+
+- Experimental   
+  - Randomized controlled trial
+
+- Quasi-experimental   
+  - Instrumental variable (IV)
+  - Regression discontinuity (RDD)
+  - Difference in differences (DiD)
+
+- Observational (Non-experimental)  
+  - Time–series analysis (Pre- and post-intervention studies)
+  - Cross-sectional surveys
+  - Case studies
+
+
+## Case study questions
+
+:::{style="font-size:24px;"}
+| Item                   | Assignment                                                    |
+| :--------------------- | :--------------------------------------------------------------|
+| Exercise| Suppose you are working for GAO and have been asked whether the informed consent requirements for experimentation with human subjects are being properly implemented. Suppose further that we visit three sites where humans are used as subjects for research— a hospital, a university, and a clinic— and that we review the informed consent procedures at each site.   |
+| Question 1         | Is this an application of the case study method? Why?    |
+| Question 2          | If not, would case studies be appropriate for answering the question we were asked? Why? |
+| Question 3          | What is your definition of “case study”? |
+:::
+
+:::footer
+Source: Adapted from GAO, [Case Study Evaluations](https://www.gao.gov/assets/pemd-10.1.9.pdf)
+:::
+
+## What is a case study?
+
+>A case study is a method for learning about a complex instance, based on a comprehensive understanding of that instance obtained by extensive description and analysis of that instance taken as a whole and in its context.
+
+:::footer
+Source: GAO, [Case Study Evaluations](https://www.gao.gov/assets/pemd-10.1.9.pdf)
+:::
+
+
+## Case study
+
+- The "Why" and "How" questions
+- Exam program implementation
+- Program must adapt to organizational context and local conditions
+
+:::footer
+Source: @newcomer_handbook_2015
+:::
+
+
+## Categories
+
+::: {style="font-size:32px;"}
+- Illustrative: descriptive, add realism and in-depth examples
+- Exploratory: descriptive, defining the questions and hypotheses for later investigation
+- Critical instance: critical test of an assertion about program, problem or strategy
+- Program implementation: operation and norms about implementation
+- Program effects: cause-and-effect relationships, involve multiple sites and multiple methods
+- Cumulative: brings together findings from many case studies
+:::
+
+:::footer
+Source: @newcomer_handbook_2015, GAO, [Case Study Evaluations](https://www.gao.gov/assets/pemd-10.1.9.pdf)
+:::
+
+
+## Steps in case studies
+
+:::{style="font-size:20px;"}
+- Designing the Case Study. 
+  - Define the research questions.  
+  - Develop a framework to identify study dimensions.  
+  - Determine the unit of analysis.  
+  - Establish a single-case or multiple-case design.  
+
+- Conducting the Case Study. 
+  - Develop protocols.  
+  - Select qualified staff and provide training.  
+  - Implement strategies for collecting data, typically from multiple sources.  
+
+- Analyzing the Data. 
+  - Create a database.
+  - Use specific techniques to analyze the data.  
+
+- Preparing the Report. 
+  - Determine the audience and the organizational structure for the report.  
+  - Include context and data collection strategies in addition to findings.  
+  - Outline limitations or cautions.  
+:::
+
+:::footer
+Source: @newcomer_handbook_2015
+:::
+
+
+## Example: Case study of a food assistance program
+
+![](/images/case-study-food-assistance-program.png){fig-align="center"}
+
+:::footer
+Source: @newcomer_handbook_2015
+:::
+
+
+## Designing case study
+
+- Define the research questions
+- Develop a framework to identify study dimensions
+- Determine the unit of analysis
+- Establish a single-case or multiple-case design
+- Select cases or sites
+
+
+## Avoiding common pitfalls
+
+:::{style="font-size:24px;"}
+| Problem                | Solution                                                                       |
+| :--------------------- | :---------------------------------------------------- |
+| Limited generalization | Sites selection </br> Acknowledge limitation                                   |
+| Too much data          | Research framework  </br> Protocols                                            |
+| Impartiality           | Review interview </br> Multiple data collection </br> Supervision and training |
+| Premature conclusions  | Multiple data analysis </br> Rival hypotheses                                  |
+| Narrative bias         | Understand audience </br> Explicit interpretation                              |
+:::
+
+## Story
+
+:::{style="text-align:center;"}
+[Elinor Ostrom and Case Studies](/stories/elinor-ostrom-and-case-studies.qmd)
+:::
+
+
+## Summary
+
+- Objectivities
+
+- Generalization and replication
+
+
+------
+
+### References
+
+::: {#refs}
+:::
+
+{{< include /files/includes/_lastslidefooter.qmd >}}

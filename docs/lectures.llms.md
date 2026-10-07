@@ -47,3 +47,11 @@ Sep 29, 2026
 Gang He
 
 Oct 6, 2026
+
+![](./images/case-study-food-assistance-program.png)
+
+##### Lecture 7 Evaluation Designs: Qualitative Methods
+
+Gang He
+
+Oct 22, 2026

@@ -2,6 +2,7 @@
   {
     "listing": "/stories.html",
     "items": [
+      "/stories/elinor-ostrom-and-case-studies.html",
       "/stories/michael-greenstone-and-environmental-economics.html",
       "/stories/esther-duflo-and-rcts.html",
       "/stories/john-muir-and-national-park.html",
@@ -13,7 +14,6 @@
       "/stories/hans-rosling-data-visualization-and-storytelling.html",
       "/stories/feifei-li-imagenet-and-ai-revolution.html",
       "/stories/james-march-and-organization-theory.html",
-      "/stories/elinor-ostrom-and-case-studies.html",
       "/stories/heating-in-china-and-value of-clean-air.html"
     ]
   },
@@ -25,7 +25,8 @@
       "/2026/lecture3.html",
       "/2026/lecture4.html",
       "/2026/lecture5.html",
-      "/2026/lecture6.html"
+      "/2026/lecture6.html",
+      "/2026/lecture7.html"
     ]
   },
   {

@@ -9,7 +9,7 @@
 | 5 | 9/29 | How do I use the scientific method in the real world? | [Evaluation Designs: Randomized Experiences](../2026/lecture5.llms.md) | [Esther Duflo and RCTs](../stories/esther-duflo-and-rcts.llms.md) | Microfinance and RCT | CR4 |
 | 6 | 10/6 | What if a randomized experiment is not viable? | [Evaluation Designs: Quasi-experiments](../2026/lecture6.llms.md) | [Michael Greenstone and Environmental Economics](../stories/michael-greenstone-and-environmental-economics.llms.md) | Air Quality / Alcohol Access and Health | CR5 |
 | 7 | 10/13 | Class following Monday schedule - No session |  |  |  |  |
-| 8 | 10/20 | How to do case study evaluation? | Evaluation Designs: Qualitative Methods | Elinor Ostrom and Case Studies | NYC G&T Programs | CR6 |
+| 8 | 10/20 | How to do case study evaluation? | [Evaluation Designs: Qualitative Methods](../2026/lecture7.llms.md) | [Elinor Ostrom and Case Studies](../stories/elinor-ostrom-and-case-studies.llms.md) | NYC G&T Programs | CR6 |
 | 9 | 10/27 | How to manage challenges in evaluation? | Overcome Resistance and Improve Organization Capacity | James March and Organization Theory | American Red Cross Haiti Relief | CR7 |
 | 10 | 11/3 | Where does the data come from? | Data Collection: Procedures, Instrumentation, Practical Considerations | Fei-fei Li and ImageNet | AI and Big Data in Development Evaluation | CR8 |
 | 11 | 11/10 | What methods make data tell accurate stories and solve problems? | Data Analysis: Quantitative, qualitative, and mixed analysis | Hans Rosling and Storytelling | CUNY SEEK Program | CR9 |
