@@ -2,6 +2,12 @@
 
 People, ideas, and evidence that have changed the field
 
+![](./images/Elinor-Ostrom.webp)
+
+##### Elinor Ostrom and Case Studies
+
+Oct 22, 2026
+
 ![](./images/Michael-Greenstone.jpg)
 
 ##### Michael Greenstone and Environmental Economics
@@ -67,12 +73,6 @@ Apr 1, 2025
 ##### James March and Organization Theory
 
 Mar 25, 2025
-
-![](./images/Elinor-Ostrom.webp)
-
-##### Elinor Ostrom and Case Studies
-
-Mar 18, 2025
 
 ![](./images/Yuyu-Chen.jpeg)
 
