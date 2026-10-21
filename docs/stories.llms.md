@@ -2,6 +2,12 @@
 
 People, ideas, and evidence that have changed the field
 
+![](./images/James-March.jpg)
+
+##### James March and Organization Theory
+
+Oct 27, 2026
+
 ![](./images/Elinor-Ostrom.webp)
 
 ##### Elinor Ostrom and Case Studies
@@ -67,12 +73,6 @@ Apr 8, 2025
 ##### Feifei Li, ImageNet, and the AI Revolution
 
 Apr 1, 2025
-
-![](./images/James-March.jpg)
-
-##### James March and Organization Theory
-
-Mar 25, 2025
 
 ![](./images/Yuyu-Chen.jpeg)
 

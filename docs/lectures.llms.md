@@ -55,3 +55,11 @@ Oct 6, 2026
 Gang He
 
 Oct 20, 2026
+
+![](./images/delphi-method.png)
+
+##### Lecture 8 Overcome Resistance and Improve Organization Capacity
+
+Gang He
+
+Oct 27, 2026

@@ -37,7 +37,7 @@ format:
 - Case: American Red Cross (ARC) Haiti Relief Program
 
 
-## Who cases about evaluation
+## Who cares about evaluation
 
 - Funders
 - Policy makers
