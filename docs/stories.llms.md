@@ -2,6 +2,12 @@
 
 People, ideas, and evidence that have changed the field
 
+![](./images/Feifei-Li.webp)
+
+##### Feifei Li, ImageNet, and the AI Revolution
+
+Nov 3, 2026
+
 ![](./images/James-March.jpg)
 
 ##### James March and Organization Theory
@@ -67,12 +73,6 @@ Apr 22, 2025
 ##### Hans Rosling, Data Visualization, and Storytelling
 
 Apr 8, 2025
-
-![](./images/Feifei-Li.webp)
-
-##### Feifei Li, ImageNet, and the AI Revolution
-
-Apr 1, 2025
 
 ![](./images/Yuyu-Chen.jpeg)
 

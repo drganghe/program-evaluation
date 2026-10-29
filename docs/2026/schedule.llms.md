@@ -11,7 +11,7 @@
 | 7 | 10/13 | Class following Monday schedule - No session |  |  |  |  |
 | 8 | 10/20 | How to do case study evaluation? | [Evaluation Designs: Qualitative Methods](../2026/lecture7.llms.md) | [Elinor Ostrom and Case Studies](../stories/elinor-ostrom-and-case-studies.llms.md) | NYC G&T Programs | CR6 |
 | 9 | 10/27 | How to manage challenges in evaluation? | [Overcome Resistance and Improve Organization Capacit](../2026/lecture8.llms.md) | [James March and Organization Theory](../stories/james-march-and-organization-theory.llms.md) | American Red Cross Haiti Relief | CR7 |
-| 10 | 11/3 | Where does the data come from? | Data Collection: Procedures, Instrumentation, Practical Considerations | Fei-fei Li and ImageNet | AI and Big Data in Development Evaluation | CR8 |
+| 10 | 11/3 | Where does the data come from? | [Data Collection: Procedures, Instrumentation, Practical Considerations](../2026/lecture9.llms.md) | [Fei-fei Li and ImageNet](../stories/feifei-li-imagenet-and-ai-revolution.llms.md) | AI and Big Data in Development Evaluation | CR8 |
 | 11 | 11/10 | What methods make data tell accurate stories and solve problems? | Data Analysis: Quantitative, qualitative, and mixed analysis | Hans Rosling and Storytelling | CUNY SEEK Program | CR9 |
 | 12 | 11/17 | Is the program worthwhile? What happens next? | Economic Evaluation and Performance Measurement | Robert Bullard and Environmental Justice | CBA of EPA Clean Air Act | Proposal, CR10 |
 | 13 | 11/24 | How to be an ethical evaluator? | Ethics, Principles, and Standards | The Moral Machine |  |  |

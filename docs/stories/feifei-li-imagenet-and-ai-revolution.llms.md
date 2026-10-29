@@ -6,7 +6,7 @@ Gang He
 
 Published
 
-April 1, 2025
+November 3, 2026
 
 ## ImageNet
 

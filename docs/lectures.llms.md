@@ -63,3 +63,11 @@ Oct 20, 2026
 Gang He
 
 Oct 27, 2026
+
+![](./images/datagov.png)
+
+##### Lecture 9 Data Collection: Procedures, Instrumentation, Practical Considerations
+
+Gang He
+
+Nov 3, 2026
