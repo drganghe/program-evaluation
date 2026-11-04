@@ -6,7 +6,7 @@ Gang He
 
 Published
 
-April 8, 2025
+November 10, 2026
 
 ## Hans Rosling
 

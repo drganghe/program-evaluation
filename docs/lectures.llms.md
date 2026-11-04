@@ -71,3 +71,11 @@ Oct 27, 2026
 Gang He
 
 Nov 3, 2026
+
+![](./images/eisenhower-matrix.webp)
+
+##### Lecture 10 Data Analysis: Quantitative, Qualitative, and Mixed Analysis
+
+Gang He
+
+Nov 10, 2026

@@ -2,6 +2,12 @@
 
 People, ideas, and evidence that have changed the field
 
+![](./images/Hans-Rosling.avif)
+
+##### Hans Rosling, Data Visualization, and Storytelling
+
+Nov 10, 2026
+
 ![](./images/Feifei-Li.webp)
 
 ##### Feifei Li, ImageNet, and the AI Revolution
@@ -67,12 +73,6 @@ Apr 29, 2025
 ##### Robert Bullard and Environmental Justice
 
 Apr 22, 2025
-
-![](./images/Hans-Rosling.avif)
-
-##### Hans Rosling, Data Visualization, and Storytelling
-
-Apr 8, 2025
 
 ![](./images/Yuyu-Chen.jpeg)
 
