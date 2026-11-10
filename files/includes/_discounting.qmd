@@ -1,0 +1,158 @@
+```{=html}
+
+<div class="discount-calculator">
+
+
+<div class="discount-controls-row">
+
+  <div class="discount-control">
+    <label for="discount-rate">
+      Discount rate:
+      <strong><span id="rate-value">3</span>%</strong>
+    </label>
+    <input type="range" id="discount-rate"
+           min="0" max="10" step="1" value="3">
+  </div>
+
+  <div class="discount-control">
+    <label for="discount-years">
+      Years into the future:
+      <strong><span id="years-value">30</span></strong>
+    </label>
+    <input type="range" id="discount-years"
+           min="0" max="50" step="5" value="30">
+  </div>
+
+</div>
+
+
+  <div class="discount-result">
+    <div>Present Value of Future $1,000</div>
+    <strong id="present-value">$411.99</strong>
+  </div>
+
+  <div class="discount-bar">
+    <div id="pv-bar"></div>
+  </div>
+
+  <p class="discount-caption">
+    <span id="pv-percent">41.2</span>% of the
+    future benefit's value remains in present-value terms.
+  </p>
+
+</div>
+
+<style>
+.discount-calculator {
+  max-width: 850px;
+  margin: 1em auto;
+  padding: 1em 1.4em;
+  border: 1px solid #cccccc;
+  border-radius: 12px;
+  font-size: 0.85em;
+}
+.discount-control {
+  margin-bottom: 1.1em;
+}
+.discount-control label {
+  display: block;
+  margin-bottom: 0.35em;
+}
+.discount-control input {
+  width: 100%;
+  cursor: pointer;
+  accent-color: #2563eb;
+}
+.discount-result {
+  text-align: center;
+  padding: 0.5em;
+  margin: 0.7em 0;
+}
+.discount-result strong {
+  display: block;
+  font-size: 2.2em;
+  color: #2563eb;
+}
+.discount-bar {
+  height: 16px;
+  background: #dddddd;
+  border-radius: 10px;
+  overflow: hidden;
+}
+#pv-bar {
+  height: 100%;
+  width: 41.2%;
+  background: #2563eb;
+  transition: width 0.2s ease;
+}
+.discount-caption {
+  text-align: center;
+  font-size: 0.65em;
+  margin-top: 0.5em;
+}
+
+.discount-controls-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 40px;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.discount-controls-row .discount-control {
+  min-width: 0;
+  margin-bottom: 0;
+}
+
+.discount-controls-row input[type="range"] {
+  width: 100%;
+  box-sizing: border-box;
+}
+
+@media (max-width: 650px) {
+  .discount-controls-row {
+    grid-template-columns: 1fr;
+    gap: 20px;
+  }
+}
+</style>
+
+
+<script>
+(function () {
+  function updateDiscount() {
+    const rate = Number(
+      document.getElementById("discount-rate").value
+    );
+    const years = Number(
+      document.getElementById("discount-years").value
+    );
+
+    const pv = 1000 / Math.pow(1 + rate / 100, years);
+    const percent = pv / 10;
+
+    document.getElementById("rate-value").textContent = rate;
+    document.getElementById("years-value").textContent = years;
+    document.getElementById("present-value").textContent =
+      pv.toLocaleString("en-US", {
+        style: "currency",
+        currency: "USD"
+      });
+    document.getElementById("pv-percent").textContent =
+      percent.toFixed(1);
+    document.getElementById("pv-bar").style.width =
+      percent + "%";
+  }
+
+  const rateInput = document.getElementById("discount-rate");
+  const yearsInput = document.getElementById("discount-years");
+
+  if (rateInput && yearsInput) {
+    rateInput.addEventListener("input", updateDiscount);
+    yearsInput.addEventListener("input", updateDiscount);
+    updateDiscount();
+  }
+})();
+</script>
+
+```

@@ -2,6 +2,12 @@
 
 People, ideas, and evidence that have changed the field
 
+![](./images/Robert-Bullard.jpg)
+
+##### Robert Bullard and Environmental Justice
+
+Nov 17, 2026
+
 ![](./images/Hans-Rosling.avif)
 
 ##### Hans Rosling, Data Visualization, and Storytelling
@@ -67,12 +73,6 @@ Sep 2, 2026
 ##### The Moral Machine and Ethics
 
 Apr 29, 2025
-
-![](./images/Robert-Bullard.jpg)
-
-##### Robert Bullard and Environmental Justice
-
-Apr 22, 2025
 
 ![](./images/Yuyu-Chen.jpeg)
 

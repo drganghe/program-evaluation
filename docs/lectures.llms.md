@@ -79,3 +79,11 @@ Nov 3, 2026
 Gang He
 
 Nov 10, 2026
+
+![](./images/cost-benefit-analysis.png)
+
+##### Lecture 11 Economic Evaluation and Performance Measurement
+
+Gang He
+
+Nov 17, 2026

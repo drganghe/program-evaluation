@@ -6,16 +6,16 @@ This course examines the practical aspects of program evaluation within public p
 
 ## Learning Objectives
 
-- Develop and conduct practical program evaluations under time and budget constraints using the best feasible methods  
-- Describe the various types and purposes of evaluation and the specific role of impact evaluation within the broader evaluation field  
-- Determine whether specific programs are evaluable  
-- Critique program evaluation designs based on principles of internal and external validity  
-- Create a logic model in support of theory-based evaluation  
-- Define desirable program outcomes in measurable terms  
-- Evaluate the costs and benefits of various methods for data collection and analysis  
-- Employ specific quantitative and qualitative methods to support program evaluation, including the estimation of program effects  
-- Explain evaluation jargon and identify key nuances in evaluation discourse  
-- Anticipate and address common sources of resistance to evaluation  
+- Develop and conduct practical program evaluations under time and budget constraints using the best feasible methods\
+- Describe the various types and purposes of evaluation and the specific role of impact evaluation within the broader evaluation field\
+- Determine whether specific programs are evaluable\
+- Critique program evaluation designs based on principles of internal and external validity\
+- Create a logic model in support of theory-based evaluation\
+- Define desirable program outcomes in measurable terms\
+- Evaluate the costs and benefits of various methods for data collection and analysis\
+- Employ specific quantitative and qualitative methods to support program evaluation, including the estimation of program effects\
+- Explain evaluation jargon and identify key nuances in evaluation discourse\
+- Anticipate and address common sources of resistance to evaluation\
 - Exhibit an awareness of program evaluation capacity in organizations, articulate the major obstacles to evaluation, and identify opportunities for improving evaluation capacity and practice.
 
 ## Acknowledgment
