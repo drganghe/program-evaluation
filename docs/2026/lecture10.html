@@ -6,25 +6,28 @@
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
 <link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="../site_libs/quarto-html/light-border.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-5947b73a06bce04bf1d622ae23e1ec5b.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
-  <meta name="generator" content="quarto-1.10.11">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-63b5708e65d6cd79cd7618c58d0c21e7.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
+  <meta name="generator" content="quarto-1.11.9">
 
   <meta name="author" content="Gang He">
   <meta name="dcterms.date" content="2026-11-10">
   <title>Program Evaluation – Lecture 10 Data Analysis: Quantitative, Qualitative, and Mixed Analysis</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="../site_libs/revealjs/dist/reset.css">
   <link rel="stylesheet" href="../site_libs/revealjs/dist/reveal.css">
   <style>
     /* Default styles provided by pandoc.
     ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
     */
-    code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
-    div.columns{display: flex; gap: min(4vw, 1.5em);}
-    div.column{flex: auto; overflow-x: auto;}
+    div.columns{display: flex; gap: 1.5em;}
+    div.column{flex: auto;}
+    @media screen {
+    div.columns{gap: min(4vw, 1.5em);}
+    div.column{overflow-x: auto;}
+    }
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
     ul.task-list{list-style: none;}
     ul.task-list li input[type="checkbox"] {
@@ -52,7 +55,7 @@
     div.csl-indent {
       margin-left: 2em;
     }  </style>
-  <link rel="stylesheet" href="../site_libs/revealjs/dist/theme/quarto-2740581606dc327e82f18f789b69d8a0.css">
+  <link rel="stylesheet" href="../site_libs/revealjs/dist/theme/quarto-00ad5a49dff614330cd349bcec985ec3.css">
   <link rel="stylesheet" href="../custom.css">
   <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-8H8JSB1VP7"></script>
 
@@ -158,6 +161,8 @@
 <meta property="og:title" content="Lecture 10 Data Analysis: Quantitative, Qualitative, and Mixed Analysis – Program Evaluation">
 <meta property="og:image" content="https://drganghe.github.io/program-evaluation/images/eisenhower-matrix.webp">
 <meta property="og:site_name" content="Program Evaluation">
+<meta property="og:image:height" content="1672">
+<meta property="og:image:width" content="1691">
 <meta name="twitter:title" content="Lecture 10 Data Analysis: Quantitative, Qualitative, and Mixed Analysis – Program Evaluation">
 <meta name="twitter:image" content="https://drganghe.github.io/program-evaluation/images/eisenhower-matrix.webp">
 <meta name="twitter:card" content="summary_large_image">
@@ -244,6 +249,55 @@ Gang He
 
 <img data-src="../images/twitter-happiness-day-of-week.png" class="quarto-figure quarto-figure-center r-stretch"><div class="footer">
 <p>Source: <span class="citation" data-cites="dodds_temporal_2011">Dodds et al. (<a href="#/references" role="doc-biblioref" onclick="">2011</a>)</span></p>
+</div>
+</section>
+<section id="coding-from-interview-to-theme" class="slide level2 smaller center scrollable">
+<h2>Coding: From Interview to Theme</h2>
+<div style="font-size: 24px">
+<p><strong>Example: Evaluating a Job Training Program</strong></p>
+<table class="caption-top">
+<colgroup>
+<col style="width: 53%">
+<col style="width: 23%">
+<col style="width: 23%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Interview Response</th>
+<th>Initial Code</th>
+<th>Theme</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>“The training center was too far away.”</td>
+<td>Transportation</td>
+<td>Access barriers</td>
+</tr>
+<tr class="even">
+<td>“I couldn’t attend because of childcare.”</td>
+<td>Childcare</td>
+<td>Access barriers</td>
+</tr>
+<tr class="odd">
+<td>“My instructor helped me prepare for interviews.”</td>
+<td>Instructor support</td>
+<td>Program support</td>
+</tr>
+<tr class="even">
+<td>“I found a job through the program.”</td>
+<td>Employer connections</td>
+<td>Program support</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Three Steps of Thematic Analysis</strong></p>
+<ol type="1">
+<li><strong>Coding:</strong> Assign labels to meaningful text segments.</li>
+<li><strong>Categorizing:</strong> Group related codes into broader concepts.</li>
+<li><strong>Theming:</strong> Identify patterns that help explain experiences.</li>
+</ol>
+<p>Qualitative analysis is systematic interpretation, not simply collecting quotes.</p>
 </div>
 </section>
 <section id="matrix-displays" class="slide level2 center">
@@ -401,6 +455,56 @@ Asterisks indicate the level of significance: *5%; **1%; ***0.1%.
 <p>Source: <a href="https://en.wikipedia.org/wiki/P-value">Wikipedia</a>; Read more: <span class="citation" data-cites="leek_five_2017">Leek et al. (<a href="#/references" role="doc-biblioref" onclick="">2017</a>)</span>, <span class="citation" data-cites="benjamin_redefine_2018">Benjamin et al. (<a href="#/references" role="doc-biblioref" onclick="">2018</a>)</span></p>
 </div>
 </section>
+<section id="statistical-vs.-practical-significance" class="slide level2 smaller center">
+<h2>Statistical vs.&nbsp;Practical Significance</h2>
+<div style="font-size: 24px">
+<p><strong>Example: Evaluating Two Job Training Programs</strong></p>
+<table class="caption-top" style="width:100%;">
+<colgroup>
+<col style="width: 42%">
+<col style="width: 28%">
+<col style="width: 28%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Indicator</th>
+<th style="text-align: right;">Program A</th>
+<th style="text-align: right;">Program B</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Estimated employment impact</td>
+<td style="text-align: right;">+1 percentage point</td>
+<td style="text-align: right;">+10 percentage points</td>
+</tr>
+<tr class="even">
+<td>p-value</td>
+<td style="text-align: right;">0.001</td>
+<td style="text-align: right;">0.08</td>
+</tr>
+<tr class="odd">
+<td>Significant at 5%?</td>
+<td style="text-align: right;">Yes</td>
+<td style="text-align: right;">No</td>
+</tr>
+<tr class="even">
+<td>Estimated impact per 1,000 participants</td>
+<td style="text-align: right;">10 additional employed</td>
+<td style="text-align: right;">100 additional employed</td>
+</tr>
+</tbody>
+</table>
+<p><strong>How Should Policymakers Decide?</strong></p>
+<ul>
+<li><strong>Statistical significance:</strong> How strong is the evidence against the null hypothesis?</li>
+<li><strong>Practical significance:</strong> Is the estimated effect large enough to matter?</li>
+<li><strong>Uncertainty:</strong> What effects are compatible with the confidence interval?</li>
+<li><strong>Cost-effectiveness:</strong> Are the expected benefits worth the program costs?</li>
+</ul>
+<p>A statistically significant effect is not necessarily a meaningful policy impact.</p>
+</div>
+</section>
 <section id="stories" class="slide level2 center">
 <h2>Stories</h2>
 <ul>
@@ -423,6 +527,52 @@ Asterisks indicate the level of significance: *5%; **1%; ***0.1%.
 
 <img data-src="../images/duck-curve-2023.svg" class="quarto-figure quarto-figure-center r-stretch"><div class="footer">
 <p>Source: <a href="https://www.eia.gov/todayinenergy/detail.php?id=56880">EIA</a></p>
+</div>
+</section>
+<section id="good-data-visualization" class="slide level2 center scrollable">
+<h2>Good Data Visualization?</h2>
+<div style="font-size: 22px">
+<h3 id="five-principles">Five Principles</h3>
+<ol type="1">
+<li><strong>Clear message:</strong> What should the audience learn?</li>
+<li><strong>Appropriate chart:</strong> Match the visualization to the data.</li>
+<li><strong>Honest scales:</strong> Avoid misleading axes and proportions.</li>
+<li><strong>Useful comparisons:</strong> Show trends, differences, or benchmarks.</li>
+<li><strong>Context and uncertainty:</strong> Include units, sources, and limitations.</li>
+</ol>
+<h3 id="choosing-the-right-chart">Choosing the Right Chart</h3>
+<table class="caption-top">
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Evaluation Question</th>
+<th>Recommended Chart</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Did outcomes change over time?</td>
+<td>Line chart</td>
+</tr>
+<tr class="even">
+<td>How do program groups compare?</td>
+<td>Bar chart</td>
+</tr>
+<tr class="odd">
+<td>What is the distribution of outcomes?</td>
+<td>Histogram or box plot</td>
+</tr>
+<tr class="even">
+<td>What is the estimated program impact?</td>
+<td>Coefficient plot with confidence intervals</td>
+</tr>
+</tbody>
+</table>
+<p>Why are the climate stripes and duck curve so memorable?</p>
+<p>Good visualization communicates evidence clearly without distorting it.</p>
 </div>
 </section>
 <section id="story" class="slide level2 center">
@@ -492,7 +642,7 @@ Newcomer, Kathryn E., Harry P. Hatry, and Joseph S. Wholey. 2015. <em>Handbook o
 'autoAnimateDuration': 1,
 'autoAnimateUnmatched': true,
 'jumpToSlide': true,
-'menu': {"side":"left","useTextContentForMissingTitles":true,"markers":false,"loadIcons":false,"custom":[{"title":"Tools","icon":"<i class=\"fas fa-gear\"></i>","content":"<ul class=\"slide-menu-items\">\n<li class=\"slide-tool-item active\" data-item=\"0\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.fullscreen(event)\"><kbd>f</kbd> Fullscreen</a></li>\n<li class=\"slide-tool-item\" data-item=\"1\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.speakerMode(event)\"><kbd>s</kbd> Speaker View</a></li>\n<li class=\"slide-tool-item\" data-item=\"2\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.overview(event)\"><kbd>o</kbd> Slide Overview</a></li>\n<li class=\"slide-tool-item\" data-item=\"3\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.togglePdfExport(event)\"><kbd>e</kbd> PDF Export Mode</a></li>\n<li class=\"slide-tool-item\" data-item=\"4\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.toggleScrollView(event)\"><kbd>r</kbd> Scroll View Mode</a></li>\n<li class=\"slide-tool-item\" data-item=\"5\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.keyboardHelp(event)\"><kbd>?</kbd> Keyboard Help</a></li>\n</ul>"}],"openButton":true},
+'menu': {"side":"left","useTextContentForMissingTitles":true,"markers":false,"loadIcons":false,"custom":[{"title":"Tools","icon":"\u003ci class=\"fas fa-gear\">\u003c/i>","content":"\u003cul class=\"slide-menu-items\">\n\u003cli class=\"slide-tool-item active\" data-item=\"0\">\u003ca href=\"#\" onclick=\"RevealMenuToolHandlers.fullscreen(event)\">\u003ckbd>f\u003c/kbd> Fullscreen\u003c/a>\u003c/li>\n\u003cli class=\"slide-tool-item\" data-item=\"1\">\u003ca href=\"#\" onclick=\"RevealMenuToolHandlers.speakerMode(event)\">\u003ckbd>s\u003c/kbd> Speaker View\u003c/a>\u003c/li>\n\u003cli class=\"slide-tool-item\" data-item=\"2\">\u003ca href=\"#\" onclick=\"RevealMenuToolHandlers.overview(event)\">\u003ckbd>o\u003c/kbd> Slide Overview\u003c/a>\u003c/li>\n\u003cli class=\"slide-tool-item\" data-item=\"3\">\u003ca href=\"#\" onclick=\"RevealMenuToolHandlers.togglePdfExport(event)\">\u003ckbd>e\u003c/kbd> PDF Export Mode\u003c/a>\u003c/li>\n\u003cli class=\"slide-tool-item\" data-item=\"4\">\u003ca href=\"#\" onclick=\"RevealMenuToolHandlers.toggleScrollView(event)\">\u003ckbd>r\u003c/kbd> Scroll View Mode\u003c/a>\u003c/li>\n\u003cli class=\"slide-tool-item\" data-item=\"5\">\u003ca href=\"#\" onclick=\"RevealMenuToolHandlers.keyboardHelp(event)\">\u003ckbd>?\u003c/kbd> Keyboard Help\u003c/a>\u003c/li>\n\u003c/ul>"}],"openButton":true,"openButtonLabel":"Slide menu"},
 'smaller': false,
  
         // Display controls in the bottom right corner
@@ -743,11 +893,30 @@ Newcomer, Kathryn E., Harry P. Hatry, and Joseph S. Wholey. 2015. <em>Handbook o
           var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
           var mailtoRegex = new RegExp(/^mailto:/);
             var filterRegex = new RegExp("https:\/\/drganghe\.github\.io\/program-evaluation");
+          const newWindowLabel = "(opens in a new tab)";
+          const newWindowNoteId = "quarto-ext-newwindow-label";
+          // Links reference one hidden label through aria-describedby, so the
+          // announcement never changes their accessible name.
+          var describeNewWindow = (link) => {
+            if (!window.document.getElementById(newWindowNoteId)) {
+              var newWindowNote = window.document.createElement("span");
+              newWindowNote.id = newWindowNoteId;
+              newWindowNote.hidden = true;
+              newWindowNote.textContent = newWindowLabel;
+              window.document.body.appendChild(newWindowNote);
+            }
+            var describedBy = (link.getAttribute("aria-describedby") || "").split(/\s+/).filter(Boolean);
+            if (!describedBy.includes(newWindowNoteId)) {
+              describedBy.push(newWindowNoteId);
+              link.setAttribute("aria-describedby", describedBy.join(" "));
+            }
+          }
           var isInternal = (href) => {
               return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
           }
           // Inspect non-navigation links and adorn them if external
-         var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+          window.quartoDecorateExternalLinks = function (root) {
+         var links = (root || window.document).querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
           for (var i=0; i<links.length; i++) {
             const link = links[i];
             if (!isInternal(link.href)) {
@@ -761,8 +930,70 @@ Newcomer, Kathryn E., Harry P. Hatry, and Joseph S. Wholey. 2015. <em>Handbook o
                 if (link.getAttribute("rel") === null) {
                   link.setAttribute("rel", "noopener");
                 }
+                describeNewWindow(link);
+              if (!link.classList.contains('no-external-icon')) {
+              }
             }
           }
+          };
+          window.quartoDecorateExternalLinks(window.document);
+        // Esc closes the popup (WCAG 1.4.13) and focus leaving both trigger and
+        // popup closes it (WCAG 2.4.11); tippy handles neither for interactive popups.
+        const hideOnEscAndFocusOut = {
+          name: 'hideOnEscAndFocusOut',
+          defaultValue: true,
+          fn(instance) {
+            const dismiss = () => {
+              // A show scheduled by the trigger delay would otherwise reopen it
+              instance.clearDelayTimeouts();
+              instance.hide();
+            };
+            const onKeyDown = (event) => {
+              if (event.key !== 'Escape') {
+                return;
+              }
+              // Keep Esc from also reaching page handlers (e.g. reveal.js overview),
+              // except an open reveal.js slide menu, which Esc should close too.
+              // The menu handles keys only when its keyboard option is on.
+              const menuHandlesEsc = window.Reveal?.getPlugin?.('menu')?.isOpen() &&
+                window.Reveal.getConfig().menu?.keyboard !== false;
+              if (!menuHandlesEsc) {
+                event.stopPropagation();
+              }
+              if (instance.popper.contains(window.document.activeElement)) {
+                // Disabled while refocusing so the focus trigger does not reopen it
+                instance.disable();
+                instance.reference.focus();
+                instance.enable();
+              }
+              dismiss();
+            };
+            const onFocusOut = (event) => {
+              const target = event.relatedTarget;
+              if (target && !instance.reference.contains(target) &&
+                  !instance.popper.contains(target)) {
+                dismiss();
+              }
+            };
+            // On the trigger too: a click trigger (code-annotations: select) has no
+            // blur handling. Attached for the instance's lifetime so leaving the
+            // trigger also cancels a show still pending on the trigger delay.
+            instance.reference.addEventListener('focusout', onFocusOut);
+            return {
+              onShow() {
+                window.document.addEventListener('keydown', onKeyDown, true);
+                instance.popper.addEventListener('focusout', onFocusOut);
+              },
+              onHide() {
+                window.document.removeEventListener('keydown', onKeyDown, true);
+                instance.popper.removeEventListener('focusout', onFocusOut);
+              },
+              onDestroy() {
+                instance.reference.removeEventListener('focusout', onFocusOut);
+              },
+            };
+          },
+        };
         function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
           const config = {
             allowHTML: true,
@@ -776,6 +1007,7 @@ Newcomer, Kathryn E., Harry P. Hatry, and Joseph S. Wholey. 2015. <em>Handbook o
             interactiveBorder: 10,
             theme: 'light-border',
             placement: 'bottom-start',
+            plugins: [hideOnEscAndFocusOut],
           };
           if (contentFn) {
             config.content = contentFn;

@@ -67,6 +67,29 @@ Source: @dodds_temporal_2011
 :::
 
 
+
+## Coding: From Interview to Theme{.smaller}
+
+:::{style="font-size: 24px"}
+**Example: Evaluating a Job Training Program**
+
+| Interview Response | Initial Code | Theme |
+|-------|---|---|
+| "The training center was too far away." | Transportation | Access barriers |
+| "I couldn't attend because of childcare." | Childcare | Access barriers |
+| "My instructor helped me prepare for interviews." | Instructor support | Program support |
+| "I found a job through the program." | Employer connections | Program support |
+
+**Three Steps of Thematic Analysis**
+
+1. **Coding:** Assign labels to meaningful text segments.
+2. **Categorizing:** Group related codes into broader concepts.
+3. **Theming:** Identify patterns that help explain experiences.
+
+Qualitative analysis is systematic interpretation, not simply collecting quotes.
+:::
+
+
 ## Matrix displays
 
 ::: columns
@@ -200,6 +223,28 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/P-value); Read more: @leek_fiv
 :::
 
 
+## Statistical vs. Practical Significance{.smaller}
+
+:::{style="font-size: 24px"}
+**Example: Evaluating Two Job Training Programs**
+
+| Indicator | Program A | Program B |
+|------|---:|---:|
+| Estimated employment impact | +1 percentage point | +10 percentage points |
+| p-value | 0.001 | 0.08 |
+| Significant at 5%? | Yes | No |
+| Estimated impact per 1,000 participants | 10 additional employed | 100 additional employed |
+
+**How Should Policymakers Decide?**
+
+- **Statistical significance:** How strong is the evidence against the null hypothesis?
+- **Practical significance:** Is the estimated effect large enough to matter?
+- **Uncertainty:** What effects are compatible with the confidence interval?
+- **Cost-effectiveness:** Are the expected benefits worth the program costs?
+
+A statistically significant effect is not necessarily a meaningful policy impact.
+:::
+
 ## Stories
 
 - Data story
@@ -226,6 +271,30 @@ Source: <https://www.reading.ac.uk/planet/climate-resources/climate-stripes>
 Source: [EIA](https://www.eia.gov/todayinenergy/detail.php?id=56880)
 :::
 
+## Good Data Visualization?
+
+:::{style="font-size: 22px"}
+### Five Principles
+
+1. **Clear message:** What should the audience learn?
+2. **Appropriate chart:** Match the visualization to the data.
+3. **Honest scales:** Avoid misleading axes and proportions.
+4. **Useful comparisons:** Show trends, differences, or benchmarks.
+5. **Context and uncertainty:** Include units, sources, and limitations.
+
+### Choosing the Right Chart
+
+| Evaluation Question | Recommended Chart |
+|---|---|
+| Did outcomes change over time? | Line chart |
+| How do program groups compare? | Bar chart |
+| What is the distribution of outcomes? | Histogram or box plot |
+| What is the estimated program impact? | Coefficient plot with confidence intervals |
+
+Why are the climate stripes and duck curve so memorable?
+
+Good visualization communicates evidence clearly without distorting it.
+:::
 
 ## Story
 
