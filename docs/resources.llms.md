@@ -11,11 +11,12 @@
 
 ### Other texts
 
-- List, John A. 2026. Experimental Economics: Theory and Practice. University of Chicago Press.  
-- Pearl, Judea, and Dana Mackenzie. 2018. The Book of Why: The New Science of Cause and Effect. 1st edition. New York: Basic Books.  
-- Angrist, Joshua, and Jörn-Steffen Pischke. 2009. Mostly Harmless Econometrics. Princeton University Press.  
-- List, John A. 2022. The Voltage Effect: How to Make Good Ideas Great and Great Ideas Scale. New York: Crown Currency.  
-- Remler, Dahlia K., and Gregg G. Van Ryzin. 2022. Research Methods in Practice: Strategies for Description and Causation. SAGE Publications, Inc.
+- List, John A. 2026. Experimental Economics: Theory and Practice. University of Chicago Press.\
+- Pearl, Judea, and Dana Mackenzie. 2018. The Book of Why: The New Science of Cause and Effect. 1st edition. New York: Basic Books.\
+- Angrist, Joshua, and Jörn-Steffen Pischke. 2009. Mostly Harmless Econometrics. Princeton University Press.\
+- List, John A. 2022. The Voltage Effect: How to Make Good Ideas Great and Great Ideas Scale. New York: Crown Currency.\
+- Remler, Dahlia K., and Gregg G. Van Ryzin. 2022. Research Methods in Practice: Strategies for Description and Causation. SAGE Publications, Inc.\
+- Clément de Chaisemartin, and Xavier D’Haultfoeuille. 2027. Causal Inference with Differences-in-Differences: Credible Answers to Hard Questions. Princeton University Press.
 
 ## Federal evaluation
 
@@ -42,6 +43,8 @@ DAG chart tool: [Dagitty](https://www.dagitty.net/dags.html)
 [Sample Size Calculator](https://www.qualtrics.com/blog/calculating-sample-size/)
 
 [FEMA Benefit‐Cost Analysis (BCA) Toolkit 6.0 Release Notes](https://www.fema.gov/sites/default/files/2020-08/fema_bca_toolkit_release-notes-july-2020.pdf)
+
+[Heterogeneity-Robust Difference-in-Differences](https://credible-answers.github.io/)
 
 ## Evaluation Report Templates and Examples
 
