@@ -14,7 +14,7 @@
 | 10 | 11/3 | Where does the data come from? | [Data Collection: Procedures, Instrumentation, Practical Considerations](../2026/lecture9.llms.md) | [Fei-fei Li and ImageNet](../stories/feifei-li-imagenet-and-ai-revolution.llms.md) | AI and Big Data in Development Evaluation | CR8 |
 | 11 | 11/10 | What methods make data tell accurate stories and solve problems? | [Data Analysis: Quantitative, qualitative, and mixed analysis](../2026/lecture10.llms.md) | [Hans Rosling and Storytelling](../stories/hans-rosling-data-visualization-and-storytelling.llms.md) | CUNY SEEK Program | CR9 |
 | 12 | 11/17 | Is the program worthwhile? What happens next? | [Economic Evaluation and Performance Measurement](../2026/lecture11.llms.md) | [Robert Bullard and Environmental Justice](../stories/robert-bullard-and-environmental-justice.llms.md) | CBA of EPA Clean Air Act | Proposal, CR10 |
-| 13 | 11/24 | How to be an ethical evaluator? | Ethics, Principles, and Standards | The Moral Machine |  |  |
+| 13 | 11/24 | How to be an ethical evaluator? | [Ethics, Principles, and Standards](../2026/lecture12.llms.md) | [The Moral Machine](../stories/the-moral-machine-and-ethics.llms.md) |  |  |
 | 14 | 12/1 | Presentation |  |  |  |  |
 | 15 | 12/8 | Presentation |  |  |  |  |
 | 16 | 12/15 | Presentation |  |  |  |  |

@@ -183,10 +183,10 @@ Source: <https://www.moralmachine.net/>
 
 ## Mindmap of the class
 
-![](/images/program-evaluation-markmap-2025.png){fig-align="center"}
+![](/images/program-evaluation-markmap.png){fig-align="center"}
 
 ::: footer
-Check the mindmap in [html](/images/program-evaluation-markmap-2025.html){.external target="_blank"}, or download [svg](/images/program-evaluation-markmap-2025.svg).
+Check the mindmap in [html](/images/program-evaluation-markmap.html){.external target="_blank"}, or download [svg](/images/program-evaluation-markmap.svg).
 :::
 
 

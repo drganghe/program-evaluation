@@ -4,7 +4,9 @@ Curated exemplar reports for program evaluation methods
 
 PAF 9174 · Program Evaluation
 
-# Evaluation *Report Examples*
+Evaluation\
+*Report Examples*
+=================
 
 Exemplar evaluations spanning causal methods, sectors, and geographies. Use the filters to find reports that match your methods or topic of interest.
 

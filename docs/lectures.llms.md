@@ -87,3 +87,11 @@ Nov 10, 2026
 Gang He
 
 Nov 17, 2026
+
+![](./images/program-evaluation-ethics-featured.webp)
+
+##### Lecture 12 Ethics, Principles, and Standards
+
+Gang He
+
+Nov 24, 2026

@@ -2,6 +2,12 @@
 
 People, ideas, and evidence that have changed the field
 
+![](./images/moral-machine-design.png)
+
+##### The Moral Machine and Ethics
+
+Nov 24, 2026
+
 ![](./images/Robert-Bullard.jpg)
 
 ##### Robert Bullard and Environmental Justice
@@ -67,12 +73,6 @@ Sep 8, 2026
 ##### John Snow and Evidence Based Analysis
 
 Sep 2, 2026
-
-![](./images/moral-machine-design.png)
-
-##### The Moral Machine and Ethics
-
-Apr 29, 2025
 
 ![](./images/Yuyu-Chen.jpeg)
 

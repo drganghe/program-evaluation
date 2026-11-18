@@ -6,7 +6,7 @@ Gang He
 
 Published
 
-April 29, 2025
+November 24, 2026
 
 ## The Moral Machine
 
@@ -22,9 +22,9 @@ April 29, 2025
 
 ## Thoughts for evaluation
 
-- Data driven evidence  
+- Data driven evidence\
 - Ethics
 
 ## Further readings
 
-<http://moralmachine.net>
+<http://moralmachine.mit.edu/>
